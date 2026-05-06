@@ -1,0 +1,10 @@
+# Credentials — never commit
+.credentials/
+
+# Word temp files
+~$*.docx
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
