@@ -46,3 +46,63 @@ No direct employer responses to tracked applications. All inbox activity was aut
 
 ---
 *Midday agent — 2026-05-06T18:00:00Z UTC*
+
+---
+
+## Evening Update — 5:30 PM MDT (System Overhaul Run)
+
+### System Changes Made This Run
+
+Major improvements deployed to address thin pipeline. See summary below.
+
+### New Leads Found — Evening Search
+
+| Score | Company | Role | Comp | Location | Posted | Link | Fit |
+|-------|---------|------|------|----------|--------|------|-----|
+| 8/10 | **SimplePractice** | Business Intelligence Data Analyst | Unlisted (est $110–$130K) | Remote US | Active | https://boards.greenhouse.io/simplepractice/jobs/5601772004 | ✅ |
+| 7/10 | **Pax8** | BI and Data Analyst | Unlisted | Greenwood Village CO (local) | Active | https://startup.jobs/bi-and-data-analyst-pax8-2-2666647 | ✅ |
+
+**Fit notes:**
+
+- **SimplePractice ✅ (8/10)** — Health & wellness SaaS, remote. Role is explicitly BI-focused: dashboard ownership, KPI tracking, SQL + BI tool stack (Tableau/Looker/Power BI acceptable). Customer Success analytics mirrors T-Sentiment VP brief work. Risk: comp not listed, Glassdoor data suggests $100K–$120K range — verify before tailoring. Company is PE-backed (Vista Equity). Apply via Greenhouse. Role has been active on Built In Colorado.
+
+- **Pax8 ✅ (7/10)** — B2B cloud marketplace, Greenwood Village (15 min from Littleton). Local company, Microsoft ecosystem partner — Power BI very likely in stack. Role title "BI and Data Analyst" suggests broad ownership. Stage/comp unclear — verify on careers page. Strong local fit. Check https://www.pax8.com/en-us/careers/ for current listing and comp.
+
+**Leads screened and eliminated (evening run):**
+- SambaSafety — Lead Data Engineer posted, not BI analyst. No BI-specific role open. Monitor biweekly. ❌
+- Launch Potato Sr. BI Analyst (Looker) — ad-tech / performance marketing company. Exclusion. ❌
+- CU Boulder Business Applications Analyst — government/university, comp floor likely below $115K. ❌
+- Torc Robotics — defense/autonomous vehicle, no BI analyst role open. ❌
+
+### Target Company Pages Scanned
+- Pax8 ✅ (lead found)
+- SambaSafety ✅ (no BI role)
+- Ibotta — no BI analyst posting active; monitor weekly
+- Guild Education — no active BI posting; monitor weekly
+- Homebot — careers page checked; no analyst role posted
+- Checkr — no active BI posting; monitor biweekly
+
+### Updated Afternoon Priority (carry forward)
+
+1. **Crocs technical prep** — #1 priority until interview is done.
+2. **Verify SimplePractice comp** — pull full JD from Greenhouse, check if comp is at floor. If yes, approve for tailoring.
+3. **Verify Pax8 role** — check careers page directly (https://www.pax8.com/en-us/careers/), confirm role is open and comp listed.
+4. **Submit Zillow Preferred Strategy** — already tailored, just needs submission.
+5. **Submit EverPro** — confirm comp with referral contact, then submit.
+
+---
+
+## Pipeline Summary (as of 2026-05-06 EOD)
+
+```
+Active applications:     6  (Leprino, Shutterfly, Crocs, Zillow Home Loans, Gusto, Zillow In Process)
+Ready to Apply (stale):  4  (Kroenke, Zillow Preferred Strategy, Machinify, EverPro) — ALL > 7 days
+New leads this week:     5  (PopSockets, Empower, Live Nation, SimplePractice, Pax8)
+Interviews active:       1  (Crocs — technical round pending)
+
+Pipeline health: ⚠️ MODERATE RISK — 4 stale "Ready to Apply" dragging velocity.
+Target: submit 2+ applications today to restore momentum.
+```
+
+---
+*Evening system overhaul — 2026-05-06T23:30:00Z UTC*
