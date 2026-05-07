@@ -10,8 +10,35 @@ Not your technical skills — those were screened in round 2. This round is test
 - **Stakeholder instincts**: do you prioritize the right work and manage expectations?
 - **BI philosophy**: do you think about data systems the right way?
 - **Culture fit**: do you communicate crisply and handle friction well?
+- **Data integrity specifically**: the previous analyst was let go over data integrity issues — you WILL get a question in this category. Have your best story ready cold.
 
 Every answer should land in 90–120 seconds. STAR structure, real examples, end on the result or lesson.
+
+---
+
+## PRIORITY: Data Integrity — Your Must-Have Story
+
+This is no longer a generic BI question. The Director told you the previous analyst was let go because of data integrity problems. That means the hiring team is actively looking for someone who will *not* repeat that failure. This question is coming. Prepare it like it's question #1.
+
+**"Tell me about a time you caught or prevented a serious data quality issue."**
+
+> **Situation:** At T-Mobile, I was the sole owner of the T-Life HEART dashboard suite — 30 reports used daily by product managers, and at peak, over 100 dashboard visits per day including VP-level. The data feeding those reports came from multiple Snowflake tables with different refresh cadences. Early in my ownership, I discovered that one upstream table — tracking user engagement events — had a silent truncation issue: it was only loading the first 500K rows of each day's event feed, silently dropping the rest. The dashboard was showing correct-looking numbers that were actually 15–20% understated.
+
+> **Task:** I needed to catch this before leadership did and establish a process so it could never happen again silently.
+
+> **Action:** I built a daily row-count sanity check — a simple query that compared yesterday's event volume to a rolling 30-day average and flagged anything more than 15% below baseline. I also added a visible "data freshness" indicator to the dashboard showing the last successful load time. I escalated the root cause to the data engineering team, which turned out to be a Snowflake COPY INTO statement with a default row limit that nobody had noticed. While they fixed the upstream issue, I applied a correction factor to historical reporting and documented the period of affected data.
+
+> **Result:** The engineering team patched the pipeline within two days. More importantly, the sanity check I built caught two additional data anomalies over the next six months — both before they ever surfaced in a stakeholder meeting. I also formalized that pattern into a standards document: every report I owned had a defined "expected range" for its key metrics, and any automated refresh outside that range triggered an alert.
+
+*Why this story works here:* It shows proactive detection (not reactive), systematic resolution, stakeholder protection, and a process left behind — exactly the opposite of what got the last person fired.
+
+---
+
+**"How do you ensure the numbers in your reports are trustworthy?"**
+
+This is the same question, softer framing. Answer with your three-layer approach, then anchor it to the above story.
+
+> "Three layers. First, source validation — I build row count checks, null checks, and range assertions into my ETL monitoring so data anomalies surface before they hit Power BI. Second, visual sanity checks — I keep a mental model of what 'normal' looks like for each KPI, so a number that's off by an order of magnitude triggers my gut before any automated check does. Third, trust-building with stakeholders — I put a data freshness timestamp and a definitions tab in every report I own, so users always know how current the data is and what each metric means. The combination means stakeholders rarely discover problems before I do, and when they do flag something, I already have the context to resolve it fast."
 
 ---
 
@@ -113,13 +140,92 @@ Use your T-Life knowledge transfer directly.
 
 ---
 
+## HR & Wholesale Reporting Domain — Know the Territory
+
+You now know the two primary reporting areas for this role. If the final round goes technical, these are the domains you'll be tested in. Even if it stays behavioral, you should speak fluently about them.
+
+### HR Reporting — Core Concepts
+
+HR reporting in BI typically covers:
+- **Headcount** — active employee count by department, location, level, hire type (FTE vs contractor)
+- **Attrition / Turnover** — voluntary vs involuntary, rolling 12-month rate, by department or manager
+- **Org hierarchy** — recursive / self-referencing employee-manager tables; common pattern in Snowflake
+- **Time-to-fill / Time-to-hire** — open requisition age, recruiter funnel metrics
+- **Comp & Bands** — salary distribution by level/band, equity gap analysis
+- **Headcount planning vs actuals** — comparing approved headcount to filled seats
+
+**Key SQL pattern — recursive org hierarchy (DAX or SQL):**
+```sql
+-- Org hierarchy with recursive CTE
+WITH RECURSIVE org_tree AS (
+    SELECT employee_id, manager_id, name, 1 AS level
+    FROM employees
+    WHERE manager_id IS NULL  -- CEO / top of org
+
+    UNION ALL
+
+    SELECT e.employee_id, e.manager_id, e.name, ot.level + 1
+    FROM employees e
+    JOIN org_tree ot ON e.manager_id = ot.employee_id
+)
+SELECT * FROM org_tree ORDER BY level, manager_id;
+```
+
+**Your angle:** "HR data is sensitive — report-level row security matters. In Power BI I'd implement RLS so HR BPs only see their own orgs, and managers only see their direct reports unless they have elevated access."
+
+---
+
+### Wholesale Reporting — Core Concepts
+
+Wholesale at a consumer brand like Crocs means selling through retail partners (Foot Locker, Dick's, Amazon, etc.) rather than direct-to-consumer. Key metrics:
+
+- **Sell-through rate** — % of units sold to end consumers vs units shipped to retail partner (shipped ≠ sold)
+- **Inventory aging** — how long units have been sitting in a retailer's warehouse; aged inventory = markdown risk
+- **Door count** — number of retail locations carrying a product; expansion vs. contraction
+- **Orders vs. shipments vs. POS** — three different stages with different data sources; mismatches are common
+- **Channel mix** — wholesale vs DTC revenue split; Crocs has been pivoting DTC-heavy, so wholesale % is a watched metric
+- **Return rates by account** — high returns from a specific retailer can signal a merchandising problem
+
+**Key SQL pattern — sell-through by account:**
+```sql
+SELECT
+    r.retail_account,
+    p.product_line,
+    SUM(s.units_shipped) AS units_shipped,
+    SUM(pos.units_sold)  AS units_sold,
+    ROUND(SUM(pos.units_sold) * 1.0 / NULLIF(SUM(s.units_shipped), 0), 3) AS sell_through_rate,
+    SUM(s.units_shipped) - SUM(pos.units_sold) AS units_remaining
+FROM shipments s
+JOIN pos_data pos ON s.sku = pos.sku AND s.retail_account_id = pos.account_id
+JOIN retailers r ON s.retail_account_id = r.id
+JOIN products p ON s.sku = p.sku
+WHERE s.ship_date >= DATEADD('month', -3, CURRENT_DATE)
+GROUP BY r.retail_account, p.product_line
+ORDER BY sell_through_rate ASC;  -- surface worst performers first
+```
+
+**Your angle:** "Wholesale data often lives in multiple systems — ERP for orders/shipments, retailer EDI feeds or syndicated data (like SPS Commerce) for POS. One of my first steps in this role would be understanding where each source lives in Snowflake and whether POS and shipment data are being reconciled automatically or manually."
+
+---
+
 ## Questions to Ask in the Final Round
 
-1. **"What's the current state of the semantic model infrastructure — how many models exist, how much standardization is there across teams?"**
-2. **"What's the biggest BI gap you're hoping this role fills in the first 6 months?"**
-3. **"How does the BI team interface with the data engineering team? Is there a clear handoff point, or is it collaborative throughout?"**
-4. **"What does growth look like in this role — is there a path toward lead or principal BI, or is the team relatively flat?"**
-5. **"How did the Q1 results affect the analytics team's roadmap — are there new initiatives around the DTC growth or international expansion that BI will be supporting?"**
+These are calibrated for a final round — they signal that you're evaluating them as much as they're evaluating you, and that you're already thinking about how to succeed in the role.
+
+1. **"Given that this role is stepping into a situation with prior data integrity challenges — what would a successful first 90 days look like to you? What would give you confidence that the right foundation is being laid?"**
+   *(Shows you heard what the Director said and are thinking proactively about solving the actual problem.)*
+
+2. **"How are HR and Wholesale currently being reported — are those two streams well-established, or is there significant build work ahead?"**
+   *(Sizes the scope of your first deliverables and shows domain awareness.)*
+
+3. **"What does the relationship between the BI team and the data engineering team look like? Is there a clear handoff for data ownership, or is that still evolving?"**
+   *(Important for understanding who you'll depend on for clean data.)*
+
+4. **"How mature is the Power BI semantic model layer — are there shared certified datasets, or are analysts building their own models independently?"**
+   *(Shows semantic model awareness and surfaces whether you're inheriting a mess or a foundation.)*
+
+5. **"What's the biggest thing you're hoping this person brings that the team doesn't currently have?"**
+   *(Direct but powerful — surfaces unstated priorities and lets you address them directly.)*
 
 ---
 
