@@ -16,7 +16,43 @@ Every answer should land in 90–120 seconds. STAR structure, real examples, end
 
 ---
 
-## PRIORITY: Data Integrity — Your Must-Have Story
+## PRIORITY #1: The Greenfield Opportunity — Lead With This
+
+**What you now know:** HR and Wholesale reporting does not exist at Crocs. You are walking into a blank canvas. No legacy reports to untangle, no inherited metrics you don't trust, no previous analyst's logic you have to reverse-engineer before you can improve it.
+
+This is your strongest framing for the final round. You've done exactly this before — T-Life HEART framework was built from scratch, as the sole BI analyst, for a 75M-download app. That's the proof point.
+
+**How to use this in the interview:**
+
+When they describe the scope (or when you confirm it with a question), respond with genuine enthusiasm, not just calm acknowledgment:
+
+> "Honestly, a greenfield build is where I do my best work. When I joined the T-Life team, there was no established BI framework for the product — I designed the entire KPI structure, the HEART framework, from the ground up. Thirty dashboards, sole ownership, two years. What I've learned is that the first 90 days of a greenfield build are the most important — they set the data model, the metric definitions, and the stakeholder trust that everything else runs on. I'd rather start clean than inherit something I can't fully stand behind."
+
+**Your 30/60/90 for Crocs — be ready to walk through this:**
+
+*Days 1–30 — Discovery*
+- Stakeholder interviews: CHRO and HR BPs for HR domain; VP Wholesale and key account managers for Wholesale
+- Data audit: understand what lives in Snowflake, what's in the ERP, what HR system Crocs uses (Workday? ADP?), and what EDI/POS feeds exist for Wholesale
+- Define the 3–5 most critical questions each team needs answered — not a full backlog, just the highest-value starting point
+- No dashboards built yet — this is listening time
+
+*Days 30–60 — First Deliverables*
+- HR: headcount by department + rolling attrition rate — the two metrics every CHRO wants first
+- Wholesale: sell-through by account + inventory aging — the two metrics that drive the most urgent decisions
+- Ship v1 of each as a single-page report; get stakeholder feedback before building out
+- Establish data definitions in writing — every metric gets a name, formula, source table, and owner
+
+*Days 60–90 — Expand and Standardize*
+- Build out the full reporting suite based on feedback from v1
+- Implement row-level security for HR (managers see their org, not others)
+- Set up data freshness monitoring — automated alerts if source data stops refreshing
+- Document everything: data dictionary, model guide, refresh schedules
+
+**Why this story wins:** The previous analyst was let go over data integrity. The hiring team is acutely aware of what happens when someone builds fast and loose. Your 30/60/90 shows you do the opposite — you listen first, define clearly, build carefully, and document as you go.
+
+---
+
+## PRIORITY #2: Data Integrity — Your Must-Have Story
 
 This is no longer a generic BI question. The Director told you the previous analyst was let go because of data integrity problems. That means the hiring team is actively looking for someone who will *not* repeat that failure. This question is coming. Prepare it like it's question #1.
 
@@ -215,8 +251,8 @@ These are calibrated for a final round — they signal that you're evaluating th
 1. **"Given that this role is stepping into a situation with prior data integrity challenges — what would a successful first 90 days look like to you? What would give you confidence that the right foundation is being laid?"**
    *(Shows you heard what the Director said and are thinking proactively about solving the actual problem.)*
 
-2. **"How are HR and Wholesale currently being reported — are those two streams well-established, or is there significant build work ahead?"**
-   *(Sizes the scope of your first deliverables and shows domain awareness.)*
+2. **"I understand HR and Wholesale reporting is essentially a greenfield build — what does success look like at the 6-month mark? What are the 2–3 reports that would have the most immediate business impact?"**
+   *(You already know it's greenfield — asking this shows you've done your homework and are already thinking about prioritization. Surfaces what leadership actually cares about first.)*
 
 3. **"What does the relationship between the BI team and the data engineering team look like? Is there a clear handoff for data ownership, or is that still evolving?"**
    *(Important for understanding who you'll depend on for clean data.)*

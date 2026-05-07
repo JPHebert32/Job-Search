@@ -16,6 +16,7 @@ If Gmail MCP tools are available (CLI session): search immediately.
   - Search 1: from:(Crocs OR Leprino OR Shutterfly OR Zillow OR Gusto OR Machinify OR EverPro OR EverCommerce OR Kroenke) after:YESTERDAY
   - Search 2: subject:(interview OR offer OR application OR recruiter OR opportunity OR next steps) after:YESTERDAY
   - Search 3: any recruiter cold outreach about BI, data, analytics, Power BI roles
+  - Search 4: from:(Bestop OR Yeti OR Jeep OR Stellantis OR Warn OR Currie OR Carhartt OR MLB OR Rockies OR Avalanche OR Broncos OR Ball OR Coors OR "Molson Coors" OR "Anheuser-Busch" OR Budweiser) after:YESTERDAY
   Read every relevant email in full. Update job-tracker.csv from what you find before doing anything else.
 
 If Gmail MCP is NOT available (VS Code extension session):
@@ -128,6 +129,36 @@ Job Search — Proactive Behaviors (no permission needed)
 - Run research agent on any new company that surfaces
 - Flag overdue "Ready to Apply" items every session
 - Sync daily-brief.md and job-tracker.csv to Drive Jobs folder
+- Search white whale companies for open BI/analytics roles every session (see White Whales section below)
+
+---
+
+## White Whales
+
+Companies JP would love to work for regardless of exact title, comp, or location fit.
+Surface any opening immediately. Apply looser criteria — if it's BI, analytics, or data visualization,
+flag it. JP will decide whether to pursue.
+
+White whale rules override standard criteria:
+- Comp floor and location/relocation rules do NOT apply — JP will evaluate case by case
+- A compelling offer could justify relocation or accepting below-floor comp
+- Flag the role, present the details, let JP decide
+
+| Company | HQ / Notes |
+|---|---|
+| Bestop Inc | Louisville CO — Jeep accessories |
+| Yeti | Austin TX — outdoor/lifestyle |
+| Jeep (Stellantis) | Search Stellantis careers for Jeep brand roles |
+| Warn Industries | Milwaukie OR — off-road |
+| Currie Enterprises | Corona CA — off-road, likely small |
+| Carhartt | Dearborn MI — workwear/lifestyle |
+| MLB | New York NY — sports analytics |
+| Colorado Rockies | Denver CO |
+| Colorado Avalanche | Denver CO — Kroenke Sports |
+| Denver Broncos | Denver CO — Walton-Penner ownership |
+| Ball Corporation | Westminster CO — aerospace/packaging |
+| Molson Coors (Coors) | Golden CO |
+| Anheuser-Busch (Budweiser) | St. Louis MO |
 
 ---
 
