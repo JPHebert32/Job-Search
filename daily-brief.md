@@ -46,3 +46,81 @@ No direct employer responses to tracked applications. All inbox activity was aut
 
 ---
 *Midday agent — 2026-05-06T18:00:00Z UTC*
+
+---
+
+# Job Search Daily Brief — 2026-05-07
+
+> *Morning brief ran at 8:05 AM MDT — uploaded to Google Drive. Local file carries yesterday's content. This midday section reflects the full day's findings.*
+
+## Midday Update — 12:00 PM MDT
+
+### 🚨 URGENT — Crocs Interview Is Happening RIGHT NOW
+
+Email from `candidatecare@crocs.com` received **11:15 AM MDT**:
+
+> *"Hi JP! This is Olivia with Crocs Incorporated. Your 30 minute virtual interview at Crocs Incorporated for the Sr. Business Intelligence Analyst position is in one hour. Good luck :)"*
+
+**Interview time: ~12:15 PM MDT today. This run is at noon — you have 15 minutes.**
+
+- Review `prep/Crocs_Technical_DAX_PowerBI.md` and `prep/Crocs_Technical_SQL_Snowflake.md` immediately
+- Lead with T-Life flagship story (sole BI analyst, 75M+ downloads, 30 dashboards, VP/C-suite daily audience)
+- job-tracker.csv updated: Crocs status → **ACTIVE INTERVIEW**
+
+**Post-interview (by 2:30 PM MDT):** Send thank-you to candidatecare@crocs.com. Reference one specific technical topic from the call. Ask directly about timeline for the technical round.
+
+---
+
+### New Emails Since Morning Run (8 AM MDT)
+
+| Time (MDT) | From | Subject | Action Required |
+|---|---|---|---|
+| 11:15 AM | candidatecare@crocs.com | **Your virtual interview at Crocs, Inc. is in one hour!** | ⚡ Interview at 12:15 PM — see above |
+| 9:41 AM | jphebert32 (sent) | Following Up — Revenue Operations Analyst (Gusto) | Follow-up sent ✅ — await response |
+| 9:39 AM | jphebert32 (sent) | Following Up — Application for BI Analyst (Shutterfly) | Follow-up sent ✅ — await response |
+
+**⚠️ EverCommerce location issue (from morning email, not yet resolved):**
+Workday referral email from evercommerce@myworkday.com listed the EverPro Sr. Product Analyst role as **"Remote, Canada"** — but the tracker and job posting say Remote US / Denver CO. Jodi Cohen (Sr. TA Partner) sent her direct contact info this morning: **jcohen@evercommerce.com / 303-981-5543**. **Call Jodi today before applying** to confirm this is a US-eligible role. job-tracker.csv updated with hold + location flag.
+
+No other direct responses from tracked companies (Zillow, Leprino, Shutterfly, Gusto, Machinify, Kroenke). Remaining inbox = automated job digests only.
+
+---
+
+### New Leads — Morning + Midday Combined
+
+*(Morning agent found Trace3, Pax8, Mercer Advisors; midday agent confirmed OppFi comp and eliminated it.)*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---|---|---|---|---|---|
+| **Trace3** | Sr. BI Developer — Power BI | $110K–$140K | Remote (US) | [Greenhouse](https://job-boards.greenhouse.io/trace3/jobs/7595018) | ✅ |
+| **Pax8** | BI Analyst — Revenue Operations | TBD (verify) | Denver CO | [Built In CO](https://www.builtincolorado.com/job/business-intelligence-analyst-revenue-operations/6490194) | ✅ |
+| **Mercer Advisors** | Sr. BI Analyst | TBD (verify) | TBD (remote?) | [Greenhouse](https://job-boards.greenhouse.io/merceradvisors/jobs/5046203008) | ⚠️ |
+| OppFi | Sr. Analyst, Business Intelligence | $71K–$107K | Remote | [Greenhouse](https://job-boards.greenhouse.io/opploans/jobs/7643812003) | ❌ |
+
+**Fit notes:**
+
+- **Trace3 ✅** — B2B IT solutions/services. $110K–$140K clears the floor. Role is Power BI explicit — semantic models, dashboard design, KPI governance. Strong technical alignment. Apply this week; no specific urgency signal yet.
+
+- **Pax8 ✅** — B2B SaaS, Denver-based, Power BI 3+ yrs required. Revenue Operations BI is well within scope. Need to verify comp and confirm seniority level is Senior before investing time in tailoring docs. Visit Built In CO link to check posting.
+
+- **Mercer Advisors ⚠️** — Wealth management / fintech (acceptable industry). Stack match: Power BI + Azure Synapse + Python. Need to verify comp range and remote eligibility before pursuing. Visit Greenhouse link.
+
+- **OppFi ❌** — Comp confirmed at $71,200–$106,800. Ceiling is $8K below the $115K floor. Eliminated.
+
+**Screened and eliminated today:**
+- Lockheed Martin ERP Business Analyst Sr — defense/aerospace, ERP admin focus, not BI/viz. ❌
+- Federal Reserve Bank of Kansas City — government sector, not target. ❌
+- Mass General Brigham Sr. Data Analyst — healthcare system, Boston-based. ❌
+
+---
+
+### Afternoon Priority
+
+1. **CROCS INTERVIEW — you're in it now.** After the call: thank-you email within 2 hours, ask about technical round timeline.
+
+2. **Call Jodi Cohen at EverCommerce (303-981-5543) before 5 PM** — Resolve the "Remote, Canada" vs. "Remote US" discrepancy on the EverPro Sr. Product Analyst referral. If it's US-eligible, you have a warm referral and tailored docs ready to go — this could move fast.
+
+3. **Submit Zillow Preferred Strategy and Machinify today** — Both are 9+ days past target apply date, docs are already tailored. Zillow Preferred is the fastest (same resume as the In Process application, different cover letter). Do these before the roles go cold or close.
+
+---
+*Midday agent — 2026-05-07T18:00:00Z UTC*
