@@ -124,3 +124,82 @@ No other direct responses from tracked companies (Zillow, Leprino, Shutterfly, G
 
 ---
 *Midday agent — 2026-05-07T18:00:00Z UTC*
+
+---
+
+# Job Search Brief — 2026-05-08 | Morning
+
+## Gmail — New Activity
+
+*Covers activity since yesterday's midday brief (May 7 ~18:00 UTC).*
+
+| Company | Sender | Subject | Summary |
+|---------|--------|---------|---------|
+| **EverCommerce** | jphebert32 → jcohen@evercommerce.com | "Interest in Data Analyst, Payments Role (R-104002) — JP Hebert" | After the May 7 call with Jodi Cohen, JP proactively emailed her flagging a second open role: **Data Analyst, Payments (R-104002, PaySimple team)**. Highlighted 9 yrs of HFT financial analytics at MWD Trading and T-Life Billing & Payments dashboard ownership (75M+ users). Awaiting Jodi's response. |
+| **Shutterfly** | shutterflyrecruiting@shutterfly.com | "Candidate Portal access request" | Automated candidate portal link triggered by JP's May 7 follow-up email. Not a substantive recruiter response — no human reply yet. |
+| **LanceSoft** | yashraj.bhawsar@lancesoft.com | "[Remote] Job Opportunity for Data Analyst role. Would you like to discuss?" | Cold recruiter outreach. Role: Data Analyst, Atlanta GA (Remote). Pay: **$50/hr W2 without benefits** (~$104K annualized). 3-year contract-to-hire. Stack: Power BI, Databricks, SQL, Power Apps, Azure SQL. ⚠️ Contract, comp below $115K floor, not FTE — pass. |
+| **PHT Staffing (LinkedIn InMail)** | inmail-hit-reply@linkedin.com | "Looking for an experienced Business Data Analyst (Databricks) – USA (Remote) for a Part-Time (20 hours/week) role!" | Part-time (20 hrs/week) contract. Must-have: Databricks, SQL, A/B testing — Power BI listed as "preferred" only. ❌ Part-time, not suitable as primary employment. Skip. |
+
+**No new responses from:** Gusto, Zillow (P749151 or P750075), Machinify, Crocs (awaiting Round 3 scheduling).
+
+---
+
+## Pipeline — Action Required Today
+
+**No "Ready to Apply" rows remain in job-tracker.csv** — all tracked roles have been applied, withdrawn, or rejected.
+
+**Active application follow-up status:**
+
+| Company | Role | Status | Next Action |
+|---------|------|--------|-------------|
+| **Crocs** | Sr. BI Analyst, Broomfield CO | ✅ ACTIVE — Round 3 Pending (wk of May 11) | Await scheduling. Prep now. |
+| **Zillow** | Sr BI Analyst — Home Loans (P749151) | Applied — In Process | Monitor Workday for status change |
+| **Zillow** | Sr BI Analyst — Preferred Strategy (P750075) | Applied | Monitor Workday |
+| **EverPro** | Sr Product Analyst Invoicing (R-105965) | Applied — referral | Follow up with Jodi Cohen re: R-105965 status + R-104002 interest |
+| **Gusto** | Revenue Operations Analyst | Applied | Follow-up sent May 7 — monitor until May 13 |
+| **Shutterfly** | BI Analyst (unspecified title) | Applied | Follow-up sent May 7 — check candidate portal — monitor until May 13 |
+| **Machinify** | Sr Business Insights Analyst (PowerBI) | Applied | Follow-up sent May 6 — monitor until May 13 |
+
+---
+
+## Interview Prep Reminder
+
+**Crocs Round 3 (Final) — expected week of May 11. Prep now.**
+
+Review all prep files in the `applications/` folder before the scheduling email arrives:
+- `Crocs_Final_Conceptual.md` — behavioral/conceptual final round
+- `Crocs_Technical_SQL_Snowflake.md` — SQL window functions, CTEs, Snowflake optimization
+- `Crocs_Technical_DAX_PowerBI.md` — DAX calculated columns/measures, data model design
+- `Crocs_Technical_Python_Databricks.md` — bonus: Python/Databricks scenarios
+
+**Key framing reminders:** Data integrity ownership (backfill context), HR + Wholesale reporting focus, T-Life flagship story (sole analyst, 30 dashboards, 100+ daily VP/C-suite visits, HEART framework, 75M+ users).
+
+---
+
+## New Leads Found
+
+*Note: Trace3 Sr BI Developer (Power BI) confirmed CLOSED as of Feb 26, 2026 — remove from active tracking. Ivanti Sr BI Analyst confirmed Mumbai-based (eliminated yesterday).*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| **EverCommerce R-104002** | Data Analyst, Payments (PaySimple team) | TBD — confirm USD with Jodi | Remote US / Denver CO | [EverCommerce Careers](https://evercommerce.wd1.myworkdayjobs.com/EverCommerce_Careers) | ✅ B2B SaaS, Denver HQ, warm referral via Jodi Cohen. JP already expressed interest May 7. Formally apply if Jodi routes you. |
+| **Mercer Advisors** | Senior Business Intelligence Analyst | Not listed | Remote (verify) | [Greenhouse](https://job-boards.greenhouse.io/merceradvisors/jobs/5046203008) | ⚠️ Financial advisory/wealth mgmt (fintech-adjacent). Was flagged yesterday — still unresolved. Verify comp meets $115K floor and Power BI is primary (not Tableau-only). |
+| **Bonterra** | Senior Commercial Data Analyst | ~$107K–$131K est. (Lensa) | Remote (US) | [Bonterra Careers](https://www.bonterratech.com/careers) | ⚠️ Social impact/nonprofit SaaS. Comp estimate may be aggressive — internal data suggests $98K–$118K range. Verify actual comp before applying. Below floor if under $115K. |
+| **Caterpillar Financial Services** | Lead Business Intelligence Analyst | $142K–$189K est. (Lensa) | ⚠️ Chicago IL (unconfirmed remote) | [Caterpillar Careers](https://careers.caterpillar.com/en/jobs/r0000360440/lead-business-intelligence-analyst/) | ⚠️ Lensa flagged as remote but job search confirms Chicago-based posting. Comp is excellent. Verify RTO expectations — if hybrid-lite or remote, this is worth a full application. |
+
+---
+
+## Recommended Actions Today
+
+1. **CROCS FINAL PREP (Top Priority)** — Final round expected week of May 11. Set aside 2–3 hours today to review `Crocs_Final_Conceptual.md` and run through SQL window functions and DAX scenarios from the technical prep files. Nail the T-Life story cold: 30 dashboards, 100+ daily VP/C-suite visits, HEART framework, sole analyst on a 75M-user app.
+
+2. **FOLLOW UP WITH JODI COHEN (EverCommerce)** — You emailed her last night about R-104002 (Payments/PaySimple). If no response by noon, call her at 303-981-5543. Confirm: (a) status on R-105965 (Sr Product Analyst Invoicing), and (b) whether she's routing your R-104002 interest to the PaySimple team.
+
+3. **INVESTIGATE MERCER ADVISORS** — Visit the [Greenhouse posting](https://job-boards.greenhouse.io/merceradvisors/jobs/5046203008) to confirm comp and verify Power BI is the primary tool (not a Tableau shop). If comp clears $115K, create tailored docs and apply today.
+
+4. **VERIFY CATERPILLAR FINANCIAL SERVICES** — Visit [careers.caterpillar.com](https://careers.caterpillar.com/en/jobs/r0000360440/lead-business-intelligence-analyst/) and confirm whether the Lead BI Analyst role allows remote. If remote-eligible or hybrid-lite (1–2 days), the $142K+ comp makes this a top application priority.
+
+5. **CHECK PAX8 STATUS** — Pax8 BI Analyst (Revenue Operations) was flagged as ✅ yesterday and has not been formally tracked. Verify the posting is still open on Built In CO and confirm comp. If active, add to tracker and apply.
+
+---
+*Morning agent — 2026-05-08T14:30:00 UTC*
