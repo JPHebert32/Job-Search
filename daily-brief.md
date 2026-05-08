@@ -203,3 +203,39 @@ Review all prep files in the `applications/` folder before the scheduling email 
 
 ---
 *Morning agent — 2026-05-08T14:30:00 UTC*
+
+---
+
+## Midday Update — 12:05 PM MDT
+
+### New Emails Since Morning
+
+No direct employer responses since the morning run (8:30 AM MDT). All inbox activity is automated digests and personal email. Items screened:
+
+- **Vail Resorts job alert (9:38 AM MDT):** "Data & Reporting Analyst – HR, Broomfield CO" — People Analytics/HR focus; confirmed salary $56K–$67K. Far below floor. Skip.
+- **LinkedIn alert (10:24 AM MDT):** "25 new jobs" from company follows — top result is Gusto "Staff Business Systems Analyst" (Denver). Not a BI/visualization match. Skip.
+- **Lensa digests (10:00 AM MDT):** Three separate alerts — In-House Health / Gruppo SKF / AArete (analyst roles, wrong industry), Jobot "Tableau Analyst" (Tableau-only, not Power BI primary), Best Buy Canada "Senior Data Analyst" (Canada-based). Zero on-profile matches.
+- **No responses from:** Crocs, Zillow (P749151 or P750075), Gusto, Shutterfly, Machinify, or Jodi Cohen (EverCommerce). Targeted Gmail search confirmed zero inbox hits from any tracked employer since 8 AM.
+
+### New Leads Found Midday
+
+| Company | Role | Comp | Location | Link | Fit |
+|---|---|---|---|---|---|
+| **Altvia Solutions** | Business Intelligence & Data Analyst | From $75K | Broomfield CO (3-day in-office min) | [Built In CO](https://www.builtincolorado.com/job/business-intelligence-and-data-analyst/7261697) | ❌ |
+
+**Fit notes:**
+
+- **Altvia Solutions ❌** — Private equity/VC CRM software company (Broomfield). Stack is Databricks + CRM data migration-heavy, not pure BI/visualization. Starts at $75K — $40K below the $115K floor — and requires 3 days per week in office. Comp and RTO both violate hard deal-breakers. Eliminated.
+
+*No new qualifying leads found in midday search pass. All three unresolved morning leads (Mercer Advisors, Pax8, EverCommerce R-104002) remain open and are the afternoon action items.*
+
+### Afternoon Priority
+
+1. **CROCS FINAL ROUND PREP (Top Priority)** — Final round expected week of May 11. Scheduling email could arrive any time today or Monday. Spend 2 hours this afternoon on `Crocs_Final_Conceptual.md` plus DAX calculated columns/measures and SQL window function scenarios from the technical prep files. Have the T-Life flagship story cold before the weekend.
+
+2. **CALL JODI COHEN — BEFORE 5 PM TODAY** — No response yet to your May 7 email about R-104002 (PaySimple Payments Data Analyst). Call her now at **303-981-5543** to: (a) confirm your R-105965 referral status, (b) confirm she's routing your R-104002 interest, and (c) find out if she needs your formal Workday submission before Monday. Warm referral — don't let it stall over the weekend.
+
+3. **VERIFY AND APPLY: MERCER ADVISORS** — Greenhouse posting 5046203008 confirmed still active. Sr. BI Analyst (Performance Analytics). Stack: Power BI + Azure Synapse + Python — exact match. Estimated total comp ~$115K (base ~$104K + bonus). Remote eligibility unconfirmed. Visit [Greenhouse posting](https://job-boards.greenhouse.io/merceradvisors/jobs/5046203008) to check salary and location, then apply same-day if both clear.
+
+---
+*Midday agent — 2026-05-08T18:05:00Z UTC*
