@@ -59,3 +59,27 @@ Prep files in `prep/`: `Crocs_Final_Conceptual.md`, `Crocs_Technical_SQL_Snowfla
 ---
 
 *Morning agent — 2026-05-09T07:00:00 UTC*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+No direct responses from tracked companies (Crocs, Zillow, Gusto, Shutterfly, Machinify, EverCommerce) received since morning run. LinkedIn job alerts surfaced two leads worth investigating — see New Leads below. Automated digests (Lensa, Dice, ZipRecruiter) after 8 AM MDT contained no qualified leads (flagged Tableau Analyst, Salesforce BA, Lube Technician — not fits).
+
+### New Leads Found Midday
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| **Hone Health** | Senior Business Intelligence Analyst, Product | $125K–$140K | Remote (US) | https://job-boards.greenhouse.io/honehealth/jobs/4878725008 | ✅ **Strong.** Telehealth/longevity SaaS. Power BI explicit, SQL + Python. $125K–$140K clears floor comfortably. Remote. 5+ yrs required. Reports to Sr. Director of Data, Analytics & ML. Apply today. |
+| **Litera** | Power BI Engineer | Not listed (verify) | Denver, CO | https://www.linkedin.com/jobs/view/4384744608/ | ⚠️ Legal tech B2B SaaS. Power BI explicit. Denver-based — verify if hybrid-eligible and comp ≥$115K before tailoring. |
+| **Engine** | Senior Revenue Insights Analyst | Not listed (verify) | Denver, CO | https://www.linkedin.com/jobs/view/4402628243/ | ⚠️ Travel tech/B2B marketplace. Revenue analytics/insights scope. Denver-based. Verify comp, Power BI vs. Looker/Tableau stack, and remote flexibility. |
+
+### Afternoon Priority
+
+1. **CROCS FINAL ROUND PREP** — Final round is this week (week of May 11). Today is your last full prep day before Monday. Review all four files in `prep/`: `Crocs_Final_Conceptual.md`, `Crocs_Technical_SQL_Snowflake.md`, `Crocs_Technical_DAX_PowerBI.md`, `Crocs_Technical_Python_Databricks.md`. If you haven't received a confirmed time/format, reach out to confirm logistics now.
+2. **EVERCOMMUNITY ACTION DUE TODAY** — Send Jodi Cohen email (jcohen@evercommerce.com) and submit Workday R-104002. Both marked due 2026-05-09 in tracker. Warm referral window is closing — do both today.
+3. **APPLY TO HONE HEALTH** — New Greenhouse posting at $125K–$140K, Remote. Strong stack match (Power BI, SQL, Python). No tailored docs exist yet — build from base resume and apply today before it fills.
+
+---
+*Midday agent — 2026-05-09T18:00:00 UTC*
