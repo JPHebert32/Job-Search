@@ -13,9 +13,9 @@ The FIRST thing you do in every session, before responding to anything else:
 
 ### Step 1 — Check Gmail (MANDATORY)
 If Gmail MCP tools are available (CLI session): search immediately.
-  - Search 1: from:(Crocs OR Leprino OR Shutterfly OR Zillow OR Gusto OR Machinify OR EverPro OR EverCommerce OR Kroenke) after:YESTERDAY
+  - Search 1: from:(Crocs OR Leprino OR Shutterfly OR Zillow OR Gusto OR Machinify OR EverPro OR EverCommerce OR Kroenke OR Guild OR Trimble OR Tebra OR Tilt OR "Field Nation" OR ChargePoint) after:YESTERDAY
   - Search 2: subject:(interview OR offer OR application OR recruiter OR opportunity OR next steps) after:YESTERDAY
-  - Search 3: any recruiter cold outreach about BI, data, analytics, Power BI roles
+  - Search 3: any recruiter cold outreach about BI, data, analytics, Power BI, Tableau roles
   - Search 4: from:(Bestop OR Yeti OR Jeep OR Stellantis OR Warn OR Currie OR Carhartt OR MLB OR Rockies OR Avalanche OR Broncos OR Ball OR Coors OR "Molson Coors" OR "Anheuser-Busch" OR Budweiser) after:YESTERDAY
   Read every relevant email in full. Update job-tracker.csv from what you find before doing anything else.
 
@@ -84,8 +84,8 @@ Also significant: T-Sentiment (T-Mobile Office of the President)
 
 BI Tools
 Power BI (Expert — primary tool, 5 years)
+Tableau (Proficient — used in production at T-Mobile Network Technology; actively re-engaging; can lead with this)
 Metabase (Expert)
-Tableau (Previously proficient — not used 4+ years; do not lead with this)
 Adobe Creative Suite (Proficient — InDesign, Illustrator, Photoshop)
 Sprinklr (Proficient — T-Sentiment social media ingestion)
 
@@ -114,13 +114,20 @@ ProCogia: Senior Data Analyst → T-Mobile: Data Scientist
 ## What JP Is Looking For
 
 Titles: Senior BI Analyst, Lead BI Analyst, Senior BI Developer, Senior Data Visualization Analyst,
-  Senior Power BI Developer, Senior Business Intelligence Analyst
-Stage: Series B through pre-IPO — avoid seed-stage chaos and F500 bureaucracy
-Industries: B2B SaaS, fintech, marketplaces, consumer tech
+  Senior Power BI Developer, Senior Business Intelligence Analyst, BI Analyst, Data Analyst,
+  Staff Data Analyst, Business Intelligence Engineer — title matters less than scope and comp
+Stage: Series B through public — avoid seed-stage chaos
+Industries: B2B SaaS, fintech, marketplaces, consumer tech, e-commerce, clean energy, sports, lifestyle brands
 Excluded: crypto, gambling, defense, ad-tech
-Comp: $125K preferred, $115K absolute floor — do not surface roles below $115K
-Location: Remote US or Denver Metro hybrid — no relocation
+Comp: $125K preferred, $110K floor — surface roles $110K and above
+Location: Fully remote US preferred (nationwide) — Denver Metro hybrid also acceptable — no relocation
 Deal-breakers: on-call, non-compete, 5-day RTO
+
+BI Tool flexibility (updated 2026-05-12):
+  - Power BI: Expert, primary tool — always lead with this
+  - Tableau: Proficient, actively re-engaging — apply to Tableau-primary roles
+  - Looker, Sigma, Domo, Omni: Surface roles using these — JP will evaluate ramp time
+  - Do NOT eliminate a role solely because it uses Tableau or a non-Power BI tool
 
 Job Search — Proactive Behaviors (no permission needed)
 - Check Gmail at every session start
