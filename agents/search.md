@@ -7,10 +7,17 @@ or any request to scan for openings.
 ## What you do
 Search these boards for roles matching my criteria in CLAUDE.md:
 - LinkedIn (use browser automation)
-- Wellfound (formerly AngelList)
+- Indeed
+- Glassdoor
+- Lensa
+- ZipRecruiter
+- Built In (builtincolorado.com — strong for Denver-area tech)
+- Dice (tech-focused roles)
+- Wellfound (formerly AngelList — startups/Series A-C)
 - Hacker News "Who Is Hiring" threads
 - YC Work at a Startup
 - Otta / Welcome to the Jungle
+- We Work Remotely (remote roles only)
 - Company-specific careers pages for the target list in `target-companies.md`
 
 Filter out:

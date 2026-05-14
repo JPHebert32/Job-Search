@@ -13,9 +13,9 @@ The FIRST thing you do in every session, before responding to anything else:
 
 ### Step 1 — Check Gmail (MANDATORY)
 If Gmail MCP tools are available (CLI session): search immediately.
-  - Search 1: from:(Crocs OR Leprino OR Shutterfly OR Zillow OR Gusto OR Machinify OR EverPro OR EverCommerce OR Kroenke OR Guild OR Trimble OR Tebra OR Tilt OR "Field Nation" OR ChargePoint) after:YESTERDAY
-  - Search 2: subject:(interview OR offer OR application OR recruiter OR opportunity OR next steps) after:YESTERDAY
-  - Search 3: any recruiter cold outreach about BI, data, analytics, Power BI, Tableau roles
+  - Search 1: from:(Crocs OR Leprino OR Shutterfly OR Zillow OR Gusto OR Machinify OR EverPro OR EverCommerce OR Kroenke OR Guild OR Trimble OR Tebra OR Tilt OR "Field Nation" OR ChargePoint OR NMI OR "Advanced Energy" OR Hone OR Fanatics OR "Advanced Energy") after:YESTERDAY
+  - Search 2: subject:(interview OR offer OR application OR recruiter OR opportunity OR "next steps" OR "phone screen" OR "hiring manager" OR schedule) after:YESTERDAY
+  - Search 3: any recruiter cold outreach about BI, data, analytics, Power BI, Tableau, "data analyst", "product analyst", "insights analyst" roles — read in full, surface anything that looks in-house and above $115K
   - Search 4: from:(Bestop OR Yeti OR Jeep OR Stellantis OR Warn OR Currie OR Carhartt OR MLB OR Rockies OR Avalanche OR Broncos OR Ball OR Coors OR "Molson Coors" OR "Anheuser-Busch" OR Budweiser) after:YESTERDAY
   Read every relevant email in full. Update job-tracker.csv from what you find before doing anything else.
 
@@ -39,10 +39,11 @@ Then run a web search for new job postings matching JP's criteria.
 
 This project uses a two-track system:
 
-**Scheduled Cloud Agents (run automatically — no action needed):**
-- Morning Brief: 8 AM MDT daily — checks Gmail, searches jobs, writes daily-brief.md, syncs to Google Drive Jobs folder
-- Midday Refresh: 12 PM MDT daily — checks Gmail again, searches for new midday postings, appends to daily-brief.md, syncs Drive
-- Manage at: https://claude.ai/code/routines
+**Scheduled Tasks (run automatically via Claude Code scheduled tasks — updated 2026-05-14):**
+- Morning Brief: 8 AM daily — checks Gmail, searches new roles, emails JP a digest to james.p.hebert10@gmail.com (always sends)
+- Midday Check: 12 PM daily — checks Gmail, emails JP ONLY if something actionable arrived (interview invite, offer, active company response)
+- Urgent Alert: Every 2 hours — checks Gmail, emails JP immediately ONLY for interview invites, offers, or any Crocs/Trimble/Zillow response
+- Manage at: Scheduled section in Claude Code sidebar
 
 **Manual Sessions (CLI or VS Code):**
 - CLI (`claude` in terminal): Full Gmail, Drive, Calendar, Browser MCP access
@@ -113,13 +114,19 @@ ProCogia: Senior Data Analyst → T-Mobile: Data Scientist
 
 ## What JP Is Looking For
 
-Titles: Senior BI Analyst, Lead BI Analyst, Senior BI Developer, Senior Data Visualization Analyst,
-  Senior Power BI Developer, Senior Business Intelligence Analyst, BI Analyst, Data Analyst,
-  Staff Data Analyst, Business Intelligence Engineer — title matters less than scope and comp
+Titles (updated 2026-05-14): BI Analyst roles are preferred, but also pursue:
+  Senior Data Analyst, Data Analyst, Product Analyst, Lead Analyst, Staff Data Analyst,
+  Senior BI Analyst, BI Developer, BI Engineer, Senior BI Developer, Business Intelligence Analyst,
+  Senior Business Intelligence Analyst, Data Visualization Analyst, Insights Analyst
+  Rule: Title matters less than scope. The job description MUST include insight/reporting + dashboard work.
+  Do NOT pursue pure data engineering, ML engineering, or roles with no visualization component.
+Employment type: In-house (FTE) only — no contracts, no staffing agencies, no C2C
 Stage: Series B through public — avoid seed-stage chaos
 Industries: B2B SaaS, fintech, marketplaces, consumer tech, e-commerce, clean energy, sports, lifestyle brands
 Excluded: crypto, gambling, defense, ad-tech
-Comp: $125K preferred, $110K floor — surface roles $110K and above
+Comp: $125K preferred, $115K floor — surface roles $115K and above (updated 2026-05-14)
+  Exception: White whale companies — floor does not apply, JP evaluates case by case
+  Exception: Roles already in tracker below floor (NMI $90–120K) — JP approved individually
 Location: Fully remote US preferred (nationwide) — Denver Metro hybrid also acceptable — no relocation
 Deal-breakers: on-call, non-compete, 5-day RTO
 
@@ -129,14 +136,20 @@ BI Tool flexibility (updated 2026-05-12):
   - Looker, Sigma, Domo, Omni: Surface roles using these — JP will evaluate ramp time
   - Do NOT eliminate a role solely because it uses Tableau or a non-Power BI tool
 
+Application volume target (updated 2026-05-14): 5–7 applications per week
+  - Apply first, do deep research only when a screen is scheduled
+  - Do not let comp verification or research delay applications when the role is clearly in range
+  - Flag borderline roles; JP decides quickly and moves on
+
 Job Search — Proactive Behaviors (no permission needed)
 - Check Gmail at every session start
-- Search for new job postings matching the criteria above
+- Search for new job postings matching the criteria above — cast a wide net across all approved titles
 - Update job-tracker.csv whenever status changes (email responses, applications confirmed, rejections)
 - Run research agent on any new company that surfaces
 - Flag overdue "Ready to Apply" items every session
 - Sync daily-brief.md and job-tracker.csv to Drive Jobs folder
 - Search white whale companies for open BI/analytics roles every session (see White Whales section below)
+- Surface 3–5 new role candidates every session regardless of whether JP asks
 
 ---
 
@@ -169,10 +182,37 @@ White whale rules override standard criteria:
 
 ---
 
+## Active Outreach Strategy (updated 2026-05-14)
+
+Goal: supplement applications with direct human contact. Do not rely solely on ATS submissions.
+
+### Per-application outreach (draft for JP approval before sending)
+For every new application, identify the hiring manager or BI team lead on LinkedIn and draft
+a short, direct LinkedIn connection message or InMail. JP approves before sending.
+Message style: 2–3 sentences, reference the specific role, one concrete credential (T-Life, MWD Trading).
+No templates. No "I came across your posting." Be specific.
+
+### Follow-up cadence
+- Day 0: Application submitted
+- Day 5: Follow-up email or LinkedIn message to recruiter/hiring manager if no response
+- Day 10: Second follow-up or move to cold/inactive
+Apply this to every active application automatically. Flag when follow-ups are due.
+
+### Cold outreach targets (session behavior — no permission needed to research, draft requires approval)
+Each session, identify 1–2 BI/Analytics hiring managers or Directors of Data at companies
+matching JP's target profile (B2B SaaS, fintech, consumer tech, clean energy, sports/lifestyle).
+Draft a cold LinkedIn message for JP's review. He approves or passes. Volume goal: 3–5 per week.
+
+### Recruiter cold outreach
+In-house roles only — no staffing agencies. But internal talent acquisition recruiters
+at target companies are fair game. Find them on LinkedIn and draft direct outreach.
+
+---
+
 ## Approval Required (never skip)
 
 - Applying to any job on JP's behalf
-- Sending any email, LinkedIn message, or Slack message
+- Sending any email, LinkedIn message, or Slack message (drafts are fine — sending requires approval)
 - Tailoring a resume or cover letter (only after JP approves the role)
 - Scheduling interviews or making commitments on JP's behalf
 
