@@ -1,85 +1,107 @@
-# Job Search Brief — 2026-05-09 | Morning
+# Job Search Brief — 2026-05-14 | Morning
 
 ## Gmail — New Activity
 
 | Company | Sender | Subject | Summary |
-|---------|--------|---------|----------|
-| **Crocs** | candidatecare@crocs.com (Olivia / Paradox AI) | "Your virtual interview at Crocs, Inc. is in one hour!" | May 7 interview reminder for Round 2 (30-min virtual with Director of Data Analytics). Confirms interview took place as scheduled. No post-round result email received yet — tracker already shows Round 2 passed. Final round expected week of May 11. |
-| **LanceSoft Inc** (cold outreach) | yashraj.bhawsar@lancesoft.com | "[Remote]Job Opportunity for Data Analyst role. Would you like to discuss?" | Third-party recruiter. Client role in Atlanta GA [Remote]. Stack: Power BI, DAX, Power Query, Databricks, SQL, Azure Synapse. Pay: **$50/hr W2 (no benefits)**. Duration: 3-year contract-to-hire. ❌ Not a fit — contract/hourly, below $115K floor, not senior title. |
-| **PHT Staffing** (cold LinkedIn InMail) | inmail-hit-reply@linkedin.com (Harsh Kumar Tyagi) | "Business Data Analyst (Databricks) – USA (Remote) for a Part-Time (20 hours/week) role!" | Part-time only (20 hrs/week) via staffing firm. Databricks + SQL + Tableau/Power BI. ❌ Not a fit — part-time. |
-
-**No responses received from:** Zillow (Home Loans or Preferred Strategy), Gusto, Shutterfly, EverCommerce, or Machinify. Shutterfly portal access confirmed May 7 (already tracked).
+|---------|--------|---------|---------|
+| **Guild** | no-reply@us.greenhouse-mail.io | "Guild Update" | ❌ **REJECTION** — "decided to move forward with other candidates" for Sr Business Insights Analyst (Denver Only). Standard Greenhouse rejection 3 days after May 11 application. Tracker updated. |
+| **Trimble** | careers@trimble.com | "Jp, we have received your application" | ✅ Application for BI Analyst (R56123) confirmed received as referral from Eric Robinson. Meeting "JP/Eric - BI Role" completed via Gong at 1:00 PM MT May 13. Active referral in play. |
+| **Advanced Energy** | system@successfactors.com | "Thank you for your application with Advanced Energy" | New application — Sr. Data Analyst applied via SAP SuccessFactors May 13. **Not previously in tracker** — added. Industrial B2B power tech; comp and stack unknown. |
+| **Charter (via Eliassen)** | Jeff Hinchman (LinkedIn InMail) | "Seeking a Data Analyst to work with Charter in Englewood, CO" | ⚠️ **PASS** — Contract W2 role, $65–75/hr, 4 days/week on-site Englewood. Stack: Tableau + SQL + Python (no Power BI). Fails RTO deal-breaker. |
+| Crocs (sent) | jphebert32@gmail.com → mgura@crocs.com | "Following Up — Sr. Business Intelligence Analyst" | JP sent follow-up to Mike Gura May 13. No response received yet. Round 3 still pending. |
+| EverCommerce (sent) | jphebert32@gmail.com → jcohen@evercommerce.com | "Interest in Data Analyst, Payments Role (R-104002)" | JP emailed Jodi Cohen May 13. Warm outreach complete — Workday application still needed. |
 
 ---
 
 ## Pipeline — Action Required Today
 
-| Company | Role | Status | Doc(s) | Apply Via | Notes |
-|---------|------|--------|--------|-----------|-------|
-| **EverCommerce (PaySimple)** | Data Analyst, Payments | Ready to Apply | `EverCommerce_DataAnalystPayments_2026-05-07.docx` + `EverCommerce_DataAnalystPayments_CoverLetter_2026-05-07.docx` | Workday R-104002 + email Jodi Cohen (jcohen@evercommerce.com / 303-981-5543) | ⚠️ Warm referral active (Justin Hebert + Jodi Cohen call May 7). Comp $95K–$115K — at floor ceiling. B2B SaaS Denver HQ. Email Jodi FIRST, then submit Workday. |
-| **Trace3** | Sr. Business Intelligence Developer | Research — Ready to Apply | **Docs not yet built** — tailor from scratch | Greenhouse: https://boards.greenhouse.io/trace3/jobs/6338462 | ✅ Strong fit: Power BI, semantic models, DAX, KPI governance. $110K–$140K clears floor. Remote. B2B IT solutions. Reports to Sr. Director of Enterprise Platforms. |
-| **Stellantis (Jeep)** | Business & Data Analyst | Ready to Apply | `Stellantis_BIAnalyst_2026-05-07.docx` + `Stellantis_BIAnalyst_CoverLetter_2026-05-07.docx` | ADP — Job ID 2017348 (careers.stellantis.com) | ⭐ White whale — Jeep brand. Onsite Auburn Hills MI (relocation required). Comp likely below floor. Apply under white whale rules. |
-| **Pax8** | BI Analyst — Revenue Operations | Research — Verify Comp | None yet | Built In Colorado: https://www.builtincolorado.com/job/business-intelligence-analyst-revenue-operations/6490194 | ✅ B2B SaaS Denver HQ, Power BI explicit, PL-300 preferred. **Comp not listed — must verify ≥$115K before tailoring.** |
-| **PopSockets** | Business Intelligence Lead | Research — Verify Comp | None yet | LinkedIn: https://www.linkedin.com/jobs/view/business-intelligence-lead-at-popsockets-4386718021 | ⚠️ Consumer tech. Power BI + Snowflake + Fabric + Fivetran. Boulder CO (hybrid). Est $93K–$114K may be aggregator undercount — verify actual JD comp before investing time. |
-| **Mercer Advisors** | Senior BI Analyst | Research — Verify Comp | None yet | Greenhouse: https://job-boards.greenhouse.io/merceradvisors/jobs/5046203008 | ⚠️ Wealth mgmt/fintech. Power BI + Azure Synapse + Python. **Must confirm remote-eligible and comp ≥$115K before pursuing.** |
+| Company | Role | Status | Docs | Apply Via |
+|---------|------|--------|------|-----------|
+| **Hone Health** | Sr BI Analyst — Product | Docs Ready — **OVERDUE** (was May 13) | `HoneHealth_SrBIAnalyst_2026-05-12.docx` + `HoneHealth_CoverLetter_2026-05-12.docx` | [Greenhouse](https://job-boards.greenhouse.io/honehealth/jobs/4878725008) |
+| **EverCommerce (PaySimple)** | Data Analyst Payments | Ready to Apply — email to Jodi sent May 13 | `EverCommerce_DataAnalystPayments_2026-05-07.docx` + `EverCommerce_DataAnalystPayments_CoverLetter_2026-05-07.docx` | [Workday R-104002](https://evercommerce.wd1.myworkdayjobs.com/EverCommerce_Careers/job/Denver-Colorado-PaySimple/EverCommerce-Payment-Solutions---Data-Analyst--Payments--Remote--US-_R-104002/apply) |
+| **Stellantis (Jeep)** | Business & Data Analyst | Ready to Apply — **OVERDUE** (was May 9) | `Stellantis_BIAnalyst_2026-05-07.docx` + `Stellantis_BIAnalyst_CoverLetter_2026-05-07.docx` | ADP Job ID 2017348 — White whale; JP decides |
 
 ---
 
 ## Interview Prep Reminder
 
-🎯 **CROCS FINAL ROUND — Week of 2026-05-11 (THIS WEEK)**
-Prep files in `prep/`: `Crocs_Final_Conceptual.md`, `Crocs_Technical_SQL_Snowflake.md`, `Crocs_Technical_DAX_PowerBI.md`, `Crocs_Technical_Python_Databricks.md`. Confirm exact date/time and format (panel vs. 1:1). Focus: greenfield HR + Wholesale reporting builds, data integrity narrative, HEART framework.
+**Crocs Round 3 still pending** — Follow-up sent to Mike Gura (mgura@crocs.com) May 13. Expected the week of May 11. If no reply by EOD May 14, consider calling directly.
+
+Prep files in `prep/`:
+- `Crocs_Technical_SQL_Snowflake.md`
+- `Crocs_Technical_DAX_PowerBI.md`
+- `Crocs_Final_Conceptual.md`
+- `Crocs_DayOf_CheatSheet.md`
+- `Crocs_Technical_Python_Databricks.md`
 
 ---
 
 ## New Leads Found
 
+### Greenhouse + Web Search (Structured Results)
+
 | Company | Role | Comp | Location | Link | Fit |
 |---------|------|------|----------|------|-----|
-| **Ivanti** | Senior Business Intelligence Analyst | Not listed (verify) | Remote (US) | https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7660106003 | ✅ **Strong — verify comp.** B2B SaaS (IT/security software). Power BI required: 4+ yrs, semantic modeling, DAX, M. Remote-friendly. Stack aligns strongly. Apply if comp ≥$115K. |
-| **OppFi** | Senior Analyst, Business Intelligence | $71K–$107K | Remote (US) | https://job-boards.greenhouse.io/opploans/jobs/7643812003 | ❌ **Below floor.** Fintech (good industry) but $107K ceiling is below $115K minimum. Pass. |
-| **StarRez** | Senior Business Intelligence Analyst | $100K–$110K | Remote (US) | https://job-boards.greenhouse.io/starrez/jobs/5118067008 | ❌ **Below floor + wrong tool.** Primary platform is Domo. $100K–$110K below floor. Likely deadline-closed. Pass. |
-| **ISC (Integrated Specialty Coverages)** | Senior BI Analyst (Workers Comp) | Not listed (verify) | Not listed (verify remote) | https://job-boards.greenhouse.io/isccareers/jobs/4673045005 | ⚠️ **Stack match, industry flag.** Power BI + Snowflake, 5–7 yrs, SQL expert. Insurance/workers comp industry — acceptable but not preferred. Verify comp and location. |
-| **Altvia Solutions** | Business Intelligence and Data Analyst | Not listed (verify) | Denver CO / Remote | https://www.builtincolorado.com/job/business-intelligence-and-data-analyst/7261697 | ⚠️ **Verify comp and seniority.** Private credit/PE tech niche. Title ambiguous. Check before investing time. |
+| **Stryker** | Sr Data Analyst — Sales Analytics | $101K–$168K | Remote US | [Link](https://careers.stryker.com/sr-data-analyst-remote/job/787E1F2F61A0145D4D7DF59DE766B339) | ✅ Posted Apr 27 — Power BI is the stated development priority. Medical devices = clean industry. Strong comp range. Apply immediately. |
+| **Stryker** | Senior Data Analyst | $89K–$193K | Remote US | [Link](https://careers.stryker.com/senior-data-analyst-remote/job/98B97A936355E85E9D22DA6EBFE0CFFF) | ✅ Posted Feb 27, still open. Power BI + SQL + Python. Full senior scope with mentoring. Wide band — top well above floor. Apply alongside Sales Analytics role. |
+| **Connections Health Solutions** | Senior BI Developer | Unknown | Remote US | [Greenhouse](https://job-boards.greenhouse.io/connectionshealthsolutions/jobs/4232437009) | ⚠️ Power BI + Tableau both required. Behavioral health SaaS (clean). Comp not listed — verify ≥ $115K before applying. |
+| **Ivanti** | Senior Business Intelligence Analyst | Unknown | Remote US (verify — India listing flagged) | [Greenhouse](https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7660106003) | ⚠️ 4+ yrs Power BI/DAX/M required — strong stack match. IT security SaaS (clean industry). Must confirm this is a US opening, not India-based. |
+| **Contentful** | Senior Business Intelligence Analyst | ~$88K–$115K est. | NYC (remote unclear) | [Greenhouse](https://job-boards.greenhouse.io/contentful/jobs/7580405) | ⚠️ Headless CMS SaaS (clean). Power BI acceptable. Two risks: NYC may not be remote-eligible; historical comp may be at/below floor. Verify both before tailoring. Posted Jan 29. |
+| **Continuum Media** | Senior BI Developer | Unknown | Denver CO (hybrid) | [BuiltIn CO](https://www.builtincolorado.com/job/senior-business-intelligence-developer/181062) | ⚠️ Denver hybrid. Power BI listed (alongside Tableau/QuickSight). TV advertising platform — gray area on ad-tech exclusion. Comp unknown. JP to decide if TV attribution counts as excluded. |
+| **Stryker** | Data Analyst, Analytics & Insights | $90K–$144K | Remote US | [Link](https://careers.stryker.com/data-analyst-analytics-insights-remote/job/531FEF92CBC8D673EB92743505E784E6) | ⚠️ Posted Apr 20. Power BI + Databricks + SQL Server. "Data Analyst" title (not Senior) — may be mid-level. Worth reviewing experience requirements; apply if senior scope confirmed. |
+
+### Filtered Out This Morning
+| Company | Role | Reason |
+|---------|------|--------|
+| OppFi | Sr Analyst, BI | Comp ceiling $106,800 — below $115K floor |
+| AGILE Space | Sr BI Analyst | Defense contractor (NASA/DoD) — excluded |
+| AXS | Sr BI Analyst | $78K–$90K, LA onsite, Looker-only |
+| Imagine Pediatrics | Sr BI Analyst | Tableau-only, no Power BI |
+| StarRez | Sr BI Analyst | Domo-only, posting likely expired |
+| Bounteous | Lead BI Analyst | Part-time contract (20 hrs/wk) |
+
+### LinkedIn Job Alert Previews (Unverified)
+| Company | Role | Fit |
+|---------|------|-----|
+| EverDriven | BI Analyst | ⚠️ Denver SaaS — verify Power BI + comp ≥ $115K |
+| Vail Resorts | Sr Business Analyst | ⚠️ Broomfield CO — verify BI scope vs. generalist BA |
+| University of Colorado | BI Developer / Financial Analyst | ❌ Higher ed — likely below floor |
 
 ---
 
 ## Recommended Actions Today
 
-1. **🎯 CROCS FINAL ROUND PREP** — This is the week. Do a full review of `Crocs_Final_Conceptual.md` + all three technical prep files today. If you have not received a confirmed time/date/format for the final round, reach out now to confirm logistics. Nothing else matters more this week.
+1. **Apply to Hone Health immediately** — Docs ready since May 12, overdue by 1 day. $125K–$140K remote Power BI role — best active fit behind Crocs. Link: https://job-boards.greenhouse.io/honehealth/jobs/4878725008
 
-2. **📧 EVERCOMMUNICATION — Send Jodi Cohen email + submit Workday R-104002** — Warm referral window is open. Email was drafted May 7 — confirm it was sent, then submit the Workday application using `EverCommerce_DataAnalystPayments_2026-05-07.docx`. Do both today while the referral connection is fresh.
+2. **Apply to Stryker (both Sr roles)** — Two fresh Power BI roles at a Fortune 500, both fully remote. Sales Analytics ($101K–$168K, posted Apr 27) is the freshest and most targeted. Add to tracker and apply same-day — these are high-quality, well-paying roles.
 
-3. **📝 BUILD AND SUBMIT TRACE3 DOCS** — Sr. BI Developer ($110K–$140K, Remote, Power BI / semantic models / KPI governance) is a clean fit with no comp concerns. No docs exist yet — tailor resume and cover letter and apply via Greenhouse today.
+3. **Complete EverCommerce Workday R-104002** — Warm referral via Jodi Cohen is live after May 13 email. Formalize it with the Workday application before the referral goes cold.
 
-4. **🔍 VERIFY COMP: Ivanti, Pax8, Mercer Advisors** — Three new/pending roles need a comp check before committing tailoring time. Ivanti (Greenhouse) is the strongest stack match — check JD or Glassdoor for pay transparency. Pax8 and Mercer Advisors similarly need a compensation confirm before proceeding.
+4. **Follow up on Crocs Round 3** — Call Mike Gura if no reply today. This is the top-priority active interview at up to $127K hybrid Broomfield.
 
-5. **🧐 MONITOR PIPELINE STATUS** — No responses yet from Zillow (Apr 28 + May 6), Gusto (follow-up sent May 6), Shutterfly (portal active May 7), or Machinify (follow-up due May 13). Check Workday portal for Zillow application status. Gusto/Machinify follow-up due date is May 13 — monitor inbox.
+5. **Verify Connections Health Solutions comp** — Behavioral health SaaS, Remote, Power BI + Tableau. Strong fit if comp ≥ $115K — quick check before deciding.
 
----
-
-*Morning agent — 2026-05-09T07:00:00 UTC*
+6. **Triage overdue research roles** — Pax8, Tebra, Tilt Finance, Boulevard, and Engine all have past-due comp/fit verification. Spend 30 min: comp check → Apply or Eliminate each.
 
 ---
 
-## Midday Update — 12:00 PM MDT
+## Pipeline Snapshot
 
-### New Emails Since Morning
-No direct responses from tracked companies (Crocs, Zillow, Gusto, Shutterfly, Machinify, EverCommerce) received since morning run. LinkedIn job alerts surfaced two leads worth investigating — see New Leads below. Automated digests (Lensa, Dice, ZipRecruiter) after 8 AM MDT contained no qualified leads (flagged Tableau Analyst, Salesforce BA, Lube Technician — not fits).
-
-### New Leads Found Midday
-
-| Company | Role | Comp | Location | Link | Fit |
-|---------|------|------|----------|------|-----|
-| **Hone Health** | Senior Business Intelligence Analyst, Product | $125K–$140K | Remote (US) | https://job-boards.greenhouse.io/honehealth/jobs/4878725008 | ✅ **Strong.** Telehealth/longevity SaaS. Power BI explicit, SQL + Python. $125K–$140K clears floor comfortably. Remote. 5+ yrs required. Reports to Sr. Director of Data, Analytics & ML. Apply today. |
-| **Litera** | Power BI Engineer | Not listed (verify) | Denver, CO | https://www.linkedin.com/jobs/view/4384744608/ | ⚠️ Legal tech B2B SaaS. Power BI explicit. Denver-based — verify if hybrid-eligible and comp ≥$115K before tailoring. |
-| **Engine** | Senior Revenue Insights Analyst | Not listed (verify) | Denver, CO | https://www.linkedin.com/jobs/view/4402628243/ | ⚠️ Travel tech/B2B marketplace. Revenue analytics/insights scope. Denver-based. Verify comp, Power BI vs. Looker/Tableau stack, and remote flexibility. |
-
-### Afternoon Priority
-
-1. **CROCS FINAL ROUND PREP** — Final round is this week (week of May 11). Today is your last full prep day before Monday. Review all four files in `prep/`: `Crocs_Final_Conceptual.md`, `Crocs_Technical_SQL_Snowflake.md`, `Crocs_Technical_DAX_PowerBI.md`, `Crocs_Technical_Python_Databricks.md`. If you haven't received a confirmed time/format, reach out to confirm logistics now.
-2. **EVERCOMMUNITY ACTION DUE TODAY** — Send Jodi Cohen email (jcohen@evercommerce.com) and submit Workday R-104002. Both marked due 2026-05-09 in tracker. Warm referral window is closing — do both today.
-3. **APPLY TO HONE HEALTH** — New Greenhouse posting at $125K–$140K, Remote. Strong stack match (Power BI, SQL, Python). No tailored docs exist yet — build from base resume and apply today before it fills.
+| Company | Status | Last Touch | Next Due |
+|---------|--------|------------|----------|
+| **Crocs** | 🔥 ACTIVE — Round 3 Pending | Follow-up sent May 13 | May 15 |
+| **Hone Health** | 📋 Apply TODAY (overdue) | Docs built May 12 | TODAY |
+| **EverCommerce** | 📋 Apply TODAY (email sent) | Jodi emailed May 13 | TODAY |
+| **Zillow Home Loans** | In Process (P749151) | Applied Apr 28 | Monitor Workday |
+| **Zillow Preferred Strategy** | Applied (P750075) | Confirmed May 6 | Monitor Workday |
+| **Trimble** | Applied — Active Referral | Eric Robinson meeting May 13 | May 21 |
+| **Gusto** | Applied | Follow-up May 6 | Follow up |
+| **Machinify** | Applied | Applied May 2026 | Follow up |
+| **Shutterfly** | Applied | Portal access May 7 | Follow up |
+| **Advanced Energy** | Applied (new) | Confirmed May 13 | May 20 |
+| **Stellantis** | Ready — White Whale | Docs built May 7 | Overdue |
+| **Guild** | ❌ Rejected | Greenhouse May 13 | N/A |
 
 ---
-*Midday agent — 2026-05-09T18:00:00 UTC*
+
+*Morning agent — 2026-05-14T13:00:00 UTC*
