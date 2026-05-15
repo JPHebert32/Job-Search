@@ -105,3 +105,55 @@ Prep files in `prep/`:
 ---
 
 *Morning agent — 2026-05-14T13:00:00 UTC*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+No direct application responses or recruiter outreach from any tracked company since the morning run. The following automated alerts arrived — notable items extracted below:
+
+| Source | Subject | Action |
+|--------|---------|--------|
+| LinkedIn Job Alert | Sr. Analyst, Business Intelligence @ Viral Nation | ❌ Ad-tech (social media marketing) — excluded industry |
+| LinkedIn Job Alert | Business Intelligence Analyst 1 @ Chegg Inc. | ❌ Junior level ("1") — below target title/comp |
+| LinkedIn Job Alert | Business Intelligence Data Analyst II @ Advarra | ⚠️ Mid-level title; $77K–$134K range (top barely clears floor) — see leads table |
+| LinkedIn Job Alert | Sr. BI Associate, Marketing @ Alma | ❌ "Associate" title, 2–5 yr req, SQL+dbt only (no Power BI), mental health SaaS — likely below floor |
+| LinkedIn Job Alert | Sr. Reporting & Data Analyst @ DeVry University | ❌ Higher education — likely below $115K floor |
+| LinkedIn Job Alert | Sr. Business Analyst (Pricing) @ ClassPass | ❌ Generalist BA scope, consumer fitness — not BI analyst role |
+| LinkedIn Job Alert | Senior BI Analyst (Looker) @ Launch Potato | ❌ Ad-tech (performance marketing) excluded + Looker-only |
+| Vail Resorts Alert | Data & Reporting Analyst – HR, Broomfield CO | ⚠️ Already on watchlist — still needs comp/scope verification |
+| ZipRecruiter | Lockheed Martin role | ❌ Defense — excluded industry |
+
+### New Leads Found Midday
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| **Faire** | Senior Business Intelligence Analyst | Not listed (est $130K–$165K for B2B marketplace at this level) | Remote US | [Greenhouse](https://job-boards.greenhouse.io/faire/jobs/8448671002) | ✅ **Top new lead.** B2B wholesale marketplace = ideal industry. Senior scope. Comp est clears floor — verify Power BI vs. Looker/dbt before applying. Apply same day if confirmed. |
+| **CareDx** | Senior Business Intelligence Analyst | Not listed | Remote US | [Greenhouse](https://job-boards.greenhouse.io/caredxinc/jobs/4242824009) | ⚠️ Medical diagnostics SaaS (clean). Commercial/Sales analytics focus. Posted ~1 week ago. Stack and comp unconfirmed — quick check needed. |
+| **ChargePoint** | Senior Business Intelligence Analyst | Not listed | Remote US | [Greenhouse](https://job-boards.greenhouse.io/chargepoint/jobs/8415247002) | ⚠️ EV charging SaaS (clean, B2B). Posting date Feb 2026 — may be older but still open. Verify comp ≥ $115K and Power BI stack before applying. |
+| **Justworks** | Senior Business Intelligence Analyst | ~$102K avg (Glassdoor) — verify posting | Remote US | [Greenhouse](https://boards.greenhouse.io/justworks/jobs/6312220) | ⚠️ HR/payroll B2B SaaS (clean). Glassdoor average runs below floor — check the actual posting comp range before investing time. |
+
+### Filtered Out Midday
+
+| Company | Role | Reason |
+|---------|------|--------|
+| Viral Nation | Sr. Analyst, Business Intelligence | Ad-tech (social media marketing agency) — excluded industry |
+| Crash Champions | Senior Data Analyst | Auto collision chain — not SaaS/target industry |
+| Chegg Inc. | Business Intelligence Analyst 1 | Junior level — below target title and comp |
+| Alma | Sr. BI Associate, Marketing | "Associate" title; 2–5 yr requirement; SQL+dbt only; likely below $115K floor |
+| Advarra | BI Data Analyst II | Mid-level title; $77K–$134K tops out at floor ceiling |
+| DeVry University | Sr. Reporting & Data Analyst | Higher education — likely below floor |
+| Launch Potato | Sr. BI Analyst (Looker) | Ad-tech/performance marketing excluded; Looker-only stack |
+
+### Afternoon Priority
+
+1. **Call Mike Gura at Crocs** — No response to May 13 follow-up email. Next-step deadline is May 16. Call today rather than wait: this is the top active interview at up to $127K hybrid Broomfield. Don't let Round 3 go cold.
+
+2. **Verify and apply to Faire** — B2B wholesale marketplace is the best industry fit in the entire pipeline outside of Crocs. 15 minutes to confirm comp and tool stack on the Greenhouse posting; apply same day if Power BI or Snowflake is in scope.
+
+3. **Submit EverCommerce Workday application (R-104002)** — Email to Jodi Cohen sent May 13. Referral is warm but will go cold without the formal application. Takes ~20 minutes. Link: https://evercommerce.wd1.myworkdayjobs.com/EverCommerce_Careers/job/Denver-Colorado-PaySimple/EverCommerce-Payment-Solutions---Data-Analyst--Payments--Remote--US-_R-104002/apply
+
+---
+*Midday agent — 2026-05-15T18:00:00 UTC*
