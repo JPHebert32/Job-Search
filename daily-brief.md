@@ -1,95 +1,116 @@
-# Job Search Brief — 2026-05-17 | Morning
+# Job Search Brief — 2026-05-18 | Morning
 
 ---
 
-## 🚨 CROCS OFFER LETTER — DAY 2 UNREAD — ACT TODAY
+## 🚨 CROCS OFFER LETTER — 3 DAYS UNREAD — ACT TODAY OR LOSE IT
 
-**The DocuSign offer letter from Crocs, Inc. has been sitting unread for 2 days (sent May 15).**
+**DocuSign envelopes expire in 5–7 days. This envelope is now 3 days old (sent May 15). You may have as few as 2 days left.**
 
-- **From:** Samantha Lopez (`salopez@crocs.com`) via DocuSign
-- **Subject:** "Crocs, Inc. Offer of Employment: eSignature"
-- **File:** `OfferLetter.pdf`
-- **Timeline:** Mary Spuler (TA) reached out May 14 post-IT round → JP replied → Offer issued May 15 → **May 17: still unsigned.**
-- **Action:** Open the DocuSign link in your inbox NOW. Envelopes typically expire within 5–7 days — you likely have 3 days remaining. Read every line before signing: comp vs. $125K preferred, non-compete clause (deal-breaker), start date, hybrid schedule (Tue+Thu Broomfield). Counter or sign today.
-- **Counter contact:** Mary Spuler — mspuler@crocs.com — 303-848-7269
+| Field | Detail |
+|-------|--------|
+| **From** | Samantha Lopez (`salopez@crocs.com`) via DocuSign (`dse_NA3@docusign.net`) |
+| **Subject** | `Crocs, Inc. Offer of Employment: eSignature` |
+| **Date sent** | May 15, 2026 at 8:27 PM ET |
+| **Status** | UNREAD — still in your inbox |
+| **File** | `OfferLetter.pdf` |
+| **Estimated expiry** | May 20–22, 2026 |
+
+**Before signing, verify:**
+- Base salary vs. $125K preferred ($115K floor)
+- Non-compete clause — deal-breaker if present
+- Start date
+- Hybrid schedule — confirmed Tue+Thu Broomfield
+
+**Counter contact:** Mary Spuler — mspuler@crocs.com — she emailed May 14, JP responded same day with availability windows. If salary is below target, call Mary directly before signing.
+
+**Thread reconstructed from email:**
+- May 13 — JP follow-up to Mike Gura (mgura@crocs.com) on Round 3 timing
+- May 14 — Mary Spuler (TA) called JP post-IT round; JP replied with availability
+- May 15 — Offer letter issued via DocuSign
+
+**Job tracker note:** tracker still shows "Round 3 Pending" — update to OFFER RECEIVED once you've reviewed terms.
 
 ---
 
-## Gmail — New Activity
+## Gmail — New Activity (Today)
 
-| Date | Company | Sender | Subject | Summary |
-|------|---------|--------|---------|---------|
-| May 15 | **Crocs** | dse_NA3@docusign.net (Samantha Lopez) | Crocs, Inc. Offer of Employment: eSignature | ⭐ **OFFER LETTER** — pending eSignature. 2 days old. Open immediately. |
-| May 14 | **Crocs** | mspuler@crocs.com (Mary Spuler, Sr. Mgr TA) | Crocs Follow up — Sr. Business Intelligence Analyst role | Called after IT round, JP replied same day with availability. Offer followed next morning. |
-| May 15 | Recruiter ❌ | Dipendra Gupta, Programmers.ai (LinkedIn InMail) | Contract \|\| Data Visualization Lead with Tableau \|\| Denver CO-Onsite | PASS — Contract role, 5-day onsite, Tableau-only, requires ML/data science scope. All three deal-breakers. |
+No new direct emails from pipeline companies received since yesterday. The Crocs offer (May 15) is the only active company communication.
 
-No responses received from: Shutterfly, Zillow (either req), Gusto, Machinify, Advanced Energy, Hone Health, Trimble, EverCommerce. Leprino previously confirmed rejected.
+**Job alert signals:**
+
+| Source | Company | Signal |
+|--------|---------|--------|
+| LinkedIn Job Alert | **Shutterfly** | "Senior Product Analyst — Remote" listed as **Actively recruiting.** JP applied Apr 23 (portal access May 7). This may name the role title or indicate a second opening. Portal review likely ongoing. |
+| LinkedIn Job Alert | Zillow | Same Sr. BI Analyst role (P749151) surfaced again — already in pipeline, no action needed. |
+| Lensa Denver Alert | PowerToFly listing | "Senior Business Intelligence Analyst" $126K–$170K est, Denver CO. Aggregator — underlying employer unknown. Research before applying. |
+| LinkedIn 21 Jobs | Gusto | Alert shows Gusto roles but none are BI/analytics positions. JP's Revenue Ops Analyst application still pending — no update. |
 
 ---
 
 ## Pipeline — Action Required Today
 
-> With a Crocs offer in hand, prioritize applications that create negotiating leverage (Mercer Advisors, Boulevard) and keep warm referrals warm (EverCommerce). Pause building new docs until you've read the offer terms.
+### ⭐ Priority 1: Read the Crocs Offer (before anything else)
 
-| Company | Role | Comp | Docs | Apply Via | Notes |
-|---------|------|------|------|-----------|-------|
-| **EverCommerce (PaySimple)** | Data Analyst — Payments | $95K–$115K | `EverCommerce_DataAnalystPayments_2026-05-07.docx` + CoverLetter | Workday R-104002 + email Jodi Cohen (jcohen@evercommerce.com) | OVERDUE since 5/9 — docs exist, 20-min task, warm referral |
-| **NMI** | Product Data Analyst | $90K–$120K | Docs needed | Greenhouse | Overdue since 5/15 — Power BI + BigQuery + dbt, fintech payments |
-| **Tilt Finance** | Sr. Business Intelligence Analyst | Est $100K–$129K | Docs needed | Ashby | Overdue since 5/16 — fintech; also check NIRA opening at same link |
-| **Boulevard** | Staff Data Analyst | $122.5K–$158.4K | Docs needed | Greenhouse | Overdue since 5/16 — Sigma-primary (be honest about ramp); highest comp |
-| **Engine (Hotel Engine)** | Sr. Revenue Insights Analyst | Est $139K–$189K TC | Docs needed | Greenhouse | Overdue since 5/16 — Looker-primary gap; B2B travel marketplace |
-| **Mercer Advisors** | Sr. BI Analyst | Est $133K–$154K | Docs needed | Greenhouse (greenhouse.io/merceradvisors/jobs/5046203008) | Overdue since 5/16 — **Power BI + SQL + Python = best stack fit of all Ready roles** |
-| **Stellantis (Jeep)** | Business & Data Analyst | ~$85K est | `Stellantis_BIAnalyst_2026-05-07.docx` + CoverLetter | ADP Job ID 2017348 | Overdue since 5/9 — white whale rules apply; onsite Auburn Hills MI |
+### Priority 2: Warm Referral + Overdue Applications
+
+| Company | Role | Comp | Due | Docs | Apply Via |
+|---------|------|------|-----|------|-----------|
+| **EverCommerce (PaySimple)** | Data Analyst — Payments | $95K–$115K | May 9 ⚠️ 9 days overdue | `EverCommerce_DataAnalystPayments_2026-05-07.docx` + CoverLetter (both exist in applications/) | Email Jodi Cohen (jcohen@evercommerce.com / 303-981-5543) first, then Workday R-104002. Warm referral via Justin Hebert — don't let it go cold. |
+| **Mercer Advisors** | Senior BI Analyst | Est $133K–$154K | May 16 ⚠️ 2 days overdue | None built yet | greenhouse.io/merceradvisors/jobs/5046203008 — Power BI expert req, Azure Synapse, Python. Best stack fit of all pending Ready roles. Build docs + apply. |
+| **Tilt Finance** | Sr. Business Intelligence Analyst | Est $100K–$129K | May 16 ⚠️ 2 days overdue | None built yet | jobs.ashbyhq.com/tilthq/1f0057ff-7509-4b6f-a6f2-c14c16d4cbc3. Fintech. Also check NIRA second opening. |
+| **Boulevard** | Staff Data Analyst | $122.5K–$158.4K | May 16 ⚠️ 2 days overdue | None built yet | greenhouse.io/boulevard/jobs/4671883006. B2B SaaS. Sigma-primary (address gap honestly). Highest comp of pending roles. |
+| **Engine (Hotel Engine)** | Sr. Revenue Insights Analyst | Est $139K–$189K TC | May 16 ⚠️ 2 days overdue | None built yet | greenhouse.io/engine/jobs/7691523003. B2B travel marketplace. Looker-primary — flag gap. |
+| **NMI** | Product Data Analyst | $90K–$120K | May 15 ⚠️ 3 days overdue | None built yet | greenhouse.io/nmi/jobs/5175297008. Fintech/payments. Power BI + BigQuery + dbt. Comp borderline — negotiate up. |
+| **Stellantis (Jeep)** | Business & Data Analyst | ~$85K est | May 9 ⚠️ White Whale | `Stellantis_BIAnalyst_2026-05-07.docx` + CoverLetter | ADP Job ID 2017348. Onsite Auburn Hills MI. White whale — JP evaluates comp/relocation. |
 
 ---
 
 ## Interview Prep Reminder
 
-**Crocs technical round is complete — an offer is in hand.** Prep files remain useful for negotiation calls to restate your value:
-
+**Crocs offer is in your inbox — technical round is complete.** Prep files remain useful for any negotiation call where you need to restate your technical value:
 - `prep/Crocs_Technical_SQL_Snowflake.md`
 - `prep/Crocs_Technical_DAX_PowerBI.md`
 - `prep/Crocs_Final_Conceptual.md`
 - `prep/Crocs_DayOf_CheatSheet.md`
 
-**Trimble** — Referral submitted May 13 via Eric Robinson (eric_robinson@trimble.com). Monitor for recruiter/HM outreach. Follow-up window opens May 21.
+**Trimble** — Referral submitted May 13 (Eric Robinson). Follow-up window opens May 21.
 
-**Hone Health** — Applied May 12, follow-up window opens May 19. $125K–$140K, Power BI + Python + Azure.
+**Hone Health** — Applied May 12. Follow-up window opens May 19. $125K–$140K, Power BI primary.
 
 ---
 
 ## New Leads Found
 
-*Three web searches conducted: general remote Power BI (greenhouse.io, LinkedIn), site:greenhouse.io senior BI power bi remote, builtincolorado.com BI/power bi analyst. Results cross-referenced against job-tracker.csv to remove already-handled entries.*
+*Searches run: (1) greenhouse.io/lever.co/ashby senior BI Power BI remote; (2) site:greenhouse.io senior BI power bi; (3) site:builtincolorado.com senior BI/power bi. Results cross-referenced against job-tracker.csv.*
 
 | Company | Role | Comp | Location | Link | Fit |
 |---------|------|------|----------|------|-----|
-| **Mercer Advisors** | Sr. Business Intelligence Analyst | Not posted (est $133K–$154K Glassdoor) | Remote US | greenhouse.io/merceradvisors/jobs/5046203008 | ✅ Power BI (expert req) + SQL + Python. Wealth mgmt/fintech. Posted March 10 — still active. Apply today. |
-| **Housecall Pro** | Sr. Business Analyst — Product | Not listed | Denver CO (hybrid) | builtincolorado.com/job/senior-business-analyst-product/6203399 | ⚠️ B2B SaaS home-services marketplace, Denver hybrid. Title skews product/requirements — verify BI/Power BI scope and comp before tailoring docs. |
-| **SimplePractice** | Business Intelligence Data Analyst | Not listed | Remote US | builtincolorado.com/job/business-intelligence-data-analyst/6767190 | ⚠️ B2B SaaS health/wellness. No "Senior" in title — verify level and stack. Lower priority; investigate if other leads dry up. |
+| **Trace3** ⭐ | Sr. BI Developer — Power BI | Not posted (market est $110K–$145K) | Remote US | greenhouse.io/trace3/jobs/7595018 | ✅ **STRONG MATCH.** *Note: tracker shows a different Trace3 role CLOSED (job 6338462). This is a NEW posting at a different job ID — active May 2026.* Power BI is the explicit centerpiece. Enterprise semantic models, DAX, RLS, governance, mentoring. IT services — clean industry. Apply immediately. |
+| **Enverus** | Sr. BI Analyst — Revenue Operations | $115K–$125K + bonus | Remote US | builtincolorado.com/job/senior-business-intelligence-analyst-revenue-operations-24478dd/189684 | ✅ **STRONG MATCH — comp confirmed.** Only lead this morning with publicly posted salary clearing $115K floor. Power BI expert req, Snowflake, Python. ⚠️ Clients are oil & gas companies (Chevron, BP, ExxonMobil) — JP decides if O&G data/analytics vertical is acceptable. |
+| **Angi** | Sr. Business Analyst — Commercial Analytics | $105K–$150K | Remote US | greenhouse.io/angi/jobs/8475881002 | ✅ **Apply.** Home services marketplace — JP's preferred industry type. Comp $105K–$150K (top of band clears preferred). Looker/Tableau/Power BI listed — be upfront which is primary. Two-sided marketplace + product analytics = strong background alignment. |
+| **Graham Healthcare Group** | Sr. Power BI Developer | Not posted (est $95K–$125K) | Remote US | builtincolorado.com/job/senior-power-bi-developer/4623208 | ⚠️ **Investigate comp first.** Power BI in the title, national remote role, healthcare (clean industry). Apply only if comp clears $115K — verify on application or screen. |
+| **ISC (Integrated Specialty Coverages)** | Sr. BI Analyst — Workers Comp | Not posted (est $95K–$130K) | Remote US | greenhouse.io/isccareers/jobs/4673045005 | ⚠️ Power BI + Snowflake stack is perfect. Insurance/Workers Comp industry (not excluded but not preferred). Requires WC domain knowledge — JP has none. Lower priority but strong stack match. |
 
-*Eliminated from search results (already in tracker or below criteria):*
-- **Trace3** — CLOSED Feb 26 (per tracker) ❌
-- **Tebra** — ELIMINATED (comp tops $115.5K, Tableau-primary) ❌
-- **Pax8** — ELIMINATED (comp below floor, confirmed May 14) ❌
-- **OppFi** — Comp $71K–$107K, below floor ❌
-- **StarRez** — Posting closed March 2026, Domo-only ❌
-- **Basis Technologies** — Ad-tech industry (flagged bad industry) ❌
+**Eliminated:**
+- OppFi — Sr. Analyst BI: $71K–$107K, well below floor ❌
+- StarRez — Domo-only, posting closed March 2026 ❌
+- Launch Potato — Looker-only + ad-tech industry (double exclusion) ❌
+- Bounteous — Lead BI Analyst: 9-month contract only ❌
+- Connections Health Solutions — Sr. BI Developer: requires Tableau primary alongside Power BI; comp unconfirmed ⚠️ (monitor)
 
 ---
 
 ## Recommended Actions Today
 
-1. **[DO FIRST] Open the Crocs DocuSign offer — do not wait another day.** Check: base salary vs. $125K preferred, non-compete clause, start date, Tue+Thu hybrid schedule. If at or above $125K with no non-compete: sign or counter same-day. If below: call Mary Spuler (303-848-7269) before signing. The envelope is 2 days old.
+1. **[URGENT — DO FIRST] Open the Crocs DocuSign offer.** Check your inbox for "Crocs, Inc. Offer of Employment: eSignature" from dse_NA3@docusign.net. The envelope is 3 days old and may expire in 2 days. Read every line: salary, non-compete, start date, hybrid schedule. If ≥$125K with no non-compete: sign or counter same day. If below: call Mary Spuler (mspuler@crocs.com / 303-848-7269) before signing.
 
-2. **[TODAY — LEVERAGE] Apply to Mercer Advisors** (greenhouse.io/merceradvisors/jobs/5046203008) — Power BI expert + SQL + Python is JP's exact stack; est $133K–$154K provides a real data point to cite in any Crocs counter-offer conversation.
+2. **[TODAY] Apply to Trace3 — Sr. BI Developer Power BI** (greenhouse.io/trace3/jobs/7595018). New posting, different from the closed Feb 2026 role. Power BI semantic modeling + governance is JP's exact wheelhouse. Build a lean cover letter and apply today — this is the strongest stack fit in today's search.
 
-3. **[TODAY] Send EverCommerce email to Jodi Cohen + submit Workday R-104002.** Docs already built. Warm referral — 20 minutes of effort to keep the relationship from going cold regardless of Crocs outcome.
+3. **[TODAY] Email Jodi Cohen at EverCommerce (PaySimple).** Warm referral via Justin Hebert, 9 days overdue. Docs already built in applications/. 20-minute task regardless of Crocs outcome — keep the relationship warm.
 
-4. **[THIS WEEK] Follow up with Hone Health (May 19) and Trimble (May 21)** when their respective follow-up windows open. Both are strong fits and provide additional fallback coverage.
+4. **[TODAY] Apply to Enverus — Sr. BI Analyst RevOps.** Only new lead today with a confirmed $115K+ salary range. Power BI + Snowflake is JP's exact stack. Decide on O&G client base comfort; if acceptable, apply now.
 
-5. **[TODAY] Update job-tracker.csv** — Mark Crocs as OFFER RECEIVED, note offer date May 15 and DocuSign deadline. Record decision once you've reviewed terms.
+5. **[THIS WEEK] Build docs and apply: Mercer Advisors → Boulevard → Tilt Finance.** All have passed their due dates. Mercer Advisors first (Power BI expert req, est $133–$154K). Each provides negotiating leverage if Crocs offer needs a counter.
 
 ---
-
-*Morning agent — 2026-05-17T13:15:00 UTC*
+*Morning agent — 2026-05-18T13:30:00 UTC*
