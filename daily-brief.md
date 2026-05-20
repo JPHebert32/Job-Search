@@ -86,3 +86,32 @@ New lead search superseded by accepted offer. Job search is concluded.
 ---
 
 *Morning agent — 2026-05-20T00:00:00 UTC | Job search concluded.*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+No actionable job-search emails since the morning run. Inbox activity was limited to:
+
+| Sender | Subject | Notes |
+|--------|---------|-------|
+| LinkedIn (×4) | Job alert: MASA BI Analyst, AssistRx BI Developer ($105K), Doyle Group Power BI Engineer ($125K), Vizient Analytics Associate | Automated alerts — not actionable; search concluded |
+| Advanced Energy | New jobs posted from jobs.advanced-energy.com | Talent community auto-alert from May 13 signup — not a response to application |
+| Misc promotional | Carl's Jr, Southwest, BoteBoard, Zwilling, Upstart, Nextdoor | Non-job-related |
+
+No responses from any open applications (Shutterfly, Zillow, Gusto, Machinify, Hone Health, Advanced Energy, Fanatics). No new recruiter outreach.
+
+### New Leads Found Midday
+
+Job search is concluded — new lead search not performed. Crocs onboarding is in progress.
+
+### Afternoon Priority
+
+1. **Complete I-9 Section 1** in SAP SuccessFactors if not already done — this is due Day 1 and takes only a few minutes.
+2. **Send withdrawal emails** to remaining open applications — Shutterfly, Zillow (×2), Gusto, Machinify, Hone Health, Advanced Energy, Fanatics. Protect your professional reputation and close the loop.
+3. **Update LinkedIn** — flip to "Not open to work" or post a role announcement to stop recruiter inbound and close out the job alert emails.
+
+---
+*Midday agent — 2026-05-20T18:00:00 UTC*
