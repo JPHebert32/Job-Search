@@ -105,3 +105,49 @@ Job search is concluded — leads below are logged for awareness only and are **
 ---
 
 *Morning agent — 2026-05-21T00:00:00 UTC | Job search concluded.*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+> ⚠️ **Gmail OAuth pending this session.** Authorization URL was generated and shared with JP — awaiting callback URL to complete the flow. No inbox scan possible until authorized. Paste the callback URL into the Claude Code chat to complete Gmail authentication.
+
+Based on the outstanding pipeline, the following responses remain possible but not expected:
+
+| Company | What to watch for |
+|---------|-------------------|
+| Shutterfly | Any TA response (portal only — no direct contact) |
+| Zillow Home Loans (P749151) | Workday status change or recruiter email |
+| Zillow Preferred Strategy (P750075) | Workday status change |
+| Gusto | Recruiter reply to May 6 follow-up |
+| Machinify | Greenhouse notification |
+| Hone Health | talent@honehealth.com reply |
+| Advanced Energy | SAP SuccessFactors notification |
+| Fanatics | LinkedIn notification |
+
+**Action required:** Send withdrawal emails to all 8 above — each takes ~2 minutes.
+
+### New Leads Found Midday
+
+Job search is concluded. Leads below are logged for awareness only — **not actionable.**
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| StarRez | Sr. Business Intelligence Analyst | $100K–$110K | Remote US | [Greenhouse](https://job-boards.greenhouse.io/starrez/jobs/5118067008) | ❌ Below $115K floor; primary tool is Domo (not Power BI); posting deadline passed Mar 2026 |
+| CareDx | Sr. Business Intelligence Analyst | Not listed | Remote | [Greenhouse](https://job-boards.greenhouse.io/caredxinc/jobs/4242824009) | ⚠️ SQL/Tableau/Power BI/Looker stack; healthcare diagnostics; comp unconfirmed — bookmark if Crocs falls through |
+| Bounteous | Lead BI Analyst (Adobe Analytics + Power BI) | Contract rate | Remote | [Lever](https://jobs.lever.co/bounteous/34332fca-ccb2-4f7f-95e2-e41c6792a056) | ❌ Contract only, 20 hrs/wk through Dec 2026 — not a permanent FTE role |
+| DigitalOcean | Sr. Business Intelligence Engineer | Not listed | Remote / Built In CO | [Built In CO](https://www.builtincolorado.com/job/senior-business-intelligence-engineer/6832358) | ⚠️ Cloud infra company; Power BI not confirmed; awareness only |
+
+*Sources: Greenhouse.io, Lever.co, Built In Colorado — May 21, 2026 midday.*
+
+### Afternoon Priority
+
+1. **Send the 8 withdrawal emails** — Shutterfly, Zillow ×2, Gusto, Machinify, Hone Health, Advanced Energy, Fanatics. Brief, warm, no details. This closes the loop on the search cleanly.
+2. **Complete Gmail OAuth** — paste the browser callback URL into this chat so the next agent run can scan your inbox automatically. The authorization URL is above in the chat.
+3. **Onboarding tasks in SuccessFactors** — confirm both DocuSign packages are fully executed, complete I-9 Section 1, and review the "Where to Go on Day 1" tile for Interlocken.
+
+---
+
+*Midday agent — 2026-05-21T19:00:00 UTC | Job search concluded — Crocs offer active.*
