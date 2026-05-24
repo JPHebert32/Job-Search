@@ -1,4 +1,4 @@
-# Job Search Brief — 2026-05-23 | Morning
+# Job Search Brief — 2026-05-24 | Morning
 # *** JOB SEARCH CONCLUDED — OFFER ACCEPTED ***
 
 ---
@@ -11,19 +11,15 @@ Hiring manager contact: **Mike Gura** — mgura@crocs.com
 
 ---
 
-## Gmail — New Activity (since yesterday)
+## Gmail — New Activity (since yesterday, 2026-05-23)
 
-| Company | Sender | Subject | Summary |
-|---------|--------|---------|---------|
-| Zillow Group | no-reply@careers.zillowgroup.com | "Update from Zillow Group" | **REJECTION** received May 22 at 11:23 PM — "decided to move forward with other candidates whose experience more closely aligns with the needs of this role." Standard form rejection for Sr. BI Analyst (Home Loans), req P749151. Moot — search concluded. **Tracker update needed: Zillow Home Loans → Rejected.** |
-| EverDriven | no-reply@us.greenhouse-mail.io | "Thank you for applying to EverDriven" | Application confirmation for Business Intelligence Analyst received May 22 at 7:45 PM via Greenhouse. ⚠️ **This application was submitted AFTER the Crocs offer was accepted (May 18).** Likely an Easy Apply submitted automatically via LinkedIn. **Withdraw immediately.** |
+No new application responses or recruiter outreach of note in the last 24 hours. Gmail activity consisted of LinkedIn job alert digests only (not actionable).
 
-**Recruiter outreach (informational — no action):**
+**Recruiter outreach (informational — not new, carries over from prior days):**
 
 | Sender | Subject | Summary |
 |--------|---------|---------|
-| Nikhil Gupta / Dice (May 20) | Urgent Hiring: Data Analyst: Remote: 2-Month Contract W2 | Contract-only, 2-month W2. Not relevant. |
-| Rohit Garg / Apetan Consulting (May 19) | Tableau Admin / BI Architect & Developer — Remote | Tableau Admin scope, staffing agency. Not relevant. |
+| Rohit Garg / Apetan Consulting (May 19) | Tableau Admin / BI Architect & Developer — Remote | Tableau Admin scope, staffing agency cold outreach. Not relevant. |
 
 ---
 
@@ -68,25 +64,29 @@ Prep files archived in `prep/` for reference:
 
 Job search is concluded. Leads below are logged for awareness only — **not actionable.**
 
-| Company | Role | Comp | Location | Fit | Notes |
-|---------|------|------|----------|-----|-------|
-| Mercer Advisors | Sr. BI Analyst | est $133K–$154K | Remote | ✅ | Power BI explicit + Azure Synapse + Python. Wealth mgmt/fintech. Was on Ready to Apply list — strong match. Informational only. [Greenhouse](https://job-boards.greenhouse.io/merceradvisors/jobs/5046203008) |
-| OppFi | Sr. Analyst, Business Intelligence | est $71K–$107K | Remote | ❌ | Below floor — fintech lending. Posted Feb 2026, likely filled. [Greenhouse](https://job-boards.greenhouse.io/opploans/jobs/7643812003) |
-| Connections Health Solutions | Sr. BI Developer | Not listed | Remote | ⚠️ | Tableau + Power BI, but healthcare and developer-skewed scope. [Greenhouse](https://job-boards.greenhouse.io/connectionshealthsolutions/jobs/4232437009) |
-| SimplePractice | BI Data Analyst | Not listed | Remote/CO | ⚠️ | Built In Colorado — not Senior title, healthcare SaaS. |
-| Housecall Pro | Sr. Business Analyst, Product | Not listed | Remote/CO | ⚠️ | Built In Colorado — product analyst scope, comp unknown. |
+| Company | Role | Comp | Location | Stack | Fit |
+|---------|------|------|----------|-------|-----|
+| ISC (Integrated Specialty Coverages) | Sr BI Analyst (Workers Comp) | Not listed | Remote US | Power BI + Snowflake | ⚠️ Insurance industry; JP is hired |
+| OppFi | Sr Analyst, Business Intelligence | Not listed | Remote US | Power BI | ⚠️ Alt-lending fintech; JP is hired |
+| CareDx | Sr Business Intelligence Analyst | Not listed | Remote US | Power BI | ⚠️ Healthcare; JP is hired |
+| NeueHealth | Sr Business Intelligence Analyst | Not listed | Remote US | Power BI | ⚠️ Healthcare; JP is hired |
+| USAA | Sr BI Analyst (Accounting & Finance) | $103K–$197K | Colorado | BI tools | ⚠️ Insurance/financial services arm; Colorado; JP is hired |
+| Bounteous | Lead BI Analyst | Not listed | Remote | Adobe Analytics + Power BI | ❌ 9-month contract only; JP is hired |
+| Ivanti | Sr Business Intelligence Analyst | Not listed | Remote (India only) | Power BI | ❌ Not US-based; JP is hired |
 
-*Sources: [Built In Colorado BI Jobs](https://www.builtincolorado.com/jobs/data-analytics/business-intelligence) · [Greenhouse.io Sr BI — Mercer Advisors](https://job-boards.greenhouse.io/merceradvisors/jobs/5046203008) · [Greenhouse.io Sr BI — OppFi](https://job-boards.greenhouse.io/opploans/jobs/7643812003)*
+*Note: Greenhouse job pages return 403 for unauthenticated fetch — details above sourced from search result snippets.*
+
+*Sources: [Greenhouse.io Sr BI Power BI](https://job-boards.greenhouse.io/) · [Built In Colorado BI Jobs](https://www.builtincolorado.com/jobs/data-analytics/business-intelligence)*
 
 ---
 
 ## Recommended Actions Today (Onboarding Priority)
 
-1. **Withdraw EverDriven application** — submitted May 22 after Crocs offer accepted; withdraw via Greenhouse portal today to avoid an awkward future encounter.
-2. **Complete Crocs onboarding in SAP SuccessFactors** — I-9 Section 1 (due Day 1), confirm both DocuSign packages executed, complete compliance modules. Contact Mike Gura at mgura@crocs.com with questions.
-3. **Send withdrawal emails to remaining open applications** — EverDriven, Shutterfly, Zillow (Preferred Strategy), Gusto, Machinify, Hone Health, Advanced Energy, Fanatics. Brief and warm — protects future networking.
-4. **Update job-tracker.csv** — Zillow Home Loans → Rejected (email May 22).
-5. **Update LinkedIn** — set status to "Not open to work" to halt recruiter inbound volume.
+1. **[URGENT] Complete I-9 Section 1 in SAP SuccessFactors** — Due Day 1 at Crocs. Email from May 19 is still starred/important. Log into the SuccessFactors portal and complete Section 1 before your June start date.
+2. **Complete compliance paperwork in SuccessFactors** — Second starred onboarding task from May 19. Log in and clear this now.
+3. **Confirm both DocuSign packages are fully executed** — Both showed as "Completed" on May 19, but log in to confirm nothing is pending.
+4. **Review "Where to Go on Your First Day"** — First-day location/parking details (Interlocken, Broomfield) available via tile in SuccessFactors portal.
+5. **Send withdrawal emails to remaining open applications** — Shutterfly, Zillow (Preferred Strategy, P750075), Gusto, Machinify, Hone Health, Advanced Energy, and Fanatics are still technically open. Brief, warm note protects future networking. Trimble already handled gracefully (Eric Robinson notified May 19, positive exchange).
 
 ---
 
@@ -105,4 +105,4 @@ Job search is concluded. Leads below are logged for awareness only — **not act
 
 ---
 
-*Morning agent — 2026-05-23T12:00:00 UTC | Job search concluded — Crocs onboarding active.*
+*Morning agent — 2026-05-24T00:00:00 UTC | Job search concluded — Crocs onboarding active.*
