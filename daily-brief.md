@@ -106,3 +106,32 @@ Job search is concluded. Leads below are logged for awareness only — **not act
 ---
 
 *Morning agent — 2026-05-24T00:00:00 UTC | Job search concluded — Crocs onboarding active.*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+No new emails since morning run. All inbox activity since 8 AM MDT consists of LinkedIn job alert digests (Boost Mobile Data Analyst II, Allstate Data Scientist, Gusto Strategic Ops Lead, Sprout Power BI Developer, DISH TV Data Analyst). None are application responses or recruiter outreach from tracked companies — not actionable.
+
+### New Leads Found Midday
+
+Job search is concluded. Leads below are for awareness only — **not actionable.**
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| SPECTRAFORCE | Power BI Developer | ~$50/hr (contract) | Remote/Denver CO | spectraforce.com | ⚠️ Contract only; JP is hired |
+| GSK Solutions Inc. | Power BI Developer | $65–$70/hr (contract) | Denver Metro CO | dice.com | ⚠️ 12-month contract; JP is hired |
+| Phoenix Energy | BI Developer/Analyst | Not listed | Colorado | builtincolorado.com | ⚠️ Energy sector; JP is hired |
+
+*Note: All new postings found today are staffing-agency or contract roles. No new permanent senior BI positions identified that are not already tracked.*
+
+### Afternoon Priority
+
+1. **[URGENT] Complete I-9 Section 1 in SAP SuccessFactors** — Due Day 1 at Crocs. Log in and complete before your June start date if not already done.
+2. **Send remaining withdrawal emails** — Shutterfly, Zillow (P750075), Gusto, Machinify, Hone Health, Advanced Energy, and Fanatics still technically open. Brief, warm notes protect future networking.
+3. **Confirm SuccessFactors compliance paperwork is complete** — Clear all onboarding tasks in the portal so nothing is pending heading into June.
+
+---
+*Midday agent — 2026-05-24T18:00:00 UTC*
