@@ -93,3 +93,36 @@ Job search is concluded. Leads below are logged for awareness only — **not act
 ---
 
 *Morning agent — 2026-05-25T09:00:00 UTC | Job search concluded — Crocs onboarding active.*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+| Sender | Subject | Summary |
+|--------|---------|---------|
+| LinkedIn (jobalerts-noreply@linkedin.com) | JP: 5 new jobs | All 5 are **Gusto** roles — GTM Analytics Engineer (Denver), two Principal PM Cash Flow (SF/NY), Principal Product Ops Manager (SF), Sr. Franchise Account Exec (Las Vegas). GTM Analytics Engineer is loosely adjacent to BI but scope mismatch; all others are PM/non-analytics. Not actionable — search concluded and JP already applied to Gusto (Revenue Ops). |
+
+No new responses from Crocs (Mike Gura), Shutterfly, Zillow, Machinify, Hone Health, or Advanced Energy.
+
+### New Leads Found Midday
+
+Job search is concluded. Leads below are logged for awareness only — **not actionable.**
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| DigitalOcean | Sr. Business Intelligence Engineer | Not listed | Boulder, CO | [Built In Colorado](https://www.builtincolorado.com/job/senior-business-intelligence-engineer/6832358) | ⚠️ Cloud/SaaS infra — solid industry fit; dbt expertise required (gap). Comp unconfirmed. JP is hired. |
+| Continuum Media Network | Sr. Business Intelligence Developer | Not listed | Littleton, CO | [Built In Colorado](https://www.builtincolorado.com/job/senior-business-intelligence-developer/181062) | ⚠️ Local (Littleton — 0 commute), ETL/dashboards/cloud stack. Ad-network adjacent — verify industry before flagging. Comp unconfirmed. JP is hired. |
+| Basis Technologies | Sr. Business Intelligence Developer | Not listed | Denver, CO | [Built In Colorado](https://www.builtincolorado.com/job/senior-business-intelligence-developer/3994059) | ❌ Ad-tech (excluded industry). JP is hired. |
+
+*Note: Posting dates unconfirmed — may be pre-existing listings. Search engine results did not surface genuinely new midday postings today.*
+
+### Afternoon Priority
+
+1. **Complete onboarding tasks in SAP SuccessFactors** — I-9 Section 1, DocuSign packages, and compliance paperwork. These are time-sensitive ahead of the June start date.
+2. **Send withdrawal emails to pending open applications** — Shutterfly, Zillow P750075, Gusto, Machinify, Hone Health, Advanced Energy, Fanatics. Brief, warm notes protect future networking relationships.
+3. **Decline Addison Group recruiter (Saber Cantrell)** — One-liner reply: recently accepted an offer, not available. Keeps the relationship clean.
+
+---
+*Midday agent — 2026-05-25T18:00:00 UTC*
