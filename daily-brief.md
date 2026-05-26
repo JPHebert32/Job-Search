@@ -1,4 +1,4 @@
-# Job Search Brief — 2026-05-25 | Morning
+# Job Search Brief — 2026-05-26 | Morning
 # *** JOB SEARCH CONCLUDED — OFFER ACCEPTED ***
 
 ---
@@ -11,13 +11,14 @@ Hiring manager contact: **Mike Gura** — mgura@crocs.com
 
 ---
 
-## Gmail — New Activity (since yesterday, 2026-05-24)
+## Gmail — New Activity (since yesterday, 2026-05-25)
 
 | Sender | Subject | Summary |
 |--------|---------|---------|
-| Saber Cantrell / Addison Group (sabercantrelladdisongroup@gmail.com) | Confidential Product Strategy Opportunity | Recruiter cold outreach — **Product Manager** role (scope mismatch, not BI/data). Generic targeting, no comp/company disclosed. Recommend brief decline: offer accepted elsewhere. |
-| LinkedIn (updates-noreply@linkedin.com) | YETI recently posted | YETI posted a Sr. Community **Marketing** Specialist (Hunt-focused) — not a BI/analytics role. White whale watch continues; no BI opening yet. |
-| LinkedIn (jobalerts-noreply@linkedin.com) | JP: 30+ new jobs | Digest includes Gusto Senior Data **Engineer** — wrong scope. Already applied Gusto (Revenue Ops). Not actionable. |
+| LinkedIn InMail — Eric Weissman, BSP (EMW Staffing Solutions) | "Possible Data/Lead Data Engineer Role — Boutique Consulting Firm — Denver Based/Remote" | Cold outreach for a full-time **Data/Lead Data Engineer** at an unnamed Denver-based boutique cloud solutions firm. Comp: $85–140K, remote + occasional travel (<5%). Vendor-agnostic ETL, data modeling, data migrations — scope leans **data engineering**, not BI/analyst. JP is hired. Decline politely. |
+| LinkedIn (jobs-noreply@linkedin.com) | "Your application to Sr. Supply Chain Analyst at Physician's Choice" | Application confirmation for a **Sr. Supply Chain Analyst** role — completely off-profile (supply chain, not BI/analytics). ⚠️ **Likely accidental LinkedIn Easy Apply.** Verify in LinkedIn "Applied Jobs" history and withdraw if so. |
+| LinkedIn (jobs-noreply@linkedin.com) | "Simply Protein for Pets is hiring for a Remote role" | Job digest — includes a Remote Senior Business Intelligence Analyst posting. Not actionable — JP is hired. |
+| LinkedIn (jobalerts-noreply@linkedin.com) | "GTM Analytics Engineer at Gusto" + "JP: 5 new jobs" | Automated job alerts. Not actionable. |
 
 No new responses from Shutterfly, Zillow, Gusto, Machinify, Hone Health, Advanced Energy, or Trimble.
 
@@ -27,7 +28,7 @@ No new responses from Shutterfly, Zillow, Gusto, Machinify, Hone Health, Advance
 
 **Job search is concluded.** No new applications needed.
 
-**Remaining open applications — withdrawal still pending (from May 24 brief):**
+**Remaining open applications — withdrawal still pending (carried from May 25 brief):**
 
 | Company | Role | Action |
 |---------|------|--------|
@@ -44,7 +45,7 @@ No new responses from Shutterfly, Zillow, Gusto, Machinify, Hone Health, Advance
 ## Interview Prep Reminder
 
 No prep needed — **Crocs offer is accepted and onboarding is active.**
-Prep files archived in `applications/` for reference:
+Prep files archived in `prep/` for reference:
 - `Crocs_Technical_SQL_Snowflake.md`
 - `Crocs_Technical_DAX_PowerBI.md`
 - `Crocs_Technical_Python_Databricks.md`
@@ -59,21 +60,22 @@ Job search is concluded. Leads below are logged for awareness only — **not act
 
 | Company | Role | Comp | Location | Link | Fit |
 |---------|------|------|----------|------|-----|
-| Ivanti | Sr. Business Intelligence Analyst | Not listed | Remote (US) | [Greenhouse](https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7660106003) | ⚠️ Strong Power BI match (4+ yrs, DAX, semantic modeling); comp unconfirmed. JP is hired. |
-| OppFi | Sr. Analyst, Business Intelligence | $71K–$107K | Remote (US) | [Greenhouse](https://job-boards.greenhouse.io/opploans/jobs/7643812003) | ❌ Below $115K floor. JP is hired. |
-| Connections Health Solutions | Sr. BI Developer | Not listed | Remote (US) | [Greenhouse](https://job-boards.greenhouse.io/connectionshealthsolutions/jobs/4232437009) | ⚠️ Healthcare industry; comp unknown. JP is hired. |
+| OppFi | Sr. Analyst, Business Intelligence | $71K–$107K (prior data) | Remote (US) | [Greenhouse](https://job-boards.greenhouse.io/opploans/jobs/7643812003) | ❌ Below $115K floor. JP is hired. |
+| NeueHealth | Sr. Business Intelligence Analyst | Not listed | Remote (US) | [Greenhouse](https://job-boards.greenhouse.io/neuehealth/jobs/5765660004) | ⚠️ Healthcare industry; Power BI match. JP is hired. |
+| CareDx | Sr. Business Intelligence Analyst | Not listed | Remote (US) | [Greenhouse](https://job-boards.greenhouse.io/caredxinc/jobs/4242824009) | ⚠️ Healthcare/medical device; Power BI. JP is hired. |
+| Simply Protein for Pets | Sr. Business Intelligence Analyst | Not listed | Remote | LinkedIn digest | ⚠️ Consumer brand — unknown comp. JP is hired. |
 
-*Note: Greenhouse job pages block unauthenticated fetch — details sourced from search result snippets.*
+*Note: Greenhouse pages are blocking unauthenticated fetch — details sourced from search snippets.*
 
 ---
 
 ## Recommended Actions Today (Onboarding Priority)
 
-1. **[URGENT] Complete I-9 Section 1 in SAP SuccessFactors** — Due Day 1. Log in and complete before your June start date if not already done.
-2. **Complete any remaining compliance paperwork** — Clear all open onboarding tasks in SuccessFactors portal.
-3. **Confirm both DocuSign packages are fully executed** — Log in to verify nothing is pending.
+1. **[URGENT] Complete any remaining SAP SuccessFactors onboarding tasks** — I-9 Section 1 is due Day 1. Log in to verify DocuSign ×2 and compliance paperwork are fully executed. Contact mgura@crocs.com with any questions.
+2. **Investigate the Physician's Choice supply chain application** — Check LinkedIn "Applied Jobs" history. If accidental Easy Apply, withdraw via LinkedIn immediately. Note outcome in job-tracker.csv.
+3. **Decline Eric Weissman's LinkedIn InMail** — One-liner: "Thanks for reaching out — I've recently accepted a new role and am no longer available, but will keep you in mind for the future." Keeps the relationship warm.
 4. **Send withdrawal emails to remaining open applications** — Shutterfly, Zillow P750075, Gusto, Machinify, Hone Health, Advanced Energy, Fanatics. Brief, warm notes protect future networking.
-5. **Decline Addison Group recruiter (Saber Cantrell)** — One-liner: recently accepted an offer, not available. Keeps the relationship clean.
+5. **Remove/hide LinkedIn "Open to Work" badge** — Update once your Crocs start date is confirmed. Update headline and current role after your first week.
 
 ---
 
@@ -92,37 +94,4 @@ Job search is concluded. Leads below are logged for awareness only — **not act
 
 ---
 
-*Morning agent — 2026-05-25T09:00:00 UTC | Job search concluded — Crocs onboarding active.*
-
----
-
-## Midday Update — 12:00 PM MDT
-
-### New Emails Since Morning
-
-| Sender | Subject | Summary |
-|--------|---------|---------|
-| LinkedIn (jobalerts-noreply@linkedin.com) | JP: 5 new jobs | All 5 are **Gusto** roles — GTM Analytics Engineer (Denver), two Principal PM Cash Flow (SF/NY), Principal Product Ops Manager (SF), Sr. Franchise Account Exec (Las Vegas). GTM Analytics Engineer is loosely adjacent to BI but scope mismatch; all others are PM/non-analytics. Not actionable — search concluded and JP already applied to Gusto (Revenue Ops). |
-
-No new responses from Crocs (Mike Gura), Shutterfly, Zillow, Machinify, Hone Health, or Advanced Energy.
-
-### New Leads Found Midday
-
-Job search is concluded. Leads below are logged for awareness only — **not actionable.**
-
-| Company | Role | Comp | Location | Link | Fit |
-|---------|------|------|----------|------|-----|
-| DigitalOcean | Sr. Business Intelligence Engineer | Not listed | Boulder, CO | [Built In Colorado](https://www.builtincolorado.com/job/senior-business-intelligence-engineer/6832358) | ⚠️ Cloud/SaaS infra — solid industry fit; dbt expertise required (gap). Comp unconfirmed. JP is hired. |
-| Continuum Media Network | Sr. Business Intelligence Developer | Not listed | Littleton, CO | [Built In Colorado](https://www.builtincolorado.com/job/senior-business-intelligence-developer/181062) | ⚠️ Local (Littleton — 0 commute), ETL/dashboards/cloud stack. Ad-network adjacent — verify industry before flagging. Comp unconfirmed. JP is hired. |
-| Basis Technologies | Sr. Business Intelligence Developer | Not listed | Denver, CO | [Built In Colorado](https://www.builtincolorado.com/job/senior-business-intelligence-developer/3994059) | ❌ Ad-tech (excluded industry). JP is hired. |
-
-*Note: Posting dates unconfirmed — may be pre-existing listings. Search engine results did not surface genuinely new midday postings today.*
-
-### Afternoon Priority
-
-1. **Complete onboarding tasks in SAP SuccessFactors** — I-9 Section 1, DocuSign packages, and compliance paperwork. These are time-sensitive ahead of the June start date.
-2. **Send withdrawal emails to pending open applications** — Shutterfly, Zillow P750075, Gusto, Machinify, Hone Health, Advanced Energy, Fanatics. Brief, warm notes protect future networking relationships.
-3. **Decline Addison Group recruiter (Saber Cantrell)** — One-liner reply: recently accepted an offer, not available. Keeps the relationship clean.
-
----
-*Midday agent — 2026-05-25T18:00:00 UTC*
+*Morning agent — 2026-05-26T07:00:00 UTC | Job search concluded — Crocs onboarding active.*
