@@ -95,3 +95,29 @@ Job search is concluded. Leads below are logged for awareness only — **not act
 ---
 
 *Morning agent — 2026-05-26T07:00:00 UTC | Job search concluded — Crocs onboarding active.*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+| Sender | Subject | Summary |
+|--------|---------|---------|
+| LinkedIn (jobs-noreply@linkedin.com) | "Your application was viewed by The Doyle Group" | The Doyle Group (large national staffing firm) viewed JP's application profile on LinkedIn at 10:34 AM MDT. Passive recruiter interest — **not actionable**. JP is hired. Reminder: removing the "Open to Work" badge will reduce this noise. |
+
+No new responses from Shutterfly, Zillow, Gusto, Machinify, Hone Health, Advanced Energy, or Fanatics.
+
+### New Leads Found Midday
+
+No new leads — **job search concluded May 18, 2026.** Active search suspended. Leads not tracked.
+
+### Afternoon Priority
+
+1. **[URGENT] Complete SAP SuccessFactors onboarding tasks** — I-9 Section 1, DocuSign ×2, and compliance paperwork. Contact mgura@crocs.com with any questions.
+2. **Withdraw remaining open applications** — Send brief, warm emails to Shutterfly, Zillow (P750075), Gusto, Machinify, Hone Health, Advanced Energy, and Fanatics. Protects future networking relationships.
+3. **Remove LinkedIn "Open to Work" badge** — Doyle Group view today is a reminder that recruiters are still finding you. Update LinkedIn once Crocs start date is confirmed.
+
+---
+
+*Midday agent — 2026-05-26T18:00:00 UTC*
