@@ -1,4 +1,4 @@
-# Job Search Brief — 2026-05-27 | Morning
+# Job Search Brief — 2026-05-28 | Morning
 # *** JOB SEARCH CONCLUDED — OFFER ACCEPTED ***
 
 ---
@@ -11,18 +11,17 @@ Hiring manager contact: **Mike Gura** — mgura@crocs.com
 
 ---
 
-## Gmail — New Activity (since yesterday, 2026-05-26)
+## Gmail — New Activity (since yesterday, 2026-05-27)
+
+No new recruiter outreach, application responses, or onboarding communications received since yesterday.
 
 | Sender | Subject | Summary |
 |--------|---------|---------|
-| JP → CrocsCommunications@crocs.com | New Hire Survey | JP completed and returned the New Hire Survey — onboarding continuing ✅ |
-| service@paypal.com | Crocs, Inc: $57.19 USD | PayPal purchase confirmation — **shoe purchase from Crocs retail store**, not HR/job related |
-| donotreply@crocs-email.com | We got your order. (You have great taste!) | Crocs retail order confirmation — shoe purchase, not job related |
-| jobalerts-noreply@linkedin.com | JP: 1 new job | LinkedIn job alert — Gusto GTM Analytics Engineer (not actionable; different from RevOps role previously applied to; JP is hired) |
-| jobs-noreply@linkedin.com | City Cast is hiring for a Remote role | LinkedIn digest promo — City Cast Data Analyst. Not actionable; JP is hired. |
+| jobs-noreply@linkedin.com | Senior Customer Lifecycle Analyst at Boost Mobile | LinkedIn job alert — Boost Mobile role. Not actionable; different title; JP is hired. |
+| jobs-noreply@linkedin.com | Bose Corporation is hiring for a E-commerce role | LinkedIn job digest — Bose Sr. Ecommerce Analyst. Not actionable; JP is hired. |
 
-No new responses from Shutterfly, Zillow, Gusto, Machinify, Hone Health, Advanced Energy, or Trimble since yesterday.
-Doyle Group application view (noted in yesterday's Midday Update) — no further contact received.
+**Carried from yesterday (confirmed still no new contact):**
+No new responses from Shutterfly, Zillow (P749151 + P750075), Gusto, Machinify, Hone Health, Advanced Energy, or Trimble.
 
 ---
 
@@ -30,19 +29,19 @@ Doyle Group application view (noted in yesterday's Midday Update) — no further
 
 **Job search is concluded.** No new applications needed.
 
-**Remaining open applications — withdrawal still pending (carried from May 26 brief):**
+**Pending withdrawals — not yet confirmed sent (carried from May 27 brief):**
 
-| Company | Role | Action |
-|---------|------|--------|
-| Shutterfly | Unknown role | Email TA team or use candidate portal |
+| Company | Role | How to Withdraw |
+|---------|------|-----------------|
+| Shutterfly | Unknown role | Email TA team or log into candidate portal |
+| Zillow Home Loans | Sr. BI Analyst (P749151) | Withdraw via Workday portal |
 | Zillow Preferred Strategy | Sr. BI Analyst (P750075) | Withdraw via Workday portal |
 | Gusto | Revenue Operations Analyst | Email recruiter or withdraw via portal |
-| Machinify | Sr. Business Insights Analyst | Email Greenhouse or recruiter |
+| Machinify | Sr. Business Insights Analyst | Email Greenhouse link or recruiter |
 | Hone Health | Sr. BI Analyst | Email talent@honehealth.com |
 | Advanced Energy | Sr. Data Analyst | Withdraw via SAP SuccessFactors portal |
 | Fanatics Betting & Gaming | Data Scientist III | Withdraw via LinkedIn (also: excluded industry) |
-| Zillow Home Loans | Sr. BI Analyst (P749151) | Withdraw via Workday portal |
-| Trimble | BI Analyst (R56123) — Referral Active | Email Eric Robinson (eric_robinson@trimble.com) to close gracefully |
+| Trimble | BI Analyst (R56123) — Referral Active | Email Eric Robinson (eric_robinson@trimble.com) — close gracefully, thank him for the referral |
 
 ---
 
@@ -64,22 +63,21 @@ Job search is concluded. Leads below logged for awareness only — **not actiona
 
 | Company | Role | Comp | Location | Link | Fit |
 |---------|------|------|----------|------|-----|
-| Trace3 (new req #7595018) | Sr. BI Developer — Power BI | Unknown | Remote (US) | [Greenhouse](https://job-boards.greenhouse.io/trace3/jobs/7595018) | ✅ Power BI explicit; prior req was closed Feb 2026 — new posting. JP is hired. |
-| OppFi | Sr. Analyst, Business Intelligence | $71K–$107K est | Remote (US) | [Greenhouse](https://job-boards.greenhouse.io/opploans/jobs/7643812003) | ❌ Below $115K floor. JP is hired. |
-| NeueHealth | Sr. Business Intelligence Analyst | Not listed | Remote (US) | [Greenhouse](https://job-boards.greenhouse.io/neuehealth/jobs/5765660004) | ⚠️ Healthcare industry; Power BI match. JP is hired. |
-| CareDx | Sr. Business Intelligence Analyst | Not listed | Remote (US) | [Greenhouse](https://job-boards.greenhouse.io/caredxinc/jobs/4242824009) | ⚠️ Healthcare/medical device; Power BI. JP is hired. |
-| SimplePractice | BI Data Analyst | Not listed | Remote / CO | [BuiltInColorado](https://www.builtincolorado.com/job/business-intelligence-data-analyst/6767190) | ⚠️ B2B SaaS (healthcare software); title not Senior. JP is hired. |
-| Gusto | GTM Analytics Engineer | Not listed | Remote | LinkedIn alert | ⚠️ Different from RevOps role applied to; Engineering-leaning scope. JP is hired. |
+| Connections Health Solutions | Sr. BI Developer | Not listed | Remote (US) | [Greenhouse](https://job-boards.greenhouse.io/connectionshealthsolutions/jobs/4232437009) | ⚠️ Healthcare. Tableau + Power BI. JP is hired. |
+| OppFi | Sr. Analyst, Business Intelligence | Est $71K–$107K | Remote (US) | [Greenhouse](https://job-boards.greenhouse.io/opploans/jobs/7643812003) | ❌ Below $115K floor. JP is hired. |
+| NeueHealth | Sr. Business Intelligence Analyst | Not listed | Remote (US) | [Greenhouse](https://job-boards.greenhouse.io/neuehealth/jobs/5765660004) | ⚠️ Healthcare. Power BI. JP is hired. |
+| CareDx | Sr. Business Intelligence Analyst | Not listed | Remote (US) | [Greenhouse](https://job-boards.greenhouse.io/caredxinc/jobs/4242824009) | ⚠️ Healthcare/medical device. Power BI. JP is hired. |
+| Mercer Advisors | Sr. Business Intelligence Analyst | Est $133K–$154K | Remote (likely) | [Greenhouse](https://job-boards.greenhouse.io/merceradvisors/jobs/5046203008) | ✅ Power BI explicit. Strong comp. **Already in tracker as Ready to Apply — moot, JP is hired.** |
 
 ---
 
 ## Recommended Actions Today (Onboarding Priority)
 
-1. **[URGENT] Complete SAP SuccessFactors onboarding tasks** — I-9 Section 1 is due Day 1. Log in to verify DocuSign ×2 and compliance paperwork are fully executed. Contact mgura@crocs.com with any questions.
-2. **Send withdrawal emails to remaining open applications** — Shutterfly, Zillow (P749151 + P750075), Gusto, Machinify, Hone Health, Advanced Energy, Fanatics. Brief, warm notes protect future networking. Trimble: email Eric Robinson directly since he submitted the referral.
-3. **Remove LinkedIn "Open to Work" badge** — Update once Crocs start date is officially confirmed. Update headline and current role after your first week.
-4. **Confirm hybrid schedule logistics** — Parking, badge, laptop pickup at Interlocken Broomfield. Reach out to Mike Gura if nothing has been communicated yet.
-5. **Update job-tracker.csv** — Mark Zillow, Gusto, Hone Health, Trimble, Advanced Energy, and Machinify as Withdrawn once emails are sent.
+1. **[URGENT] Complete SAP SuccessFactors onboarding tasks** — I-9 Section 1 is due Day 1. Verify DocuSign ×2 and compliance paperwork are fully executed. Contact mgura@crocs.com with any questions.
+2. **Send withdrawal emails to remaining open applications** — Shutterfly, Zillow (P749151 + P750075), Gusto, Machinify, Hone Health, Advanced Energy, Fanatics. Brief, warm notes protect future networking. Trimble: email Eric Robinson directly since he submitted a live referral.
+3. **Remove LinkedIn "Open to Work" badge** — Update once Crocs start date is confirmed. Update headline and current role title after your first week.
+4. **Confirm hybrid schedule logistics with Mike Gura** — Parking, badge, laptop pickup at Interlocken Broomfield. Email mgura@crocs.com if nothing has been communicated yet.
+5. **Update job-tracker.csv** — Mark Zillow, Gusto, Hone Health, Trimble, Advanced Energy, Machinify, and Fanatics as Withdrawn once withdrawal emails are sent.
 
 ---
 
@@ -98,4 +96,4 @@ Job search is concluded. Leads below logged for awareness only — **not actiona
 
 ---
 
-*Morning agent — 2026-05-27T07:00:00 UTC | Job search concluded — Crocs onboarding active.*
+*Morning agent — 2026-05-28T07:00:00 UTC | Job search concluded — Crocs onboarding active.*
