@@ -97,3 +97,34 @@ Job search is concluded. Leads below logged for awareness only — **not actiona
 ---
 
 *Morning agent — 2026-05-28T07:00:00 UTC | Job search concluded — Crocs onboarding active.*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+No new emails since morning run. Full inbox scan (8 AM–12 PM MDT) returned only promotional email and LinkedIn job alerts — no onboarding communications from Crocs, no withdrawal confirmations, no recruiter outreach.
+
+| Sender | Subject | Summary |
+|--------|---------|---------|
+| jobalerts-noreply@linkedin.com | Reporting Analyst II at Rocket | LinkedIn alert — not actionable; JP is hired. |
+| jobalerts-noreply@linkedin.com | Senior Reconciliation & Recovery Analyst at Healthfirst | LinkedIn alert — not actionable; JP is hired. |
+| jobalerts-noreply@linkedin.com | Sr. Analyst at Burtch Works: up to $120K/year | LinkedIn alert — not actionable; JP is hired. |
+| Various | Domino's, Carl's Jr., Upstart, Southwest, Citi, DataCamp | Promotional/financial — not job-related. |
+
+### New Leads Found Midday
+
+Job search is concluded. No new leads actioned. Web scan for "senior BI analyst" / "senior Power BI developer" remote Colorado returned no specific new postings beyond what was already logged. Market continues to show strong demand (1,000+ BI jobs in Denver metro on LinkedIn), but JP has no need to pursue.
+
+*No new leads logged — search concluded.*
+
+### Afternoon Priority
+
+1. **Complete SAP SuccessFactors onboarding** — I-9 Section 1 is due by Day 1. Verify DocuSign ×2 and any remaining compliance paperwork. Contact Mike Gura (mgura@crocs.com) if anything is unclear.
+2. **Send pending withdrawal emails today** — Shutterfly (portal or TA team), Zillow P749151 + P750075 (Workday), Gusto (portal or recruiter), Machinify (Greenhouse or recruiter), Hone Health (talent@honehealth.com), Advanced Energy (SuccessFactors portal), Fanatics (LinkedIn), and Trimble — email Eric Robinson (eric_robinson@trimble.com) directly, thank him for the referral.
+3. **Remove LinkedIn "Open to Work" badge** — Update headline and title once start date is confirmed with Mike Gura.
+
+---
+
+*Midday agent — 2026-05-28T18:00:00 UTC*
