@@ -100,3 +100,37 @@ Job search is concluded. Leads below logged for awareness only — **not actiona
 ---
 
 *Morning agent — 2026-05-29T07:00:00 UTC | Job search concluded — Crocs onboarding active.*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+No new application responses or recruiter outreach since the morning run.
+
+| Sender | Subject | Summary |
+|--------|---------|---------|
+| vailresortsdonotreply@noreply.jobs2web.com | "New jobs at Vail Resorts for you!" | Automated job alert — "Data & Reporting Analyst - HR, Broomfield CO." Not actionable — JP is hired. |
+| familysafety@microsoft.com | "Weekly activity report for Knox" | Family safety digest — not job-related. |
+| capitalone@notification.capitalone.com | "Your credit card payment is due" | Financial notification — not job-related. |
+| no.reply.alerts@chase.com | "Your Chase card is available to use with Paze" | Chase Paze activation notice — not job-related. |
+
+**No new contact from:** Crocs/Mike Gura, Shutterfly, Zillow (P749151 + P750075), Gusto, Machinify, Hone Health, Advanced Energy, Trimble/Eric Robinson, or Fanatics.
+
+### New Leads Found Midday
+
+Job search is concluded. No new actionable leads. Web search surfaced only contract/hourly Power BI Developer roles and generic job board aggregations — nothing new for FTE senior BI roles not already logged.
+
+| Company | Role | Comp | Location | Notes | Fit |
+|---------|------|------|----------|-------|-----|
+| — | — | — | — | No new FTE senior BI postings identified this midday cycle. JP is hired. | — |
+
+### Afternoon Priority
+
+1. **Send pending withdrawal emails** — Shutterfly, Zillow (P749151 + P750075), Gusto, Machinify, Hone Health, Advanced Energy, Fanatics. This week is the last clean window before Crocs Day 1.
+2. **Email Eric Robinson at Trimble** (eric_robinson@trimble.com) — brief, warm note thanking him for the referral and letting him know you accepted a role. Close gracefully.
+3. **Remove LinkedIn "Open to Work" badge** and update profile headline/title ahead of Day 1 at Crocs.
+
+---
+*Midday agent — 2026-05-29T18:00:00 UTC*
