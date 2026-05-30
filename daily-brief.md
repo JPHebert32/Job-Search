@@ -1,136 +1,102 @@
-# Job Search Brief — 2026-05-29 | Morning
-# *** JOB SEARCH CONCLUDED — OFFER ACCEPTED ***
+# Job Search Brief — 2026-05-30 | Morning
+
+> **JOB SEARCH COMPLETE — Crocs offer accepted May 18, 2026.**
+> **FIRST DAY IS MONDAY JUNE 1 — Orientation 8:30 AM MT at Broomfield. Details below.**
 
 ---
 
-## HEADLINE: Crocs Sr. BI Analyst — OFFER ACCEPTED May 18, 2026
+## Gmail — New Activity
 
-JP accepted the Senior Business Intelligence Analyst role at Crocs, Inc. on **May 18, 2026**.
-Onboarding commenced May 19 via SAP SuccessFactors. Start date: **June 2026**, Interlocken (Broomfield CO), hybrid Tue + Thu.
-Hiring manager contact: **Mike Gura** — mgura@crocs.com
+Three emails from Crocs received May 29, 2026. **No new contact from any other companies.**
 
----
+| Company | Sender | Subject | Summary |
+|---|---|---|---|
+| Crocs | Mike Gura (mgura@crocs.com) | Welcome to Crocs! | Personal welcome from manager. Mike will not be in CO until after JP's trip — Stephen Briscoe (Sr. BI Analyst peer) will be on-site Monday. Dress is casual; 99.9% of office wears Crocs/HeyDudes. Mike's cell: **520-262-2448** — text/call anytime this weekend. |
+| Crocs | Mike Gura (mgura@crocs.com) | Fw: New Hire Orientation — In-Person in Broomfield | Mike forwarded the orientation calendar invite because the original had JP's email truncated. **Start day confirmed: Monday June 1, 2026, 8:30 AM MT.** Full logistics below. |
+| Crocs | SAP SuccessFactors (crocshrnotifications@crocs.com) | Your buddy information has been updated | Onboarding buddy assignment updated in SuccessFactors portal — log in to review. |
 
-## Gmail — New Activity (since yesterday, 2026-05-28)
+### Orientation Logistics — Monday June 1, 2026
 
-No new recruiter outreach or application responses received.
-
-| Sender | Subject | Summary |
-|--------|---------|---------|
-| donotreply@crocs-email.com | "Comfort is on the way — your order has shipped!" | Crocs **product** order shipment — not job-related. |
-| jobalerts-noreply@linkedin.com | "Business Intelligence Report Developer at Humana: up to $121K/year" | LinkedIn job alert. FYI — JP is hired. |
-| jobalerts-noreply@linkedin.com | "Revenue Insights Lead at CLA (CliftonLarsonAllen)" | LinkedIn job alert. FYI — JP is hired. |
-| jobalerts-noreply@linkedin.com | "Data Analyst at Veriforce" | LinkedIn job alert. FYI — JP is hired. |
-| messages-noreply@linkedin.com | "See hiring trends for EdgeCore Digital Infrastructure" | LinkedIn digest — not actionable. |
-
-**No new contact from:** Shutterfly, Zillow (P749151 + P750075), Gusto, Machinify, Hone Health, Advanced Energy, or Trimble.
+- **Location:** Crocs, Inc. Broomfield Office — 500 Eldorado Blvd, Building 5, Broomfield CO
+- **Arrive by: 8:25 AM MT** (session starts 8:30 AM sharp)
+- **Day 1 Schedule:**
+  - 8:30–9:00 AM | Office Tour
+  - 9:00–9:30 AM | Product Intro
+  - 9:30–10:30 AM | Orientation Presentation
+  - 10:30–11:30 AM | **I-9 Processing, Badge Photos, IT Set-Up**
+  - 11:30 AM | Released to Stephen Briscoe (covering for Mike)
+- **Bring:** I-9 documents — 1 List A item (e.g. passport) **OR** 1 List B + 1 List C (e.g. driver's license + SS card)
+  - Full list: https://www.uscis.gov/i-9-central/form-i-9-acceptable-documents
 
 ---
 
 ## Pipeline — Action Required Today
 
-**Job search is concluded.** No new applications needed.
+**Job search is complete — all "Ready to Apply" rows are superseded by the Crocs offer (accepted May 18).**
 
-**Pending withdrawals — not yet confirmed sent (carried from May 28 brief):**
+Rows still showing "Ready to Apply" in the tracker for reference — none are actionable for applying:
 
-| Company | Role | How to Withdraw |
-|---------|------|-----------------|
-| Shutterfly | Unknown role | Email TA team or log into candidate portal |
-| Zillow Home Loans | Sr. BI Analyst (P749151) | Withdraw via Workday portal |
-| Zillow Preferred Strategy | Sr. BI Analyst (P750075) | Withdraw via Workday portal |
-| Gusto | Revenue Operations Analyst | Email recruiter or withdraw via portal |
-| Machinify | Sr. Business Insights Analyst | Email Greenhouse link or recruiter |
-| Hone Health | Sr. BI Analyst | Email talent@honehealth.com |
-| Advanced Energy | Sr. Data Analyst | Withdraw via SAP SuccessFactors portal |
-| Fanatics Betting & Gaming | Data Scientist III | Withdraw via LinkedIn (also: excluded industry — gambling) |
-| Trimble | BI Analyst (R56123) — Referral Active | Email Eric Robinson (eric_robinson@trimble.com) directly — close gracefully, thank him for the referral |
+| Company | Role | Note |
+|---|---|---|
+| EverCommerce (PaySimple) | Data Analyst Payments | Warm referral via Jodi Cohen — send a brief courtesy note |
+| Tilt Finance | Senior BI Analyst | Portal only — no action needed |
+| Boulevard | Staff Data Analyst | Not yet applied — no action needed |
+| Engine (Hotel Engine) | Senior Revenue Insights Analyst | Not yet applied — no action needed |
+| Mercer Advisors | Senior BI Analyst | Not yet applied — no action needed |
+| Stellantis (Jeep) | Business & Data Analyst (White Whale) | Not yet applied — no action needed |
+| NMI | Product Data Analyst | Not yet applied — no action needed |
+
+**Pending courtesy withdrawals** (still in-process with recruiter contact):
+
+| Company | Who to Contact |
+|---|---|
+| Trimble | Email Eric Robinson (eric_robinson@trimble.com) — warm, brief note thanking him for the referral |
+| Hone Health | Email talent@honehealth.com |
+| Advanced Energy | Withdraw via SAP SuccessFactors portal |
+| Shutterfly | Log into candidate portal or reply to TA |
+| Zillow (P749151 + P750075) | Withdraw via Workday |
+| Gusto | Withdraw via portal or email recruiter |
+| Machinify | Withdraw via Greenhouse or email |
+| Fanatics B&G | Withdraw via LinkedIn (note: gambling — excluded industry) |
 
 ---
 
-## Interview Prep Reminder
+## Onboarding Checklist (replaces Interview Prep)
 
-No prep needed — **Crocs offer is accepted and onboarding is active.**
-Prep files remain in `prep/` — useful for Day 1 orientation:
-- `Crocs_Technical_SQL_Snowflake.md`
-- `Crocs_Technical_DAX_PowerBI.md`
-- `Crocs_Technical_Python_Databricks.md`
-- `Crocs_Final_Conceptual.md`
-- `Crocs_DayOf_CheatSheet.md`
+The Crocs technical round is complete — JP is hired. `prep/` files are archived for Day 1 reference.
+
+Outstanding SuccessFactors tasks to complete **before Monday**:
+
+- [ ] I-9 Section 1 (online portion) — due Day 1 on-site
+- [ ] DocuSign × 2 — execute both documents in portal
+- [ ] Compliance paperwork — complete in SuccessFactors
+- [ ] Review buddy assignment in SuccessFactors portal (updated May 29)
+- [ ] Gather physical I-9 ID documents to bring Monday
 
 ---
 
 ## New Leads Found
 
-Job search is concluded. Leads below logged for awareness only — **not actionable.**
+*Included for archival completeness — JP is hired and not pursuing these.*
 
 | Company | Role | Comp | Location | Link | Fit |
-|---------|------|------|----------|------|-----|
-| Ivanti | Sr. Business Intelligence Analyst | Not listed | Remote (US) | [Greenhouse](https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7660106003) | ✅ B2B SaaS, Power BI 4+ yrs req — strong match. JP is hired. |
-| OppFi | Sr. Analyst, Business Intelligence | Est $71K–$107K | Remote (US) | [Greenhouse](https://job-boards.greenhouse.io/opploans/jobs/7643812003) | ❌ Below $115K floor. JP is hired. |
-| NeueHealth | Sr. Business Intelligence Analyst | Not listed | Remote (US) | [Greenhouse](https://job-boards.greenhouse.io/neuehealth/jobs/5765660004) | ⚠️ Healthcare. Power BI. JP is hired. |
-| AGILE Space Industries | Sr. BI Analyst | Not listed | Remote / Durango CO | [Greenhouse](https://boards.greenhouse.io/embed/job_app?token=4562683005) | ❌ Defense/space industry — excluded. |
-| SimplePractice | BI Data Analyst | Not listed | Remote | [BuiltIn CO](https://www.builtincolorado.com/job/business-intelligence-data-analyst/6767200) | ⚠️ Healthcare SaaS, non-Senior level likely. JP is hired. |
-| Humana | BI Report Developer | Up to $121K/yr | Remote | LinkedIn alert | ⚠️ Healthcare/insurance. Comp borderline. JP is hired. |
+|---|---|---|---|---|---|
+| StarRez | Senior BI Analyst | Not listed | Remote (US) | [Greenhouse](https://job-boards.greenhouse.io/starrez/jobs/5118067008) | ✅ BI-focused; edu-tech SaaS |
+| Connections Health Solutions | Sr BI Developer | Not listed | Remote (US) | [Greenhouse](https://job-boards.greenhouse.io/connectionshealthsolutions/jobs/4232437009) | ⚠️ Healthcare; Tableau + Power BI dual |
+| OppFi | Sr BI Analyst | Not listed | Remote (US) | [Greenhouse](https://job-boards.greenhouse.io/opploans/jobs/7643812003) | ⚠️ Fintech; posted Feb 2026 — likely stale |
+| Graham Healthcare Group | Sr Power BI Developer | Not listed | Remote / CO | [Built In CO](https://www.builtincolorado.com/job/senior-power-bi-developer/4623208) | ⚠️ Healthcare; strong Power BI stack match |
+| Housecall Pro | Sr Business Analyst - Product | Not listed | Remote / CO | [Built In CO](https://www.builtincolorado.com/job/senior-business-analyst-product/6203399) | ⚠️ Not BI-specific title |
 
 ---
 
-## Recommended Actions Today (Onboarding Priority)
+## Recommended Actions Today (Weekend — May 30–31)
 
-1. **[URGENT] Complete SAP SuccessFactors onboarding tasks before Day 1** — I-9 Section 1 is due on-site Day 1. Confirm DocuSign ×2 and compliance paperwork are fully executed.
-2. **[URGENT] Confirm Day 1 logistics with Mike Gura** (mgura@crocs.com) — arrival time, parking at Interlocken Broomfield, badge, laptop pickup.
-3. **Send pending withdrawal emails this week** — Shutterfly, Zillow (P749151 + P750075), Gusto, Machinify, Hone Health, Advanced Energy, Fanatics. Trimble: email Eric Robinson directly — brief, warm note thanking him for the referral.
-4. **Remove LinkedIn "Open to Work" badge** — Once start date is confirmed, update headline and role title.
-5. **Review `prep/Crocs_DayOf_CheatSheet.md`** — Stack, team context, and talking points before your first day at Interlocken.
-
----
-
-## Search-to-Hire Summary
-
-| Metric | Value |
-|--------|-------|
-| Search duration | April 13 – May 18, 2026 (35 days) |
-| Applications submitted | ~15 active |
-| Rejections received | Leprino, Guild, Zillow Home Loans (likely), Trimble |
-| Withdrawn by JP | Xcel Energy, EverPro, Kroenke (pay), Trace3 (closed), Pax8, Litera, Tebra, PopSockets |
-| Pending withdrawal | Shutterfly, Zillow P749151 + P750075, Gusto, Machinify, Hone Health, Advanced Energy, Fanatics, Trimble |
-| **Final outcome** | **Sr. BI Analyst, Crocs Inc. — OFFER ACCEPTED May 18, 2026** |
-| Start date | June 2026 — Interlocken, Broomfield CO — Hybrid Tue/Thu |
-| Compensation | Up to $127K |
+1. **Gather I-9 documents tonight** — passport (List A) or driver's license + SS card/birth certificate (List B+C). I-9 processing is at 10:30 AM Monday.
+2. **Complete remaining SuccessFactors tasks** before Monday morning — I-9 Section 1, DocuSign × 2, compliance paperwork, check buddy assignment.
+3. **Map the route** — 500 Eldorado Blvd, Building 5, Broomfield CO. Leave early to be at the door by 8:25 AM. It is a hybrid role (Tue + Thu) — Monday Day 1 is in-person.
+4. **Save Mike Gura's cell** — 520-262-2448. Text/call over the weekend with any questions. He will be remote Monday but Stephen Briscoe (Sr. BI peer) will meet you after orientation.
+5. **Send courtesy withdrawal emails this weekend** — at minimum: Eric Robinson at Trimble (referral — close warmly) and Jodi Cohen at EverCommerce (warm referral). Others can be done early next week.
 
 ---
 
-*Morning agent — 2026-05-29T07:00:00 UTC | Job search concluded — Crocs onboarding active.*
-
----
-
-## Midday Update — 12:00 PM MDT
-
-### New Emails Since Morning
-
-No new application responses or recruiter outreach since the morning run.
-
-| Sender | Subject | Summary |
-|--------|---------|---------|
-| vailresortsdonotreply@noreply.jobs2web.com | "New jobs at Vail Resorts for you!" | Automated job alert — "Data & Reporting Analyst - HR, Broomfield CO." Not actionable — JP is hired. |
-| familysafety@microsoft.com | "Weekly activity report for Knox" | Family safety digest — not job-related. |
-| capitalone@notification.capitalone.com | "Your credit card payment is due" | Financial notification — not job-related. |
-| no.reply.alerts@chase.com | "Your Chase card is available to use with Paze" | Chase Paze activation notice — not job-related. |
-
-**No new contact from:** Crocs/Mike Gura, Shutterfly, Zillow (P749151 + P750075), Gusto, Machinify, Hone Health, Advanced Energy, Trimble/Eric Robinson, or Fanatics.
-
-### New Leads Found Midday
-
-Job search is concluded. No new actionable leads. Web search surfaced only contract/hourly Power BI Developer roles and generic job board aggregations — nothing new for FTE senior BI roles not already logged.
-
-| Company | Role | Comp | Location | Notes | Fit |
-|---------|------|------|----------|-------|-----|
-| — | — | — | — | No new FTE senior BI postings identified this midday cycle. JP is hired. | — |
-
-### Afternoon Priority
-
-1. **Send pending withdrawal emails** — Shutterfly, Zillow (P749151 + P750075), Gusto, Machinify, Hone Health, Advanced Energy, Fanatics. This week is the last clean window before Crocs Day 1.
-2. **Email Eric Robinson at Trimble** (eric_robinson@trimble.com) — brief, warm note thanking him for the referral and letting him know you accepted a role. Close gracefully.
-3. **Remove LinkedIn "Open to Work" badge** and update profile headline/title ahead of Day 1 at Crocs.
-
----
-*Midday agent — 2026-05-29T18:00:00 UTC*
+*Morning agent — 2026-05-30T08:00:00 UTC | Job search concluded — Crocs Day 1 in 2 days.*
