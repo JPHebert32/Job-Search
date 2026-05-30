@@ -100,3 +100,32 @@ Outstanding SuccessFactors tasks to complete **before Monday**:
 ---
 
 *Morning agent — 2026-05-30T08:00:00 UTC | Job search concluded — Crocs Day 1 in 2 days.*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+No new job-related emails or recruiter outreach since the morning run.
+
+⚠️ **Non-job flag:** A Wells Fargo fraud alert arrived May 29 at ~5:46 PM MDT — "unusual activity on your Debit Card ending in 4496." This predates today's morning run but was not flagged at the time. Log in to review your account if you haven't already.
+
+### New Leads Found Midday
+
+*Job search concluded — searches run per protocol. No new actionable leads.*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---|---|---|---|---|---|
+| — | — | — | — | — | — |
+
+No new Senior BI Analyst or Senior Power BI Developer postings identified on Built In Colorado, LinkedIn, or Greenhouse today that aren't already tracked. Web search confirmed mostly already-known listings (StarRez, CareDx, Bounteous — all previously reviewed or out of scope). Job search is closed.
+
+### Afternoon Priority
+
+1. **SuccessFactors portal** — Complete I-9 Section 1, DocuSign ×2, and compliance paperwork before Monday. Check buddy assignment (updated May 29).
+2. **I-9 documents** — Set aside your passport (List A) OR driver's license + SS card/birth certificate (List B+C) for Monday's in-person processing at 10:30 AM.
+3. **Courtesy withdrawals** — Email Eric Robinson (eric_robinson@trimble.com) and Jodi Cohen (jcohen@evercommerce.com) today; both are warm contacts who deserve a personal close-out note before you start Monday.
+
+---
+*Midday agent — 2026-05-30T18:00:00 UTC | Job search concluded — Crocs Day 1 in 2 days.*
