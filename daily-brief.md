@@ -101,3 +101,31 @@ Outstanding tasks to complete **before tomorrow morning**:
 ---
 
 *Morning agent — 2026-05-31T07:00:00 UTC | Job search concluded — Crocs Day 1 tomorrow.*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+| Company | Sender | Subject | Summary |
+|---|---|---|---|
+| Crocs / ADP | SecurityServices_NoReply@adp.com | Welcome to ADP! Register today | **Action required.** Crocs is partnering with ADP for payroll and HR access. Registration takes ~2 minutes. Complete before end of day so payroll access is live on Day 1. |
+
+All other inbox activity since 8 AM is personal/commercial (Domino's promo, Nextdoor neighborhood alerts, Capital One payment reminder, LinkedIn job alerts — none job-search related).
+
+### New Leads Found Midday
+
+*Job search is complete — JP starts at Crocs tomorrow. No new leads being tracked.*
+
+*(For reference: LinkedIn job alerts surfaced "Senior BI Analyst at LPGA" and "BI Analytics Engineer at Eaton" — neither pursued; archived.)*
+
+### Afternoon Priority
+
+1. **Register for ADP** — New email arrived 9:51 AM from SecurityServices_NoReply@adp.com. Register before end of day so payroll, pay stubs, and W-2 access are active from Day 1. Check inbox for the registration link.
+2. **Finish SuccessFactors tasks tonight** — I-9 Section 1, DocuSign × 2, compliance paperwork, and buddy assignment review. All due before 8:30 AM tomorrow.
+3. **Send courtesy close-outs** — Personal notes to Eric Robinson at Trimble (eric_robinson@trimble.com) and Jodi Cohen at EverCommerce (jcohen@evercommerce.com) — both warm referrals who deserve a personal heads-up before you start Monday.
+
+---
+
+*Midday agent — 2026-05-31T18:00:00 UTC*
