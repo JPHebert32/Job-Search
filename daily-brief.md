@@ -91,3 +91,30 @@ Today's in-person schedule at Crocs Broomfield (500 Eldorado Blvd, Bldg 5):
 ---
 
 *Morning agent — 2026-06-01T14:00:00Z UTC | Day 1 at Crocs — good luck, JP!*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+| Sender | Subject | Summary |
+|--------|---------|---------|
+| **Stephen Briscoe** (sbriscoe@crocs.com) | RE: Welcome to Crocs! | Replied at 8:57 AM MT — offered cell (720-885-2227) if JP had any trouble getting into the building. |
+| **JP → Stephen** (sent 9:25 AM MT) | Re: Welcome to Crocs! | ✅ **JP confirmed: "I'm in orientation now. I'll give you a call once we are done to sync up."** — Orientation is underway. |
+
+*All other inbox activity is routine noise: LinkedIn job alerts (Data Analyst II at Sundayy, BI Analyst at Honest Health), USPS delivery notification, Capital One AutoPay, Longmont Dairy invoice, promotional emails.*
+
+### New Leads Found Midday
+
+*JP is employed at Crocs as of today — no new leads to act on. LinkedIn alerts noted and disregarded.*
+
+### Afternoon Priority
+
+1. **Call/text Stephen Briscoe (720-885-2227)** once orientation wraps — sync on desk location, team introductions, and first-week logistics.
+2. **Complete ADP registration** at workforcenow.adp.com using code **`cu0ny96k`** — must be done before first paycheck to set up direct deposit.
+3. **Finish SuccessFactors portal tasks** — DocuSign × 2, compliance paperwork, and any remaining I-9 pre-fill items from this morning's processing.
+
+---
+
+*Midday agent — 2026-06-01T18:00:00Z UTC*
