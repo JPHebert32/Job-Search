@@ -71,3 +71,27 @@ No active interview rounds. All prep materials in `prep/` can be archived.
 ---
 
 *Morning agent — 2026-06-02T00:00:00 UTC | Day 2 at Crocs — go get 'em, JP!*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+No new emails from tracked companies, recruiters, or BI/data hiring contacts since the morning run. Inbox contains only marketing emails (Citi, Capital One, Southwest), neighborhood alerts (Nextdoor), automated LinkedIn job alerts (irrelevant — JP is hired), and personal notifications. Nothing requiring action.
+
+### New Leads Found Midday
+*Job search is closed — JP is employed at Crocs as of June 1, 2026. Leads logged for archive only.*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| OppFi | Sr. Analyst, Business Intelligence | Not listed | Remote (IL HQ) | [Greenhouse](https://job-boards.greenhouse.io/opploans/jobs/7643812003) | ✅ Fintech — moot |
+| GitLab | Sr. Data Analyst, Enterprise Analytics | Not listed | Remote | [Greenhouse](https://job-boards.greenhouse.io/gitlab/jobs/8478359002) | ✅ B2B SaaS — moot |
+| Basis Technologies | Sr. BI Developer | Not listed | Remote | [Built In Colorado](https://www.builtincolorado.com/job/senior-business-intelligence-developer/3994059) | ❌ Ad-tech (excluded industry) — moot |
+
+### Afternoon Priority
+1. **Complete ADP / SuccessFactors onboarding tasks** — ADP registration (code: `cu0ny96k`), any remaining DocuSign or compliance paperwork. Must be done before first paycheck processes.
+2. **Send personal withdrawal emails to Trimble (Eric Robinson) and EverCommerce (Jodi Cohen)** — both warm referrals who invested real time; a short personal note protects those relationships long-term.
+3. **Bulk withdraw from remaining open applications** — Hone Health, Advanced Energy, Shutterfly, Zillow ×2, Gusto, Machinify. A brief "accepted another offer, thank you" closes each loop professionally.
+
+---
+*Midday agent — 2026-06-02T18:00:00 UTC*
