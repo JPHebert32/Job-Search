@@ -1,120 +1,73 @@
-# Job Search Brief — 2026-06-01 | Morning
+# Job Search Brief — 2026-06-02 | Morning
 
-> **🎉 JOB SEARCH COMPLETE. TODAY IS DAY 1 AT CROCS.**
-> **Orientation: 8:30 AM MT — 500 Eldorado Blvd, Building 5, Broomfield, CO**
-> **Arrive by 8:20 AM. Mike Gura is NOT on-site today — Stephen Briscoe (sbriscoe@crocs.com) will cover.**
+> **✅ HIRED AT CROCS — DAY 2.** Offer accepted May 18. Day 1 orientation completed June 1.
+> Job search is closed. This brief covers onboarding follow-through and any residual pipeline close-outs.
 
 ---
 
-## Gmail — New Activity
+## Gmail — New Activity Since Yesterday Midday
 
 | Company | Sender | Subject | Summary |
 |---------|--------|---------|---------|
-| **Crocs / ADP** | SecurityServices_NoReply@adp.com | "Welcome to ADP! Register today" | **ACTION REQUIRED.** Received May 31. Crocs uses ADP Workforce Now for payroll/HR. Register at workforcenow.adp.com — sign-up code: **`cu0ny96k`** (or use the button in the email). ~2 minutes. Needed for direct deposit and paystub access. Complete today. |
-| **Unison Systems** | dsedillo@unisonsystems.com | "Metrics & Reporting Designer/Analyst opportunity with Unison Systems." | Inbound recruiter, received June 1 this morning. Role: Metrics & Reporting Designer/Analyst — **DTC hybrid (3 days in office), 12-month contract, $90–$100/hr** (~$187K–$208K annualized). Now moot given Crocs Day 1. Consider a polite decline reply this week to keep the contact warm. |
+| **Crocs** | mgura@crocs.com (Mike Gura) | FW: Weekly Eng / FEEDA Sprint Planning Connect | Mike forwarded the recurring Engineering + FEEDA analytics sprint planning Teams meeting invite to JP's personal email (received 3:04 PM MT June 1). Weekly cadence reviewing Jira queue for projects EDPR, CAD, DAMI, PAPI. Teams link: meet ID 224 604 344 709 90 / passcode jJ6Yx2Vb. JP is being pulled into the team's regular sprint rhythm from Day 1. **Add this recurring meeting to calendar now.** |
+| LinkedIn | jobalerts-noreply@linkedin.com | Business Intelligence Analyst at SRS Acquiom | Automated job alert ×2 — irrelevant, JP is hired. |
+| LinkedIn | jobalerts-noreply@linkedin.com | JP: 12 new jobs | Digest including Gusto Sr. Sales Compensation Analyst — irrelevant, JP is hired. |
+| LinkedIn | jobs-noreply@linkedin.com | Purple is hiring for an E-commerce role | Automated recruiting email — irrelevant, JP is hired. |
 
-*LinkedIn job alerts (Connect for Health Colorado Product Data Analyst ×3, Gusto "30+ new jobs") — routine noise, no action needed.*
+*Note: Yesterday's Stephen Briscoe + JP orientation confirmation emails were captured in the June 1 midday update. Day 1 orientation was completed successfully.*
 
 ---
 
 ## Pipeline — Action Required Today
 
-**Job search is complete. All "Ready to Apply" roles are superseded by the Crocs offer accepted May 18.**
+**No active job applications require action.** JP is employed at Crocs as of June 1, 2026.
 
-No new applications to send. Remaining open items are courtesy withdrawals — send this week now that Day 1 is underway.
+Remaining courtesy withdrawals not yet confirmed sent — these are warm contacts who invested time and deserve a personal close:
 
-| Company | Role | Action |
-|---------|------|--------|
-| Trimble | BI Analyst | Email Eric Robinson (eric_robinson@trimble.com) — warm referral, personal close |
-| EverCommerce (PaySimple) | Data Analyst Payments | Email Jodi Cohen (jcohen@evercommerce.com) — warm referral via Justin Hebert, personal close |
-| Hone Health | Sr BI Analyst | Email talent@honehealth.com |
-| Advanced Energy | Sr Data Analyst | Withdraw via SAP SuccessFactors portal |
-| Shutterfly | Unknown | Log in to candidate portal or reply to TA team |
-| Zillow (P749151 + P750075) | Sr BI Analyst ×2 | Withdraw via Workday |
-| Gusto | Revenue Ops Analyst | Withdraw via portal |
-| Machinify | Sr BI Analyst | Withdraw via Greenhouse |
-
-*Ready to Apply roles (EverCommerce, Tilt Finance, Boulevard, Engine, Mercer Advisors, NMI, Stellantis) — no action needed, not yet applied.*
+| Company | Contact | Action |
+|---------|---------|--------|
+| Trimble | Eric Robinson — eric_robinson@trimble.com (referral) | Send personal withdrawal email — he joined a Gong call May 13 to refer JP |
+| EverCommerce (PaySimple) | Jodi Cohen — jcohen@evercommerce.com / 303-981-5543 | Send personal withdrawal email or call — warm referral via Justin Hebert |
+| Hone Health | talent@honehealth.com | Brief withdrawal email |
+| Advanced Energy | SAP SuccessFactors portal | Withdraw via portal |
+| Shutterfly | TA team / candidate portal | Log in and withdraw |
+| Zillow (P749151 + P750075) | Workday portal | Withdraw both reqs |
+| Gusto | Application portal | Withdraw |
+| Machinify | Greenhouse | Withdraw |
 
 ---
 
-## Onboarding Checklist (replaces Interview Prep)
+## Interview Prep Reminder
 
-Today's in-person schedule at Crocs Broomfield (500 Eldorado Blvd, Bldg 5):
+No active interview rounds. All prep materials in `prep/` can be archived.
 
-| Time | Event |
-|------|-------|
-| **8:20 AM MT** | Arrive (buffer for parking) |
-| 8:30–9:00 AM | Office Tour |
-| 9:00–9:30 AM | Product Intro |
-| 9:30–10:30 AM | Orientation Presentation |
-| **10:30–11:30 AM** | **I-9 Processing, Badge Photos, IT Set-Up** |
-| 11:30 AM | Released to Stephen Briscoe (covering for Mike Gura) |
-
-**Bring your I-9 documents:**
-- List A: Passport (one item), **OR**
-- List B + C: Driver's license + Social Security card / birth certificate
-
-**Remaining SuccessFactors portal tasks:**
-- [ ] I-9 Section 1 (online pre-fill if not already done — in-person Section 2 is at 10:30 AM)
-- [ ] DocuSign × 2
-- [ ] Compliance paperwork
-- [ ] ADP registration (code: `cu0ny96k` at workforcenow.adp.com)
-
-**Key contacts today:**
-- Stephen Briscoe (on-site peer): sbriscoe@crocs.com
-- Mike Gura (manager, remote today): mgura@crocs.com | 520-262-2448
+**Crocs Day 2 onboarding contacts:**
+- **Mike Gura** (hiring manager, not yet in CO): mgura@crocs.com | 520-262-2448
+- **Stephen Briscoe** (peer Sr. BI Analyst, on-site): sbriscoe@crocs.com | 720-885-2227
 
 ---
 
 ## New Leads Found
 
-*Included for reference only — JP is employed. File for future use if needed.*
+*Searches completed for close-out record only. JP is employed — no action needed.*
 
 | Company | Role | Comp | Location | Link | Fit |
 |---------|------|------|----------|------|-----|
-| Integrated Specialty Coverages (ISC) | Sr BI Analyst (Workers Comp) | Not listed | Remote US | [Greenhouse](https://job-boards.greenhouse.io/isccareers/jobs/4673045005) | ✅ Power BI + Snowflake — strong stack match. Insurance/PE industry. |
-| Torc Robotics | Senior BI Analyst | Not listed | TBD | [Greenhouse](https://job-boards.greenhouse.io/torcrobotics/jobs/8543832002) | ⚠️ Power BI 5+ yrs match. Autonomous vehicle tech. Comp unknown. |
-| ChargePoint | Senior Business Intelligence Analyst | Not listed | TBD | [Greenhouse](https://job-boards.greenhouse.io/chargepoint/jobs/8415247002) | ⚠️ Clean energy/EV — acceptable industry. Stack/comp unconfirmed. |
-| Mercer Advisors | Senior BI Analyst | Est $133K–$154K | Remote US | [Greenhouse](https://job-boards.greenhouse.io/merceradvisors/jobs/5046203008) | ✅ Power BI + Azure Synapse, strong comp. Already in tracker. |
+| Connections Health Solutions | Sr BI Developer | Not listed | Remote | [Greenhouse](https://job-boards.greenhouse.io/connectionshealthsolutions/jobs/4232437009) | ⚠️ Healthcare; Tableau + Power BI — moot |
+| CareDx | Sr BI Analyst | Not listed | Remote | [Greenhouse](https://job-boards.greenhouse.io/caredxinc/jobs/4242824009) | ⚠️ Healthcare/diagnostics — moot |
+| Mercer Advisors | Sr BI Analyst | est $133K–$154K | Remote | [Greenhouse](https://job-boards.greenhouse.io/merceradvisors/jobs/5046203008) | ✅ Power BI + Azure Synapse — already in tracker, moot |
+| SimplePractice | BI Data Analyst | Not listed | Remote/CO | [BuiltInColorado](https://www.builtincolorado.com/job/business-intelligence-data-analyst/6767190) | ⚠️ Health SaaS — moot |
 
 ---
 
 ## Recommended Actions Today
 
-1. **[RIGHT NOW] Drive to 500 Eldorado Blvd, Bldg 5, Broomfield** — Orientation 8:30 AM MT. Arrive by 8:20. Bring I-9 docs.
-2. **[TODAY] Register for ADP** at workforcenow.adp.com using code **`cu0ny96k`** — sets up payroll and direct deposit before your first paycheck.
-3. **[TODAY] Complete SuccessFactors portal tasks** — I-9 Section 1 (pre-fill), DocuSign × 2, compliance paperwork. In-person I-9 processing is at 10:30 AM.
-4. **[THIS WEEK] Send courtesy withdrawal emails** to Trimble (Eric Robinson) and EverCommerce (Jodi Cohen) — both warm referrals who invested time. Personal notes go a long way.
-5. **[THIS WEEK] Withdraw from remaining active applications** — Hone Health, Advanced Energy, Shutterfly, Zillow ×2, Gusto, Machinify. Brief "accepted another offer, thank you" closes the loop professionally.
+1. **Add the FEEDA sprint planning meeting to your calendar** — Mike Gura forwarded the recurring Teams invite last night (ID: 224 604 344 709 90). This is the weekly Eng/Analytics sync for your team. Don't miss it.
+2. **Complete any remaining ADP / SuccessFactors tasks** — ADP registration (code: `cu0ny96k` at workforcenow.adp.com), DocuSign ×2 if not finished, compliance paperwork. Must be done before first paycheck.
+3. **Call or text Stephen Briscoe (720-885-2227)** — sync on desk area, team intros, and first-week logistics now that orientation is behind you.
+4. **Send personal withdrawal emails to Trimble (Eric Robinson) and EverCommerce (Jodi Cohen)** — both warm referrals; a short personal note protects those relationships.
+5. **Bulk withdraw from remaining open applications** (Hone Health, Advanced Energy, Shutterfly, Zillow ×2, Gusto, Machinify) — brief "accepted another offer, thank you" closes each loop professionally.
 
 ---
 
-*Morning agent — 2026-06-01T14:00:00Z UTC | Day 1 at Crocs — good luck, JP!*
-
----
-
-## Midday Update — 12:00 PM MDT
-
-### New Emails Since Morning
-
-| Sender | Subject | Summary |
-|--------|---------|---------|
-| **Stephen Briscoe** (sbriscoe@crocs.com) | RE: Welcome to Crocs! | Replied at 8:57 AM MT — offered cell (720-885-2227) if JP had any trouble getting into the building. |
-| **JP → Stephen** (sent 9:25 AM MT) | Re: Welcome to Crocs! | ✅ **JP confirmed: "I'm in orientation now. I'll give you a call once we are done to sync up."** — Orientation is underway. |
-
-*All other inbox activity is routine noise: LinkedIn job alerts (Data Analyst II at Sundayy, BI Analyst at Honest Health), USPS delivery notification, Capital One AutoPay, Longmont Dairy invoice, promotional emails.*
-
-### New Leads Found Midday
-
-*JP is employed at Crocs as of today — no new leads to act on. LinkedIn alerts noted and disregarded.*
-
-### Afternoon Priority
-
-1. **Call/text Stephen Briscoe (720-885-2227)** once orientation wraps — sync on desk location, team introductions, and first-week logistics.
-2. **Complete ADP registration** at workforcenow.adp.com using code **`cu0ny96k`** — must be done before first paycheck to set up direct deposit.
-3. **Finish SuccessFactors portal tasks** — DocuSign × 2, compliance paperwork, and any remaining I-9 pre-fill items from this morning's processing.
-
----
-
-*Midday agent — 2026-06-01T18:00:00Z UTC*
+*Morning agent — 2026-06-02T00:00:00 UTC | Day 2 at Crocs — go get 'em, JP!*
