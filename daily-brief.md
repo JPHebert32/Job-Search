@@ -1,20 +1,17 @@
-# Job Search Brief — 2026-06-02 | Morning
+# Job Search Brief — 2026-06-03 | Morning
 
-> **✅ HIRED AT CROCS — DAY 2.** Offer accepted May 18. Day 1 orientation completed June 1.
-> Job search is closed. This brief covers onboarding follow-through and any residual pipeline close-outs.
+> **✅ HIRED AT CROCS — DAY 3.** Offer accepted May 18. Day 1 orientation June 1. Hybrid schedule: Tue+Thu in-office (Interlocken, Broomfield). Today (Wed) is a remote day.
+> Job search is closed. Brief covers onboarding follow-through and residual pipeline close-outs.
 
 ---
 
-## Gmail — New Activity Since Yesterday Midday
+## Gmail — New Activity Since Yesterday
 
 | Company | Sender | Subject | Summary |
-|---------|--------|---------|---------|
-| **Crocs** | mgura@crocs.com (Mike Gura) | FW: Weekly Eng / FEEDA Sprint Planning Connect | Mike forwarded the recurring Engineering + FEEDA analytics sprint planning Teams meeting invite to JP's personal email (received 3:04 PM MT June 1). Weekly cadence reviewing Jira queue for projects EDPR, CAD, DAMI, PAPI. Teams link: meet ID 224 604 344 709 90 / passcode jJ6Yx2Vb. JP is being pulled into the team's regular sprint rhythm from Day 1. **Add this recurring meeting to calendar now.** |
-| LinkedIn | jobalerts-noreply@linkedin.com | Business Intelligence Analyst at SRS Acquiom | Automated job alert ×2 — irrelevant, JP is hired. |
-| LinkedIn | jobalerts-noreply@linkedin.com | JP: 12 new jobs | Digest including Gusto Sr. Sales Compensation Analyst — irrelevant, JP is hired. |
-| LinkedIn | jobs-noreply@linkedin.com | Purple is hiring for an E-commerce role | Automated recruiting email — irrelevant, JP is hired. |
+|---------|--------|---------|----------|
+| No new job-search emails | — | — | Inbox since yesterday contains only LinkedIn job alert digests (irrelevant — JP is employed), a Nintendo marketing email ("Crocs x Super Mario Collection 7/15"), and an Overland Journal classifieds digest. Nothing requiring action. |
 
-*Note: Yesterday's Stephen Briscoe + JP orientation confirmation emails were captured in the June 1 midday update. Day 1 orientation was completed successfully.*
+*Note: The Crocs email from Mike Gura (FW: Weekly Eng / FEEDA Sprint Planning Connect, Jun 1–2) was captured in yesterday's brief. JP forwarded that invite to jhebert@crocs.com on Jun 2 — confirmed.*
 
 ---
 
@@ -22,18 +19,34 @@
 
 **No active job applications require action.** JP is employed at Crocs as of June 1, 2026.
 
-Remaining courtesy withdrawals not yet confirmed sent — these are warm contacts who invested time and deserve a personal close:
+### Pending withdrawals — warm contacts who invested time
 
 | Company | Contact | Action |
 |---------|---------|--------|
-| Trimble | Eric Robinson — eric_robinson@trimble.com (referral) | Send personal withdrawal email — he joined a Gong call May 13 to refer JP |
-| EverCommerce (PaySimple) | Jodi Cohen — jcohen@evercommerce.com / 303-981-5543 | Send personal withdrawal email or call — warm referral via Justin Hebert |
+| Trimble | Eric Robinson — eric_robinson@trimble.com (referral, Gong call May 13) | Send personal withdrawal email |
+| EverCommerce (PaySimple) | Jodi Cohen — jcohen@evercommerce.com / 303-981-5543 | Call or email — warm referral via Justin Hebert |
 | Hone Health | talent@honehealth.com | Brief withdrawal email |
 | Advanced Energy | SAP SuccessFactors portal | Withdraw via portal |
-| Shutterfly | TA team / candidate portal | Log in and withdraw |
+| Shutterfly | Candidate portal (shutterfly20.careerportal.me) | Log in and withdraw |
 | Zillow (P749151 + P750075) | Workday portal | Withdraw both reqs |
 | Gusto | Application portal | Withdraw |
 | Machinify | Greenhouse | Withdraw |
+
+---
+
+## Onboarding — Outstanding Items
+
+| Item | Status | Notes |
+|------|--------|-------|
+| ADP Registration | ⚠️ Verify complete | workforcenow.adp.com — code: `cu0ny96k` — required before first paycheck |
+| DocuSign ×2 | ⚠️ Verify complete | Two documents in SuccessFactors — check portal |
+| Compliance paperwork | ⚠️ Verify complete | SuccessFactors portal |
+| Weekly FEEDA Sprint Planning | ⚠️ Add to calendar | Teams ID: 224 604 344 709 90 / Passcode: jJ6Yx2Vb — weekly recurring Eng+Analytics sync |
+| Jira access | Confirm | Projects: EDPR, CAD, DAMI, PAPI @ crocsinc.atlassian.net |
+
+**Key contacts:**
+- Mike Gura (hiring manager, not yet in CO): mgura@crocs.com | 520-262-2448
+- Stephen Briscoe (peer Sr. BI Analyst, on-site): sbriscoe@crocs.com | 720-885-2227
 
 ---
 
@@ -41,81 +54,29 @@ Remaining courtesy withdrawals not yet confirmed sent — these are warm contact
 
 No active interview rounds. All prep materials in `prep/` can be archived.
 
-**Crocs Day 2 onboarding contacts:**
-- **Mike Gura** (hiring manager, not yet in CO): mgura@crocs.com | 520-262-2448
-- **Stephen Briscoe** (peer Sr. BI Analyst, on-site): sbriscoe@crocs.com | 720-885-2227
-
 ---
 
 ## New Leads Found
 
 *Searches completed for close-out record only. JP is employed — no action needed.*
 
-| Company | Role | Comp | Location | Link | Fit |
-|---------|------|------|----------|------|-----|
-| Connections Health Solutions | Sr BI Developer | Not listed | Remote | [Greenhouse](https://job-boards.greenhouse.io/connectionshealthsolutions/jobs/4232437009) | ⚠️ Healthcare; Tableau + Power BI — moot |
-| CareDx | Sr BI Analyst | Not listed | Remote | [Greenhouse](https://job-boards.greenhouse.io/caredxinc/jobs/4242824009) | ⚠️ Healthcare/diagnostics — moot |
-| Mercer Advisors | Sr BI Analyst | est $133K–$154K | Remote | [Greenhouse](https://job-boards.greenhouse.io/merceradvisors/jobs/5046203008) | ✅ Power BI + Azure Synapse — already in tracker, moot |
-| SimplePractice | BI Data Analyst | Not listed | Remote/CO | [BuiltInColorado](https://www.builtincolorado.com/job/business-intelligence-data-analyst/6767190) | ⚠️ Health SaaS — moot |
+| Company | Role | Comp | Location | Fit | Notes |
+|---------|------|------|----------|-----|-------|
+| Connections Health Solutions | Sr. BI Developer | Not listed | Remote | ⚠️ | Behavioral health SaaS; Tableau + Power BI. [Greenhouse](https://job-boards.greenhouse.io/connectionshealthsolutions/jobs/4232437009) — moot |
+| StarRez | Sr. BI Analyst | Not listed | Remote US | ❌ | Primary tool: Domo (not Power BI). Higher-ed housing SaaS — moot |
+| Openly | Sr. BI Analyst | Not listed | Remote US | ✅ | Insurtech; cutting-edge data/analytics stack. Comp unknown. [Greenhouse](https://boards.greenhouse.io/openly/jobs/4340737005) — moot |
+| Mercer Advisors | Sr. BI Analyst | est $133–$154K | Remote | ✅ | Power BI + Azure Synapse. Already in tracker as Ready to Apply — moot |
 
 ---
 
 ## Recommended Actions Today
 
-1. **Add the FEEDA sprint planning meeting to your calendar** — Mike Gura forwarded the recurring Teams invite last night (ID: 224 604 344 709 90). This is the weekly Eng/Analytics sync for your team. Don't miss it.
-2. **Complete any remaining ADP / SuccessFactors tasks** — ADP registration (code: `cu0ny96k` at workforcenow.adp.com), DocuSign ×2 if not finished, compliance paperwork. Must be done before first paycheck.
-3. **Call or text Stephen Briscoe (720-885-2227)** — sync on desk area, team intros, and first-week logistics now that orientation is behind you.
-4. **Send personal withdrawal emails to Trimble (Eric Robinson) and EverCommerce (Jodi Cohen)** — both warm referrals; a short personal note protects those relationships.
-5. **Bulk withdraw from remaining open applications** (Hone Health, Advanced Energy, Shutterfly, Zillow ×2, Gusto, Machinify) — brief "accepted another offer, thank you" closes each loop professionally.
+1. **Verify ADP + SuccessFactors onboarding tasks are complete** — ADP registration (code: `cu0ny96k`), DocuSign ×2, and compliance paperwork must be done before your first paycheck. Log into both portals now.
+2. **Send personal withdrawal to Trimble (Eric Robinson)** and **EverCommerce (Jodi Cohen)** — both warm referrals who invested real time. A short "I accepted a role, thank you" note protects these relationships long-term.
+3. **Bulk withdraw from remaining open applications** — Hone Health, Advanced Energy, Shutterfly, Zillow ×2, Gusto, Machinify. Brief "accepted another offer, thank you" closes each loop professionally.
+4. **Confirm the FEEDA sprint planning meeting is on your Crocs calendar** — This is the weekly team rhythm (Eng + Analytics). Mike Gura forwarded it; make sure it's accepted in your jhebert@crocs.com calendar.
+5. **Touch base with Stephen Briscoe (720-885-2227)** — Day 3, remote day. Good time for a quick text/Teams message to sync on first-week questions before your first Thursday in-office tomorrow.
 
 ---
 
-*Morning agent — 2026-06-02T00:00:00 UTC | Day 2 at Crocs — go get 'em, JP!*
-
----
-
-## Midday Update — 12:00 PM MDT
-
-### New Emails Since Morning
-No new emails from tracked companies, recruiters, or BI/data hiring contacts since the morning run. Inbox contains only marketing emails (Citi, Capital One, Southwest), neighborhood alerts (Nextdoor), automated LinkedIn job alerts (irrelevant — JP is hired), and personal notifications. Nothing requiring action.
-
-### New Leads Found Midday
-*Job search is closed — JP is employed at Crocs as of June 1, 2026. Leads logged for archive only.*
-
-| Company | Role | Comp | Location | Link | Fit |
-|---------|------|------|----------|------|-----|
-| OppFi | Sr. Analyst, Business Intelligence | Not listed | Remote (IL HQ) | [Greenhouse](https://job-boards.greenhouse.io/opploans/jobs/7643812003) | ✅ Fintech — moot |
-| GitLab | Sr. Data Analyst, Enterprise Analytics | Not listed | Remote | [Greenhouse](https://job-boards.greenhouse.io/gitlab/jobs/8478359002) | ✅ B2B SaaS — moot |
-| Basis Technologies | Sr. BI Developer | Not listed | Remote | [Built In Colorado](https://www.builtincolorado.com/job/senior-business-intelligence-developer/3994059) | ❌ Ad-tech (excluded industry) — moot |
-
-### Afternoon Priority
-1. **Complete ADP / SuccessFactors onboarding tasks** — ADP registration (code: `cu0ny96k`), any remaining DocuSign or compliance paperwork. Must be done before first paycheck processes.
-2. **Send personal withdrawal emails to Trimble (Eric Robinson) and EverCommerce (Jodi Cohen)** — both warm referrals who invested real time; a short personal note protects those relationships long-term.
-3. **Bulk withdraw from remaining open applications** — Hone Health, Advanced Energy, Shutterfly, Zillow ×2, Gusto, Machinify. A brief "accepted another offer, thank you" closes each loop professionally.
-
----
-*Midday agent — 2026-06-02T18:00:00 UTC*
-
----
-
-## Midday Update — 12:00 PM MDT (June 3)
-
-### New Emails Since Morning
-No new emails from Crocs, recruiters, or tracked companies since the morning run. Inbox today contains only automated LinkedIn job alerts (irrelevant — JP is hired), a Nextdoor neighborhood post, and a Word Smarts marketing email. Nothing requiring action.
-
-### New Leads Found Midday
-*Job search is closed — JP is employed at Crocs as of June 1, 2026. Leads logged for archive only.*
-
-| Company | Role | Comp | Location | Link | Fit |
-|---------|------|------|----------|------|-----|
-| Enverus | Sr BI Analyst, Revenue Operations | $115K–$125K + bonus | Remote US | [BuiltInColorado](https://www.builtincolorado.com/job/senior-business-intelligence-analyst-revenue-operations-24478dd/189684) | ✅ Power BI explicit + B2B SaaS — moot |
-| Clio | Sr Business Intelligence Analyst | Not listed | Remote (Canadian HQ) | [Welcome to the Jungle](https://www.welcometothejungle.com/en/companies/clio/jobs/senior-business-intelligence-analyst_toronto_lsmjak2p) | ⚠️ Verify US remote eligibility — moot |
-| Pathward N.A. | Business Analyst II (Lending / Rev Ops) | Not listed | Remote US | [Greenhouse](https://job-boards.greenhouse.io/pathward/jobs/5972526004) | ⚠️ BA II title below target level — moot |
-
-### Afternoon Priority
-1. **Send personal withdrawal emails to Trimble (Eric Robinson) and EverCommerce (Jodi Cohen)** — both are warm referrals who invested real time; a short personal note protects those relationships for the long term.
-2. **Bulk withdraw from remaining open applications** — Hone Health, Advanced Energy, Shutterfly, Zillow ×2, Gusto, Machinify. A brief "accepted another offer, thank you" closes each loop professionally.
-3. **Confirm the recurring FEEDA sprint planning Teams meeting is on your calendar** — Mike Gura forwarded the weekly invite (Teams ID: 224 604 344 709 90). Week 2 at Crocs starts tomorrow — don't miss the team rhythm.
-
----
-*Midday agent — 2026-06-03T18:00:00 UTC*
+*Morning agent — 2026-06-03T00:00:00Z UTC | Day 3 at Crocs — welcome to the team, JP.*
