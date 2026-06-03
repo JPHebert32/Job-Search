@@ -95,3 +95,27 @@ No new emails from tracked companies, recruiters, or BI/data hiring contacts sin
 
 ---
 *Midday agent — 2026-06-02T18:00:00 UTC*
+
+---
+
+## Midday Update — 12:00 PM MDT (June 3)
+
+### New Emails Since Morning
+No new emails from Crocs, recruiters, or tracked companies since the morning run. Inbox today contains only automated LinkedIn job alerts (irrelevant — JP is hired), a Nextdoor neighborhood post, and a Word Smarts marketing email. Nothing requiring action.
+
+### New Leads Found Midday
+*Job search is closed — JP is employed at Crocs as of June 1, 2026. Leads logged for archive only.*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| Enverus | Sr BI Analyst, Revenue Operations | $115K–$125K + bonus | Remote US | [BuiltInColorado](https://www.builtincolorado.com/job/senior-business-intelligence-analyst-revenue-operations-24478dd/189684) | ✅ Power BI explicit + B2B SaaS — moot |
+| Clio | Sr Business Intelligence Analyst | Not listed | Remote (Canadian HQ) | [Welcome to the Jungle](https://www.welcometothejungle.com/en/companies/clio/jobs/senior-business-intelligence-analyst_toronto_lsmjak2p) | ⚠️ Verify US remote eligibility — moot |
+| Pathward N.A. | Business Analyst II (Lending / Rev Ops) | Not listed | Remote US | [Greenhouse](https://job-boards.greenhouse.io/pathward/jobs/5972526004) | ⚠️ BA II title below target level — moot |
+
+### Afternoon Priority
+1. **Send personal withdrawal emails to Trimble (Eric Robinson) and EverCommerce (Jodi Cohen)** — both are warm referrals who invested real time; a short personal note protects those relationships for the long term.
+2. **Bulk withdraw from remaining open applications** — Hone Health, Advanced Energy, Shutterfly, Zillow ×2, Gusto, Machinify. A brief "accepted another offer, thank you" closes each loop professionally.
+3. **Confirm the recurring FEEDA sprint planning Teams meeting is on your calendar** — Mike Gura forwarded the weekly invite (Teams ID: 224 604 344 709 90). Week 2 at Crocs starts tomorrow — don't miss the team rhythm.
+
+---
+*Midday agent — 2026-06-03T18:00:00 UTC*
