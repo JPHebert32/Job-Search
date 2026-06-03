@@ -8,7 +8,7 @@
 ## Gmail — New Activity Since Yesterday
 
 | Company | Sender | Subject | Summary |
-|---------|--------|---------|----------|
+|---------|--------|---------|---------|
 | No new job-search emails | — | — | Inbox since yesterday contains only LinkedIn job alert digests (irrelevant — JP is employed), a Nintendo marketing email ("Crocs x Super Mario Collection 7/15"), and an Overland Journal classifieds digest. Nothing requiring action. |
 
 *Note: The Crocs email from Mike Gura (FW: Weekly Eng / FEEDA Sprint Planning Connect, Jun 1–2) was captured in yesterday's brief. JP forwarded that invite to jhebert@crocs.com on Jun 2 — confirmed.*
