@@ -8,7 +8,7 @@
 ## Gmail — New Activity Since Yesterday
 
 | Company | Sender | Subject | Summary |
-|---------|--------|---------|---------|
+|---------|--------|---------|----------|
 | Advanced Energy | advancedenergy-jobnotification@noreply.jobs2web.com | New jobs posted from jobs.advanced-energy.com (Jun 3) | Automated talent community alert — roles listed: Senior Accountant, Sr. Mgr Corporate Communications, Internal Auditor, SAP Architect, Graphic Designer. No Data Analyst role. **Not a response to JP's May 13 application — just recurring 7-day talent alert.** Unsubscribe when convenient. |
 
 **No new responses received from:** Zillow, Shutterfly, Gusto, Machinify, Trimble, or Hone Health.
@@ -84,3 +84,36 @@ No active interview rounds. All prep materials in `prep/` can be archived.
 ---
 
 *Morning agent — 2026-06-04T00:00:00Z UTC | Day 4 at Crocs — first Thursday in-office. Have a great day, JP.*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+| Sender | Subject | Summary |
+|--------|---------|----------|
+| Crocs / DailyPay (noreply@dailypay.com) | "Activate your DailyPay account to access your earnings when you need them" | **⚠️ Onboarding action item.** DailyPay is Crocs' on-demand pay benefit — received ~10 AM MDT. Activate at dailypay.com to enable early wage access. |
+| Vail Resorts (automated talent alert) | "New jobs at Vail Resorts for you!" | Automated alert — "Data & Reporting Analyst - HR, Broomfield CO." No application on file with Vail Resorts. Moot — JP is employed. |
+| LinkedIn (×3 digests) | Job alerts — Program Manager III, Marketing Analyst, Senior Data Scientist | No BI roles, no action needed. |
+
+No new responses received from: Zillow, Shutterfly, Gusto, Machinify, Trimble, or Hone Health.
+
+### New Leads Found Midday
+
+*Searches run for record only. JP is employed at Crocs — no action needed unless situation changes.*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| — | No new leads this cycle | — | — | — | — |
+
+No new senior BI / Power BI postings surfaced above the $115K floor matching the target profile. Market active on Built In CO and LinkedIn but nothing net-new beyond what's already tracked.
+
+### Afternoon Priority
+
+1. **Activate DailyPay** — Email arrived ~10 AM MDT from noreply@dailypay.com. Activate the Crocs on-demand pay benefit before end of Week 1. Follow the link in that email.
+2. **Complete ADP + SuccessFactors onboarding** — Last day of Week 1. Confirm ADP (code: `cu0ny96k`), DocuSign ×2, and compliance paperwork are fully done before close of business today.
+3. **Send Trimble + EverCommerce withdrawal notes if not yet sent** — Eric Robinson (eric_robinson@trimble.com) and Jodi Cohen (jcohen@evercommerce.com / 303-981-5543) invested time in JP's search. A brief "accepted a role, thank you" email protects both relationships heading into Week 2.
+
+---
+*Midday agent — 2026-06-05T18:00:00Z UTC*
