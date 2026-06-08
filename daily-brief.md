@@ -71,7 +71,9 @@ No interview rounds active. All prep files in `prep/` can be archived — search
 | Company | Role | Comp | Location | Link | Fit |
 |---------|------|------|----------|------|-----|
 | Enverus | Sr. BI Analyst, Revenue Operations | $115K–$125K + bonus | Remote US | [builtincolorado.com](https://www.builtincolorado.com/job/senior-business-intelligence-analyst-revenue-operations-24478dd/189684) | ✅ Power BI explicit, 5+ yrs, comp clears floor. Energy data SaaS. Strongest new lead. |
-| OppFi | Sr. Analyst, Business Intelligence | Not listed | Remote | [greenhouse.io](https://job-boards.greenhouse.io/opploans/jobs/7643812003) | ⚠️ Fintech lending (verify B2B/consumer). Comp unconfirmed. |
+| ChargePoint | Senior Business Intelligence Analyst | Not listed (market est $100K–$130K) | Remote US | [greenhouse.io](https://job-boards.greenhouse.io/chargepoint/jobs/8415247002) | ⚠️ EV charging B2B SaaS. Tableau + Snowflake + Salesforce primary — not Power BI. Prior Tableau experience applies. No listed comp. |
+| Integrated Specialty Coverages | Senior BI Analyst (Workers Comp) | Not listed | Remote US | [greenhouse.io](https://job-boards.greenhouse.io/isccareers/jobs/4673045005) | ⚠️ Power BI + Snowflake stack — exact match. Insurance/workers comp industry — evaluate fit. Comp unknown. |
+| OppFi | Sr. Analyst, Business Intelligence | **$71.2K–$106.8K confirmed** | Remote | [greenhouse.io](https://job-boards.greenhouse.io/opploans/jobs/7643812003) | ❌ Comp confirmed below $115K floor — eliminated. |
 | Ivanti | Sr. Business Intelligence Analyst | Not listed | Remote | [greenhouse.io](https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7660106003) | ⚠️ IT/security SaaS — B2B. Comp unconfirmed. Posted March 2026. |
 | CooperSurgical | Sr. Analyst, Business Intelligence | Not listed | Remote (verify) | LinkedIn alert Jun 7 | ⚠️ Medical devices — outside target industry. |
 | Flexential | Financial & BI Analyst | Not listed | Denver CO (likely) | LinkedIn alert Jun 6 | ⚠️ Data center/IT infra — dual finance+BI scope. |
@@ -129,3 +131,15 @@ All other inbox activity since 8 AM is personal or automated (Chase payment conf
 ---
 
 *Midday agent — 2026-06-08T19:15:00Z UTC*
+
+---
+
+## Evening Update — 2026-06-08T19:29:39 UTC
+
+*Full morning run completed. New leads confirmed via additional Greenhouse and web searches.*
+
+**OppFi comp now confirmed:** $71.2K–$106.8K — eliminated (below $115K floor). Updated in morning table above.
+
+**Two new leads added to morning table:** ChargePoint (EV SaaS, Tableau/Snowflake, no listed comp) and Integrated Specialty Coverages (Power BI + Snowflake exact match, insurance industry, comp unknown).
+
+No new recruiter email or pipeline responses in the 7 PM scan. No additional action items beyond what the midday update captured.
