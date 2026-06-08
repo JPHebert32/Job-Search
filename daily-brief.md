@@ -93,3 +93,39 @@ No interview rounds active. All prep files in `prep/` can be archived — search
 ---
 
 *Morning agent — 2026-06-08T14:05:28Z UTC | Week 2 starts — great work, JP.*
+
+---
+
+## Midday Update — 1:15 PM MDT
+
+### New Emails Since Morning
+
+| Time (MDT) | Sender | Subject | Summary |
+|------------|--------|---------|---------|
+| 8:15 AM | jobs-noreply@linkedin.com | Your application was viewed by HEI Civil | Stale ghost LinkedIn application viewed by HEI Civil (civil engineering firm — not in tracker, not a target role). No action needed. JP is employed. |
+| 8:24 AM | notifications-noreply@linkedin.com | JP, you appeared in 10 searches in the last week | "Open to Work" banner is still live and pulling recruiter searches. Reinforces morning action item: update LinkedIn today. |
+
+All other inbox activity since 8 AM is personal or automated (Chase payment confirmation, Jefferson County ballot, Nextdoor, eBay, LinkedIn newsletters, Southwest sale, family emails). No recruiter outreach, no responses from any tracked pipeline companies.
+
+### New Leads Found Midday
+
+*Job search is closed. Logged as future reference only.*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| Klaviyo | Senior Business Intelligence Analyst | Not listed | Remote / hybrid (verify) | [builtincolorado.com](https://www.builtincolorado.com/job/senior-business-intelligence-analyst/3635892) | ✅ B2B SaaS (email/SMS marketing automation). Strong industry fit. Comp unconfirmed — Klaviyo typically pays well. Worth bookmarking. |
+| Altvia Solutions | Business Intelligence and Data Analyst | Not listed | Denver metro | [builtincolorado.com](https://www.builtincolorado.com/job/business-intelligence-and-data-analyst/7261697) | ⚠️ Private equity SaaS. Not Senior-titled. Lower priority future reference. |
+
+*Note: Enverus Sr. BI Analyst (Enverus, $115K–$125K, Remote) already logged in morning brief — still the strongest future-reference lead.*
+
+### Afternoon Priority
+
+1. **Activate DailyPay** — Still the most time-sensitive outstanding onboarding item. Do it before Tuesday's in-office day. dailypay.com.
+
+2. **Update LinkedIn now** — Profile appeared in 10 recruiter searches this week and an old ghost application was viewed today. Remove "Open to Work" banner and update title to Sr. Business Intelligence Analyst at Crocs, Inc. Stops inbound noise immediately.
+
+3. **Send withdrawal to Eric Robinson (Trimble)** — eric_robinson@trimble.com. He invested real time in a referral call May 13. A brief "I accepted a role — thank you" is a high-value relationship close before the week gets busy.
+
+---
+
+*Midday agent — 2026-06-08T19:15:00Z UTC*
