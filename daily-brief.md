@@ -1,27 +1,35 @@
-# Job Search Brief — 2026-06-08 | Morning
+# Job Search Brief — 2026-06-09 | Morning
 
-> ## ✅ STATUS: HIRED AT CROCS — WEEK 2
-> Offer accepted May 18, 2026. Start date June 1, 2026. Hybrid Tue+Thu, Interlocken Broomfield.
-> **Today (Monday June 8) is the first day of Week 2. Job search is concluded.**
-> Brief covers onboarding close-out, pipeline cleanup, and new leads for future reference.
+> **✅ HIRED AT CROCS — WEEK 2, DAY 2 (TUESDAY — IN-OFFICE DAY).** Offer accepted May 18. Started June 1. Hybrid Tue+Thu in-office at Interlocken, Broomfield. Today is an in-office day.
+> Job search is closed. Brief covers onboarding follow-through and pipeline close-out.
 
 ---
 
-## Gmail — New Activity
+## Gmail — New Activity Since Yesterday
 
-| Date | Sender | Subject | Summary |
-|------|--------|---------|---------|
-| Jun 7 | noreply@dailypay.com | Your DailyPay account is waiting to be activated. | **⚠️ ACTION REQUIRED — 4th+ prompt.** DailyPay activation is still pending after multiple emails (Jun 5, Jun 6 ×2, Jun 7). This is your Crocs earned wage access benefit. **Activate today at dailypay.com before entering the office.** |
+No direct responses from any tracked pipeline companies.
 
-No direct responses from any tracked pipeline companies. All incoming email is automated LinkedIn job-alert digests only — no cold recruiter outreach.
+**Noise / non-actionable emails received:**
+| Sender | Subject | Notes |
+|--------|---------|-------|
+| workforce@connectingcolorado.gov | Virtual Hiring Fair (Jun 18) — follow-up reminder | Colorado Workforce / Daddy Bruce Foundation — not relevant |
+| jobs-noreply@linkedin.com | Your application was viewed by HEI Civil | HEI Civil — construction firm, unrelated ghost application |
+| jobalerts-noreply@linkedin.com | JP: 11 new jobs (Gusto Sr SWE, Data Platform) | LinkedIn job alert — Gusto engineering role, not BI |
+| jobs-listings@linkedin.com | Sr. Marketing Analyst – Harbor Freight Tools (remote) | Marketing Analyst, not BI — skip |
+| notifications-noreply@linkedin.com | JP, you appeared in 10 searches last week | LinkedIn "Open to Work" banner still live — see onboarding items |
+| ebay@ebay.com | Seller offer on 1976 Jeep Shop Manual | Not job-related |
+
+*No recruiter outreach, no interview invites, no application status updates from any tracked company.*
 
 ---
 
-## Pipeline — Action Required Today
+## Pipeline — Closure Tasks Only
 
-**No active applications.** Job search closed June 1. Items below are close-out and hygiene only.
+**No active applications.** Job search closed June 1. Items below are carry-overs from June 8 brief.
 
 ### Pending withdrawals — prioritized
+
+*(Confirm which have been sent)*
 
 | Company | Contact | Priority | Status |
 |---------|---------|----------|--------|
@@ -40,17 +48,17 @@ EverCommerce (PaySimple) · Tilt Finance · Boulevard · Engine (Hotel Engine) �
 
 ---
 
-## Onboarding — Outstanding Items (Week 2 Start)
+## Onboarding — Outstanding Items
 
 | Item | Status | Notes |
 |------|--------|-------|
-| **DailyPay activation** | ⚠️ **CRITICAL — Week 2 Monday** | 4th+ email in 4 days. Activate at dailypay.com NOW. |
+| **DailyPay activation** | ⚠️ Still pending (Day 5+ of prompts) | Multiple emails since Jun 5. Activate at dailypay.com — earned wage access benefit, needed before payroll. |
 | ADP Registration | ⚠️ Verify complete | workforcenow.adp.com — code: `cu0ny96k` — required for payroll |
 | DocuSign ×2 | ⚠️ Verify complete | Two documents in SuccessFactors portal |
 | Compliance training | ⚠️ Verify complete | SAP SuccessFactors portal |
-| LinkedIn "Open to Work" | ⚠️ Remove banner | Still showing — update title to Sr. BI Analyst at Crocs, Inc. |
+| LinkedIn "Open to Work" | ⚠️ Remove banner | Still showing — 10 recruiter searches last week. Update title to Sr. BI Analyst at Crocs, Inc. |
 | FEEDA Sprint Planning | Confirm recurring invite accepted | Teams ID: 224 604 344 709 90 / Passcode: jJ6Yx2Vb |
-| Jira access | Confirm accessible in office | crocsinc.atlassian.net — Projects: EDPR, CAD, DAMI, PAPI |
+| Jira access | Confirm in-office today | crocsinc.atlassian.net — Projects: EDPR, CAD, DAMI, PAPI |
 
 **Key Crocs contacts:**
 - Mike Gura (hiring manager): mgura@crocs.com · 520-262-2448
@@ -60,7 +68,7 @@ EverCommerce (PaySimple) · Tilt Finance · Boulevard · Engine (Hotel Engine) �
 
 ## Interview Prep Reminder
 
-No interview rounds active. All prep files in `prep/` can be archived — search is closed. Crocs onboarding is the current focus.
+No interview rounds active. All prep files in `prep/` can be archived — search is closed.
 
 ---
 
@@ -70,76 +78,29 @@ No interview rounds active. All prep files in `prep/` can be archived — search
 
 | Company | Role | Comp | Location | Link | Fit |
 |---------|------|------|----------|------|-----|
-| Enverus | Sr. BI Analyst, Revenue Operations | $115K–$125K + bonus | Remote US | [builtincolorado.com](https://www.builtincolorado.com/job/senior-business-intelligence-analyst-revenue-operations-24478dd/189684) | ✅ Power BI explicit, 5+ yrs, comp clears floor. Energy data SaaS. Strongest new lead. |
-| ChargePoint | Senior Business Intelligence Analyst | Not listed (market est $100K–$130K) | Remote US | [greenhouse.io](https://job-boards.greenhouse.io/chargepoint/jobs/8415247002) | ⚠️ EV charging B2B SaaS. Tableau + Snowflake + Salesforce primary — not Power BI. Prior Tableau experience applies. No listed comp. |
-| Integrated Specialty Coverages | Senior BI Analyst (Workers Comp) | Not listed | Remote US | [greenhouse.io](https://job-boards.greenhouse.io/isccareers/jobs/4673045005) | ⚠️ Power BI + Snowflake stack — exact match. Insurance/workers comp industry — evaluate fit. Comp unknown. |
+| Enverus | Sr. BI Analyst, Revenue Operations | $115K–$125K + bonus | Remote US | [builtincolorado.com](https://www.builtincolorado.com/job/senior-business-intelligence-analyst-revenue-operations-24478dd/189684) | ✅ Power BI explicit, 5+ yrs, comp clears floor. Energy data SaaS. Best future back-pocket lead. (Carried from Jun 8) |
+| Trace3 | Sr. BI Developer — Power BI | Not listed | Remote (US) | [greenhouse.io](https://job-boards.greenhouse.io/trace3/jobs/7595018) | ✅ **NEW posting today** (≠ closed role #6338462) — Power BI explicit. Top-tier back-pocket option. |
+| CommerceHub | Senior BI Data Analyst | Not listed | Remote (US) | [greenhouse.io](https://boards.greenhouse.io/commercehub/jobs/4577734) | ✅ E-commerce marketplace. Verify Power BI and comp. |
+| Ivanti | Sr. Business Intelligence Analyst | Not listed | Remote | [greenhouse.io](https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7660106003) | ⚠️ IT/security SaaS — B2B. Comp unconfirmed. (Carried from Jun 8) |
+| Klaviyo | Senior Business Intelligence Analyst | Not listed | Remote / hybrid | [builtincolorado.com](https://www.builtincolorado.com/job/senior-business-intelligence-analyst/3635892) | ✅ B2B SaaS, typically strong comp. (Carried from Jun 8 midday) |
+| NeueHealth | Senior Business Intelligence Analyst | Not listed | Remote (US) | [greenhouse.io](https://job-boards.greenhouse.io/neuehealth/jobs/5765660004) | ⚠️ Healthcare — verify tools and comp. |
 | OppFi | Sr. Analyst, Business Intelligence | **$71.2K–$106.8K confirmed** | Remote | [greenhouse.io](https://job-boards.greenhouse.io/opploans/jobs/7643812003) | ❌ Comp confirmed below $115K floor — eliminated. |
-| Ivanti | Sr. Business Intelligence Analyst | Not listed | Remote | [greenhouse.io](https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7660106003) | ⚠️ IT/security SaaS — B2B. Comp unconfirmed. Posted March 2026. |
-| CooperSurgical | Sr. Analyst, Business Intelligence | Not listed | Remote (verify) | LinkedIn alert Jun 7 | ⚠️ Medical devices — outside target industry. |
-| Flexential | Financial & BI Analyst | Not listed | Denver CO (likely) | LinkedIn alert Jun 6 | ⚠️ Data center/IT infra — dual finance+BI scope. |
+| AGILE Space Industries | Senior BI Analyst | Not listed | Remote / Durango CO | [greenhouse.io](https://boards.greenhouse.io/embed/job_app?token=4562683005) | ❌ Aerospace/defense — excluded industry. |
 
 ---
 
-## Recommended Actions Today (Monday — Week 2 Day 1)
+## Recommended Actions Today (Tuesday — In-Office Day)
 
-1. **Activate DailyPay NOW** — Four+ emails over four days; the June 7 message says your account is still waiting for activation. Do this before going into the Broomfield office today. Takes 5 minutes at dailypay.com.
+1. **Activate DailyPay** — Day 5+ of pending prompts. Do this before walking into Interlocken. Takes 5 minutes at dailypay.com. Required for earned wage access on your Crocs paycheck.
 
-2. **Verify onboarding completeness in SuccessFactors** — Confirm ADP registration (code: `cu0ny96k`), DocuSign ×2, and compliance training are all marked complete before your Tue/Thu in-office days this week.
+2. **IN-OFFICE today** — Sync with Stephen Briscoe (sbriscoe@crocs.com · 720-885-2227), confirm Jira project access (EDPR, CAD, DAMI, PAPI at crocsinc.atlassian.net).
 
-3. **Send withdrawal to Eric Robinson at Trimble** — eric_robinson@trimble.com. He arranged a referral call May 13. A brief "I accepted a role — thank you for your support" keeps a genuine relationship warm. High-value network contact.
+3. **Update LinkedIn** — Remove "Open to Work" banner, set current title to Sr. Business Intelligence Analyst at Crocs, Inc. Profile appeared in 10 searches this week — stops inbound recruiter noise immediately.
 
-4. **Call or email Jodi Cohen at EverCommerce** — jcohen@evercommerce.com · 303-981-5543. She invested real time after EverPro Canada fell through and encouraged JP personally. A warm close is worth it for the Justin Hebert referral network.
+4. **Send withdrawal to Eric Robinson (Trimble)** — eric_robinson@trimble.com. He arranged a referral call May 13. Brief "accepted a role — thank you" keeps the relationship warm. High-value network close.
 
-5. **Update LinkedIn** — Remove "Open to Work" banner, update current title to Sr. Business Intelligence Analyst at Crocs, Inc. Stops recruiter cold-outreach volume and signals the search is closed.
-
----
-
-*Morning agent — 2026-06-08T14:05:28Z UTC | Week 2 starts — great work, JP.*
+5. **Call/email Jodi Cohen (EverCommerce)** — jcohen@evercommerce.com · 303-981-5543. Warm referral via Justin Hebert. Same gracious close-out note.
 
 ---
 
-## Midday Update — 1:15 PM MDT
-
-### New Emails Since Morning
-
-| Time (MDT) | Sender | Subject | Summary |
-|------------|--------|---------|---------|
-| 8:15 AM | jobs-noreply@linkedin.com | Your application was viewed by HEI Civil | Stale ghost LinkedIn application viewed by HEI Civil (civil engineering firm — not in tracker, not a target role). No action needed. JP is employed. |
-| 8:24 AM | notifications-noreply@linkedin.com | JP, you appeared in 10 searches in the last week | "Open to Work" banner is still live and pulling recruiter searches. Reinforces morning action item: update LinkedIn today. |
-
-All other inbox activity since 8 AM is personal or automated (Chase payment confirmation, Jefferson County ballot, Nextdoor, eBay, LinkedIn newsletters, Southwest sale, family emails). No recruiter outreach, no responses from any tracked pipeline companies.
-
-### New Leads Found Midday
-
-*Job search is closed. Logged as future reference only.*
-
-| Company | Role | Comp | Location | Link | Fit |
-|---------|------|------|----------|------|-----|
-| Klaviyo | Senior Business Intelligence Analyst | Not listed | Remote / hybrid (verify) | [builtincolorado.com](https://www.builtincolorado.com/job/senior-business-intelligence-analyst/3635892) | ✅ B2B SaaS (email/SMS marketing automation). Strong industry fit. Comp unconfirmed — Klaviyo typically pays well. Worth bookmarking. |
-| Altvia Solutions | Business Intelligence and Data Analyst | Not listed | Denver metro | [builtincolorado.com](https://www.builtincolorado.com/job/business-intelligence-and-data-analyst/7261697) | ⚠️ Private equity SaaS. Not Senior-titled. Lower priority future reference. |
-
-*Note: Enverus Sr. BI Analyst (Enverus, $115K–$125K, Remote) already logged in morning brief — still the strongest future-reference lead.*
-
-### Afternoon Priority
-
-1. **Activate DailyPay** — Still the most time-sensitive outstanding onboarding item. Do it before Tuesday's in-office day. dailypay.com.
-
-2. **Update LinkedIn now** — Profile appeared in 10 recruiter searches this week and an old ghost application was viewed today. Remove "Open to Work" banner and update title to Sr. Business Intelligence Analyst at Crocs, Inc. Stops inbound noise immediately.
-
-3. **Send withdrawal to Eric Robinson (Trimble)** — eric_robinson@trimble.com. He invested real time in a referral call May 13. A brief "I accepted a role — thank you" is a high-value relationship close before the week gets busy.
-
----
-
-*Midday agent — 2026-06-08T19:15:00Z UTC*
-
----
-
-## Evening Update — 2026-06-08T19:29:39 UTC
-
-*Full morning run completed. New leads confirmed via additional Greenhouse and web searches.*
-
-**OppFi comp now confirmed:** $71.2K–$106.8K — eliminated (below $115K floor). Updated in morning table above.
-
-**Two new leads added to morning table:** ChargePoint (EV SaaS, Tableau/Snowflake, no listed comp) and Integrated Specialty Coverages (Power BI + Snowflake exact match, insurance industry, comp unknown).
-
-No new recruiter email or pipeline responses in the 7 PM scan. No additional action items beyond what the midday update captured.
+*Morning agent — 2026-06-09T13:00:00Z UTC | Week 2, Day 2 at Crocs — in-office Tuesday. Have a great day, JP.*
