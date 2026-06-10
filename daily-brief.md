@@ -104,3 +104,40 @@ No interview rounds active. All prep files in `prep/` can be archived — search
 ---
 
 *Morning agent — 2026-06-09T13:00:00Z UTC | Week 2, Day 2 at Crocs — in-office Tuesday. Have a great day, JP.*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+| Sender | Subject | Notes |
+|--------|---------|-------|
+| Tarun Kumar via LinkedIn InMail | "Exciting opportunity for a data analyst" | **Contract only — not actionable.** IT Solutions Inc. recruiter pitching Sr. Analyst II (Power BI / Data Visualization Consultant), Remote, **6-month contract duration.** JP is employed. LinkedIn "Open to Work" banner still live and attracting inbound — reinforces priority of updating LinkedIn profile. |
+| jobalerts-noreply@linkedin.com | BI Analyst at Food Bank of the Rockies — up to $40/hr | LinkedIn job alert, comp far below $115K floor — skip. |
+| advancedenergy-jobnotification@noreply.jobs2web.com | New jobs at Advanced Energy | Talent community alert — JP applied May 13, withdrawal pending. |
+
+*No responses from any tracked company (Zillow, Shutterfly, Gusto, Hone Health, Trimble, Advanced Energy, Machinify). No interview invites.*
+
+### New Leads Found Midday
+
+*JP is employed at Crocs — all leads logged as future reference only.*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| Launch Potato | Senior Business Intelligence Analyst (Looker) | Not listed | Greater Denver Area or Remote | [builtincolorado.com](https://www.builtincolorado.com/job/data/senior-business-intelligence-analyst-looker/118935) | ⚠️ Looker primary (JP gap). Launch Potato is performance marketing — likely ad-tech exclusion. Back-pocket only. |
+
+*Enverus and Klaviyo already listed in June 9 brief. No other new postings found today.*
+
+### Afternoon Priority
+
+*JP is employed at Crocs — no active applications to manage.*
+
+1. **Update LinkedIn "Open to Work"** — Contract recruiter inbound arrived today; 10 profile searches noted last week. Remove banner and update title to Sr. Business Intelligence Analyst at Crocs, Inc. Stops recruiter noise immediately.
+
+2. **Send withdrawal to Eric Robinson (Trimble)** — eric_robinson@trimble.com. He arranged a referral call May 13. A brief "accepted a role" note keeps a high-value network relationship warm.
+
+3. **Contact Jodi Cohen (EverCommerce)** — jcohen@evercommerce.com · 303-981-5543. Same gracious close-out via Justin Hebert referral relationship.
+
+---
+*Midday agent — 2026-06-10T19:00:00Z UTC*
