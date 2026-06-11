@@ -86,3 +86,36 @@ No active interview rounds. Crocs is confirmed — all `prep/` materials can be 
 ---
 
 *Morning agent — 2026-06-11T14:00:00 UTC | Day 11 at Crocs — Thursday in-office at Interlocken. Have a great day, JP.*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+| Company | Sender | Subject | Summary |
+|---------|--------|---------|---------|
+| RK Industries (via LinkedIn) | Leigh Farina, TA Specialist at RK | Supply Chain Data Analyst at RK Industries! | **No action required — JP is employed.** InMail pitching a Supply Chain Data Analyst role at RK's new Aurora CO office. In-office position, Excel/SQL/Power BI stack, supply chain focus — wrong title and wrong work model. Ignore or send a brief polite decline. **Side note: the LinkedIn footer still shows "Open to Work" on JP's headline — this is why inbound keeps coming in.** |
+| LinkedIn Job Alert | jobalerts-noreply@linkedin.com | Product Analyst at Eliassen Group | Automated alert — not a BI role, JP employed. No action. |
+
+*No responses from any tracked pipeline companies (Zillow, Shutterfly, Gusto, Machinify, Hone Health, Trimble, EverCommerce, or Advanced Energy).*
+
+### New Leads Found Midday
+
+*For reference only — JP is employed at Crocs. Log as future market benchmarks if needed.*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| Graham Healthcare Group | Senior Power BI Developer | Not listed (est $115K–$135K) | Remote US | [Built In CO](https://www.builtincolorado.com/job/senior-power-bi-developer/4623208) | ✅ Exact Power BI match, fully remote, healthcare vertical (not excluded) — best backup if circumstances change |
+| Launch Potato | Sr. BI Analyst (Looker) | $120K–$150K | Denver/Remote | [Built In CO](https://www.builtincolorado.com/job/data/senior-business-intelligence-analyst-looker/118935) | ⚠️ Strong comp, CO-based, but Looker is primary tool (not Power BI), digital performance marketing vertical |
+| Smartcat | Sr. Data Analyst / Power BI Analyst | Not listed | Remote US | [Smartcat Careers](https://www.smartcat.com/careers/) | ⚠️ Fintech/SaaS fit, Power BI, fully remote-first since 2020 — comp not posted, verify before flagging further |
+| Dynatrace | BI & Reporting Analyst | $85K–$115K | Remote US | [Built In CO](https://www.builtincolorado.com/job/bi-reporting-analyst-remote-united-states/172411) | ❌ Comp at or below $115K floor — eliminated |
+
+### Afternoon Priority
+
+1. **Update LinkedIn now** — Remove the "Open to Work" banner and update your headline to Sr. Business Intelligence Analyst at Crocs, Inc. The RK Industries InMail this morning confirms the banner is still live — it's generating noise you don't want on day 11 of a new job.
+2. **Activate DailyPay** — Still flagged unread after multiple reminders through Jun 7. Do this today to avoid a paycheck issue.
+3. **Withdrawal emails — Trimble (Eric Robinson) + EverCommerce (Jodi Cohen)** — Both are warm referral contacts. Three sentences each keeps those relationships clean and professional.
+
+---
+*Midday agent — 2026-06-11T18:00:00 UTC*
