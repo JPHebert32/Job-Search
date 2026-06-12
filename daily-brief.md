@@ -127,3 +127,41 @@ No active interview rounds. ✅ Crocs is confirmed — all `prep/` materials can
 
 ---
 *Midday agent — 2026-06-12T18:00:00 UTC*
+
+---
+
+## Evening Update — 8:30 PM MDT
+
+### New Emails Since Midday
+
+| Company / Source | Sender | Subject | Summary |
+|-----------------|--------|---------|---------|
+| Unknown company (via LinkedIn InMail) | Jordan Brookshier — Head of Recruitment | Exciting Data Product Manager Opportunity! | Cold InMail for a **6-month contract Data Product Manager** role, remote. Requires 3–5+ yrs PM experience + Snowflake/SQL. Scope mismatch — PM is not BI analyst. Contract (not perm). **No action needed — JP is employed at Crocs.** |
+
+*No new responses from: HEI Civil, Zillow, Shutterfly, Gusto, Machinify, Trimble, Hone Health, or EverCommerce.*
+
+### New Leads Found — Evening Web Search
+
+*For awareness only — JP is employed at Crocs. Benchmark for future reference.*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| OppFi | Sr. Analyst, Business Intelligence | Not listed | Remote US | [Greenhouse](https://job-boards.greenhouse.io/opploans/jobs/7643812003) | ✅ Fintech/lending (acceptable). Power BI explicit. Remote. Comp unconfirmed — strong match profile if JP ever re-enters market. |
+| Integrated Specialty Coverages (ISC) | Sr. BI Analyst (Workers Comp) | Not listed | Remote (unconfirmed) | [Greenhouse](https://job-boards.greenhouse.io/isccareers/jobs/4673045005) | ⚠️ Power BI + Snowflake, 5–7 yrs req. Insurance industry — not on target list but not excluded. |
+| Encora | Sr. BI Analyst (Power BI) | Not listed | Not confirmed | [Greenhouse](https://job-boards.greenhouse.io/encora10/jobs/5136634007) | ⚠️ Power BI explicit but Encora is a consulting/staffing firm — likely client-site contract work. Lower fit for perm-seeker. |
+| Mercer Advisors | Sr. BI Analyst | Est. $133K–$154K (Glassdoor) | Remote (likely) | [Greenhouse](https://job-boards.greenhouse.io/merceradvisors/jobs/5046203008) | ✅ Power BI + Azure Synapse + Python. Strong comp above floor. Wealth mgmt/fintech. Was "Ready to Apply" — now archived. |
+
+*Note: Greenhouse job pages returned 403 errors on direct fetch — details above sourced from search snippets and prior tracker notes.*
+
+### End-of-Day Summary
+
+JP is in Week 2 at Crocs (Day 12, Friday WFH). No meaningful application responses received. Two cold InMails received today (Charter via Insight Global, and a Data PM contract) — neither requires action given active employment.
+
+**Carry-forward for Monday:**
+- Confirm HEI Civil withdrawal was sent
+- Activate DailyPay (multiple reminders since Jun 3)
+- Remove LinkedIn "Open to Work" banner
+- Send withdrawal to Eric Robinson (Trimble) and Jodi Cohen (EverCommerce)
+
+---
+*Evening agent — 2026-06-12T20:35:00 UTC | Have a great weekend, JP. Week 2 at Crocs is in the books.*
