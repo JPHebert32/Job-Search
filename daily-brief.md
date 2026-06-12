@@ -91,3 +91,39 @@ No active interview rounds. ✅ Crocs is confirmed — all `prep/` materials can
 
 ---
 *Morning agent — 2026-06-12T14:08:29 UTC | Day 12 at Crocs — Friday WFH. Have a great day, JP.*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+| Company / Source | Sender | Subject | Summary |
+|-----------------|--------|---------|---------|
+| Insight Global (via LinkedIn InMail) | inmail-hit-reply@linkedin.com | Data Analyst Opportunity with Charter Communications - 1x Onsite in Denver, CO | Recruiter **Brittany Gosz** (Principal Recruiter, Insight Global) pitching contract Data Analyst role at Charter Communications. **$45–48/hr W2, ongoing contract-to-hire, 1x onsite Greenwood Village CO.** Stack: SQL + Tableau (not Power BI). Contract scope — no action needed given perm employment. brittany.gosz@insightglobal.com |
+| Vail Resorts (job alert) | vailresortsdonotreply@noreply.jobs2web.com | New jobs at Vail Resorts for you! | Automated alert for **Data & Reporting Analyst – HR**, Broomfield CO. No action needed — automated alert, not recruiter outreach. |
+| LinkedIn Job Alert | jobalerts-noreply@linkedin.com | Sr. Analyst, Customer Services BI at Mercedes-Benz USA | Automated LinkedIn job recommendation alert. No action needed. |
+
+*No new responses from: HEI Civil, Zillow, Shutterfly, Gusto, Machinify, Trimble, Hone Health, or EverCommerce.*
+
+> **HEI Civil note:** No follow-up email visible from Yvonne Denslow — the 10am call window from this morning's action item was not confirmed resolved via email. Verify you handled this.
+
+### New Leads Found Midday
+
+*For awareness only — JP is employed at Crocs. Benchmark for future reference.*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| Altvia Solutions | Business Intelligence & Data Analyst | Not listed | Denver/Boulder CO | https://www.builtincolorado.com/job/business-intelligence-and-data-analyst/7261697 | ⚠️ Investment management tech (fintech-adjacent) — worth watching for future reference |
+| DigitalOcean | Senior Business Intelligence Engineer | Not listed | Remote | https://www.builtincolorado.com/job/senior-business-intelligence-engineer/6832358 | ⚠️ Engineer title, dbt/data modeling heavy — scope differs from analyst/viz focus |
+
+*Previously noted benchmarks still active: Enverus ($115K–$125K Power BI, CO), Graham Healthcare (Sr. Power BI Developer, remote).*
+
+### Afternoon Priority
+
+1. **Verify HEI Civil was handled** — Check if you sent a decline to yvonne.denslow@heicivilcolorado.teamtailor-mail.com this morning. No reply email is visible in inbox, so confirm you reached out before end of day Friday.
+2. **Activate DailyPay** — Multiple reminder emails since June 3. Open your DailyPay activation email and complete at dailypay.com before the weekend — next pay period is approaching.
+3. **Remove LinkedIn "Open to Work" banner** — Today's Charter Communications InMail is direct proof it's still live and generating contract recruiter noise. Update your headline to "Sr. Business Intelligence Analyst at Crocs, Inc." before logging off for the weekend.
+
+---
+*Midday agent — 2026-06-12T18:00:00 UTC*
