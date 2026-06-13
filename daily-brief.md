@@ -1,167 +1,88 @@
-# Job Search Brief — 2026-06-12 | Morning
+# Job Search Brief — 2026-06-13 | Morning
 
-> **✅ HIRED AT CROCS — DAY 12 (FRIDAY — WORK FROM HOME).** Offer accepted May 18. Started June 1. Hybrid schedule: Tue+Thu in-office at Interlocken, Broomfield. **Today is a WFH day.**
-> Job search is closed. Brief covers residual pipeline close-out and new inbound activity.
+> **✅ HIRED AT CROCS — DAY 13 (SATURDAY — WEEKEND).** Offer accepted May 18. Started June 1. Hybrid schedule: Tue+Thu in-office at Interlocken, Broomfield.
+> Job search is closed. Brief covers residual pipeline close-out and new inbound recruiter/lead activity.
 
 ---
 
-## Gmail — New Activity Since Yesterday
+## Gmail — New Activity
 
 | Company | Sender | Subject | Summary |
 |---------|--------|---------|---------|
-| EverDriven (via LinkedIn) | jobs-noreply@linkedin.com | Your application to Business Intelligence Analyst at EverDriven | **REJECTED** — LinkedIn rejection notification received Jun 11. No action needed beyond tracker update. |
+| (Recruiter) | Jordan Brookshier, Head of Recruitment (LinkedIn InMail) | "Exciting Data Product Manager Opportunity!" | 6-month contract to start, Remote. Data Product Manager role — 3–5 yrs PM exp, SQL + Snowflake + AI tools. **Not BI; contract; JP is employed.** Pass. |
+| Charter Communications | Brittany Gosz, Insight Global Principal Recruiter (LinkedIn InMail) | "Data Analyst Opportunity with Charter Communications - 1x Onsite in Denver, CO" | $45–48/hr W2 (~$94–$100K annualized), 1x onsite Greenwood Village CO, contract-to-hire, **Tableau-primary**. Below floor + contract + JP is employed. Pass. |
+| Mercedes-Benz USA / Vans | LinkedIn Job Alert | "Sr. Analyst, Customer Services BI at Mercedes-Benz USA" | Two openings at Mercedes-Benz USA & MB Vans USA — both **Atlanta, GA onsite**. Also: Senior Analyst Revenue Analytics & Insights at Roku (New York). None fit criteria; JP employed. Pass. |
 
-*Carry-forward unread/unresolved from yesterday:*
-
-| Company | Sender | Subject | Summary |
-|---------|--------|---------|---------|
-| HEI Civil | yvonne.denslow@heicivilcolorado.teamtailor-mail.com | Application for Business Intelligence Developer | **🔴 ACTION REQUIRED TODAY.** Recruiter Yvonne Denslow's Friday 6/12 call window (10am MST = ~10:00am) is TODAY. Respond this morning to politely decline — you are employed. |
-| IT Solutions Inc. (LinkedIn InMail) | inmail-hit-reply@linkedin.com | Exciting opportunity for a data analyst | Tarun Kumar pitching 6-month **contract** role — Sr. Analyst II Power BI / Data Visualization Consultant, Remote. Low priority / no action needed given perm employment at Crocs. Brief decline optional. |
-
-*No new responses from: Zillow, Shutterfly, Gusto, Machinify, Trimble, Hone Health, or EverCommerce.*
+**No responses from Shutterfly, Zillow, Gusto, Machinify, Advanced Energy, Hone Health, or Trimble.**
 
 ---
 
-## Onboarding — Outstanding Items
+## Pipeline — Action Required Today
 
-*(Carry-forward — confirm these are resolved before the weekend)*
+> **JP is employed at Crocs (start June 1, 2026). All "Ready to Apply" items are stale. No applications to send. Logging for close-out.**
 
-| Item | Status | Notes |
-|------|--------|-------|
-| DailyPay activation | ⚠️ **STILL FLAGGED** | 3+ reminder emails Jun 3–7 — activate at dailypay.com before your next pay period |
-| ADP Registration | ⚠️ Verify complete | workforcenow.adp.com — code: `cu0ny96k` |
-| Withdrawal: Trimble | ⚠️ Pending | Email Eric Robinson — eric_robinson@trimble.com (referral — high priority) |
-| Withdrawal: EverCommerce (Jodi Cohen) | ⚠️ Pending | jcohen@evercommerce.com / 303-981-5543 (warm referral — high priority) |
-| LinkedIn "Open to Work" banner | ⚠️ Still live | Generating recruiter noise on Day 12 of new job — remove today |
+### Ready to Apply — STALE (Close Out in Tracker)
 
-**Key contacts at Crocs:**
-- Mike Gura (hiring manager): mgura@crocs.com | 520-262-2448
-- Stephen Briscoe (peer Sr. BI Analyst): sbriscoe@crocs.com | 720-885-2227
+| Company | Role | Doc | Due (Was) |
+|---------|------|-----|-----------|
+| EverCommerce (PaySimple) | Data Analyst Payments | EverCommerce_DataAnalystPayments_2026-05-07.docx | 2026-05-09 |
+| Tilt Finance | Senior BI Analyst | (docs not built) | 2026-05-16 |
+| Boulevard | Staff Data Analyst | (docs not built) | 2026-05-16 |
+| Engine (Hotel Engine) | Senior Revenue Insights Analyst | (docs not built) | 2026-05-16 |
+| Mercer Advisors | Senior BI Analyst | (docs not built) | 2026-05-16 |
+| NMI | Product Data Analyst | (docs not built) | 2026-05-15 |
+| Stellantis (Jeep) | Business & Data Analyst | Stellantis_BIAnalyst_2026-05-07.docx | 2026-05-09 |
 
----
+### Open Applications — Still Awaiting Response (Can Withdraw)
 
-## Pipeline — Close-Out Status
-
-Withdrawals still pending (from prior briefs):
-
-| Company | Contact / Portal | Priority | Action |
-|---------|-----------------|----------|--------|
-| Trimble | eric_robinson@trimble.com | 🔴 HIGH (referral) | Personal withdrawal email |
-| EverCommerce (PaySimple) | jcohen@evercommerce.com / 303-981-5543 | 🔴 HIGH (warm referral) | Call or email |
-| Hone Health | talent@honehealth.com | 🟡 Medium | Brief withdrawal email |
-| Advanced Energy | SAP SuccessFactors portal | 🟡 Medium | Withdraw + unsubscribe from talent alerts |
-| Shutterfly | shutterfly20.careerportal.me | 🟡 Medium | Log in and withdraw via portal |
-| Zillow (P749151 + P750075) | Workday portal | 🟡 Medium | Withdraw both reqs |
-| Gusto | Application portal | 🟡 Medium | Withdraw |
-| Machinify | Greenhouse | 🟡 Medium | Withdraw |
-
-7 "Ready to Apply" tracker rows (EverCommerce, Tilt Finance, Boulevard, Engine, Mercer Advisors, Stellantis, NMI) still need status updated to **Withdrawn — Hired at Crocs** in next tracker cleanup.
-
-Add **EverDriven** to tracker: Rejected Jun 11, 2026 via LinkedIn — Business Intelligence Analyst.
+| Company | Role | Status | Action |
+|---------|------|--------|--------|
+| Shutterfly | Unknown | Portal access May 7; TA reviewing | Withdraw or let lapse |
+| Zillow Home Loans | Sr. BI Analyst P749151 | In Process | Withdraw if screen offered |
+| Zillow Preferred Strategy | Sr. BI Analyst P750075 | Applied May 6 | Withdraw if screen offered |
+| Machinify | Sr. Business Insights Analyst | Applied Greenhouse May 2026 | Let lapse (comp at floor) |
+| Trimble | BI Analyst R56123 | Referral active via Eric Robinson | Send courtesy note to Eric Robinson (eric_robinson@trimble.com) |
+| Advanced Energy | Sr. Data Analyst | Applied SuccessFactors May 13 | Withdraw or let lapse |
+| Hone Health | Sr. BI Analyst (Product) | Applied Greenhouse May 12 | Withdraw or let lapse |
 
 ---
 
-## Interview Prep Reminder
+## Crocs Onboarding Reminder
 
-No active interview rounds. ✅ Crocs is confirmed — all `prep/` materials can be archived.
+Onboarding items that were pending per tracker at start:
+- **I-9 Section 1** — Due Day 1 (should be complete)
+- **DocuSign x2** — Via SuccessFactors portal
+- **Compliance paperwork** — Via SuccessFactors portal
+- Contact: **Mike Gura** — mgura@crocs.com
+
+> Verify these are all resolved — particularly the I-9, which is a legal requirement.
 
 ---
 
 ## New Leads Found
 
-*For awareness only — JP is employed. Benchmark for future reference.*
+> FYI only — JP is employed. Filed for backup if Crocs situation changes within 90-day window.
 
 | Company | Role | Comp | Location | Link | Fit |
 |---------|------|------|----------|------|-----|
-| Connections Health Solutions | Sr. BI Developer | Not listed | Remote (Apr 24) | https://job-boards.greenhouse.io/connectionshealthsolutions/jobs/4232437009 | ⚠️ Healthcare — not on target industry list |
-| Basis Technologies | Sr. BI Developer | Not listed | Remote/CO | https://www.builtincolorado.com/job/senior-business-intelligence-developer/3994059 | ⚠️ Possible ad-tech (excluded) — verify before flagging |
-| CareDx | Sr. BI Analyst | Not listed | Remote / CA | https://job-boards.greenhouse.io/caredxinc/jobs/4242824009 | ⚠️ Healthcare — not on target list |
-
-*Top backup on record from prior briefs: Enverus ($115K–$125K, Power BI, CO hybrid) and Graham Healthcare (Power BI, remote).*
-
----
-
-## Recommended Actions Today
-
-1. **Respond to HEI Civil NOW** — Yvonne Denslow's Friday 10am MST call window is this morning. Email yvonne.denslow@heicivilcolorado.teamtailor-mail.com to decline: accepted a role, no longer available. Three sentences, warm close. Recruiters are long-term relationships.
-2. **Activate DailyPay** — Multiple reminders since Jun 3. Open the email and activate at dailypay.com today — don't let this affect your paycheck.
-3. **Send withdrawal to Eric Robinson (Trimble)** — eric_robinson@trimble.com. He arranged a referral call for you on May 13. A short gracious note protects that relationship.
-4. **Send withdrawal to Jodi Cohen (EverCommerce)** — jcohen@evercommerce.com. Warm contact via Justin Hebert — same short note, high priority.
-5. **Remove LinkedIn "Open to Work" banner** — Update your headline to Sr. Business Intelligence Analyst at Crocs, Inc. This will stop the ongoing recruiter inbound volume (RK yesterday, IT Solutions today).
-
----
-*Morning agent — 2026-06-12T14:08:29 UTC | Day 12 at Crocs — Friday WFH. Have a great day, JP.*
+| Encora | Senior BI Analyst (Power BI) | Not listed | Remote (likely) | https://job-boards.greenhouse.io/encora10/jobs/5136634007 | ✅ Power BI explicit + enterprise dashboards — strong stack match |
+| OppFi | Senior Analyst, Business Intelligence | Not listed | Remote | https://job-boards.greenhouse.io/opploans/jobs/7643812003 | ⚠️ Fintech (consumer lending) — acceptable industry; comp TBD |
+| Showpad | Senior Analyst, Business Intelligence | Not listed | Remote (B2B SaaS) | https://job-boards.greenhouse.io/showpad/jobs/7830224 | ✅ B2B SaaS — posted Apr 22, verify still open |
+| ChargePoint | Senior Business Intelligence Analyst | Not listed | Remote | https://job-boards.greenhouse.io/chargepoint/jobs/8415247002 | ✅ Clean energy/EV — good industry, verify stack |
+| Klaviyo | Senior Business Intelligence Analyst | Not listed | Remote/CO | https://www.builtincolorado.com/job/senior-business-intelligence-analyst/3635892 | ✅ B2B SaaS marketing tech, CO-listed — strong industry fit |
+| DigitalOcean | Senior BI Engineer | Not listed | Remote | https://www.builtincolorado.com/job/senior-business-intelligence-engineer/6832358 | ⚠️ Engineer title + dbt-heavy — more data engineering than analyst/viz |
+| Mercedes-Benz USA | Sr. Analyst, Customer Services BI | Not listed | Atlanta, GA (onsite) | (LinkedIn Job Alert) | ❌ Onsite Atlanta — relocation required |
 
 ---
 
-## Midday Update — 12:00 PM MDT
+## Recommended Actions Today (Weekend — Low Urgency)
 
-### New Emails Since Morning
-
-| Company / Source | Sender | Subject | Summary |
-|-----------------|--------|---------|---------|
-| Insight Global (via LinkedIn InMail) | inmail-hit-reply@linkedin.com | Data Analyst Opportunity with Charter Communications - 1x Onsite in Denver, CO | Recruiter **Brittany Gosz** (Principal Recruiter, Insight Global) pitching contract Data Analyst role at Charter Communications. **$45–48/hr W2, ongoing contract-to-hire, 1x onsite Greenwood Village CO.** Stack: SQL + Tableau (not Power BI). Contract scope — no action needed given perm employment. brittany.gosz@insightglobal.com |
-| Vail Resorts (job alert) | vailresortsdonotreply@noreply.jobs2web.com | New jobs at Vail Resorts for you! | Automated alert for **Data & Reporting Analyst – HR**, Broomfield CO. No action needed — automated alert, not recruiter outreach. |
-| LinkedIn Job Alert | jobalerts-noreply@linkedin.com | Sr. Analyst, Customer Services BI at Mercedes-Benz USA | Automated LinkedIn job recommendation alert. No action needed. |
-
-*No new responses from: HEI Civil, Zillow, Shutterfly, Gusto, Machinify, Trimble, Hone Health, or EverCommerce.*
-
-> **HEI Civil note:** No follow-up email visible from Yvonne Denslow — the 10am call window from this morning's action item was not confirmed resolved via email. Verify you handled this.
-
-### New Leads Found Midday
-
-*For awareness only — JP is employed at Crocs. Benchmark for future reference.*
-
-| Company | Role | Comp | Location | Link | Fit |
-|---------|------|------|----------|------|-----|
-| Altvia Solutions | Business Intelligence & Data Analyst | Not listed | Denver/Boulder CO | https://www.builtincolorado.com/job/business-intelligence-and-data-analyst/7261697 | ⚠️ Investment management tech (fintech-adjacent) — worth watching for future reference |
-| DigitalOcean | Senior Business Intelligence Engineer | Not listed | Remote | https://www.builtincolorado.com/job/senior-business-intelligence-engineer/6832358 | ⚠️ Engineer title, dbt/data modeling heavy — scope differs from analyst/viz focus |
-
-*Previously noted benchmarks still active: Enverus ($115K–$125K Power BI, CO), Graham Healthcare (Sr. Power BI Developer, remote).*
-
-### Afternoon Priority
-
-1. **Verify HEI Civil was handled** — Check if you sent a decline to yvonne.denslow@heicivilcolorado.teamtailor-mail.com this morning. No reply email is visible in inbox, so confirm you reached out before end of day Friday.
-2. **Activate DailyPay** — Multiple reminder emails since June 3. Open your DailyPay activation email and complete at dailypay.com before the weekend — next pay period is approaching.
-3. **Remove LinkedIn "Open to Work" banner** — Today's Charter Communications InMail is direct proof it's still live and generating contract recruiter noise. Update your headline to "Sr. Business Intelligence Analyst at Crocs, Inc." before logging off for the weekend.
-
----
-*Midday agent — 2026-06-12T18:00:00 UTC*
+1. **Confirm Crocs onboarding is fully complete** — Check SuccessFactors for any outstanding I-9, DocuSign, or compliance items. Contact Mike Gura (mgura@crocs.com) with any questions.
+2. **Update LinkedIn** — Remove "Open to Work" badge; update headline and current role to Sr. BI Analyst at Crocs. Your profile still shows "Open to Work" per recruiter InMails received.
+3. **Send courtesy note to Eric Robinson at Trimble** — A brief "I accepted another offer" note closes the loop professionally on a referral relationship.
+4. **Withdraw from open applications** — Zillow, Hone Health, Advanced Energy, and Shutterfly. A one-sentence withdrawal email keeps relationships warm.
+5. **Archive leads above for 90 days** — Encora, Showpad, and Klaviyo are strong-match backups if needed in the early tenure window.
 
 ---
 
-## Evening Update — 8:30 PM MDT
-
-### New Emails Since Midday
-
-| Company / Source | Sender | Subject | Summary |
-|-----------------|--------|---------|---------|
-| Unknown company (via LinkedIn InMail) | Jordan Brookshier — Head of Recruitment | Exciting Data Product Manager Opportunity! | Cold InMail for a **6-month contract Data Product Manager** role, remote. Requires 3–5+ yrs PM experience + Snowflake/SQL. Scope mismatch — PM is not BI analyst. Contract (not perm). **No action needed — JP is employed at Crocs.** |
-
-*No new responses from: HEI Civil, Zillow, Shutterfly, Gusto, Machinify, Trimble, Hone Health, or EverCommerce.*
-
-### New Leads Found — Evening Web Search
-
-*For awareness only — JP is employed at Crocs. Benchmark for future reference.*
-
-| Company | Role | Comp | Location | Link | Fit |
-|---------|------|------|----------|------|-----|
-| OppFi | Sr. Analyst, Business Intelligence | Not listed | Remote US | [Greenhouse](https://job-boards.greenhouse.io/opploans/jobs/7643812003) | ✅ Fintech/lending (acceptable). Power BI explicit. Remote. Comp unconfirmed — strong match profile if JP ever re-enters market. |
-| Integrated Specialty Coverages (ISC) | Sr. BI Analyst (Workers Comp) | Not listed | Remote (unconfirmed) | [Greenhouse](https://job-boards.greenhouse.io/isccareers/jobs/4673045005) | ⚠️ Power BI + Snowflake, 5–7 yrs req. Insurance industry — not on target list but not excluded. |
-| Encora | Sr. BI Analyst (Power BI) | Not listed | Not confirmed | [Greenhouse](https://job-boards.greenhouse.io/encora10/jobs/5136634007) | ⚠️ Power BI explicit but Encora is a consulting/staffing firm — likely client-site contract work. Lower fit for perm-seeker. |
-| Mercer Advisors | Sr. BI Analyst | Est. $133K–$154K (Glassdoor) | Remote (likely) | [Greenhouse](https://job-boards.greenhouse.io/merceradvisors/jobs/5046203008) | ✅ Power BI + Azure Synapse + Python. Strong comp above floor. Wealth mgmt/fintech. Was "Ready to Apply" — now archived. |
-
-*Note: Greenhouse job pages returned 403 errors on direct fetch — details above sourced from search snippets and prior tracker notes.*
-
-### End-of-Day Summary
-
-JP is in Week 2 at Crocs (Day 12, Friday WFH). No meaningful application responses received. Two cold InMails received today (Charter via Insight Global, and a Data PM contract) — neither requires action given active employment.
-
-**Carry-forward for Monday:**
-- Confirm HEI Civil withdrawal was sent
-- Activate DailyPay (multiple reminders since Jun 3)
-- Remove LinkedIn "Open to Work" banner
-- Send withdrawal to Eric Robinson (Trimble) and Jodi Cohen (EverCommerce)
-
----
-*Evening agent — 2026-06-12T20:35:00 UTC | Have a great weekend, JP. Week 2 at Crocs is in the books.*
+*Morning agent — 2026-06-13T11:00:00 UTC*
