@@ -86,3 +86,38 @@ Onboarding items that were pending per tracker at start:
 ---
 
 *Morning agent — 2026-06-13T11:00:00 UTC*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+No new recruiter outreach or application responses since the morning run. One automated LinkedIn job alert arrived at 10:24 AM MDT:
+
+| Sender | Subject | Summary |
+|--------|---------|---------|
+| LinkedIn Job Alerts | "Data Analyst at Sand Cherry" | Automated alert only — no body content. Sand Cherry Associates is a Denver BI/analytics consultancy. Title is Data Analyst (below JP's level). JP is employed. Pass. |
+
+No responses from Zillow, Shutterfly, Gusto, Trimble, Hone Health, Machinify, or Advanced Energy.
+
+### New Leads Found Midday
+
+> FYI only — JP is employed at Crocs. Filed as 90-day backup.
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| Enverus | Senior BI Analyst, Revenue Operations | $115K–$125K | Remote (US) | https://www.builtincolorado.com/job/senior-business-intelligence-analyst-revenue-operations-24478dd/189684 | ✅ Power BI explicit + Snowflake + Python + SQL — comp perfect fit, energy analytics SaaS (acceptable industry), posted today |
+
+No other new senior BI / Power BI postings found that weren't already in the morning brief.
+
+### Afternoon Priority
+
+> JP is employed at Crocs (started June 1). No applications to send. Actions below are close-out and professional maintenance.
+
+1. **Update LinkedIn "Open to Work"** — Recruiters are still pinging as of this morning (Sand Cherry alert, Charter recruiter in morning brief). Remove the badge and update headline to Sr. BI Analyst at Crocs. One action, five minutes.
+2. **Send Eric Robinson courtesy note** — Brief "I accepted an offer" closes the Trimble referral loop cleanly. Use eric_robinson@trimble.com.
+3. **Verify Crocs onboarding completeness** — Confirm I-9 Section 1, DocuSign ×2, and compliance paperwork are fully submitted in SuccessFactors. Contact Mike Gura (mgura@crocs.com) if any items remain open.
+
+---
+*Midday agent — 2026-06-13T18:00:00 UTC*
