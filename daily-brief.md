@@ -85,3 +85,40 @@ Files on record: `Crocs_Technical_SQL_Snowflake.md`, `Crocs_Technical_DAX_PowerB
 ---
 
 *Morning agent — 2026-06-14T12:00:00 UTC*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+| From | Subject | Summary |
+|------|---------|---------|
+| Colorado Dept. of Labor & Employment (`cdle_ui-alerts@state.co.us`, 1:16 AM MDT) | "Notification from COUI" | ⚠️ **ACTION REQUIRED.** Document ID: 126799691 — "Notification of Inactive Unemployment Insurance Claim." Automated because JP started at Crocs June 1. Log into MyUI+ to review — document may require a response. **20-day appeal window is running from mail date.** Do not ignore. |
+| LinkedIn job alerts (4:24 AM & multiple sends) | "Senior Analyst, Compensation Analytics at Universal Orlando Resort" / "IT Data Reporting & Analytics Analyst at Mission Rock Residential" / "Data Analyst at Sand Cherry" | LinkedIn digest noise — wrong titles, below level, or excluded industries. No action. |
+| LinkedIn job alerts (4:24 PM & 6:24 PM MDT) | "Data Analyst II - Marketing at Boost Mobile" (sent twice) | ❌ Below title level. Telecom. JP is employed. Pass. |
+
+**No responses from Shutterfly, Zillow, Gusto, Machinify, Advanced Energy, Hone Health, or Trimble.**
+
+### New Leads Found Midday
+
+> **FYI / 90-day backup only — JP is employed at Crocs.**
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| DigitalOcean | Sr Business Intelligence Engineer | $138K–$208K | Remote (CO/IN) | [Built In Colorado](https://www.builtincolorado.com/job/senior-business-intelligence-engineer/6832358) | ✅ B2B cloud SaaS, strong comp, senior level — best new find today. Verify stack (likely SQL + a BI tool). |
+| StarRez | Sr Business Intelligence Analyst | Not listed | Remote (est.) | [Greenhouse](https://job-boards.greenhouse.io/starrez/jobs/5118067008) | ⚠️ B2B SaaS (student housing/higher ed tech). Verify comp and BI stack before flagging as backup. |
+| Remote.com | Sr Treasury Business Intelligence Analyst | Not listed | Remote-first | [Greenhouse](https://job-boards.greenhouse.io/remotecom/jobs/7674093003) | ⚠️ Remote-first HR/payroll SaaS — good industry. Treasury specialization may be narrow fit; verify if BI scope is broad or siloed. |
+| CareDx | Sr Business Intelligence Analyst | Not listed | Remote | [Greenhouse](https://job-boards.greenhouse.io/caredxinc/jobs/4242824009) | ⚠️ Healthcare (transplant monitoring) — not a preferred industry for JP but not excluded. Verify stack and comp. |
+
+*Note: Basis Technologies (Built In CO result) is ad-tech — excluded per deal-breakers.*
+
+### Afternoon Priority
+
+1. **⚠️ Log into MyUI+ immediately** — Review "Notification of Inactive Unemployment Insurance Claim" (Doc ID: 126799691). Confirm whether a response is required and check the response deadline. If UI payments stopped automatically when you reported your new job, this is likely a closure notice — but read it to be sure. Login: [MyUI+](https://myui.clouduim.cdle.state.co.us/Claimant/Core/Login.ASPX). Call CDLE at (303) 318-9000 if unclear (lines open 8am–3pm Mon–Fri).
+2. **Update LinkedIn** — Remove "Open to Work" badge, update headline and current employer to Sr. BI Analyst @ Crocs. Recruiters are still sending InMails (two last week). Five minutes; eliminates ongoing confusion.
+3. **Send Eric Robinson courtesy note** (`eric_robinson@trimble.com`) — One sentence thanking him for the Trimble referral and letting him know you've accepted a position at Crocs.
+
+---
+
+*Midday agent — 2026-06-14T18:30:00 UTC*
