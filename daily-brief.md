@@ -82,3 +82,38 @@ All "Ready to Apply" rows are **moot** — JP accepted the Crocs offer May 18, b
 ---
 
 *Morning agent — 2026-06-15T14:00Z UTC*
+
+---
+
+## Midday Update — 12:30 PM MDT
+
+### New Emails Since Morning
+
+| Sender | Subject | Summary |
+|---|---|---|
+| **Gusto** (no-reply@careers.gusto.com) | "Regarding your Application to Gusto, JP" | ❌ **Rejection** — Revenue Operations Analyst position. Standard ATS decline from "Gusto Invite Team." No further action needed; JP is employed. Tracker updated to Rejected. |
+
+**LinkedIn job alerts** (automated — no direct recruiter outreach):
+- "Data Analytics Manager at Sling TV" — wrong title and level, not relevant
+- "Business Intelligence Analyst at Anaconda, Inc." — confirmed stale June 2024 posting, not a new opening
+
+No direct recruiter outreach or application responses from any tracked company since the morning run.
+
+### New Leads Found Midday
+
+*JP is employed — listed for awareness only. No action needed.*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---|---|---|---|---|---|
+| CareDx | Senior Business Intelligence Analyst | Not listed | Remote (verify) | [Greenhouse](https://job-boards.greenhouse.io/caredxinc/jobs/4242824009) | ⚠️ Healthcare/transplant vertical; stack is SQL + Power BI + Tableau + Looker (multi-tool, not Power BI primary); posted May 7 2026 |
+
+*No other new postings found midday that were not already in the morning brief.*
+
+### Afternoon Priority
+
+1. **[URGENT] Review Colorado UI document** — Log in to [MyUI+](https://myui.clouduim.cdle.state.co.us/Claimant/Core/Login.ASPX) and read Document ID 126799691 ("Notification of Inactive Unemployment Insurance Claim"). The 20-day appeal window runs from ~June 14. This is the most time-sensitive item.
+2. **No tracker action needed** — Gusto status updated to Rejected automatically by this agent.
+3. **Send courtesy closure emails (optional)** — A brief "I've accepted another offer" note to Zillow, Machinify, Shutterfly, Advanced Energy, Hone Health, and Trimble keeps those recruiter relationships clean for the future.
+
+---
+*Midday agent — 2026-06-15T18:30Z UTC*
