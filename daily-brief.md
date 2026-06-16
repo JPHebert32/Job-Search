@@ -85,3 +85,40 @@ All "Ready to Apply" rows are **moot** — JP accepted the Crocs offer May 18, b
 ---
 
 *Morning agent — 2026-06-16T00:00:00 UTC*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+| Sender | Subject | Summary |
+|---|---|---|
+| LinkedIn (jobalerts) | "Consumer Analytics Senior Analyst at Kforce Inc: up to $46/hour" (18:24 UTC) | Kforce staffing agency contract posting. $46/hr ≈ $95.7K annualized — below $115K floor. Not relevant. |
+| LinkedIn (jobalerts) | "Senior Data Experience Professional at University of Colorado Boulder" (16:25 UTC) | Academic/government role, below level. Not relevant. |
+| connectingcolorado.gov | "Job Fair 6.17.26" (17:06 UTC) | Weld County Workforce Center Job Fair, June 17, 10am–1pm. JP is employed — no action needed. |
+
+**No direct recruiter outreach or application responses from tracked companies since morning run.**
+
+### New Leads Found Midday
+
+*JP is employed at Crocs — listed for awareness only. No action needed.*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---|---|---|---|---|---|
+| Ivanti | Senior BI Analyst | Not listed (est $115–$135K) | Remote US | [greenhouse.io](https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7660106003) | ✅ Power BI explicit (4+ yrs, DAX, semantic modeling), B2B SaaS/IT management, remote |
+| NetDocuments | Senior BI Analyst | Not listed | Remote US | [greenhouse.io](https://job-boards.greenhouse.io/netdocuments/jobs/4515011008) | ✅ Power BI + Snowflake explicit (4–6 yrs), legal tech SaaS, remote |
+| Remote.com | Senior Treasury BI Analyst | Not listed | Remote | [greenhouse.io](https://job-boards.greenhouse.io/remotecom/jobs/7674093003) | ⚠️ Fintech-adjacent, strong remote-first culture, but Treasury domain is narrow |
+| Graham Healthcare Group | Senior Power BI Developer | Not listed | Remote (Built In CO listing) | [builtincolorado.com](https://www.builtincolorado.com/job/senior-power-bi-developer/4623208) | ⚠️ Power BI explicit but healthcare industry (caution); "Developer" title scope may skew ETL-heavy |
+
+### Afternoon Priority
+
+1. **[URGENT — CARRY FORWARD] Colorado UI Document 126799691** — If not yet reviewed, log in to MyUI+ today. 20-day appeal window from ~June 14. Do not let this slip.
+
+2. **Today is Tuesday — IN-OFFICE at Crocs** — Interlocken, Broomfield. No job-search actions needed; focus on Day 16 onboarding.
+
+3. **Optional: Withdraw Fanatics application** — Gambling industry (excluded list), title mismatch (Data Scientist III). A quick withdrawal via LinkedIn keeps your profile clean now that you're employed.
+
+---
+
+*Midday agent — 2026-06-16T18:30:00 UTC*
