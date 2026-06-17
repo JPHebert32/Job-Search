@@ -122,3 +122,42 @@ All "Ready to Apply" rows are **moot** — JP accepted the Crocs offer May 18, b
 ---
 
 *Midday agent — 2026-06-16T18:30:00 UTC*
+
+---
+
+## Midday Update — 12:00 PM MDT (2026-06-17)
+
+### New Emails Since Morning
+
+| Sender | Subject | Summary |
+|---|---|---|
+| Icelandair (noreply@icelandair.is) | "Your Boarding Pass" (Jun 16, 23:25 UTC) | ✈️ **Boarding pass for FI670, DEN → KEF, June 17 at 16:40 MDT.** Booking ref AUME2W. JP already checked in via Icelandair app. Iceland trip is today — depart Denver airport ~2:00–2:30 PM MDT. |
+| Icelandair (email.icelandair.is) | "Check in is now open for FI670" (Jun 16, 22:46 UTC) | Check-in confirmation. 1 checked bag allowance. See above. |
+| LinkedIn (jobalerts) | "Sr. Growth Analytics Analyst II at Shutterfly" (Jun 16, 22:24 UTC) | Different role from JP's open Shutterfly application (which has no confirmed title). "Growth Analytics" is a different discipline — not BI/Power BI primary. JP is employed — awareness only. |
+| LinkedIn (jobalerts) | "Data Analyst II at Garner Health" (Jun 16, 20:24 UTC) | Level II — below Senior target. Healthcare. Not relevant. |
+
+**No direct recruiter outreach or application responses from any tracked company since this morning.**
+
+### New Leads Found Midday
+
+*JP is employed at Crocs — listed for awareness only. No action needed.*
+
+Web searches (Built In Colorado, Greenhouse, LinkedIn) returned general job board aggregators with no new specific senior BI/Power BI postings not already captured in the tracker. Built In Colorado returned a 403 error. No net-new leads to log.
+
+| Company | Role | Comp | Location | Link | Fit |
+|---|---|---|---|---|---|
+| Shutterfly | Sr. Growth Analytics Analyst II | Not listed | Remote (likely) | LinkedIn alert | ⚠️ Different discipline from JP's open application — Growth Analytics, not BI/Power BI. Awareness only. |
+
+### Afternoon Priority
+
+> ⚠️ **JP HAS A FLIGHT TODAY** — Icelandair FI670, Denver (DEN) → Reykjavik (KEF), **departs 16:40 MDT (4:40 PM)**. Already checked in, boarding pass issued. **Leave for DEN no later than 2:00–2:30 PM MDT.**
+
+1. **[IMMEDIATE] Leave for DEN airport by 2:00–2:30 PM MDT** — Flight FI670 departs 16:40 MDT. International terminal requires extra time. Booking ref: AUME2W.
+
+2. **[URGENT — DO BEFORE LEAVING] Colorado UI Document 126799691** — If not yet reviewed, log in to [MyUI+](https://myui.clouduim.cdle.state.co.us/Claimant/Core/Login.ASPX) now, before leaving for the airport. 20-day appeal window from ~June 14. Do not let this expire while traveling.
+
+3. **No job search actions needed** — JP is employed at Crocs (Day 17 today is a Wednesday — no in-office requirement). Pipeline is in monitor-only mode. Safe to enjoy the trip.
+
+---
+
+*Midday agent — 2026-06-17T18:00:00 UTC*
