@@ -1,3 +1,80 @@
+# Job Search Brief — 2026-06-17 | Morning
+
+> **STATUS: HIRED AT CROCS — Day 17 (Wednesday — REMOTE DAY).** Start date June 1. Hybrid schedule: Tue+Thu in-office at Interlocken, Broomfield. Up to $127K. Contact: Mike Gura (mgura@crocs.com).
+> **TODAY: ICELAND TRAVEL DAY** — Icelandair FI670 DEN → KEF departs 16:40 MDT. Leave for airport by 2:00–2:30 PM MDT. Already checked in. Booking ref: AUME2W.
+
+---
+
+## Gmail — New Activity
+
+No direct recruiter outreach or application responses in the last 24 hours.
+
+| Source | Subject | Summary |
+|---|---|---|
+| LinkedIn Job Alert | "Sr. Growth Analytics Analyst II at Shutterfly" (Jun 16, 22:24 UTC) | New Shutterfly opening — different role from JP's April 23 application. Growth Analytics discipline, not BI/Power BI primary. JP is employed — awareness only. |
+| LinkedIn Job Alert | "JP: 3 new jobs" (Jun 17, 04:24 UTC) | Includes Gusto Staff Data Scientist – Growth; wrong title and wrong discipline. Not actionable. |
+| LinkedIn | "JP, add Sarbjit Sarkaria – Data Consultant" (Jun 17, 08:27 UTC) | Connection suggestion from LinkedIn — not a recruiter outreach. No action needed. |
+
+**No direct recruiter outreach or application responses** from Zillow, Machinify, Shutterfly, EverCommerce, Advanced Energy, Hone Health, or Trimble since yesterday.
+
+> ⚠️ **CARRY-FORWARD:** Colorado UI Document ID 126799691 ("Notification of Inactive Unemployment Insurance Claim") — 20-day appeal window from ~June 14. Log in to [MyUI+](https://myui.clouduim.cdle.state.co.us/Claimant/Core/Login.ASPX) → View Correspondences **before leaving for the airport today.**
+
+---
+
+## Pipeline — Action Required Today
+
+**Job search is closed.** Residual open applications — monitor-only, no responses received:
+
+| Company | Role | Status |
+|---|---|---|
+| Zillow | Sr BI Analyst — Home Loans (P749151) | In Process — no update since Apr 28 |
+| Zillow | Sr BI Analyst — Preferred Strategy (P750075) | Applied — no update since May 6 |
+| Machinify | Sr BI Analyst | Applied — no update since May 2026 |
+| Shutterfly | Unknown role | Applied — no update since portal access May 7 |
+| Advanced Energy | Sr Data Analyst | Applied — confirmation May 13 |
+| Hone Health | Sr BI Analyst | Applied — confirmation May 12 |
+| Trimble | BI Analyst | Referral active — Eric Robinson submitted May 13 |
+| Fanatics | Data Scientist III | Applied — ⚠️ Gambling exclusion; consider withdrawing |
+
+---
+
+## Interview Prep Reminder
+
+✅ Crocs interview process complete. Offer accepted May 18. No prep actions needed.
+
+---
+
+## New Leads Found
+
+*JP is employed at Crocs — listed for awareness only. No action needed.*
+
+| Company | Role | Comp | Location | Tools | Fit |
+|---|---|---|---|---|---|
+| Ivanti | Sr. Business Intelligence Analyst | Not listed | Remote (flexible) | Power BI + DAX + semantic modeling | ✅ Power BI explicit, B2B SaaS, 4+ yrs req — strong match if ever re-entering market |
+| OppFi | Sr. Analyst, Business Intelligence | Not listed | Remote | Power BI / Tableau / Looker | ⚠️ Multi-tool, fintech-adjacent |
+| Connections Health Solutions | Sr. BI Developer | Not listed | Remote (fully) | Tableau + Power BI | ⚠️ Healthcare industry; Developer title may skew ETL-heavy |
+| CareDx | Sr. BI Analyst | Not listed | Remote-eligible | Power BI | ⚠️ Biotech/healthcare vertical |
+
+---
+
+## Recommended Actions Today
+
+1. **[IMMEDIATE] Leave for DEN airport by 2:00–2:30 PM MDT** — Icelandair FI670 departs 16:40 MDT (4:40 PM). International terminal. Booking ref: AUME2W. Already checked in.
+
+2. **[URGENT — DO BEFORE LEAVING] Review Colorado UI Document 126799691** — Log in to [MyUI+](https://myui.clouduim.cdle.state.co.us/Claimant/Core/Login.ASPX) before heading to the airport. 20-day appeal window from ~June 14 — do not let this expire while in Iceland.
+
+3. **Close out open applications (optional, before trip)** — Brief "accepted another offer" notes to Zillow, Machinify, Shutterfly, Advanced Energy, Hone Health, and Trimble keep recruiter relationships clean.
+
+4. **Withdraw Fanatics application** — Gambling industry (excluded list), title out of scope. Quick withdrawal via LinkedIn.
+
+5. **Enjoy Iceland** — No job search actions needed while traveling. Pipeline is stable.
+
+---
+
+*Morning agent — 2026-06-17T09:00:00 UTC*
+
+---
+
 # Job Search Brief — 2026-06-16 | Morning
 
 > **✅ HIRED AT CROCS — DAY 16 (TUESDAY — IN-OFFICE DAY).** Offer accepted May 18. Started June 1. Hybrid schedule: Tue+Thu in-office at Interlocken, Broomfield. Up to $127K.
