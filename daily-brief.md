@@ -238,3 +238,43 @@ Web searches (Built In Colorado, Greenhouse, LinkedIn) returned general job boar
 ---
 
 *Midday agent — 2026-06-17T18:00:00 UTC*
+
+---
+
+## Afternoon Check-In — 12:00 PM MDT (Second Pass)
+
+### New Emails Since Earlier Midday
+
+| Sender | Subject | Summary |
+|---|---|---|
+| Icelandair (icelandair@email.icelandair.is) | "Booking reference AUME2W: Check in is now open for your flight FI334, James!" (Jun 17, 10:26 UTC) | ⚠️ **NEW FLIGHT LEG — FI334, same booking AUME2W.** Check-in now open. FI334 is likely your KEF connection or onward leg. Check your Icelandair app/booking for FI334 departure details **before boarding FI670 today.** |
+| Advanced Energy (advancedenergy-jobnotification) | "New jobs posted from jobs.advanced-energy.com" (Jun 17, 16:13 UTC) | Automated talent community job alert — not an application response. New postings on their site. JP is employed; awareness only. |
+| Hendrickson Foundation / kristin@hendricksonfoundation.com | "BWSC Registration Confirmation" (Jun 17, 16:20 UTC) | Boundary Waters Sled Hockey Combine registration confirmed — $400 paid via Stripe. Future personal event. |
+| Chuck Gridley / USA Hockey (Chuck.Gridley@usahockey.org) | Re: Jersey Mike's lunch order — Denver sled hockey camp (Jun 17, 14:42 UTC) | Positive reply from USA Hockey staff — "Thanks again for a great job organizing your camp. I thought everything went really well." Reimbursement check being processed to 11962 W Quarles Ave. |
+| Nintendo (no-reply@accounts.nintendo.com) | Confirmation of digital purchase — Overcooked! 2 × 2 (Jun 17, 17:25–17:26 UTC) | Two Nintendo eShop purchases of Overcooked! 2 — personal travel entertainment. |
+
+**No recruiter outreach or application responses from any tracked company.**
+
+### New Leads Found (Afternoon)
+
+*JP is employed at Crocs — listed for awareness only. No action needed.*
+
+Web search returned no net-new senior BI/Power BI postings beyond leads already logged this week. Trilogy Federal and Proactive Logic Consulting appeared in results but are government/federal (excluded) and healthcare respectively.
+
+| Company | Role | Comp | Location | Link | Fit |
+|---|---|---|---|---|---|
+| — | No new leads | — | — | — | — |
+
+### Afternoon Priority
+
+> ✈️ **TRAVEL DAY — LEAVE FOR DEN BY 2:00–2:30 PM MDT. Flight FI670 departs 16:40 MDT.**
+
+1. **[ACTION BEFORE AIRPORT] Check FI334 details in your Icelandair app** — Check-in opened for FI334 (booking AUME2W) today at 10:26 UTC. This is likely your KEF onward connection or a return-trip leg. Verify departure time and whether you need to check in separately before boarding FI670 at DEN.
+
+2. **[URGENT — LAST CHANCE] Colorado UI Document 126799691** — If you haven't reviewed this yet, do it now before leaving. Log in to [MyUI+](https://myui.clouduim.cdle.state.co.us/Claimant/Core/Login.ASPX) → View Correspondences. 20-day appeal window from ~June 14.
+
+3. **No job-search actions needed** — Pipeline is monitor-only. Enjoy Iceland.
+
+---
+
+*Midday agent (afternoon pass) — 2026-06-17T18:30:00 UTC*
