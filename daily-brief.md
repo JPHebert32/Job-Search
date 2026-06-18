@@ -1,3 +1,78 @@
+# Job Search Brief — 2026-06-18 | Morning
+
+> **STATUS: HIRED AT CROCS — Day 18 (Thursday — IN-OFFICE DAY).** Start date June 1. Hybrid schedule: Tue+Thu in-office at Interlocken, Broomfield. Up to $127K. Contact: Mike Gura (mgura@crocs.com).
+> JP is currently in Iceland (Icelandair FI670 departed June 17). Job search is closed.
+
+---
+
+## Gmail — New Activity
+
+| Company | Sender | Subject | Summary |
+|---------|--------|---------|---------|
+| HEI Civil | hei.civil@heicivilcolorado.teamtailor-mail.com | Your job application for HEI Civil | **Rejection** — BI Developer role. "Decided to move forward with a candidate whose qualifications are better suited to this particular role." Standard ATS decline via Teamtailor. Received June 17 20:06 UTC. (Note: This application is not in job-tracker.csv — add and mark Rejected for completeness.) |
+
+**No direct recruiter outreach or application responses** from Zillow, Machinify, Shutterfly, Advanced Energy, Hone Health, Trimble, or any other tracked company in the last 24h.
+
+**Other inbox items (automated / not actionable):**
+- Cold recruiter outreach: Ross Energy Search (cr@ross-energysearch.com) — "Senior Settlements Analyst, Houston TX" — Crude Oil/Energy; wrong industry, wrong location, wrong discipline.
+- LinkedIn connection suggestion: Sarbjit Sarkaria (Data Architect & AI Consultant) — no action needed.
+- 8× LinkedIn job alert emails (Data Analyst / Sr. Analyst roles — job alerts still active; consider disabling post-trip).
+
+---
+
+## Pipeline — Action Required Today
+
+**Job search is closed.** JP accepted Crocs offer May 18, 2026.
+
+All "Ready to Apply" rows have due dates in May 2026 — **moot**. Residual open applications remain; no active response needed, but courtesy withdrawals are recommended (see Recommended Actions).
+
+| Company | Role | Status |
+|---------|------|--------|
+| Zillow | Sr BI Analyst — Home Loans (P749151) | In Process — no update since Apr 28 |
+| Zillow | Sr BI Analyst — Preferred Strategy (P750075) | Applied — no update since May 6 |
+| Machinify | Sr BI Analyst | Applied — no update since May 2026 |
+| Shutterfly | Unknown role | Applied — no update since portal access May 7 |
+| Advanced Energy | Sr Data Analyst | Applied — confirmation May 13 |
+| Hone Health | Sr BI Analyst | Applied — confirmation May 12 |
+| Trimble | BI Analyst | Referral active — Eric Robinson submitted May 13 |
+| Fanatics | Data Scientist III | Applied — ⚠️ Gambling exclusion; withdraw when back |
+
+---
+
+## Interview Prep Reminder
+
+✅ Crocs interview process complete. Offer accepted May 18. No prep actions needed.
+
+---
+
+## New Leads Found
+
+*JP is employed at Crocs — listed for awareness only. No action needed.*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| Openly | Sr. BI Analyst | Not listed | Remote US | [Greenhouse](https://boards.greenhouse.io/openly/jobs/4340737005) | ✅ Power BI required, insurtech/P&C |
+| Ivanti | Sr. BI Analyst | Not listed | Remote US | [Greenhouse](https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7660106003) | ✅ Power BI + DAX + semantic modeling, B2B SaaS (already logged) |
+| Integrated Specialty Coverages | Sr. BI Analyst (Workers Comp) | Not listed | Remote US | [Greenhouse](https://job-boards.greenhouse.io/isccareers/jobs/4673045005) | ⚠️ Power BI + Snowflake, insurance/workers comp |
+| CareDx | Sr. BI Analyst | Not listed | Remote US | [Greenhouse](https://job-boards.greenhouse.io/caredxinc/jobs/4242824009) | ⚠️ Power BI, healthcare/biotech |
+| OppFi | Sr. Analyst, BI | Not listed | Remote US | [Greenhouse](https://job-boards.greenhouse.io/opploans/jobs/7643812003) | ⚠️ Power BI / Tableau, consumer fintech |
+
+---
+
+## Recommended Actions Today
+
+1. **[POST-TRIP] Close out open applications** — When back from Iceland, send brief "accepted another offer" notes to Zillow (Workday portal), Machinify, Shutterfly, Advanced Energy, Hone Health, and directly to Eric Robinson at Trimble (eric_robinson@trimble.com). Keeps recruiter relationships clean.
+2. **[POST-TRIP] Withdraw Fanatics application** — Gambling industry (excluded list), wrong title (Data Scientist III). Quick withdrawal via LinkedIn.
+3. **[POST-TRIP] Turn off LinkedIn job alerts** — Multiple automated alerts per day; no longer needed.
+4. **[POST-TRIP] Log HEI Civil rejection in job-tracker.csv** — Rejection received June 17 for BI Developer application not currently tracked. Add row and mark Rejected.
+5. **[POST-TRIP] Consider disabling this morning routine** — Job search is complete. Update scheduler in Claude Code on the web session settings, or repurpose for onboarding/milestone tracking at Crocs.
+
+---
+
+*Morning agent — 2026-06-18T00:00:00 UTC*
+
+---
+
 # Job Search Brief — 2026-06-17 | Morning
 
 > **STATUS: HIRED AT CROCS — Day 17 (Wednesday — REMOTE DAY).** Start date June 1. Hybrid schedule: Tue+Thu in-office at Interlocken, Broomfield. Up to $127K. Contact: Mike Gura (mgura@crocs.com).
