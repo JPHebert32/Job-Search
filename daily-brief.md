@@ -73,6 +73,39 @@ All "Ready to Apply" rows have due dates in May 2026 — **moot**. Residual open
 
 ---
 
+## Midday Update — 12:00 PM MDT (2026-06-18)
+
+### New Emails Since Morning
+
+| Sender | Subject | Summary |
+|---|---|---|
+| Zillow Group (no-reply@careers.zillowgroup.com) | "Update from Zillow Group" (Jun 18, 9:18 AM MDT) | ❌ **REJECTION** — Sr BI Analyst, Strategic Planning & Insights (P750075). "After careful consideration, we've decided to move forward with other candidates whose experience more closely aligns with the needs of this role at this time." Standard ATS decline. Mark P750075 as Rejected in job-tracker.csv when back from Iceland. |
+| LinkedIn InMail (Brittney McKeen, York Solutions) | "Business Intelligence Analysts WANTED!" (Jun 18, 10:26 AM MDT) | Recruiter outreach — Brittney McKeen, York Solutions (bmckeen@yorksolutions.net). Contract BI Analyst role through end of 2026, fully remote. Focus: Digital Content Measurement, Earned Media Data, Social Data, strong PowerPoint. Not a Power BI/SQL profile match; contract only; JP is employed. No action needed. |
+| LinkedIn (jobs-noreply@linkedin.com) | "Your application to Business Intelligence Developer at HEI Civil" (Jun 18, 10:08 AM MDT) | LinkedIn's own rejection notification for HEI Civil — same rejection already logged in this morning's brief (TeamTailor email received Jun 17). Duplicate; no new action needed. |
+| LinkedIn job alerts | "Data Scientist II at Sundayy" / automated alerts | Wrong title, wrong level. Not relevant. |
+
+### New Leads Found Midday
+
+*JP is employed at Crocs — listed for awareness only. No action needed.*
+
+Web searches (Built In Colorado, Greenhouse.io) returned the same leads already listed in prior briefs this week (Ivanti, OppFi, CareDx, NeueHealth, Openly, Enverus). No net-new senior BI / Power BI postings identified this midday.
+
+| Company | Role | Comp | Location | Link | Fit |
+|---|---|---|---|---|---|
+| — | No net-new leads | — | — | — | — |
+
+### Afternoon Priority
+
+1. **[POST-TRIP] Update job-tracker.csv: Zillow P750075 → Rejected** — Rejection received 9:18 AM MDT today for Sr BI Analyst, Strategic Planning & Insights. Mark as Rejected when back from Iceland.
+2. **[POST-TRIP] Close out remaining open applications** — With P750075 now closed, residual open pipeline: Zillow P749151, Machinify, Shutterfly, Advanced Energy, Hone Health, Trimble, Fanatics. Send brief "accepted another offer" notes when back.
+3. **[TRAVEL] No job-search actions needed** — Pipeline is stable. Enjoy Iceland.
+
+---
+
+*Midday agent — 2026-06-18T18:00:00 UTC*
+
+---
+
 # Job Search Brief — 2026-06-17 | Morning
 
 > **STATUS: HIRED AT CROCS — Day 17 (Wednesday — REMOTE DAY).** Start date June 1. Hybrid schedule: Tue+Thu in-office at Interlocken, Broomfield. Up to $127K. Contact: Mike Gura (mgura@crocs.com).
