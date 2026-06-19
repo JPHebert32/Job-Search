@@ -1,3 +1,48 @@
+# Job Search Brief — 2026-06-19 | Midday
+
+> **STATUS: HIRED AT CROCS — Day 19 (Friday — REMOTE DAY).** Start date June 1. Hybrid schedule: Tue+Thu in-office at Interlocken, Broomfield. Up to $127K. Contact: Mike Gura (mgura@crocs.com).
+> JP is currently in Iceland. Job search is closed.
+
+---
+
+## Midday Update — 12:00 PM MDT (2026-06-19)
+
+### New Emails Since Morning
+
+No job-related emails received today (June 19). Three threads in inbox: a personal message (car/DoorDash), a Gusto job alert for a Senior Leader role (wrong title/level), and a Dick's Sporting Goods promo. None actionable.
+
+Two LinkedIn job alert emails from June 18 evening (after the June 18 midday run) were not previously captured:
+
+| Sender | Subject | Summary |
+|---|---|---|
+| LinkedIn (jobalerts) | "Senior BI Analyst at WeTravel: up to $118K/year" (Jun 18, 20:24 UTC) | ❌ **DISQUALIFIED** — WeTravel explicitly excludes applications from Colorado residents. Auto-disqualifier for JP (Littleton CO). Awareness only. |
+| LinkedIn (jobalerts) | "Data Analyst at The Hershey Company" (Jun 18, 22:24 UTC) | Wrong title (Data Analyst, not Senior BI). CPG/food industry. Not relevant. |
+
+**No direct recruiter outreach or application responses from any tracked company today.**
+
+### New Leads Found Midday
+
+*JP is employed at Crocs — listed for awareness only. No action needed.*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---|---|---|---|---|---|
+| WeTravel | Senior BI Analyst | Up to $118K/yr | Remote US | [Ashby](https://jobs.ashbyhq.com/wetravel/be03f365-ed21-4aa2-ad48-6f383474cbf7) | ❌ **Colorado applicants explicitly excluded** — auto-disqualifier |
+| StarRez | Senior Business Intelligence Analyst | Not listed | Remote US | [Greenhouse](https://job-boards.greenhouse.io/starrez/jobs/5118067008) | ⚠️ **Domo primary** (not Power BI) — higher ed SaaS (student housing); tool mismatch |
+
+No net-new Power BI–focused senior BI leads found today beyond what has been captured in prior briefs this week (Ivanti, OppFi, CareDx, Openly, NetDocuments, Enverus, Graham Healthcare).
+
+### Afternoon Priority
+
+1. **[TRAVEL] No job-search actions needed** — JP is in Iceland. Pipeline is in monitor-only mode. No responses to act on.
+2. **[POST-TRIP] Update LinkedIn job alerts** — Alerts are generating daily noise (wrong titles, wrong levels, wrong locations). Disable or tighten filters when back from Iceland.
+3. **[POST-TRIP] Close out open applications** — Remaining open: Zillow P749151, Machinify, Shutterfly, Advanced Energy, Hone Health, Trimble. Send brief "accepted another offer" notes to keep recruiter relationships clean.
+
+---
+
+*Midday agent — 2026-06-19T18:00:00 UTC*
+
+---
+
 # Job Search Brief — 2026-06-18 | Morning
 
 > **STATUS: HIRED AT CROCS — Day 18 (Thursday — IN-OFFICE DAY).** Start date June 1. Hybrid schedule: Tue+Thu in-office at Interlocken, Broomfield. Up to $127K. Contact: Mike Gura (mgura@crocs.com).
@@ -8,7 +53,7 @@
 ## Gmail — New Activity
 
 | Company | Sender | Subject | Summary |
-|---------|--------|---------|---------|
+|---------|--------|---------|----------|
 | HEI Civil | hei.civil@heicivilcolorado.teamtailor-mail.com | Your job application for HEI Civil | **Rejection** — BI Developer role. "Decided to move forward with a candidate whose qualifications are better suited to this particular role." Standard ATS decline via Teamtailor. Received June 17 20:06 UTC. (Note: This application is not in job-tracker.csv — add and mark Rejected for completeness.) |
 
 **No direct recruiter outreach or application responses** from Zillow, Machinify, Shutterfly, Advanced Energy, Hone Health, Trimble, or any other tracked company in the last 24h.
