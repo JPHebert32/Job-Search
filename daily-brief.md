@@ -110,6 +110,39 @@ No net-new Power BI–focused senior BI leads found today beyond what has been c
 
 ---
 
+## Midday Refresh — 12:00 PM MDT (Second Pass, 2026-06-19)
+
+### New Emails Since Morning Run (~8 AM MDT)
+
+| Sender | Subject | Time (MDT) | Summary |
+|---|---|---|---|
+| Vail Resorts (vailresortsdonotreply) | "New jobs at Vail Resorts for you!" | Jun 19, 9:38 AM | Job alert — "Data & Reporting Analyst – HR, Broomfield CO US." ❌ Below Senior level, in-office, HR function (not BI/data viz). JP is employed. No action. |
+| Nextdoor | "I'm disappointed to see all the political comments." | Jun 19, 10:32 AM | Neighborhood post — personal. Not job-related. |
+
+**No recruiter outreach or application responses from any tracked company.**
+
+### New Leads Found (Second Pass)
+
+*JP is employed at Crocs — listed for awareness only. No action needed.*
+
+No net-new senior BI / Power BI postings identified. Built In Colorado returned category pages only (no specific listings surfaced). Web search confirmed no new postings beyond leads already captured this week.
+
+| Company | Role | Comp | Location | Link | Fit |
+|---|---|---|---|---|---|
+| — | No new leads | — | — | — | — |
+
+### Afternoon Priority
+
+1. **[TRAVEL] No actions needed** — JP is in Iceland. Pipeline is monitor-only. No actionable emails or leads found.
+2. **[POST-TRIP] Disable LinkedIn job alerts** — Alerts continue generating daily noise (wrong titles, levels, and industries). Tighten or disable filters when back.
+3. **[POST-TRIP] Close out open applications** — Zillow P749151, Machinify, Shutterfly, Advanced Energy, Hone Health, Trimble. Courtesy withdrawals when back from Iceland.
+
+---
+
+*Midday agent (second pass) — 2026-06-19T18:30:00 UTC*
+
+---
+
 # Job Search Brief — 2026-06-18 | Morning
 
 > **STATUS: HIRED AT CROCS — Day 18 (Thursday — IN-OFFICE DAY).** Start date June 1. Hybrid schedule: Tue+Thu in-office at Interlocken, Broomfield. Up to $127K. Contact: Mike Gura (mgura@crocs.com).
