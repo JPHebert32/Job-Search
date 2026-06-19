@@ -1,3 +1,70 @@
+# Job Search Brief — 2026-06-19 | Morning
+
+> **STATUS: HIRED AT CROCS — Day 19 (Friday — REMOTE DAY).** Start date June 1. Hybrid schedule: Tue+Thu in-office at Interlocken, Broomfield. Up to $127K. Contact: Mike Gura (mgura@crocs.com).
+> JP is currently in Iceland. Job search is closed.
+
+---
+
+## Gmail — New Activity
+
+| Company / Source | Sender | Subject | Summary |
+|---|---|---|---|
+| **DailyPay** | noreply@dailypay.com | "It's been 1 payday…" (Jun 18, 19:00 UTC) | ✅ Confirms first Crocs paycheck received. Onboarding milestone cleared. No action needed. |
+| **York Solutions (recruiter)** | inmail-hit-reply@linkedin.com | "Business Intelligence Analysts WANTED!" (Jun 18, 16:26 UTC) | LinkedIn InMail from Brittney McKeen, Technical Recruiter (bmckeen@yorksolutions.net). Contract BI Analyst through end of 2026, fully remote. Scope: digital content measurement, earned media, social data — not a Power BI/SQL match. Contract-only, and JP is now FTE. No action needed. *(Note: already captured in June 18 Midday brief.)* |
+| **LinkedIn Job Alerts** | jobalerts-noreply@linkedin.com | "JP: 4 new jobs" / "Data Scientist II at Sundayy" | Automated alerts — Gusto Senior Leader (wrong title/level), Sundayy Data Scientist II (wrong discipline). Not relevant. |
+
+**No new application responses or recruiter outreach from tracked companies since yesterday's midday run.** Zillow rejection and York Solutions InMail both captured in June 18 Midday brief.
+
+---
+
+## Pipeline — Action Required Today
+
+**Job search is closed.** JP is employed at Crocs.
+
+All "Ready to Apply" items are stale (deadlines passed in May 2026). No action needed unless JP decides to clean them up post-trip.
+
+**Residual open applications (monitor-only):**
+
+| Company | Role | Status |
+|---|---|---|
+| Zillow | Sr BI Analyst — Home Loans (P749151) | In Process — no update since Apr 28 |
+| Machinify | Sr BI Analyst | Applied — no update since May 2026 |
+| Shutterfly | Unknown role | Applied — no update since portal access May 7 |
+| Advanced Energy | Sr Data Analyst | Applied — confirmation May 13 |
+| Hone Health | Sr BI Analyst | Applied — confirmation May 12 |
+| Trimble | BI Analyst | Referral active — Eric Robinson submitted May 13 |
+| Fanatics | Data Scientist III | Applied — ⚠️ Gambling exclusion; withdraw when back |
+
+---
+
+## Interview Prep Reminder
+
+✅ Crocs interview process complete. Offer accepted May 18. No prep actions needed.
+
+---
+
+## New Leads Found
+
+*JP is employed at Crocs — listed for awareness only. No action needed.*
+
+No net-new Power BI senior BI leads found today. Greenhouse.io returns previously-logged roles (Ivanti, Mercer Advisors, CareDx, OppFi, Openly). Built In Colorado page returned 403. No new postings warrant tracking.
+
+---
+
+## Recommended Actions Today
+
+1. **[POST-TRIP] Close out open applications** — When back from Iceland, send brief "accepted another offer" notes to Zillow (Workday portal for P749151), Machinify (Greenhouse), Shutterfly (candidate portal), Advanced Energy, Hone Health, and Eric Robinson at Trimble (eric_robinson@trimble.com). Professional courtesy.
+2. **[POST-TRIP] Withdraw Fanatics application** — Gambling industry (excluded list), title mismatch. Quick withdrawal via LinkedIn when back.
+3. **[POST-TRIP] Update LinkedIn** — Remove "Open to Work" badge. Set current position to Sr. Business Intelligence Analyst @ Crocs, Inc. (June 2026–present).
+4. **[POST-TRIP] Update job-tracker.csv** — Mark Zillow P750075 as Rejected (received June 18). Mark all "Ready to Apply" rows as Withdrawn (reason: Crocs offer accepted).
+5. **[POST-TRIP] Consider pausing this morning routine** — Job search is complete. Disable or repurpose the scheduler in Claude Code on the web session settings.
+
+---
+
+*Morning agent — 2026-06-19T07:00:00 UTC*
+
+---
+
 # Job Search Brief — 2026-06-19 | Midday
 
 > **STATUS: HIRED AT CROCS — Day 19 (Friday — REMOTE DAY).** Start date June 1. Hybrid schedule: Tue+Thu in-office at Interlocken, Broomfield. Up to $127K. Contact: Mike Gura (mgura@crocs.com).
