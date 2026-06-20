@@ -608,3 +608,66 @@ Web search returned the following leads. Direct Greenhouse posting pages returne
 ---
 
 *Morning agent — 2026-06-20T11:30:00 UTC*
+
+---
+
+# Job Search Brief — 2026-06-20 | Midday
+
+> **STATUS: HIRED AT CROCS — Day 20 (Saturday — OFF DAY).** Start date June 1. Hybrid schedule: Tue+Thu in-office at Interlocken, Broomfield. Up to $127K.
+> Job search is closed. JP was in Iceland as of June 17 — return status unknown.
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+**Emails since morning run (~11:30 UTC / ~5:30 AM MDT):**
+
+| Sender | Subject | Time (MDT) | Summary |
+|---|---|---|---|
+| LinkedIn (jobalerts) | "Data Analyst at T-Mobile" | Jun 20, 10:24 AM | ❌ Wrong title and level — Data Analyst, not Senior BI. No action. |
+| Nextdoor | "Hi." | Jun 20, 8:16 AM | Neighborhood post (housing search). Personal. Not job-related. |
+
+**No recruiter outreach or application responses from any tracked company.**
+
+---
+
+**⚠️ ACTION REQUIRED (Post-Trip): ProCogia Device Return Dispute Escalated**
+
+The FedEx package containing JP's returned ProCogia devices went missing in transit at Issaquah, WA. On June 15, JP told ProCogia the package needed a signature and asked them to provide documentation of each computer's value. ProCogia replied they couldn't locate the package and requested JP open a FedEx investigation. JP then asked for device valuations before proceeding. On **June 19 at 19:04 UTC**, ProCogia escalated to **Aleem Ahmad** (management/HR) — this message is **UNREAD** in JP's inbox.
+
+**Next step when back from Iceland:** Reply to ProCogia thread (helpdesk@procogia.com, cc aleem.ahmad@procogia.com, hr@procogia.com). Request the per-device valuations, then file a FedEx missing package investigation at fedex.com/en-us/customer-support/claims.html. Keep documentation — this may involve an insurance claim.
+
+---
+
+**Pre-morning LinkedIn alerts not captured in morning brief (Jun 19 evening – Jun 20 early AM):**
+
+| Subject | Time (UTC) | Assessment |
+|---|---|---|
+| "BI Reporting Analyst, TPO Data & Insights at Marriott International" | Jun 19, 20:24 | ❌ Below Senior level; hospitality industry. Not relevant. |
+| "Business Analysis Manager - Data Enablement at T-Mobile" | Jun 19, 22:24 | ❌ Manager title, wrong level. Not relevant. |
+| "Business Intelligence Developer at Acunor: up to $110K/year" | Jun 20, 06:24 | ❌ $110K below $115K floor. Not relevant. |
+| "Business Analyst at Jacobs: up to $157K/year" | Jun 20, 02:24 | ❌ Business Analyst (not BI Analyst); Jacobs is engineering/defense consulting. Not relevant. |
+| "Sr. Data Scientist at Roku" | Jun 20, 04:24 | ❌ Wrong discipline entirely. Not relevant. |
+| "Operations Data Analyst at Fanatics" | Jun 20, 00:24 | ❌ Fanatics = gambling (excluded list), wrong title. Not relevant. |
+
+### New Leads Found Midday
+
+*JP is employed at Crocs — listed for awareness only. No action needed.*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---|---|---|---|---|---|
+| Roboyo | Senior Power BI Developer – RPA Analytics | Not listed | Remote (unconfirmed) | [Greenhouse](https://job-boards.greenhouse.io/roboyo/jobs/4838567101) | ⚠️ Power BI explicit; consulting firm specializing in RPA/automation — Developer title likely skews ETL/automation-heavy rather than analyst/viz. Awareness only. |
+
+All other Greenhouse results (StarRez, Openly, Ivanti, Remote.com Treasury BI) already logged in prior briefs this week. No new Power BI–focused senior BI roles beyond what has been captured.
+
+### Afternoon Priority
+
+1. **[POST-TRIP] Respond to ProCogia device dispute** — ProCogia escalated to management (Aleem Ahmad) on June 19. Package is missing at Issaquah WA FedEx facility. When back from Iceland: reply requesting per-device valuations, then open a FedEx missing package investigation. This is the most time-sensitive item in the inbox.
+2. **[POST-TRIP] Disable or tighten LinkedIn job alerts** — Generating 6–8 emails per day of irrelevant roles. Disable or tighten filters now that the job search is complete.
+3. **[POST-TRIP] Close out open applications** — Residual open: Zillow P749151, Machinify, Shutterfly, Advanced Energy, Hone Health, Trimble. Courtesy withdrawal notes keep recruiter relationships clean.
+
+---
+
+*Midday agent — 2026-06-20T18:00:00 UTC*
