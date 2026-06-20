@@ -531,3 +531,80 @@ Web search returned no net-new senior BI/Power BI postings beyond leads already 
 ---
 
 *Midday agent (afternoon pass) — 2026-06-17T18:30:00 UTC*
+
+---
+
+# Job Search Brief — 2026-06-20 | Morning
+
+> **STATUS: HIRED AT CROCS — Day 20 (Saturday — OFF DAY).** Start date June 1. Hybrid schedule: Tue+Thu in-office at Interlocken, Broomfield. Up to $127K. Contact: Mike Gura (mgura@crocs.com).
+> Job search is closed. JP was in Iceland as of June 17 (Icelandair FI670/FI334, booking ref AUME2W) — return status unknown.
+
+---
+
+## Gmail — New Activity
+
+| Company / Source | Sender | Subject | Summary |
+|---|---|---|---|
+| LinkedIn (job alert) | jobalerts-noreply@linkedin.com | "JP: 6 new jobs" (Jun 19, 18:24 UTC) | Automated LinkedIn job alert — 6 Gusto-company roles: Staff Business Systems Analyst (SF Bay Area), Senior PM Contractor Products (NY), Senior Staff SWE Pricing & Packaging (SF), Expansion Account Manager (Phoenix), Head of Social & Influencer Marketing (Toronto). **Zero BI/analytics roles — appears to be a Gusto company-follow alert, not a BI role alert. No action needed.** Consider disabling or tightening LinkedIn job alert filters post-trip. |
+| LinkedIn (PYMK) | messages-noreply@linkedin.com | "JP, add Ashley Burt - Senior Technical Recruiter 👤" (Jun 20, 10:24 UTC) | LinkedIn "People You May Know" suggestion — Ashley Burt, Senior Technical Recruiter, 2 mutual connections. This is a passive algorithmic suggestion, not a direct recruiter outreach. No role or message attached. Low priority; connect if you want to expand recruiter network, but no urgency. |
+
+**No new application responses or recruiter outreach from: Crocs, Zillow, Machinify, Shutterfly, Advanced Energy, Hone Health, Trimble, or EverCommerce in the last 24 hours.**
+
+---
+
+## Pipeline — Action Required Today
+
+**Job search is closed.** JP is employed at Crocs (Day 20). No active applications to manage.
+
+**Residual open applications (monitor-only — courtesy close-out recommended post-trip):**
+
+| Company | Role | Status | Notes |
+|---|---|---|---|
+| Zillow | Sr BI Analyst — Home Loans (P749151) | In Process | No update since Apr 28 |
+| Machinify | Sr BI Analyst | Applied | No update since May 2026 |
+| Shutterfly | Unknown role | Applied | No update since portal access May 7 |
+| Advanced Energy | Sr Data Analyst | Applied | Confirmation May 13 |
+| Hone Health | Sr BI Analyst | Applied | Confirmation May 12 |
+| Trimble | BI Analyst | Referral Active | Eric Robinson submitted May 13 |
+| Fanatics | Data Scientist III | Applied | ⚠️ Gambling exclusion — withdraw when back |
+
+---
+
+## Interview Prep Reminder
+
+✅ Crocs interview process complete. Offer accepted May 18. No prep actions needed.
+
+---
+
+## New Leads Found
+
+*JP is employed at Crocs — listed for awareness only. No action needed.*
+
+Web search returned the following leads. Direct Greenhouse posting pages returned HTTP 403 during this run — details sourced from search snippets. Manual review required before applying.
+
+| Company | Role | Comp | Location | Link | Fit |
+|---|---|---|---|---|---|
+| Ivanti | Sr. Business Intelligence Analyst | Not listed | Remote-friendly | [Greenhouse](https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7660106003) | ✅ Power BI + DAX + semantic modeling, B2B SaaS (IT mgmt) — strong fit profile if ever re-entering market |
+| Integrated Specialty Coverages (ISC) | Sr. BI Analyst (Workers Comp) | Not listed | Remote (unconfirmed) | [Greenhouse](https://job-boards.greenhouse.io/isccareers/jobs/4673045005) | ⚠️ Power BI + Snowflake match; insurance industry |
+| Encora | Sr. BI Analyst (Power BI) | Not listed | Remote (unconfirmed) | [Greenhouse](https://job-boards.greenhouse.io/encora10/jobs/5136634007) | ⚠️ Power BI + DAX + tabular models; consulting firm — may require client travel |
+| Built In Colorado | Multiple senior BI roles | Varies | Denver metro / remote | [builtincolorado.com](https://www.builtincolorado.com/jobs/data-analytics/business-intelligence/senior) | ✅ Live board — check directly for current postings |
+
+*Mercer Advisors (Sr. BI Analyst, Power BI + Azure Synapse, est. $133K–$154K) and Ivanti continue to appear as the strongest untracked leads for the profile — for future reference.*
+
+---
+
+## Recommended Actions Today
+
+1. **[POST-TRIP] Close out open applications** — Send brief "I've accepted another offer" notes to: Zillow (Workday portal for P749151), Machinify, Shutterfly (candidate portal), Advanced Energy, Hone Health, and Eric Robinson at Trimble (eric_robinson@trimble.com). This keeps recruiter relationships clean for the future.
+
+2. **[POST-TRIP] Withdraw Fanatics application** — Gambling industry (excluded list), title mismatch (Data Scientist III). Quick withdrawal via LinkedIn.
+
+3. **[POST-TRIP] Update LinkedIn** — Remove "Open to Work" badge. Set current position to Sr. Business Intelligence Analyst @ Crocs, Inc. (June 2026–present). This will also clean up the irrelevant job alerts.
+
+4. **[POST-TRIP] Disable or tighten LinkedIn job alerts** — Generating 5–8 emails/day of non-BI, non-senior roles. Update filters or disable alerts now that the search is complete.
+
+5. **[POST-TRIP] Consider disabling this morning routine** — Job search is complete (Day 20 at Crocs). Disable or repurpose the scheduler in Claude Code on the web session settings. Alternatively, repurpose for onboarding milestone tracking (30/60/90-day goals at Crocs).
+
+---
+
+*Morning agent — 2026-06-20T11:30:00 UTC*
