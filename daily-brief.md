@@ -671,3 +671,76 @@ All other Greenhouse results (StarRez, Openly, Ivanti, Remote.com Treasury BI) a
 ---
 
 *Midday agent — 2026-06-20T18:00:00 UTC*
+
+---
+
+# Job Search Brief — 2026-06-21 | Morning
+
+> **STATUS: HIRED AT CROCS — Day 21 (Sunday — OFF DAY).** Start date June 1. Hybrid schedule: Tue+Thu in-office at Interlocken, Broomfield. Up to $127K. Contact: Mike Gura (mgura@crocs.com).
+> Job search is closed.
+
+---
+
+## Gmail — New Activity
+
+No new application responses or recruiter outreach from tracked companies in the last 24 hours.
+
+Searched for: Crocs, Leprino, Shutterfly, Zillow, Gusto, Machinify, EverCommerce, Kroenke, plus subject lines containing application/interview/opportunity/offer/next steps/recruiter/hiring, and BI/Power BI/analytics recruiter outreach. Zero matches found.
+
+---
+
+## Pipeline — Action Required Today
+
+**Job search is closed.** JP is employed at Crocs. All "Ready to Apply" rows have passed their due dates (May 2026) and are moot.
+
+**Residual open applications (monitor-only — post-trip courtesy close-out recommended):**
+
+| Company | Role | Status | Notes |
+|---|---|---|---|
+| Zillow | Sr BI Analyst — Home Loans (P749151) | In Process | No update since Apr 28 |
+| Machinify | Sr BI Analyst | Applied | No update since May 2026 |
+| Shutterfly | Unknown role | Applied | No update since portal access May 7 |
+| Advanced Energy | Sr Data Analyst | Applied | Confirmation May 13 |
+| Hone Health | Sr BI Analyst | Applied | Confirmation May 12 |
+| Trimble | BI Analyst | Referral Active | Eric Robinson submitted May 13 |
+| Fanatics | Data Scientist III | Applied | ⚠️ Gambling exclusion — withdraw when back |
+
+---
+
+## Interview Prep Reminder
+
+✅ Crocs interview process complete. Offer accepted May 18. No prep actions needed.
+
+---
+
+## New Leads Found
+
+*JP is employed at Crocs — listed for awareness only. No action needed.*
+
+Greenhouse.io and Built In Colorado posting pages returned HTTP 403 during this run — details sourced from search result snippets.
+
+| Company | Role | Comp | Location | Link | Fit |
+|---|---|---|---|---|---|
+| Trace3 | Senior Data Analyst \| BI | Not listed | Remote (US) | [Greenhouse](https://job-boards.greenhouse.io/trace3/jobs/6832978) | ✅ Power BI explicit. This is a **new posting** (job 6832978) — distinct from the closed Sr BI Developer (job 6338462) already in the tracker. Best fallback lead if circumstances change. |
+| Openly | Sr. Business Intelligence Analyst | Not listed | Remote (US) | [Greenhouse](https://boards.greenhouse.io/openly/jobs/4340737005) | ⚠️ Insurtech — not in preferred industry list. Previously logged Jun 16–18. Stack unconfirmed via scrape (403). Ongoing awareness only. |
+| Remote.com | Sr. Treasury BI Analyst | Geo-banded (not listed) | Remote (Global) | [Greenhouse](https://job-boards.greenhouse.io/remotecom/jobs/7674093003) | ⚠️ Treasury/finance ops focus; stack is advanced Excel + BI tools + Python. Narrower scope than analyst/viz. Previously logged Jun 16. |
+
+No net-new Power BI–focused senior BI leads beyond what has been captured in prior briefs this week.
+
+---
+
+## Recommended Actions Today
+
+1. **[POST-TRIP] Respond to ProCogia device dispute (most time-sensitive)** — ProCogia escalated to Aleem Ahmad on June 19 (UNREAD email). When back from Iceland: reply requesting per-device valuations, then open a FedEx missing package investigation (package missing at Issaquah WA facility). Keep documentation — may involve an insurance claim.
+
+2. **[POST-TRIP] Close out open applications** — Send brief "accepted another offer" notes to: Zillow (Workday portal for P749151), Machinify, Shutterfly, Advanced Energy, Hone Health, and Eric Robinson at Trimble (eric_robinson@trimble.com). Keeps recruiter relationships clean.
+
+3. **[POST-TRIP] Withdraw Fanatics application** — Gambling industry (excluded list), title mismatch (Data Scientist III). Quick withdrawal via LinkedIn.
+
+4. **[POST-TRIP] Update LinkedIn** — Remove "Open to Work" badge, set current role to Sr. Business Intelligence Analyst @ Crocs, Inc. (June 2026–present), and disable or tighten job alerts (generating 6–8 irrelevant emails/day).
+
+5. **[POST-TRIP] Consider disabling this morning routine** — Job search is complete (Day 21 at Crocs). Disable or repurpose the scheduler in Claude Code on the web session settings.
+
+---
+
+*Morning agent — 2026-06-21T07:00:00 UTC*
