@@ -744,3 +744,82 @@ No net-new Power BI–focused senior BI leads beyond what has been captured in p
 ---
 
 *Morning agent — 2026-06-21T07:00:00 UTC*
+
+---
+
+# Job Search Brief — 2026-06-22 | Morning
+
+> **STATUS: HIRED AT CROCS — Day 22 (Monday — REMOTE DAY).** Start date June 1. Hybrid schedule: Tue+Thu in-office at Interlocken, Broomfield. Up to $127K. Contact: Mike Gura (mgura@crocs.com).
+> Job search is closed. JP returned from Iceland by this weekend (departed Jun 17).
+
+---
+
+## Gmail — New Activity
+
+One LinkedIn job alert received Jun 21, 2026 — 19 new jobs across saved alerts. No direct recruiter outreach, application responses, or interview invitations.
+
+| Company / Source | Sender | Subject | Summary |
+|---|---|---|---|
+| **LinkedIn Job Alert** | jobalerts-noreply@linkedin.com | "JP: 19 new jobs" (Jun 21, 20:24 UTC) | 19 jobs across multiple saved alerts. Gusto company-follow alert included Gusto Staff Data Scientist – Growth, Sr. Sales Compensation Analyst, Sr. Product Manager roles (all wrong discipline/level). BI-relevant listings in other alerts: **Ibotta – Business Intelligence Developer (Denver, CO Hybrid, 1 connection)** and **Sundayy – Data Analyst, Marketing (Remote)**. Neither actionable given employment. |
+
+**No new application responses or recruiter outreach** from Zillow, Machinify, Shutterfly, Advanced Energy, Hone Health, or Trimble in the last 24 hours.
+
+**Post-trip reminder**: ProCogia device dispute (escalated to Aleem Ahmad Jun 19) is still the most time-sensitive non-job item. Reply when back from Iceland.
+
+---
+
+## Pipeline — Action Required Today
+
+**Job search is closed.** JP is employed at Crocs (Day 22). All "Ready to Apply" rows passed their May 2026 deadlines and are moot.
+
+**Residual open applications (post-trip courtesy close-out recommended):**
+
+| Company | Role | Status | Notes |
+|---|---|---|---|
+| Zillow | Sr BI Analyst — Home Loans (P749151) | In Process | No update since Apr 28 |
+| Machinify | Sr BI Analyst | Applied | No update since May 2026 |
+| Shutterfly | Unknown role | Applied | No update since portal access May 7 |
+| Advanced Energy | Sr Data Analyst | Applied | Confirmation May 13 |
+| Hone Health | Sr BI Analyst | Applied | Confirmation May 12 |
+| Trimble | BI Analyst | Referral Active | Eric Robinson submitted May 13 |
+| Fanatics | Data Scientist III | Applied | ⚠️ Gambling exclusion — withdraw post-trip |
+
+---
+
+## Interview Prep Reminder
+
+✅ Crocs interview process complete. Offer accepted May 18. No prep actions needed.
+
+---
+
+## New Leads Found
+
+*JP is employed at Crocs — listed for awareness only. No action needed.*
+
+Greenhouse.io and Built In Colorado posting pages returned HTTP 403 during this run — details sourced from search result snippets. All leads are ongoing awareness items, not immediate actions.
+
+| Company | Role | Comp | Location | Link | Fit |
+|---|---|---|---|---|---|
+| Ibotta | Business Intelligence Developer | Not listed | Denver, CO (Hybrid) | LinkedIn alert Jun 21 | ✅ Consumer tech/marketplace, Denver local, 1 LinkedIn connection — strongest awareness lead |
+| Trace3 | Senior Data Analyst \| BI | Not listed | Remote (US) | [Greenhouse](https://job-boards.greenhouse.io/trace3/jobs/6832978) | ✅ Power BI explicit; new req (6832978), distinct from closed Developer role (6338462) already in tracker |
+| Ivanti | Sr. Business Intelligence Analyst | Not listed | Remote (US) | [Greenhouse](https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7660106003) | ✅ Power BI + DAX + semantic modeling, B2B SaaS — strong fit profile if ever re-entering market |
+| Openly | Sr. Business Intelligence Analyst | Not listed | Remote (US) | [Greenhouse](https://boards.greenhouse.io/openly/jobs/4340737005) | ⚠️ Insurtech — outside preferred industries. Ongoing from prior briefs. |
+| StarRez | Sr. Business Intelligence Analyst | Not listed | Remote (US) | [Greenhouse](https://job-boards.greenhouse.io/starrez/jobs/5118067008) | ⚠️ Ed-tech/higher-ed SaaS; Domo is primary BI tool per prior research — tool mismatch |
+
+---
+
+## Recommended Actions Today
+
+1. **[POST-TRIP / TODAY] Respond to ProCogia device dispute** — ProCogia escalated to Aleem Ahmad on June 19 (email still UNREAD per tracker). Reply requesting per-device valuations, then open a FedEx missing package investigation (package last seen at Issaquah WA facility). Most time-sensitive item in the inbox.
+
+2. **[POST-TRIP] Close out open applications** — Send brief "accepted another offer" notes to: Zillow (Workday portal P749151), Machinify (Greenhouse), Shutterfly (candidate portal), Advanced Energy, Hone Health, and Eric Robinson at Trimble (eric_robinson@trimble.com). Keeps recruiter relationships clean.
+
+3. **[POST-TRIP] Withdraw Fanatics application** — Gambling industry (excluded list), title mismatch. Quick withdrawal via LinkedIn.
+
+4. **[POST-TRIP] Update LinkedIn** — Remove "Open to Work" badge, add current role Sr. Business Intelligence Analyst @ Crocs, Inc. (June 2026–present), and disable or tighten job alerts (still generating 5–10 irrelevant emails/day).
+
+5. **[CONSIDER] Disable this morning routine** — Job search is complete (Day 22 at Crocs, post-trip, all pipelines closed). Disable or repurpose the scheduler in Claude Code on the web session settings. Alternatively, repurpose for 30/60/90-day onboarding milestone tracking at Crocs.
+
+---
+
+*Morning agent — 2026-06-22T07:00:00 UTC*
