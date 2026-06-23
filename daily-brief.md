@@ -180,3 +180,46 @@ No net-new Power BI senior BI leads emerged today beyond previously logged ones.
 ---
 
 *Morning agent — 2026-06-23T07:00:00 UTC*
+
+---
+
+# Job Search Brief — 2026-06-23 | Midday
+
+> **STATUS: HIRED AT CROCS — Day 23 (Tuesday — IN-OFFICE DAY).** Start date June 1. Hybrid: Tue+Thu at Interlocken, Broomfield. Up to $127K.
+> Job search is closed.
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+All inbox activity since ~7:00 AM MDT is promotional or personal:
+
+| Sender | Subject | Time (MDT) | Summary |
+|---|---|---|---|
+| LinkedIn Job Alerts | "Senior HR Data Specialist at AdventHealth" | 12:24 PM | Wrong title (HR Data Specialist ≠ BI). **Noise.** |
+| Jerry DeVaul (jerde07@gmail.com) | "Re: Sledge Hockey Clinic" | 11:02 AM | Colorado Sled Hockey community email — trailer loan for July 25 event. Personal — not job-related. |
+| Synchrony / Google Store Financing | Autopay reminder | 11:51 AM | Personal finance — not job-related. |
+
+**No application responses or recruiter outreach from any tracked company. ProCogia device dispute: still no reply from Aleem Ahmad since June 19 escalation — now 4 days silent.**
+
+---
+
+### New Leads Found Midday
+
+*JP is employed at Crocs — listed for awareness only. No action needed.*
+
+No net-new senior BI / Power BI leads identified this midday. Built In Colorado returned 403. Web search surfaces only job board index pages, not new individual postings. Previously logged awareness leads from June 22 midday remain the best candidates (Trace3, Honest Health, Nomad Health).
+
+---
+
+### Afternoon Priority
+
+1. **[TODAY — OVERDUE] ProCogia device dispute** — 4 days with no reply from Aleem Ahmad since June 19 escalation. Follow up by phone or a direct email now. Open the FedEx missing package investigation before the claim window closes.
+2. **[TODAY] LinkedIn cleanup** — You're in the office today. Remove "Open to Work" banner before Crocs colleagues see it. Add current role: Sr. Business Intelligence Analyst @ Crocs, Inc. (June 2026–present).
+3. **[THIS WEEK] Close out open applications** — Courtesy "accepted another offer" notes to Zillow (Workday portal, P749151), Machinify, Shutterfly, Advanced Energy, Hone Health, and Eric Robinson at Trimble (eric_robinson@trimble.com).
+
+---
+
+*Midday agent — 2026-06-23T18:00:00 UTC*
