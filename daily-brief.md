@@ -109,3 +109,74 @@ Previously logged leads still active: StarRez (Domo), Openly (insurtech), Ivanti
 ---
 
 *Midday agent — 2026-06-22T18:00:00 UTC*
+
+---
+
+# Job Search Brief — 2026-06-23 | Morning
+
+> **STATUS: HIRED AT CROCS — Day 23 (Tuesday — IN-OFFICE DAY).** Start date June 1. Hybrid: Tue+Thu at Interlocken, Broomfield. Up to $127K. Contact: Mike Gura (mgura@crocs.com).
+> Job search is closed. Back from Iceland.
+
+---
+
+## Gmail — New Activity
+
+| Sender | Subject | Time (UTC) | Summary |
+|---|---|---|---|
+| Ava Littleton via LinkedIn InMail (Brooksource) | "Exciting data analyst opportunity available" | Jun 22, 20:24 | Contract Data Analyst, Greenwood Village CO, hybrid. Tableau-focused. Contract-only and JP is FTE. **No action needed.** |
+| LinkedIn | "View Confidential jobs and your next steps" | Jun 23, 00:24 | Automated digest: Confidential Business Analyst (US) + Aventis Solutions AI Business Analyst x2 (New York). **Noise — not relevant.** |
+| noreply@connectingcolorado.gov | "WELLS HIRING EVENT" | Jun 22, 23:13 | Weld County precast concrete hiring event. **Not relevant.** |
+| LinkedIn Job Alerts | "JP: 15 new jobs" | Jun 22, 16:24 | Gusto Sr. Sales Compensation Analyst and similar. All wrong role/level. **Noise.** |
+
+**No application responses from any tracked company. No Crocs/onboarding emails. ProCogia device dispute: no new email since June 19 escalation to Aleem Ahmad — still pending.**
+
+---
+
+## Pipeline — Action Required Today
+
+**Job search is closed.** All remaining open items are post-hire cleanup.
+
+**Residual open applications (still need courtesy close-out):**
+
+| Company | Role | Status | Action |
+|---|---|---|---|
+| Zillow | Sr BI Analyst — Home Loans (P749151) | In Process | Send "accepted another offer" via Workday portal |
+| Machinify | Sr BI Analyst | Applied May 2026 | Reply to Greenhouse confirmation email |
+| Shutterfly | Unknown role | Portal access May 7 | Close via candidate portal |
+| Advanced Energy | Sr Data Analyst | Confirmation May 13 | Brief reply to SuccessFactors confirmation |
+| Hone Health | Sr BI Analyst | Confirmation May 12 | Reply to talent@honehealth.com |
+| Trimble | BI Analyst | Referral active | Email Eric Robinson (eric_robinson@trimble.com) — thank him, let him know |
+| Fanatics | Data Scientist III | Applied Apr 23 | Withdraw via LinkedIn (**Gambling exclusion** + title mismatch) |
+
+---
+
+## Interview Prep Reminder
+
+✅ **Not applicable.** Crocs interview process complete. Offer accepted May 18. No prep actions needed.
+
+---
+
+## New Leads Found
+
+*JP is employed at Crocs — listed for awareness only. No action needed.*
+
+No net-new Power BI senior BI leads emerged today beyond previously logged ones. Greenhouse.io returned previously tracked roles (Openly, OppFi, CareDx, Ivanti). Trace3 new req (from June 22 midday) still active.
+
+| Company | Role | Comp | Location | Fit |
+|---|---|---|---|---|
+| Trace3 | Sr. BI Developer \| Power BI | Not listed | Remote US | ✅ Power BI explicit — awareness lead if circumstances change |
+| Honest Health | Sr. BI Analyst | Not listed | Remote US | ⚠️ Healthcare — stack unconfirmed — awareness only |
+
+---
+
+## Recommended Actions Today
+
+1. **[TODAY — PRIORITY] ProCogia device dispute** — No email reply from Aleem Ahmad since June 19 escalation. Follow up directly (phone or email) to get per-device valuations and open FedEx missing package investigation. Most time-sensitive unresolved item.
+2. **[TODAY] Update LinkedIn** — You're heading into the office at Broomfield today. Remove "Open to Work" banner before colleagues see it. Add current role: Sr. Business Intelligence Analyst @ Crocs, Inc. (June 2026–present). Disable or tighten job alerts (generating 10–15 irrelevant emails/day).
+3. **[THIS WEEK] Close out open applications** — Quick courtesy emails to Zillow (Workday), Machinify, Shutterfly, Advanced Energy, Hone Health, and Eric Robinson at Trimble. Keeps recruiter relationships clean for future reference.
+4. **[THIS WEEK] Withdraw Fanatics application** — Gambling industry (excluded list) + title mismatch. Quick via LinkedIn.
+5. **[WHEN READY] Consider pausing this morning routine** — Job search is complete and has been for 5 weeks. Disable or repurpose the scheduler in Claude Code on the web session settings.
+
+---
+
+*Morning agent — 2026-06-23T07:00:00 UTC*
