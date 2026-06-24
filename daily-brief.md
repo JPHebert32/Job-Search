@@ -223,3 +223,74 @@ No net-new senior BI / Power BI leads identified this midday. Built In Colorado 
 ---
 
 *Midday agent — 2026-06-23T18:00:00 UTC*
+
+---
+
+# Job Search Brief — 2026-06-24 | Morning
+
+> **STATUS: HIRED AT CROCS — Day 24 (Wednesday — REMOTE DAY).** Start date June 1. Hybrid: Tue+Thu at Interlocken, Broomfield. Up to $127K. Contact: Mike Gura (mgura@crocs.com).
+> Job search is closed.
+
+---
+
+## Gmail — New Activity
+
+| Sender | Subject | Time (UTC) | Summary |
+|---|---|---|---|
+| LinkedIn Job Alerts | "JP: 5 new jobs" | Jun 23, 20:24 | Gusto Sr. Sales Compensation Analyst featured in snippet. All wrong role/level. **Noise.** |
+
+**No application responses from any tracked company. No Crocs onboarding emails. ProCogia device dispute: still no reply from Aleem Ahmad since June 19 — now 5 days silent. This is the most urgent open item.**
+
+*(Ava Littleton / Brooksource InMail and Wells Hiring Event were captured in yesterday's June 23 morning brief — not re-listed.)*
+
+---
+
+## Pipeline — Action Required Today
+
+**Job search is closed.** All remaining open items are post-hire cleanup.
+
+**Residual open applications (still need courtesy close-out):**
+
+| Company | Role | Status | Action |
+|---|---|---|---|
+| Zillow | Sr BI Analyst — Home Loans (P749151) | In Process | Send "accepted another offer" via Workday portal |
+| Machinify | Sr BI Analyst | Applied May 2026 | Reply to Greenhouse confirmation email |
+| Shutterfly | Unknown role | Portal access May 7 | Close via candidate portal |
+| Advanced Energy | Sr Data Analyst | Confirmation May 13 | Brief reply to SuccessFactors confirmation |
+| Hone Health | Sr BI Analyst | Confirmation May 12 | Reply to talent@honehealth.com |
+| Trimble | BI Analyst | Referral active | Email Eric Robinson (eric_robinson@trimble.com) |
+| Fanatics | Data Scientist III | Applied Apr 23 | Withdraw via LinkedIn (**gambling exclusion** + title mismatch) |
+
+---
+
+## Interview Prep Reminder
+
+✅ **Not applicable.** Crocs interview process complete. Offer accepted May 18. No prep actions needed.
+
+---
+
+## New Leads Found
+
+*JP is employed at Crocs — listed for awareness only, not for action.*
+
+| Company | Role | Comp | Location | Fit | Notes |
+|---|---|---|---|---|---|
+| INEOS | BI Developer (Power BI, Snowflake, SQL) | Not listed | Denver CO metro, hybrid | ✅ | Exact tool stack match. Denver hybrid fits. Global chemicals/energy — clean industry. Comp unconfirmed but role caliber suggests $115K+. Best new awareness lead. |
+| MaintainX | Sr BI Analyst | Not listed | Remote US | ⚠️ | Industrial/maintenance SaaS — good industry. Autodesk acquisition ($3.6B, May 2026) creates hiring freeze risk. Confirm remote vs. Raleigh hybrid. |
+| NeueHealth | Sr BI Analyst | $67K–$101K (related role) | Remote US | ⚠️ | Healthcare (value-based care). Comp from a comparable internal role is well below the $115K floor — senior post may be higher but needs verification. |
+| Trace3 | Sr BI Developer \| Power BI | $110K–$140K | Remote US | ✅ | Power BI/DAX/Snowflake/Databricks, remote. Posted Feb 2026 — confirm still active. Awareness lead from June 22 midday, still showing in search results. |
+| Honest Health | Sr BI Analyst | Not listed | Remote US | ⚠️ | Primary care/healthcare. Stack unconfirmed. Awareness lead from June 22 midday, still active. |
+
+---
+
+## Recommended Actions Today
+
+1. **[TODAY — OVERDUE] ProCogia device dispute** — 5 days with no reply from Aleem Ahmad since June 19 escalation. Call or email directly now. Open a FedEx missing package investigation before any claim window closes.
+2. **[TODAY] LinkedIn cleanup** — Wednesday is a remote day: good time for admin. Remove "Open to Work" banner (colleagues, clients, and recruiters see it). Add current role: Sr. Business Intelligence Analyst @ Crocs, Inc. (June 2026–present). Tighten job alerts to stop 10–15 noise emails/day.
+3. **[THIS WEEK] Close out open applications** — Courtesy "accepted another offer" notes to Zillow (Workday, P749151), Machinify, Shutterfly, Advanced Energy, Hone Health, and Eric Robinson at Trimble (eric_robinson@trimble.com). Keeps recruiter network warm.
+4. **[THIS WEEK] Withdraw Fanatics application** — Gambling industry (on excluded list) + title mismatch (Data Scientist, not BI). Quick via LinkedIn.
+5. **[WHEN READY] Pause this morning routine** — Job search has been closed for 5+ weeks. Disable or repurpose the scheduler in Claude Code on the web session settings to avoid daily noise.
+
+---
+
+*Morning agent — 2026-06-24T06:00:00 UTC*
