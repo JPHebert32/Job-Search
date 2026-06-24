@@ -294,3 +294,53 @@ No net-new senior BI / Power BI leads identified this midday. Built In Colorado 
 ---
 
 *Morning agent — 2026-06-24T06:00:00 UTC*
+
+---
+
+# Job Search Brief — 2026-06-24 | Midday
+
+> **STATUS: HIRED AT CROCS — Day 24 (Wednesday — REMOTE DAY).** Start date June 1. Hybrid: Tue+Thu at Interlocken, Broomfield. Up to $127K.
+> Job search is closed.
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+| Sender | Subject | Time (MDT) | Summary |
+|---|---|---|---|
+| LinkedIn Job Alerts | "Senior Power BI Engineer at Foot Locker" | 8:24 PM (Jun 23 MDT) | Alert arrived 02:24 UTC Jun 24 — missed by morning agent. Featured role: **Foot Locker Sr. BI Engineer**, Remote US, actively recruiting. Also surfaced: Sr. Analyst Data Visualization at Prodege (remote), Analytics Engineer at HaloMD (remote). See new leads below. |
+| Advanced Energy | "New jobs posted from jobs.advanced-energy.com" | 10:18 AM | Automated weekly talent community alert. Matched: Treasury Analyst I — Denver, CO. Wrong function (treasury, not BI). **No action needed.** |
+| LinkedIn Job Alerts | "Revenue Analyst, Sr. at OmniTRAX, Inc." | 10:25 AM | Railroad revenue analyst. Wrong industry and function. **Noise.** |
+
+All other emails today are personal or promotional: Southwest Airlines Rapid Rewards offer, Nextdoor neighborhood posts (car theft warning, zipper merge debate), Citi statement, Colorado CPW big game secondary draw deadline (June 30), Colorado Avalanche alumni hockey event, Boteboard promo, Zulily, Upstart loan offer, PayPal Pay in 4 confirmation, Victorinox newsletter, Synchrony offers, WordSmarts.
+
+**No application responses or recruiter outreach from any tracked company. No ProCogia reply — now 5 days silent since June 19 escalation.**
+
+---
+
+### New Leads Found Midday
+
+*JP is employed at Crocs — listed for awareness only. No action needed.*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---|---|---|---|---|---|
+| **Foot Locker** | Sr. BI Engineer (Power BI) | Not listed | Remote US | [Imagine Jobs listing](https://jobs.joinimagine.com/companies/foot-locker-2-86cfc206-e677-4404-b0d5-a45715624626/jobs/69131646-sr-bi-engineer) | ✅ Power BI explicit. Consumer retail — acceptable industry. Remote US. Actively recruiting as of June 24. Best new awareness lead today. |
+| **Remote.com** | Sr. Treasury Business Intelligence Analyst | Not listed | Remote (Global) | [Greenhouse 7673844003](https://job-boards.greenhouse.io/remotecom/jobs/7673844003) | ❌ Wrong function scope — treasury/cash management with BI as a secondary tool. Requires Corporate Treasury experience JP doesn't have. Posted March 2026. Not a fit. |
+
+Previously logged awareness leads still active: INEOS (Denver hybrid ✅), Trace3 (Power BI ✅), MaintainX (⚠️ Autodesk freeze risk), Honest Health (⚠️ healthcare/stack unconfirmed), Nomad Health (⚠️ Looker primary).
+
+No net-new senior BI/Power BI postings found via Greenhouse or web search beyond those already logged. Built In Colorado returned 403 again.
+
+---
+
+### Afternoon Priority
+
+1. **[TODAY — OVERDUE] ProCogia device dispute** — 5 full days with no reply from Aleem Ahmad since June 19 escalation. Call directly now; do not wait for another email. Open the FedEx missing package investigation before any claim window closes.
+2. **[TODAY] LinkedIn cleanup** — Wednesday remote day is ideal admin time. Remove "Open to Work" banner before Crocs colleagues or clients see it. Add current role: Sr. Business Intelligence Analyst @ Crocs, Inc. (June 2026–present). Tighten job alerts to stop the 10–15 noise emails/day.
+3. **[THIS WEEK] Close out open applications** — Quick "accepted another offer" notes to Zillow (Workday, P749151), Machinify (Greenhouse), Shutterfly (portal), Advanced Energy (SuccessFactors), Hone Health (talent@honehealth.com), and Eric Robinson at Trimble (eric_robinson@trimble.com).
+
+---
+
+*Midday agent — 2026-06-24T18:00:00 UTC*
