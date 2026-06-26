@@ -72,3 +72,37 @@ Informational only — logged as backup pipeline. No action needed unless Crocs 
 ---
 
 *Morning agent — 2026-06-26T06:00:00Z UTC*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+| Sender | Subject | Summary |
+|--------|---------|---------|
+| Vail Resorts (SAP SuccessFactors) | "New jobs at Vail Resorts for you!" | Automated job alert for "Data & Reporting Analyst - HR, Broomfield CO US" — just a saved search alert, not direct outreach. Not relevant (HR analyst, not senior BI). |
+| LinkedIn | "You appeared in 17 searches" (received ~10:24 PM MDT last night) | JP's profile was found in 17 searches this week by employees at: Brunswick Corporation, Eliassen Group, Brooksource, York Solutions, LLC, and H-E-B (+5 others). Eliassen and Brooksource are staffing firms actively recruiting — confirms the Open to Work badge is still live and surfacing JP to recruiters. |
+| LinkedIn (jobalerts) | "Data Analyst at BECU" (posted 6/25) | Data Analyst at BECU, South Carolina — not senior BI, not Colorado/remote. Informational only. |
+
+No pipeline company responses. No new recruiter outreach directed at JP personally.
+
+### New Leads Found Midday
+
+Informational only — backup pipeline. No action needed while at Crocs.
+
+| Company | Role | Est. Comp | Location | Link | Fit |
+|---------|------|-----------|----------|------|-----|
+| GitLab | Senior Data Analyst, Enterprise Analytics | Unknown (likely clears floor — GitLab Senior ICs typically $130K–$170K) | Remote (anywhere in US) | [greenhouse.io](https://job-boards.greenhouse.io/gitlab/jobs/8478359002) | ⚠️ Strong company, fully remote, end-to-end data product ownership — but stack is likely Sisense/Tableau/dbt, not Power BI. Solid backup if circumstances change. |
+| OppFi | Senior Analyst, Business Intelligence | $71K–$107K | Remote | [greenhouse.io](https://job-boards.greenhouse.io/opploans/jobs/7643812003) | ❌ Comp well below $115K floor. Consumer lending/fintech. Posted Feb 2026 — likely aged. Not pursuing. |
+
+*StarRez Sr. BI Analyst (Domo-primary, March 2026 application deadline) — expired, not logging.*
+
+### Afternoon Priority
+
+1. **Remove LinkedIn "Open to Work" badge** — the 17 profile searches this week (Eliassen Group, Brooksource staffing firms) and the ongoing job alert noise are direct evidence the badge is still active and broadcasting. Takes 30 seconds in LinkedIn settings. Delay keeps recruiter noise flowing into the weekend.
+2. **No job search action needed** — Friday WFH at Crocs. Backup pipeline is healthy: MaintainX and GitLab are the strongest new discoveries this week if the Crocs situation changes within 90 days.
+3. **Zillow withdrawal courtesy emails** — two Workday reqs (P749151 and P750075) still in-process. A two-line withdrawal note keeps the Zillow relationship clean.
+
+---
+*Midday agent — 2026-06-26T18:00:00Z UTC*
