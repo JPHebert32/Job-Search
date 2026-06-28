@@ -107,3 +107,34 @@ Informational only — backup pipeline. No action needed while at Crocs.
 
 ---
 *Midday agent — 2026-06-27T18:00:00Z UTC*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+> **STATUS: HIRED AT CROCS — Day 28 (Sunday).** Start date June 1. Hybrid Tue+Thu, Interlocken Broomfield. Up to $127K. Job search closed. This section is market awareness only.
+
+### New Emails Since Morning
+
+No new emails relevant to the job search since the morning run. One overnight LinkedIn notification (0:24 AM UTC June 28) — connection suggestion for "Finance Administrator at Procogia" — unrelated to BI/data and not job-search relevant.
+
+No responses from any pipeline companies (Zillow, Shutterfly, Machinify, Advanced Energy, Hone Health, Trimble).
+
+### New Leads Found Midday
+
+Quiet Saturday — no new postings found from today. Searches surfaced the following for the backup pipeline record:
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| **CareDx Inc.** | Senior Business Intelligence Analyst | Not listed | Remote US | [greenhouse.io](https://job-boards.greenhouse.io/caredxinc/jobs/4242824009) | ⚠️ Medical diagnostics (not B2B SaaS), posted May 7 — not a fresh posting. Stack includes SQL + Power BI + Tableau + Looker. Not previously tracked — informational only. |
+
+*Eliminated this run: OppFi Sr. Analyst BI ($71K–$107K, well below $115K floor ❌). Ivanti and NeueHealth already noted in yesterday's brief.*
+
+### Afternoon Priority
+
+1. **No job search action needed today** — Sunday, employed at Crocs since June 1. Search is closed.
+2. **Remove LinkedIn "Open to Work" badge** — flagged three consecutive days. Still seeing irrelevant connection suggestions (Finance Administrator) indicating profile still reads as open. Takes 30 seconds.
+3. **Confirm DailyPay account** — Crocs early wage access benefit, flagged since June 27. Quick weekend cleanup item.
+
+---
+*Midday agent — 2026-06-28T18:00:00Z UTC*
