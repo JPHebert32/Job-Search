@@ -69,3 +69,40 @@ No active interviews — **HIRED at Crocs.** Prep files in `prep/` remain archiv
 ---
 
 *Morning agent — 2026-06-28T06:00:00Z UTC*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+| Sender | Subject | Summary |
+|--------|---------|---------|
+| Icelandair (x2) | "Check in is now open for your flight FI671 / FI335, James!" | Booking ref **AUME2W** — check-in open for two Icelandair flights. **Action: Complete check-in now.** |
+| LinkedIn Jobs | "senior business intelligence analyst and similar jobs" | Alert returned **no exact matches** — LinkedIn substituted Orlando fallback listings (Siemens Energy BI Developer, Travel+Leisure, etc.). None relevant. |
+| Capital One | "Your credit card payment is due" | Personal finance action item. |
+| LinkedIn Jobs | "Head of Partner Growth, Embedded Payroll at Gusto" | Job alert noise — not a BI role. Gusto already rejected (Jun 15). |
+
+No new responses from any pipeline companies (Crocs, Zillow x2, Shutterfly, Machinify, Trimble, Hone Health, Advanced Energy).
+
+### New Leads Found Midday
+
+*Informational — backup pipeline only. JP is employed at Crocs.*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| **Apollo.io** | Sr. Business Intelligence Analyst | Not listed | Remote US | boards.greenhouse.io/apolloio/jobs/4775373004 | ⚠️ B2B SaaS (sales intelligence). Looker primary — not Power BI. Worth monitoring. |
+| **Getaround** | Sr. BI Analyst — Demand | Not listed | Remote | jobs.lever.co/getaround/67b4ec82 | ⚠️ Consumer tech/marketplace (car-sharing). Growth/funnel analytics. Looker likely. |
+| **SmarterDx** | Sr. Business Analyst | Not listed | Remote US | job-boards.greenhouse.io/smarterdx/jobs/5120281007 | ⚠️ Healthcare AI SaaS. Title is BA not BI Analyst. Posted Apr 24. |
+
+*LinkedIn job alert: no new exact matches for "senior business intelligence analyst" today. Returned Orlando fallback (irrelevant).*
+*Eliminated this search: 3Pillar Global (consulting, not SaaS/fintech), StackAdapt (ad-tech — excluded), Canary Technologies (hospitality/NYC).*
+
+### Afternoon Priority
+
+1. **Complete Icelandair check-in** — Booking AUME2W, two flights (FI335 + FI671). Check-in is open now per two emails this morning. Takes 5 minutes.
+2. **Activate DailyPay** — 6th consecutive reminder. Crocs payroll benefit still unactivated.
+3. **Remove LinkedIn "Open to Work" badge** — 5th consecutive flag. LinkedIn footer still shows JP as "Open to Work." JP is 4 weeks into Crocs — update the profile today.
+
+---
+*Midday agent — 2026-06-28T18:00:00Z UTC*
