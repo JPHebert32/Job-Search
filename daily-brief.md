@@ -8,7 +8,7 @@
 ## Gmail — New Activity Since Yesterday
 
 | Sender | Subject | Summary |
-|--------|---------|---------|
+|--------|---------|----------|
 | Nicky Verma — Conov8 (Nicky.Verma@conov8.com) | "Job Marketing Analytics Manager (Senior Consultant) is shared with you" | Received June 27. **Cold recruiter outreach** from staffing firm Conov8. Role: Marketing Analytics Manager (Senior Consultant) — **3-month contract** converting to FT. Remote US but requires Eastern timezone + flexibility for India-team collaboration. Start ASAP (July 6). Stack: **Tableau + Python + SQL + Gen AI** (not Power BI). 6–10 yrs exp. No comp listed. ❌ Pass — JP employed; also contract, Tableau-primary, offshore hours. |
 | LinkedIn Jobs (jobalerts-noreply@linkedin.com) | "Staff Data Analyst, Engine X at Engine" | Received June 27. LinkedIn alert for Engine (Hotel Engine) — different team/role variant (Engine X) from Senior Revenue Insights Analyst already in tracker. B2B travel marketplace. Informational only. |
 | LinkedIn Jobs | "Business Intelligence and Reporting Specialist at Storable" | Received June 28. Storable (self-storage SaaS). Posting dated March 2026 — likely stale. Stack unknown. Informational only. |
@@ -71,3 +71,37 @@ No active interviews — **HIRED at Crocs.** Prep files in `prep/` remain archiv
 ---
 
 *Morning agent — 2026-06-29T06:00:00Z UTC*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+| Sender | Subject | Summary |
+|--------|---------|----------|
+| Icelandair (icelandair@info.icelandair.is) | "New departure time for your flight" | Received 7:56 AM MDT (after morning run). **Booking ref AUME2W, flight FI671 — departure time has changed.** Check your inbox for the new time and update any travel plans accordingly. ⚠️ Action needed. |
+| Nextdoor (no-reply@is.email.nextdoor.com) | "Sheriff Reggie Marinelli has ordered Stage 1 Fire Restrictions to..." | 8:02 AM MDT. **Jefferson/Douglas County Stage 1 Fire Restrictions starting tonight June 29** due to ongoing dry conditions and high wildfire risk. Affects Littleton area — no open burning, campfires, fireworks, etc. FYI. |
+
+No recruiter outreach, no application responses from any tracked companies. LinkedIn job alerts were all previously noted or irrelevant (Business Analyst at Sundayy — not a senior BI role).
+
+### New Leads Found Midday
+
+*Informational — market awareness only. JP is employed at Crocs.*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| Accruent | Senior BI Data Analyst | Not listed (est $80K–$132K) | Remote | [Built In](https://builtin.com/job/data/senior-bi-data-analyst-remote/80493) | ⚠️ B2B SaaS (facilities/real estate). Power BI confirmed. Remote. Comp not published — estimate straddles floor. Backup candidate if circumstances change. |
+| DeepWatch | Senior Business Intelligence Analyst | $100K+ minimum | Remote (CO-preferred) | [LinkedIn](https://www.linkedin.com/jobs/view/senior-business-intelligence-analyst-remote-at-deepwatch-2845229779) | ⚠️ Cybersecurity/MDR company, Colorado-based, remote-eligible. Power BI not confirmed. $100K+ minimum — ceiling unclear. Not defense; cybersecurity is permissible industry. |
+| Humana | Senior BI Engineer | $89K–$121K | Remote | Humana Careers | ❌ Comp tops out at $121K — below $125K preferred, barely clears $115K floor. Healthcare. Pass. |
+| Bounteous | Lead BI Analyst | Not listed | Remote (US) | RemoteRocketship | ❌ **9-month contract through Dec 2026, ~20 hrs/week.** Power BI + DAX required — strong technical fit, but contract/part-time. Pass while employed. |
+
+### Afternoon Priority
+
+1. **Check Icelandair email** — Flight FI671 (booking AUME2W) has a new departure time. Verify and update any plans. Takes 2 minutes.
+2. **Stage 1 Fire Restrictions** start tonight in Jefferson/Douglas County (Littleton). No fireworks for the 4th — good to know before July 4th plans are set.
+3. **Remove LinkedIn "Open to Work" badge** *(7th reminder)* — 30 seconds. Ongoing recruiter noise (including this week's Conov8 outreach) will keep arriving until it's removed.
+
+---
+
+*Midday agent — 2026-06-29T18:00:00Z UTC*
