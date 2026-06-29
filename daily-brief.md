@@ -1,6 +1,6 @@
-# Job Search Brief — 2026-06-28 | Morning
+# Job Search Brief — 2026-06-29 | Morning
 
-> **STATUS: HIRED AT CROCS — Day 28 (Sunday).** Start date June 1, 2026. Hybrid: Tue+Thu at Interlocken, Broomfield CO. Up to $127K. Contact: Mike Gura (mgura@crocs.com).
+> **STATUS: HIRED AT CROCS — Day 29 (Monday).** Start date June 2026. Hybrid: Tue+Thu at Interlocken, Broomfield CO. Up to $127K. Contact: Mike Gura (mgura@crocs.com).
 > Job search is closed. This routine continues for pipeline record-keeping and market awareness.
 
 ---
@@ -9,16 +9,21 @@
 
 | Sender | Subject | Summary |
 |--------|---------|---------|
-| DailyPay (noreply@dailypay.com) | "You have unread balance alerts. Please confirm your account." | Received June 26. Now the 6th DailyPay notification since June 5 (activation, balance updates, payday milestone). Account still unconfirmed — **Action: Activate DailyPay.** |
-| LinkedIn Jobs (jobs-listings@linkedin.com) | "Harbor Freight Tools is hiring a Sr. Business Intelligence Analyst, Supply Chain - Remote" | Received June 27 00:24 UTC. Same LinkedIn job digest as noted June 27. Posted 6/25/2026. JP is employed — informational only. |
+| Nicky Verma — Conov8 (Nicky.Verma@conov8.com) | "Job Marketing Analytics Manager (Senior Consultant) is shared with you" | Received June 27. **Cold recruiter outreach** from staffing firm Conov8. Role: Marketing Analytics Manager (Senior Consultant) — **3-month contract** converting to FT. Remote US but requires Eastern timezone + flexibility for India-team collaboration. Start ASAP (July 6). Stack: **Tableau + Python + SQL + Gen AI** (not Power BI). 6–10 yrs exp. No comp listed. ❌ Pass — JP employed; also contract, Tableau-primary, offshore hours. |
+| LinkedIn Jobs (jobalerts-noreply@linkedin.com) | "Staff Data Analyst, Engine X at Engine" | Received June 27. LinkedIn alert for Engine (Hotel Engine) — different team/role variant (Engine X) from Senior Revenue Insights Analyst already in tracker. B2B travel marketplace. Informational only. |
+| LinkedIn Jobs | "Business Intelligence and Reporting Specialist at Storable" | Received June 28. Storable (self-storage SaaS). Posting dated March 2026 — likely stale. Stack unknown. Informational only. |
+| LinkedIn Jobs | "Senior Transportation Data Analyst at VHB" | June 27. Engineering/infrastructure consulting firm. Not a BI role. Not relevant. |
+| LinkedIn Jobs | "Strategy and Operations Senior Analyst (Hybrid) at Enova International" | June 28. Fintech lender. Hybrid, Chicago-based. Not relevant — location. |
+| LinkedIn Jobs | "Data Scientist at Pluralsight" | June 28. Data Scientist title mismatch. Not relevant. |
+| LinkedIn Jobs | "Project Analyst at Johns Manville: up to $94K/year" | June 29. $94K — below floor. Not relevant. |
 
-No new responses from any pipeline companies (Zillow x2, Shutterfly, Machinify, Trimble, Hone Health, Advanced Energy).
+**No new responses from any open pipeline companies** (Zillow x2, Shutterfly, Machinify, Trimble, Hone Health, Advanced Energy). No responses now expected — JP hired.
 
 ---
 
 ## Pipeline — Action Required Today
 
-**NONE — JP is employed at Crocs.** Sunday; no work action needed.
+**NONE — JP is employed at Crocs.**
 
 Overdue `Ready to Apply` rows from May 2026 — moot unless circumstances change:
 
@@ -46,63 +51,23 @@ No active interviews — **HIRED at Crocs.** Prep files in `prep/` remain archiv
 
 | Company | Role | Comp | Location | Link | Fit |
 |---------|------|------|----------|------|-----|
-| **Trace3** | Sr BI Developer (Power BI) | Not listed | Remote US | greenhouse.io/trace3/jobs/7595018 | ✅ Power BI explicit. **New posting** — prior Trace3 role was confirmed closed Feb 26, 2026. Fresh opening. |
-| **Openly** | Sr Business Intelligence Analyst | Not listed | Remote US | boards.greenhouse.io/openly/jobs/4340737005 | ✅ KPI/SSOT focus, builds visualizations for business stakeholders. |
-| **The Motley Fool** | Sr Business Intelligence Engineer | Not listed | Not confirmed | greenhouse.io/themotleyfool/jobs/5108196007 | ⚠️ Engineer title (skews ETL). Personal finance media — verify industry fit. |
-| **StarRez** | Sr Business Intelligence Analyst | Not listed | Not confirmed | greenhouse.io/starrez/jobs/5118067008 | ✅ Title match — student housing SaaS (B2B). Verify stack and comp. |
-| **Colorado Access** | Business Intelligence Analyst II | Colorado | SQL, Power BI, SSRS | builtincolorado.com | ⚠️ Level below Senior; healthcare-adjacent managed care. Below floor likely. |
+| Storable | BI & Reporting Specialist | Not listed | Unknown | [LinkedIn](https://www.linkedin.com/jobs/view/business-intelligence-and-reporting-specialist-at-storable-4380459695) | ⚠️ B2B SaaS (self-storage). Stack unknown. Posting from March 2026 — likely stale or filled. |
+| Engine | Staff Data Analyst, Engine X | Not listed | Remote | LinkedIn alert | ⚠️ B2B travel marketplace. Looker-primary likely. Different team than Senior Revenue Insights role already in tracker. |
+| CareDx | Senior Business Intelligence Analyst | Not listed | Remote (US) | [Greenhouse](https://job-boards.greenhouse.io/caredxinc/jobs/4242824009) | ⚠️ Healthcare (industry flag for JP). Power BI mentioned. Could not pull full details. |
+| Connections Health Solutions | Senior Business Intelligence Developer | Not listed | Remote | [Greenhouse](https://job-boards.greenhouse.io/connectionshealthsolutions/jobs/4232437009) | ⚠️ Healthcare. Tableau + Power BI. Could not pull full details. |
 
-*Carried from prior runs (top backups): ZoomInfo Sr. BI Analyst $130K–$178K Remote ✅, Enverus Sr. BI Analyst $115K–$125K Denver hybrid ✅, Ivanti Sr. BI Analyst Remote ✅.*
-
-*Eliminated this search: Harbor Freight (retail/supply chain, not B2B SaaS).*
+*Carried from prior runs (top backups if circumstances change): ZoomInfo Sr. BI Analyst $130K–$178K Remote ✅, Enverus Sr. BI Analyst $115K–$125K Denver hybrid ✅, Trace3 Sr. BI Developer (new posting) ✅, Openly Sr. BI Analyst Remote ✅.*
 
 ---
 
 ## Recommended Actions Today
 
-1. **Activate DailyPay account** *(6th reminder — overdue)* — Crocs's payroll service has sent 6 alerts since June 5 including a "balance alert" June 26. Takes 2 minutes. Activate the early wage access benefit.
-2. **Remove LinkedIn "Open to Work" badge** *(4th consecutive flag)* — Recruiters continue outreaching (RK Industries x2, connection noise). JP is employed. Update the profile today — 30 seconds in LinkedIn settings.
-3. **Withdraw from active applications** — Zillow P749151 and P750075 still show "In Process" in Workday. Optional two-line withdrawal keeps the Zillow door open professionally.
-4. **Close out job-tracker.csv** — Mark all "Ready to Apply" and remaining "Applied" rows as "Withdrawn — Hired at Crocs" with today's date. Keep HIRED rows as records.
-5. **Consider pausing this routine** — Job search is concluded. The morning agent can be stopped or shifted to weekly cadence.
+1. **Activate DailyPay account** *(7th+ reminder — overdue)* — Crocs payroll service has sent multiple alerts since June 5. Early wage access benefit still unactivated. 2 minutes to complete.
+2. **Remove LinkedIn "Open to Work" badge** *(6th consecutive flag)* — JP is 4+ weeks into Crocs. Ongoing recruiter outreach (including today's Conov8 email) is noise driven by the visible badge. Update in LinkedIn settings → Privacy → "Open to Work" → Remove. 30 seconds.
+3. **Withdraw from active Workday applications** — Zillow P749151 and P750075 still show "In Process." A brief two-line withdrawal keeps the relationship professional and clears the mental overhead.
+4. **No response to Conov8 recruiter needed.** Contract role, Tableau-primary, India-team hours — not a fit regardless of hire status.
+5. **Consider pausing this daily routine** — Job search is concluded. The morning agent can be stopped or shifted to a weekly or on-demand cadence.
 
 ---
 
-*Morning agent — 2026-06-28T06:00:00Z UTC*
-
----
-
-## Midday Update — 12:00 PM MDT
-
-### New Emails Since Morning
-
-| Sender | Subject | Summary |
-|--------|---------|---------|
-| Icelandair (x2) | "Check in is now open for your flight FI671 / FI335, James!" | Booking ref **AUME2W** — check-in open for two Icelandair flights. **Action: Complete check-in now.** |
-| LinkedIn Jobs | "senior business intelligence analyst and similar jobs" | Alert returned **no exact matches** — LinkedIn substituted Orlando fallback listings (Siemens Energy BI Developer, Travel+Leisure, etc.). None relevant. |
-| Capital One | "Your credit card payment is due" | Personal finance action item. |
-| LinkedIn Jobs | "Head of Partner Growth, Embedded Payroll at Gusto" | Job alert noise — not a BI role. Gusto already rejected (Jun 15). |
-
-No new responses from any pipeline companies (Crocs, Zillow x2, Shutterfly, Machinify, Trimble, Hone Health, Advanced Energy).
-
-### New Leads Found Midday
-
-*Informational — backup pipeline only. JP is employed at Crocs.*
-
-| Company | Role | Comp | Location | Link | Fit |
-|---------|------|------|----------|------|-----|
-| **Apollo.io** | Sr. Business Intelligence Analyst | Not listed | Remote US | boards.greenhouse.io/apolloio/jobs/4775373004 | ⚠️ B2B SaaS (sales intelligence). Looker primary — not Power BI. Worth monitoring. |
-| **Getaround** | Sr. BI Analyst — Demand | Not listed | Remote | jobs.lever.co/getaround/67b4ec82 | ⚠️ Consumer tech/marketplace (car-sharing). Growth/funnel analytics. Looker likely. |
-| **SmarterDx** | Sr. Business Analyst | Not listed | Remote US | job-boards.greenhouse.io/smarterdx/jobs/5120281007 | ⚠️ Healthcare AI SaaS. Title is BA not BI Analyst. Posted Apr 24. |
-
-*LinkedIn job alert: no new exact matches for "senior business intelligence analyst" today. Returned Orlando fallback (irrelevant).*
-*Eliminated this search: 3Pillar Global (consulting, not SaaS/fintech), StackAdapt (ad-tech — excluded), Canary Technologies (hospitality/NYC).*
-
-### Afternoon Priority
-
-1. **Complete Icelandair check-in** — Booking AUME2W, two flights (FI335 + FI671). Check-in is open now per two emails this morning. Takes 5 minutes.
-2. **Activate DailyPay** — 6th consecutive reminder. Crocs payroll benefit still unactivated.
-3. **Remove LinkedIn "Open to Work" badge** — 5th consecutive flag. LinkedIn footer still shows JP as "Open to Work." JP is 4 weeks into Crocs — update the profile today.
-
----
-*Midday agent — 2026-06-28T18:00:00Z UTC*
+*Morning agent — 2026-06-29T06:00:00Z UTC*
