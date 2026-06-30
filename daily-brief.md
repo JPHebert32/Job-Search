@@ -82,3 +82,43 @@ No active interviews — **HIRED at Crocs.** Files in `prep/` are archived.
 ---
 
 *Morning agent — 2026-06-30T12:30:00Z UTC*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+No actionable job-search emails since the morning run.
+
+| Sender | Subject | Summary |
+|--------|---------|-------|
+| LinkedIn Jobs (jobalerts-noreply) | "Staff Analyst, Marketing Analytics & Audience Insights at ServiceNow" | Auto-alert — wrong level/scope (staff marketing analytics, not senior BI). No action. |
+| Capital One | "Your credit card payment is due" | Personal finance — payment due today. |
+| Nextdoor | "Due to the fire danger in the Homestead..." | Neighborhood community post. Not relevant. |
+
+**No recruiter outreach, no application responses, no interview scheduling.** Pipeline companies (Zillow, Shutterfly, Machinify, Trimble, Hone Health, Advanced Energy) remain silent — none expected given hired status.
+
+### New Leads Found Midday
+
+*Market awareness only — JP is employed at Crocs (Day 30). Bookmark for future reference if circumstances change.*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| Enverus | Sr. Business Intelligence Analyst, Revenue Operations | $115K–$125K + bonus | Remote (US) | [Built In Colorado](https://www.builtincolorado.com/job/senior-business-intelligence-analyst-revenue-operations-24478dd/189684) | ✅ Power BI explicit, comp squarely on target, B2B energy software SaaS — not on excluded list |
+| CareDx | Sr. Business Intelligence Analyst | Not listed | Remote (verify — CA office possible) | [Greenhouse](https://job-boards.greenhouse.io/caredxinc/jobs/4242824009) | ⚠️ Healthcare/transplant medicine, multi-tool stack (SQL + Tableau + Power BI + Looker), comp unconfirmed |
+| Contentful | Sr. Business Intelligence Analyst | Not listed (NYC range only shown) | NYC listed — remote unconfirmed | [Greenhouse](https://job-boards.greenhouse.io/contentful/jobs/7580405) | ⚠️ B2B SaaS CMS (strong industry fit), FP&A org, but NYC office listed and comp unconfirmed — verify remote eligibility |
+
+**Enverus** is the strongest market-awareness note: Power BI explicit, comp at $115K–$125K + bonus hits JP's target range exactly, remote, B2B SaaS-adjacent (energy data/software). Good to keep on radar.
+
+### Afternoon Priority
+
+1. **Pay the Capital One bill** — payment due notification arrived at 9:34 AM MDT. Two minutes online.
+
+2. **Remove LinkedIn "Open to Work" badge** *(9th consecutive reminder — still generating automated job alerts for irrelevant roles)* — LinkedIn → Me → Settings & Privacy → Job seeking preferences → "Open to Work" → Remove. 30 seconds.
+
+3. **Send Eric Robinson (Trimble) courtesy note** *(carried from morning)* — one line thanking him and noting offer accepted. eric_robinson@trimble.com. Closes the loop professionally before the week ends.
+
+---
+
+*Midday agent — 2026-06-30T18:00:00Z UTC*
