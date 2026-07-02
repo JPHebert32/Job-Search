@@ -125,6 +125,68 @@ No actionable job-search emails since the morning run.
 
 ---
 
+# Job Search Brief — 2026-07-02 | Midday
+
+> **STATUS: HIRED AT CROCS — Day 32 (Wednesday, remote day).** Start date June 2026. Up to $127K. Contact: Mike Gura (mgura@crocs.com).
+> Job search is closed. This routine continues for pipeline record-keeping and market awareness.
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+No application responses or recruiter outreach. LinkedIn auto-alerts continue due to active "Open to Work" badge.
+
+| Sender | Subject | Summary |
+|--------|---------|----------|
+| LinkedIn (digest) | "Harbor Freight Tools is hiring a Sr. Business Intelligence Analyst, Supply Chain - Remote" | LinkedIn JYMBII digest — lead flagged below. Posted 6/25/2026. |
+| LinkedIn (alert) | "Business Intelligence Analyst at ClickBank" | ClickBank is affiliate marketing — excluded (ad-tech adjacent). Boise, ID. No action. |
+| LinkedIn (alert) | "Senior Consultant Performance Analytics Auto Claims at The Hartford" | Wrong title/scope (insurance consulting). No action. |
+| LinkedIn (alert) | "Data Analyst II at Catalight" | Wrong level. No action. |
+| LinkedIn (alert) | "Data Scientist at Sundayy" (x2) | Wrong role. No action. |
+| LinkedIn (alert) | "Executive Operations - R&D at Gusto" | Wrong role. No action. |
+| Connecting Colorado | "James, We Found New Jobs for You" | State job match alert — leads reviewed below. |
+| Apetan Consulting (mohit@apetan.com) | "CJA Architect Remote — $780/hr" | Adobe CJA contract role, scope entirely outside JP's BI/Power BI background. No action. |
+| Men's Wearhouse | "Open for birthday savings — $20 off $100" | 🎂 Birthday promo! |
+| TopGolf | "Birthday Gift For You! $20 off game play" | 🎂 Birthday reward — redeem before expiry. |
+| Southwest Airlines | "We declare $59 sale fares!" | July 4th sale fares, America's 250th anniversary flights. |
+| Total Wine | "Free Delivery for the 4th!" | Holiday promo. |
+| Google Family Link | Knox installed Nike Training Club + 4 other apps | Parental notification — no action needed. |
+| Nextdoor | "Bear in my back yard now" | Neighborhood alert — heads up if spending time outside. |
+
+**Happy Birthday, JP!** 🎂 Birthday emails from Men's Wearhouse, TopGolf, and Red Robin (yesterday) all arrived — enjoy the pre-holiday weekend perks. No recruiter outreach. Pipeline companies (Zillow, Shutterfly, Machinify, Trimble, Hone Health, Advanced Energy) remain silent — expected given hired status.
+
+### New Leads Found Midday
+
+*Market awareness only — JP is employed at Crocs (Day 32). Bookmark for future reference if circumstances change.*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| Harbor Freight Tools | Sr. Business Intelligence Analyst, Supply Chain | Not listed | Remote (HQ Calabasas CA) | [LinkedIn](https://www.linkedin.com/jobs/view/4408110632/) | ⚠️ Retail/tools (not B2B SaaS) — but white-whale-adjacent brand, remote, correct senior BI title, supply chain analytics scope. Posted 6/25. |
+| DoorDash | Sr. Business Intelligence Engineer | Not listed | Remote (US) | [LinkedIn](https://www.linkedin.com/jobs/view/4409624911/) | ⚠️ Consumer marketplace tech — "Engineer" title but DoorDash BI Engineers are analytics-heavy; large company, remote. Verify scope. |
+| Cribl, Inc. | Senior Data Analyst | Not listed | Denver, CO | [Connecting Colorado](https://coloradowfx.eightfold.ai/) | ✅ B2B data/observability SaaS — strong industry fit, Denver; title is "Data Analyst" not BI explicitly — verify Power BI use. |
+| Coalition, Inc. | Senior Data Analyst | Not listed | Remote (US) | [LinkedIn](https://www.linkedin.com/jobs/view/4405259867/) | ⚠️ Cyber insurance / fintech — acceptable industry, remote; "Data Analyst" title, Power BI use unconfirmed. |
+| T-Mobile USA | Sr. Analyst, Business Intelligence | Not listed | Colorado Springs, CO | [Connecting Colorado](https://coloradowfx.eightfold.ai/) | ⚠️ Telecom, correct seniority/title — but Colorado Springs is 65+ miles from Littleton; likely in-office or Colorado Springs hybrid. |
+
+**Strongest note:** **Cribl** (B2B data infrastructure SaaS, Denver) is the best industry/location fit of today's batch — worth checking the full posting if circumstances change. **Harbor Freight** is the most interesting for title/remote match, though retail isn't JP's preferred sector.
+
+**Eliminated:** ClickBank (ad-tech), Kforce/Staffing (recruiter agency re-post), PTMA (unknown/no details), DHL eCommerce (Florida, logistics), PGA TOUR (Ponte Vedra FL, onsite), CAZ Investments (Houston, not remote), Walmart Data Analyst II (wrong level), Driven Brands (wrong title).
+
+### Afternoon Priority
+
+1. **Happy birthday — enjoy the pre-holiday weekend.** No job-search action needed. Crocs Day 32 is a Wednesday WFH day.
+
+2. **Activate DailyPay account** *(11th consecutive reminder)* — Crocs payroll benefit. Two minutes online before the July 4th long weekend. Don't leave free money on the table.
+
+3. **Send Eric Robinson (Trimble) courtesy note** *(still carried, 4th reminder)* — one line: "accepted an offer, thank you for the referral." eric_robinson@trimble.com. 30 seconds.
+
+---
+
+*Midday agent — 2026-07-02T18:00:00Z UTC*
+
+---
+
 # Job Search Brief — 2026-07-01 | Midday
 
 > **STATUS: HIRED AT CROCS — Day 31 (Wednesday).** Start date June 2026. Up to $127K. Contact: Mike Gura (mgura@crocs.com).
