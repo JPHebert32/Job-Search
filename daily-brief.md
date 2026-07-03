@@ -308,3 +308,48 @@ Not applicable — **HIRED at Crocs.** No active interviews.
 ---
 
 *Morning agent — 2026-07-03T12:00:00Z UTC*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+No recruiter outreach. No application responses from any pipeline company.
+
+| Sender | Subject | Summary |
+|--------|---------|----------|
+| LinkedIn (job alert) | "Product Data Analyst at Connect for Health Colorado" | Auto-alert — wrong title (Product Data Analyst, not Senior BI). State health exchange. No action. |
+| LinkedIn (job alert) | "Sr. Data Analyst at Versant Media" | Auto-alert — Sr. Data Analyst scope, media company. Wrong title/industry. No action. |
+| Vail Resorts (talent alert) | "New jobs at Vail Resorts — Data & Reporting Analyst, HR, Broomfield CO" | Talent community alert — HR analytics focus, wrong title and level. No action. |
+| PayPal | "We're making changes to our PayPal legal agreements" | Legal update notice — no action needed, FYI. |
+| LinkedIn | "You appeared in 10 searches" | Profile view notification — still driven by active "Open to Work" badge. 14th reminder: remove it. |
+| YETI / PayPal | "Confirmation of Your Order / $59.85 to YETI Coolers" | *(Late July 2)* Personal purchase confirmed — USPS delivery expected Mon July 6. |
+
+**No responses from any pipeline companies** (Zillow x2, Shutterfly, Machinify, Advanced Energy, Hone Health, Trimble). None expected — JP is employed at Crocs.
+
+### New Leads Found Midday
+
+*Market awareness only — JP is employed at Crocs (Day 33, Friday WFH). Pre-July 4th holiday — bookmark only; no action this weekend.*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| ChargePoint | Sr. Business Intelligence Analyst | Not listed | Not confirmed | [Greenhouse](https://job-boards.greenhouse.io/chargepoint/jobs/8415247002) | ✅ EV charging B2B SaaS — clean energy tech, not on excluded list. Comp and remote status unconfirmed (Greenhouse 403). |
+| Cision | Lead Business Intelligence Analyst | Not listed | Not confirmed | [Greenhouse](https://job-boards.greenhouse.io/cision/jobs/4839248101) | ⚠️ PR/communications B2B SaaS — "Lead" is a target title; Power BI preferred. Comp and remote unconfirmed (Greenhouse 403). |
+| Philo | Senior Business Insights Analyst | Not listed | Remote (likely) | [Greenhouse](https://job-boards.greenhouse.io/philo/jobs/7958304) | ⚠️ Consumer streaming tech (preferred industry) — "Business Insights" title is adjacent to BI. Comp unconfirmed (Greenhouse 403). |
+
+*All three Greenhouse pages returned 403 on direct fetch — comp, location, and stack details unconfirmed. Bookmark for follow-up post-holiday.*
+
+**Eliminated from midday search:** Viant Technology (ad-tech — excluded industry), Audax Group BI CO-OP (intern/co-op level), 3Cloud Sr. Data Engineer (engineering scope, not analyst/viz), AgileOne BI Data Analyst at $97K (below floor), Analytics Engineer at Recurly at $103K (below floor, wrong title), Net Conversion Sr. Media Analytics (media/ad-adjacent, wrong scope).
+
+### Afternoon Priority
+
+1. **Activate DailyPay account** *(13th consecutive reminder — last business hour before the July 4th long weekend)* — Crocs payroll benefit. Two minutes at dailypay.com before you close the laptop for the holiday. Don't lose earned-wage access over a 3-day weekend.
+
+2. **Send Eric Robinson (Trimble) courtesy note** *(6th reminder — final chance before holiday)* — One line: "Accepted an offer elsewhere — thank you for the referral." eric_robinson@trimble.com. 30 seconds. Close the loop before the break.
+
+3. **Enjoy the July 4th weekend** — No job-search action needed. Market posting volume drops sharply over holiday weeks. The routine resumes Tuesday, July 8.
+
+---
+
+*Midday agent — 2026-07-03T18:00:00Z UTC*
