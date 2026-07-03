@@ -239,3 +239,72 @@ No actionable job-search emails since the morning run.
 ---
 
 *Midday agent — 2026-07-01T18:00:00Z UTC*
+
+---
+
+# Job Search Brief — 2026-07-03 | Morning
+
+> **STATUS: HIRED AT CROCS — Day 33 (Friday, WFH day — pre-July 4th weekend).** Start date June 2026. Up to $127K. Contact: Mike Gura (mgura@crocs.com).
+> Job search is closed. This routine continues for pipeline record-keeping and market awareness.
+
+---
+
+## Gmail — New Activity Since Yesterday
+
+No new application responses or recruiter outreach. LinkedIn automated alerts continue.
+
+| Sender | Subject | Summary |
+|--------|---------|----------|
+| LinkedIn (jobs-listings) | "Harbor Freight Tools is hiring a Sr. Business Intelligence Analyst, Supply Chain - Remote" | LinkedIn job alert delivered 2026-07-02 04:24 UTC. Same role flagged in yesterday's midday brief (posted 6/25). Remote Sr. BI Analyst in Supply Chain — bookmarked for future reference. |
+| DailyPay (noreply@dailypay.com) | "Do you know exactly how much you've earned this week?" | *(12th consecutive reminder)* Crocs payroll benefit still pending activation. Two minutes online before the long weekend. |
+
+No actionable responses from any pipeline companies (Zillow x2, Shutterfly, Machinify, Advanced Energy, Trimble, Hone Health). None expected — JP is hired.
+
+---
+
+## Pipeline — Action Required Today
+
+**NONE — JP is employed at Crocs (Day 33).**
+
+All `Ready to Apply` rows remain stale and moot. No new applications recommended.
+
+---
+
+## Interview Prep Reminder
+
+Not applicable — **HIRED at Crocs.** No active interviews.
+
+---
+
+## New Leads Found
+
+*Market awareness only — no action needed while employed. Pre-July 4th holiday weekend.*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| Harbor Freight Tools | Sr. BI Analyst, Supply Chain | Not listed (est. $110K–$140K) | Remote (HQ Calabasas CA) | [LinkedIn](https://www.linkedin.com/jobs/view/4408110632/) | ⚠️ Retail brand (not B2B SaaS) — but remote, correct senior title, supply chain analytics. Posted 6/25, still fresh. White-whale-adjacent. |
+| Impact.com | Sr. Business Intelligence Analyst | Not listed | Remote (US) | [Greenhouse](https://job-boards.greenhouse.io/impact/jobs/8610782002) | ✅ B2B SaaS partnerships/affiliate platform — ideal industry. Stack includes PowerBI. Strongest new find from today's search. |
+| Integrated Specialty Coverages (ISC) | Sr. BI Analyst (Workers Comp) | Not listed | Remote (US) | [Greenhouse](https://job-boards.greenhouse.io/isccareers/jobs/4673045005) | ✅ Power BI + Snowflake — direct stack match. Insurance vertical (acceptable). |
+| OppFi | Sr. Analyst, Business Intelligence | Not listed | Remote (US) | [Greenhouse](https://job-boards.greenhouse.io/opploans/jobs/7643812003) | ⚠️ Fintech lender — acceptable industry. Confirm comp vs. $115K floor before bookmarking. |
+
+*Note: Greenhouse posting pages returned 403 on direct fetch — comp ranges and full stacks unconfirmed. Bookmark only.*
+
+**Carried forward:** Technology Credit Union ($113K–$159K, fintech remote, Power BI) and Humana CenterWell ($118K–$155K, exact Power BI + Snowflake stack match) from yesterday's midday session remain the strongest market-awareness benchmarks.
+
+---
+
+## Recommended Actions Today
+
+1. **Activate DailyPay account** *(12th consecutive reminder — last chance before July 4th weekend)* — Crocs payroll benefit. Two minutes at dailypay.com. Don't leave the money-access feature on the table over a 3-day weekend.
+
+2. **Send Eric Robinson (Trimble) courtesy withdrawal note** *(5th reminder — oldest outstanding task)* — One line: "Accepted an offer elsewhere — thank you for your time and the referral." Email: eric_robinson@trimble.com. 30 seconds. Best to close this before the holiday.
+
+3. **Consider withdrawing from Zillow Workday** — P749151 and P750075 still show "In Process." A one-click withdrawal (or recruiter email) keeps the relationship clean. Log in to Workday or send a note before end of day.
+
+4. **Enjoy the July 4th long weekend** — No job search action needed. Crocs Day 33 is a WFH Friday before the holiday. The routine will resume post-holiday.
+
+5. **Optional: pause this morning routine** — With the job search closed ~6 weeks, consider switching to a weekly market-awareness cadence to reduce daily inbox noise.
+
+---
+
+*Morning agent — 2026-07-03T12:00:00Z UTC*
