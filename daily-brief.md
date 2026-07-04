@@ -353,3 +353,85 @@ No recruiter outreach. No application responses from any pipeline company.
 ---
 
 *Midday agent — 2026-07-03T18:00:00Z UTC*
+
+---
+
+# Job Search Brief — 2026-07-04 | Morning
+
+> **STATUS: HIRED AT CROCS — Day 34 (Saturday, July 4th — Independence Day / 250th Anniversary).** Start date June 2026. Up to $127K. Contact: Mike Gura (mgura@crocs.com).
+> Job search is closed. This routine continues for pipeline record-keeping and market awareness.
+
+---
+
+## Gmail — New Activity Since Yesterday
+
+No recruiter outreach. No application responses from any pipeline company.
+
+| Sender | Subject | Summary |
+|--------|---------|----------|
+| LinkedIn (updates-noreply) | "Mano M recently posted" | LinkedIn network notification — someone named Mano M posted about "immediate hiring." Flagged IMPORTANT by Gmail. If curious, open and check — may be a recruiter in your network. Low priority on a holiday. |
+| LinkedIn (messages-noreply) | "Jasmine Rodriguez, Recruiting Lead, is popular in your network" | LinkedIn "connect with popular people" promo. Jasmine Rodriguez is a Recruiting Lead. Not a direct outreach — no action needed. |
+| LinkedIn (job alert) | "Product Data Analyst at Connect for Health Colorado" | Auto-alert — state health exchange, wrong title. No action. |
+| LinkedIn (job alert) | "Analytics Engineer at Recurly: up to $103K/year" | Below $115K floor, wrong title. No action. |
+| LinkedIn (job alert) | "Sr. Data Analyst at Versant Media" | Media company, comp unknown, wrong title. No action. |
+| LinkedIn (job alert) | "Senior Data Analyst at Walt Disney World" | Entertainment — white whale tier; title is Data Analyst, not BI Analyst. Onsite Florida likely. Bookmark at best. |
+| LinkedIn (job alert) | "Data Scientist at Sundayy" | Wrong role (data science). No action. |
+| LinkedIn (job alert) | "Business Intelligence Data Analyst at AgileOne: up to $97K" | Below floor. No action. |
+| LinkedIn (jobs-listings) | "Analytics Engineer, Data Science role at DoorDash USA: Actively recruiting" | Posted 7/1/2026. Scope mismatch (engineering/data science). No action. |
+| Vail Resorts (talent alert) | "New jobs — Data & Reporting Analyst, HR, Broomfield CO" | HR analytics scope, likely below floor. Broomfield is near Crocs HQ — do not pursue. No action. |
+| LinkedIn (notification) | "You appeared in 10 searches" | Ongoing recruiter profile views, driven by active "Open to Work" badge. **15th reminder:** Remove the badge. |
+| PayPal / YETI | "YETI Coolers, LLC: $59.85 USD" | Purchase confirmation from July 2 — order in transit, expected delivery Mon July 6. |
+
+**No actionable employer emails.** Pipeline companies (Zillow x2, Shutterfly, Machinify, Advanced Energy, Trimble, Hone Health) remain silent — expected given hired status.
+
+---
+
+## Pipeline — Action Required Today
+
+**NONE — JP is employed at Crocs (Day 34, July 4th holiday).**
+
+---
+
+## Interview Prep Reminder
+
+Not applicable — **HIRED at Crocs.** No active interviews.
+
+---
+
+## New Leads Found
+
+*Market awareness only — JP is employed at Crocs. Holiday weekend — no action needed.*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| **Ivanti** | Sr. Business Intelligence Analyst | Not listed | Remote (US) | [Greenhouse](https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7660106003) | ✅ Power BI 4+ yrs, DAX + M + semantic modeling explicit. IT security/ITSM SaaS (B2B). Fully remote. Comp unconfirmed — verify before bookmarking seriously. |
+| **MaintainX** | Sr. Business Intelligence Analyst | Not listed | Remote (US) | [Greenhouse](https://job-boards.greenhouse.io/maintainx/jobs/4860372007) | ⚠️ B2B SaaS (industrial maintenance). "Tableau, Power BI, or similar" — multi-tool, mixed signal. Comp unconfirmed. |
+| Trace3 | Sr. BI Developer \| Power BI (Remote) | Not listed | Remote (US) | [Greenhouse](https://job-boards.greenhouse.io/trace3/jobs/7595018) | ⚠️ **NEW job ID** (7595018 — different from closed 6338462 in tracker). May be a reopened/new posting. Verify if active — some sources show a Feb 2026 removal date. |
+| Walt Disney World | Senior Data Analyst | Not listed | Florida (likely onsite) | LinkedIn alert | ⚠️ White whale (entertainment/consumer). Title is Data Analyst, not BI Analyst. Florida likely onsite — relocation flag. JP evaluates. |
+
+*Enverus Sr. BI Analyst Revenue Operations ($115K–$125K + bonus, Power BI + Snowflake, Remote) — previously flagged in June 30 midday brief. Still on market as of today's search. Strongest bookmark in current market.*
+
+**Eliminated from today's search:**
+- Recurly Analytics Engineer ($103K) — below floor
+- AgileOne BI Data Analyst ($97K) — below floor
+- DoorDash Analytics Engineer/Data Science — scope mismatch
+- Connect for Health Colorado Product Data Analyst — state health exchange, wrong industry/seniority
+- Vail Resorts Data & Reporting Analyst HR — HR reporting scope, likely below floor
+
+---
+
+## Recommended Actions Today
+
+1. **🎉 Enjoy July 4th** — It's Independence Day (250th anniversary of the USA). No job-search action needed. You're employed and there's fireworks tonight.
+
+2. **Activate DailyPay account** *(14th consecutive reminder)* — Crocs payroll benefit. Takes 2 minutes at dailypay.com. This is money you've already earned sitting unlocked — don't let the 3-day weekend pass without setting it up.
+
+3. **Send Eric Robinson (Trimble) courtesy withdrawal note** *(7th reminder — the only outstanding professional obligation)* — One line: "Accepted an offer elsewhere — thank you for submitting the referral." eric_robinson@trimble.com. 30 seconds. This is the last item that actually matters before the holiday routine is fully closed.
+
+4. **Remove LinkedIn "Open to Work" badge** *(15th reminder)* — LinkedIn → Me → Settings & Privacy → Job seeking preferences → "Open to Work" → Remove. Eliminates 90% of the LinkedIn alert noise. 30 seconds.
+
+5. **Check if Mano M post is relevant** — The "immediate hiring" LinkedIn post from your network was flagged IMPORTANT. Worth a 10-second glance if you're curious — could be a recruiter contact surfacing something useful for future reference.
+
+---
+
+*Morning agent — 2026-07-04T04:30:00Z UTC*
