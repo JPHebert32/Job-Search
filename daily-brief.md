@@ -435,3 +435,49 @@ Not applicable — **HIRED at Crocs.** No active interviews.
 ---
 
 *Morning agent — 2026-07-04T04:30:00Z UTC*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+No recruiter outreach. No application responses. Personal finance and neighborhood notifications only.
+
+| Sender | Subject | Summary |
+|--------|---------|----------|
+| Chase (no.reply.alerts@chase.com) | "Your credit card statement is available" | Statement ready for Chase card (...9697). Due date 07/28/2026. Minimum $307. Balance $9,580.92. AutoPay enabled — no action needed. |
+| LinkedIn (jobalerts-noreply) | "Product Data Analyst at Connect for Health Colorado" | Auto-alert — same role flagged and excluded in every prior brief this week. Wrong title, state health exchange. No action. |
+| Nextdoor | "Denver police warn of 'disturbing trend' after 2 men are..." | Neighborhood safety notice from Denver Post (published July 2). FYI only. |
+
+**No recruiter outreach, no application responses, no interview scheduling.** Pipeline companies (Zillow x2, Shutterfly, Machinify, Advanced Energy, Trimble, Hone Health) remain silent — none expected given hired status.
+
+### New Leads Found Midday
+
+*Market awareness only — JP is employed at Crocs (Day 34, July 4th holiday). No action needed today.*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| **Conga** | Sr. Business Intelligence Analyst | Not listed | Remote (verify) | [Greenhouse](https://job-boards.greenhouse.io/conga/jobs/5041204007) | ✅ Power BI 5+ yrs minimum, executive dashboards + deep-dive analyses, B2B SaaS (CLM/RevOps — contract lifecycle management). Strong industry and stack fit. Comp and remote status unconfirmed — Greenhouse 403. |
+| **USAA** | Business Intelligence Analyst Lead | Not listed | Colorado/hybrid (verify) | [Built In Colorado](https://www.builtincolorado.com/job/business-intelligence-analyst-lead/4601395) | ⚠️ "Lead" is a target title. Financial services/insurance — acceptable industry. USAA roles often hybrid San Antonio TX; verify if Colorado/remote eligible before bookmarking seriously. Comp unconfirmed. |
+
+*Note: Holiday weekend posting volume is sharply reduced. Both Greenhouse pages returned 403 — comp ranges, exact stack, and remote status unconfirmed. Bookmark for post-holiday follow-up.*
+
+**Carried forward — still strongest benchmarks:**
+- **Enverus** Sr. BI Analyst Revenue Operations ($115K–$125K + bonus, Power BI + Snowflake, Remote) — active since June 30
+- **Technology Credit Union** Sr. BI Analyst ($113K–$159K, fintech, Power BI, Remote) — active since July 2
+- **Ivanti** Sr. BI Analyst (Power BI 4+ yrs, DAX + M + semantic modeling, IT SaaS, Remote) — flagged this morning
+
+**Eliminated from midday search:** Remote.com Sr. Treasury BI Analyst (treasury/reconciliation/cash-positioning scope — finance ops, not analytics/viz); Colorado Access BI Analyst II Finance (wrong level); Vero Networks BI Analyst Sales Ops (likely below floor/level).
+
+### Afternoon Priority
+
+1. **Happy July 4th — no job-search action needed.** You're on Crocs Day 34. Enjoy the holiday.
+
+2. **Activate DailyPay account** *(15th consecutive reminder — you've now had 35 days of earnings sitting unlocked)* — dailypay.com, two minutes. This is the last business-adjacent task worth doing on a holiday.
+
+3. **Send Eric Robinson (Trimble) courtesy note** *(8th reminder — oldest outstanding obligation)* — "Accepted an offer elsewhere — thank you for submitting the referral." eric_robinson@trimble.com. 30 seconds. The right professional close before the long weekend ends.
+
+---
+
+*Midday agent — 2026-07-04T18:00:00Z UTC*
