@@ -481,3 +481,55 @@ No recruiter outreach. No application responses. Personal finance and neighborho
 ---
 
 *Midday agent — 2026-07-04T18:00:00Z UTC*
+
+---
+
+# Job Search Brief — 2026-07-05 | Midday
+
+> **STATUS: HIRED AT CROCS — Day 35 (Sunday, off day).** Start date June 2026. Up to $127K. Contact: Mike Gura (mgura@crocs.com).
+> Job search is closed. This routine continues for pipeline record-keeping and market awareness.
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+No recruiter outreach, no application responses. LinkedIn auto-alerts and personal mail only.
+
+| Sender | Subject | Summary |
+|--------|---------|----------|
+| LinkedIn (jobalerts) | "Senior Analyst, Compensation Analytics at Universal Orlando Resort" | Auto-alert — entertainment/theme parks, Florida, wrong role scope (compensation). No action. |
+| LinkedIn (jobalerts) | "Power BI Developer at Franklin Fitch" | Auto-alert (04:24 UTC) — Franklin Fitch is an IT staffing agency, not a direct employer. Actual client/role unknown. Below threshold without client info. |
+| LinkedIn (jobalerts) | "Product Data Analyst at Connect for Health Colorado" | Auto-alert — same excluded role, now appearing daily. State health exchange, wrong title. **17th+ appearance — remove Open to Work badge to stop this noise.** |
+| Citi (citicards) | "Your Balance Transfer offer ends soon" | Personal finance — balance transfer promo on card ending 8641. No action needed. |
+| Overland Collective | "Classifieds Week 28, 2026 — Presented by Hankook" | Personal newsletter — overlanding vehicle classifieds (EarthRoamer, Gladiator w/ Bison Camper, etc.). No action. |
+| Nextdoor | "Sorry to sound like the party pooper..." / "L." | Neighborhood posts — community discussion. No action. |
+| Boteboard | "Deals up to 30% off end tonight" | Shopping promo. No action. |
+| MyFitnessPal | "Have you tried grilling these yet?" | Newsletter. No action. |
+
+**No responses from any pipeline companies** (Zillow x2, Shutterfly, Machinify, Advanced Energy, Trimble, Hone Health). None expected — JP is employed at Crocs.
+
+### New Leads Found Midday
+
+*Market awareness only — JP is employed at Crocs (Day 35, Sunday). Holiday weekend wind-down — minimal new postings.*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| Precision AQ | Sr. Data Analyst (Power BI Developer) | Not listed | Remote (verify) | [Greenhouse](https://job-boards.greenhouse.io/precisionaq/jobs/5967478004) | ⚠️ Life sciences / medical communications (pharma analytics) — Power BI explicit, scalable dashboards, claims/real-world data. Comp unconfirmed. JP's healthcare gap applies; industry is pharma-adjacent not preferred SaaS. Bookmark only. |
+
+**Eliminated from midday search:** Universal Orlando (entertainment, FL, wrong scope); Franklin Fitch Power BI Developer (staffing agency — no client/role details); Connect for Health CO Product Data Analyst (recurring exclusion, state health exchange); Solace Data Scientist (wrong role); AdventHealth Donor Data Manager (nonprofit/healthcare, wrong title).
+
+**Holiday weekend note:** Sunday July 5 posting volume is at minimum — most companies resume normal cadence Monday-Tuesday. Enverus ($115K–$125K + bonus, Power BI + Snowflake, Remote) remains the strongest standing bookmark from the past week's search activity.
+
+### Afternoon Priority
+
+1. **Day off — no job-search action needed.** Crocs Day 35 is a Sunday. Posting volume resumes Tuesday (Monday is still light post-holiday).
+
+2. **Activate DailyPay account** *(16th consecutive reminder — Crocs payroll benefit)* — dailypay.com, two minutes. You've now been employed 35 days with this benefit sitting idle.
+
+3. **Send Eric Robinson (Trimble) courtesy note** *(9th reminder — only outstanding professional obligation)* — "Accepted an offer elsewhere — thank you for submitting the referral." eric_robinson@trimble.com. 30 seconds. Close the loop before the regular work week resumes.
+
+---
+
+*Midday agent — 2026-07-05T18:00:00Z UTC*
