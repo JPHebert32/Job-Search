@@ -533,3 +533,97 @@ No recruiter outreach, no application responses. LinkedIn auto-alerts and person
 ---
 
 *Midday agent — 2026-07-05T18:00:00Z UTC*
+---
+
+# Job Search Brief — 2026-07-05 | Morning
+
+> **STATUS: HIRED AT CROCS — Day 35 (Sunday, off day — post-July 4th weekend).** Start date June 2026. Up to $127K. Contact: Mike Gura (mgura@crocs.com).
+> Job search is closed. This routine continues for pipeline record-keeping and market awareness.
+
+---
+
+## Gmail — New Activity Since Yesterday
+
+No actionable recruiter emails or application responses in the last 24 hours. All inbox activity is LinkedIn automated alerts and personal finance.
+
+| Sender | Subject | Summary |
+|--------|---------|---------|
+| LinkedIn (jobalerts) | Power BI Developer at Franklin Fitch | Staffing agency alert. No client/role details. Below threshold. |
+| LinkedIn (jobalerts) | Senior Business Intelligence Analyst at eMoney Advisor | Auto-alert — Remote (US), fintech wealth-tech, correct title. Noted in New Leads. |
+| LinkedIn (jobalerts) | Product Data Analyst at Connect for Health Colorado | Auto-alert — recurring exclusion, state health exchange, wrong title. **Open to Work badge is still active — this is daily noise until it's removed.** |
+| LinkedIn (jobalerts) | Data Scientist at Solace | Wrong role. No action. |
+| LinkedIn (jobalerts) | Donor Data Manager at AdventHealth | Wrong title/scope. No action. |
+| Citi | Your Balance Transfer offer ends soon | Personal finance — promo on card ending 8641. Not job-related. |
+
+**No responses from any pipeline companies.** Zillow x2, Shutterfly, Machinify, Advanced Energy, Trimble, and Hone Health all remain silent — expected given hired status.
+
+---
+
+## Pipeline — Action Required Today
+
+**NONE — JP is employed at Crocs.**
+
+All `Ready to Apply` rows are stale by 7+ weeks. Closed for reference:
+
+| Company | Role | Was Due | Recommended Status |
+|---------|------|---------|-------------------|
+| EverCommerce (PaySimple) | Data Analyst Payments | 2026-05-09 | WITHDREW — Jodi Cohen courtesy note optional |
+| Tilt Finance | Sr. Business Intelligence Analyst | 2026-05-16 | CLOSED |
+| Boulevard | Staff Data Analyst | 2026-05-16 | CLOSED |
+| Engine (Hotel Engine) | Sr. Revenue Insights Analyst | 2026-05-16 | CLOSED |
+| Mercer Advisors | Sr. BI Analyst | 2026-05-16 | CLOSED |
+| NMI | Product Data Analyst | 2026-05-15 | CLOSED |
+| Stellantis (Jeep) | Business & Data Analyst (white whale) | 2026-05-09 | CLOSED |
+
+---
+
+## Interview Prep Reminder
+
+Not applicable — **HIRED at Crocs.** No active interviews. Files in `prep/` are archived.
+
+---
+
+## New Leads Found
+
+*Market awareness only — JP is employed at Crocs (Day 35). No action needed today.*
+
+### From LinkedIn Job Alerts
+
+| Company | Role | Location | Comp | Fit |
+|---------|------|----------|------|-----|
+| eMoney Advisor | Sr. Business Intelligence Analyst | Remote (US) | Not listed | ✅ Correct title, fintech/wealth-tech, remote. Comp unconfirmed. Strong backup if circumstances change. |
+| Franklin Fitch | Power BI Developer | Remote (US) | Not listed | ⚠️ Staffing agency, no client details. Below threshold without client info. |
+| Connect for Health Colorado | Product Data Analyst | Denver, CO | Not listed | ❌ State health exchange, wrong title, below seniority floor. Recurring exclusion. |
+| Boost Mobile | Data Analyst II – Marketing | Littleton, CO | Not listed | ❌ Wrong level (Analyst II), ad-tech/telecom, not senior BI. |
+
+### From Web Search (Greenhouse / Built In Colorado)
+
+| Company | Role | Location | Comp | Fit |
+|---------|------|----------|------|-----|
+| StarRez | Sr. Business Intelligence Analyst | Remote (unconfirmed) | Not listed | ⚠️ Higher-ed SaaS — acceptable industry; comp, tools, and remote status unconfirmed (Greenhouse 403). New to this brief cycle. |
+| Openly | Sr. Business Intelligence Analyst | Remote (US) | Not listed | ✅ Insurtech/fintech SaaS, Power BI listed, fully remote. Previously flagged in June 30 and July 3 briefs — still active. Strongest standing backup. |
+| Connections Health Solutions | Sr. BI Developer | Remote | Not listed | ⚠️ Healthcare, Power BI + Tableau. Developer title skews engineering. |
+| Remote.com | Sr. Treasury BI Analyst | Remote | Not listed | ⚠️ Treasury/cash-ops scope — niche, not analytics/viz. |
+
+**Carried forward — strongest standing bookmarks this week:**
+- **Enverus** Sr. BI Analyst Revenue Operations ($115K–$125K + bonus, Power BI + Snowflake, Remote) — active since June 30
+- **Technology Credit Union** Sr. BI Analyst ($113K–$159K, fintech, Power BI, Remote) — active since July 2
+- **Ivanti** Sr. BI Analyst (Power BI 4+ yrs, DAX + M + semantic modeling, IT SaaS, Remote) — flagged July 4
+
+---
+
+## Recommended Actions Today
+
+1. **Remove LinkedIn "Open to Work" badge** *(16th+ consecutive reminder — this is generating 5+ automated alerts per day)* — LinkedIn → Me → Settings & Privacy → Job seeking preferences → "Open to Work" → Remove. 30 seconds. Eliminates almost all LinkedIn alert noise immediately.
+
+2. **Activate DailyPay account** *(17th reminder — Crocs payroll benefit)* — dailypay.com, two minutes. 35 days of earned-wage access sitting unused.
+
+3. **Send Eric Robinson (Trimble) courtesy withdrawal note** *(10th reminder — the single outstanding professional obligation)* — "Accepted an offer elsewhere — thank you for submitting the referral." eric_robinson@trimble.com. 30 seconds.
+
+4. **Consider pausing or downgrading this routine** — Job search has been closed for 7 weeks. If daily market awareness is no longer useful, deactivate this agent or switch to a weekly cadence to reduce noise.
+
+5. **Monday readiness** — Crocs Week 6 begins Monday July 7 (hybrid day at Interlocken Tuesday). Routine posting volume resumes Tuesday-Wednesday.
+
+---
+
+*Morning agent — 2026-07-05T00:00:00Z UTC*
