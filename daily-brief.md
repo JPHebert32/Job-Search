@@ -1,1 +1,93 @@
-IyBKb2IgU2VhcmNoIEJyaWVmIOKAlCAyMDI2LTA3LTA2IHwgTW9ybmluZwoKPiAqKlNUQVRVUzogSElSRUQgQVQgQ1JPQ1Mg4oCUIERheSAzNiAoTW9uZGF5KS4qKiBTdGFydCBkYXRlIEp1bmUgMjAyNi4gVXAgdG8gJDEyN0suIENvbnRhY3Q6IE1pa2UgR3VyYSAobWd1cmFAY3JvY3MuY29tKS4gSm9iIHNlYXJjaCBpcyBjbG9zZWQuIFRoaXMgcm91dGluZSBjb250aW51ZXMgZm9yIHBpcGVsaW5lIHJlY29yZC1rZWVwaW5nIGFuZCBtYXJrZXQgYXdhcmVuZXNzLgoKLS0tCgojIyBHbWFpbCDigJQgTmV3IEFjdGl2aXR5CgpObyBuZXcgYXBwbGljYXRpb24gcmVzcG9uc2VzIGZyb20gYW55IHRyYWNrZWQgY29tcGFuaWVzIChDcm9jcywgTGVwcmlubywgU2h1dHRlcmZseSwgWmlsbG93LCBHdXN0bywgTWFjaGluaWZ5LCBFdmVyQ29tbWVyY2UsIEtyb2Vua2UpIGluIHRoZSBwYXN0IDQ4IGhvdXJzLgoKTGlua2VkSW4gYXV0b21hdGVkIGpvYiBhbGVydCBlbWFpbHMgcmVjZWl2ZWQgKG5vdCBwZXJzb25hbCBvdXRyZWFjaCk6Ci0gTGlua2VkSW4gam9iIGRpZ2VzdDogIjYgbmV3IGpvYnMiIOKAlCBnZW5lcmFsIEJJL2RhdGEgYWxlcnRzIChKdWwgNiwgMDA6MjQgVVRDKQotIExpbmtlZEluOiAiUHJvZHVjdCBEYXRhIEFuYWx5c3QgYXQgQ29ubmVjdCBmb3IgSGVhbHRoIENvbG9yYWRvIiDigJQgcmVwZWF0ZWQgYWxlcnQgKEp1bCA04oCTNiwgbXVsdGlwbGUpCi0gTGlua2VkSW46ICJQb3dlciBCSSBEZXZlbG9wZXIgYXQgRnJhbmtsaW4gRml0Y2giIChKdWwgNSwgMDQ6MjQgVVRDKQotIExpbmtlZEluOiAiRGF0YSBTY2llbnRpc3QgYXQgU29sYWNlIiAoSnVsIDQpCi0gTGlua2VkSW46ICJEb25vciBEYXRhIE1hbmFnZXIgYXQgQWR2ZW50SGVhbHRoIiAoSnVsIDQpCgpObyBwZXJzb25hbCByZWNydWl0ZXIgb3V0cmVhY2guIE5vIHJlc3BvbnNlcyBmcm9tIGFueSBwcmV2aW91c2x5IGFwcGxpZWQgY29tcGFuaWVzLgoKLS0tCgojIyBQaXBlbGluZSDigJQgQWN0aW9uIFJlcXVpcmVkIFRvZGF5CgoqKkpvYiBzZWFyY2ggaXMgY29uY2x1ZGVkIOKAlCBKUCBpcyBlbXBsb3llZCBhdCBDcm9jcyAoaGlyZWQgTWF5IDE4LCAyMDI2LCBzdGFydGVkIEp1bmUgMjAyNikuKioKClRoZSBmb2xsb3dpbmcgZW50cmllcyByZW1haW4gaW4gIlJlYWR5IHRvIEFwcGx5IiBzdGF0dXMgaW4gam9iLXRyYWNrZXIuY3N2LiBBbGwgYXJlIHN0YWxlIOKAlCBkdWUgZGF0ZXMgaGF2ZSBwYXNzZWQ6Cgp8IENvbXBhbnkgfCBSb2xlIHwgT3JpZ2luYWwgRHVlIHwgTm90ZXMgfAp8LS0tfC0tLXwtLS18LS0tfAp8IEV2ZXJDb21tZXJjZSAoUGF5U2ltcGxlKSB8IERhdGEgQW5hbHlzdCBQYXltZW50cyB8IE1heSA5IHwgV2FybSBKb2RpIENvaGVuIHJlZmVycmFsIOKAlCBtb290IHwKfCBUaWx0IEZpbmFuY2UgfCBTci4gQkkgQW5hbHlzdCB8IE1heSAxNiB8IEZpbnRlY2gsIGdvb2QgY29tcCDigJQgbW9vdCB8CnwgQm91bGV2YXJkIHwgU3RhZmYgRGF0YSBBbmFseXN0IHwgTWF5IDE2IHwgU2lnbWEgZ2FwIOKAlCBtb290IHwKfCBFbmdpbmUgKEhvdGVsIEVuZ2luZSkgfCBTci4gUmV2ZW51ZSBJbnNpZ2h0cyBBbmFseXN0IHwgTWF5IDE2IHwgTG9va2VyIHByaW1hcnkg4oCUIG1vb3QgfAp8IE1lcmNlciBBZHZpc29ycyB8IFNyLiBCSSBBbmFseXN0IHwgTWF5IDE2IHwgUG93ZXIgQkksIHN0cm9uZyBtYXRjaCDigJQgbW9vdCB8CnwgTk1JIHwgUHJvZHVjdCBEYXRhIEFuYWx5c3QgfCBNYXkgMTUgfCBGaW50ZWNoIOKAlCBtb290IHwKfCBTdGVsbGFudGlzIChKZWVwKSB8IEJ1c2luZXNzICYgRGF0YSBBbmFseXN0IHwgTWF5IDkgfCBXaGl0ZSB3aGFsZSAvIE1JIG9uc2l0ZSDigJQgbW9vdCB8CgpDb25zaWRlciB1cGRhdGluZyB0aGVzZSB0byAiV2l0aGRyYXduIOKAlCBIaXJlZCBhdCBDcm9jcyIgdG8gY2xvc2Ugb3V0IHRoZSB0cmFja2VyLgoKLS0tCgojIyBJbnRlcnZpZXcgUHJlcCBSZW1pbmRlcgoKTm8gYWN0aXZlIGludGVydmlldyBwcmVwIG5lZWRlZC4gQ3JvY3Mgb25ib2FyZGluZyBpcyBjb21wbGV0ZS4gSHlicmlkIFR1ZStUaHUgYXQgSW50ZXJsb2NrZW4sIEJyb29tZmllbGQuCgotLS0KCiMjIE5ldyBMZWFkcyBGb3VuZAoKTm8gbmV3IGxlYWRzIHNlYXJjaGVkIOKAlCBzZWFyY2ggY29uY2x1ZGVkLiBQb3dlciBCSSAvIFNlbmlvciBCSSBBbmFseXN0IG1hcmtldCByZW1haW5zIGFjdGl2ZSAoTGlua2VkSW4sIEdsYXNzZG9vciwgR3JlZW5ob3VzZSkgc2hvdWxkIGNpcmN1bXN0YW5jZXMgY2hhbmdlLgoKLS0tCgojIyBSZWNvbW1lbmRlZCBBY3Rpb25zIFRvZGF5CgoxLiAqKkNvbnNpZGVyIGRpc2FibGluZyB0aGlzIG1vcm5pbmcgcm91dGluZSoqIOKAlCB0aGUgc2VhcmNoIGNvbmNsdWRlZCBNYXkgMTgsIDIwMjYuIElmIHlvdSB3YW50IHRvIGtlZXAgaXQgZm9yIG1hcmtldCBhd2FyZW5lc3MsIHRoYXQncyB2YWxpZDsgaWYgbm90LCBpdCBjYW4gYmUgdHVybmVkIG9mZi4KMi4gKipVcGRhdGUgam9iLXRyYWNrZXIuY3N2Kiog4oCUIG1hcmsgYWxsICJSZWFkeSB0byBBcHBseSIgcm93cyBhcyAiV2l0aGRyYXduIOKAlCBIaXJlZCBhdCBDcm9jcyIgdG8gY2xlYW4gdXAgdGhlIHRyYWNrZXIuCjMuICoqVW5zdWJzY3JpYmUgZnJvbSBMaW5rZWRJbiBqb2IgYWxlcnRzKiog4oCUIGRhaWx5IGF1dG9tYXRlZCBkaWdlc3RzIChDb25uZWN0IGZvciBIZWFsdGgsIEZyYW5rbGluIEZpdGNoLCBldGMuKSBhcmUgY2x1dHRlcmluZyB5b3VyIGluYm94Lgo0LiAqKlZlcmlmeSBDcm9jcyBvbmJvYXJkaW5nIGlzIGZ1bGx5IGNvbXBsZXRlKiog4oCUIEktOSBTZWN0aW9uIDEsIERvY3VTaWduIHgyLCBhbmQgY29tcGxpYW5jZSBwYXBlcndvcmsgd2VyZSBwZW5kaW5nIGFzIG9mIE1heSAxOSBwZXIgdHJhY2tlci4gQ29uZmlybSB3aXRoIE1pa2UgR3VyYSBpZiBhbnkgaXRlbXMgcmVtYWluIG9wZW4uCgotLS0KCipNb3JuaW5nIGFnZW50IOKAlCAyMDI2LTA3LTA2VDAwOjAwOjAwIFVUQyoK
+# Job Search Brief — 2026-07-06 | Morning
+
+> **STATUS: HIRED AT CROCS — Day 36 (Monday).** Start date June 2026. Up to $127K. Contact: Mike Gura (mgura@crocs.com). Job search is closed. This routine continues for pipeline record-keeping and market awareness.
+
+---
+
+## Gmail — New Activity
+
+No new application responses from any tracked companies (Crocs, Leprino, Shutterfly, Zillow, Gusto, Machinify, EverCommerce, Kroenke) in the past 48 hours.
+
+LinkedIn automated job alert emails received (not personal outreach):
+- LinkedIn job digest: "6 new jobs" — general BI/data alerts (Jul 6, 00:24 UTC)
+- LinkedIn: "Product Data Analyst at Connect for Health Colorado" — repeated alert (Jul 4–6, multiple)
+- LinkedIn: "Power BI Developer at Franklin Fitch" (Jul 5, 04:24 UTC)
+- LinkedIn: "Data Scientist at Solace" (Jul 4)
+- LinkedIn: "Donor Data Manager at AdventHealth" (Jul 4)
+
+No personal recruiter outreach. No responses from any previously applied companies.
+
+---
+
+## Pipeline — Action Required Today
+
+**Job search is concluded — JP is employed at Crocs (hired May 18, 2026, started June 2026).**
+
+The following entries remain in "Ready to Apply" status in job-tracker.csv. All are stale — due dates have passed:
+
+| Company | Role | Original Due | Notes |
+|---|---|---|---|
+| EverCommerce (PaySimple) | Data Analyst Payments | May 9 | Warm Jodi Cohen referral — moot |
+| Tilt Finance | Sr. BI Analyst | May 16 | Fintech, good comp — moot |
+| Boulevard | Staff Data Analyst | May 16 | Sigma gap — moot |
+| Engine (Hotel Engine) | Sr. Revenue Insights Analyst | May 16 | Looker primary — moot |
+| Mercer Advisors | Sr. BI Analyst | May 16 | Power BI, strong match — moot |
+| NMI | Product Data Analyst | May 15 | Fintech — moot |
+| Stellantis (Jeep) | Business & Data Analyst | May 9 | White whale / MI onsite — moot |
+
+Consider updating these to "Withdrawn — Hired at Crocs" to close out the tracker.
+
+---
+
+## Interview Prep Reminder
+
+No active interview prep needed. Crocs onboarding is complete. Hybrid Tue+Thu at Interlocken, Broomfield.
+
+---
+
+## New Leads Found
+
+No new leads searched — search concluded. Power BI / Senior BI Analyst market remains active (LinkedIn, Glassdoor, Greenhouse) should circumstances change.
+
+---
+
+## Recommended Actions Today
+
+1. **Consider disabling this morning routine** — the search concluded May 18, 2026. If you want to keep it for market awareness, that's valid; if not, it can be turned off.
+2. **Update job-tracker.csv** — mark all "Ready to Apply" rows as "Withdrawn — Hired at Crocs" to clean up the tracker.
+3. **Unsubscribe from LinkedIn job alerts** — daily automated digests (Connect for Health, Franklin Fitch, etc.) are cluttering your inbox.
+4. **Verify Crocs onboarding is fully complete** — I-9 Section 1, DocuSign x2, and compliance paperwork were pending as of May 19 per tracker. Confirm with Mike Gura if any items remain open.
+
+---
+
+*Morning agent — 2026-07-06T00:00:00 UTC*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+No new personal outreach or application responses since ~8 AM MDT. One additional LinkedIn auto-alert arrived since the morning run:
+
+- **LinkedIn (10:24 AM MDT):** "Product Data Analyst at Connect for Health Colorado" — same repeated alert already noted in morning brief; 5th+ firing since Jul 4.
+
+No recruiter contact. No messages from Crocs, Shutterfly, Zillow, or any other tracked company.
+
+### New Leads Found Midday
+
+No active search conducted — JP is employed at Crocs (Day 36). Market awareness pulse only: the Senior BI Analyst / Power BI remote market remains active (4,000+ remote BI roles, 162 Power BI roles in Denver Metro area on LinkedIn as of today). No action required.
+
+| Company | Role | Comp | Location | Link | Fit |
+|---|---|---|---|---|---|
+| — | No new leads | — | — | — | — |
+
+### Afternoon Priority
+
+1. **No job search action needed** — you're employed and 36 days in at Crocs. Enjoy it.
+2. **Unsubscribe from the Connect for Health Colorado LinkedIn alert** — it fired 5+ times since Jul 4 and is cluttering your inbox. Takes 30 seconds via LinkedIn Settings > Job alerts.
+3. **Clean up job-tracker.csv when convenient** — 7 rows stuck in "Ready to Apply" with past-due dates. Marking them "Withdrawn — Hired at Crocs" closes the record cleanly and takes ~10 minutes.
+
+---
+
+*Midday agent — 2026-07-06T18:00:00 UTC*
