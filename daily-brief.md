@@ -1,21 +1,20 @@
-# Job Search Brief — 2026-07-06 | Morning
+# Job Search Brief — 2026-07-07 | Morning
 
-> **STATUS: HIRED AT CROCS — Day 36 (Monday).** Start date June 2026. Up to $127K. Contact: Mike Gura (mgura@crocs.com). Job search is closed. This routine continues for pipeline record-keeping and market awareness.
+> **STATUS: HIRED AT CROCS — Day 37 (Tuesday).** Start date June 2026. Up to $127K. Contact: Mike Gura (mgura@crocs.com). Job search is closed. This routine continues for pipeline record-keeping and market awareness.
 
 ---
 
 ## Gmail — New Activity
 
-No new application responses from any tracked companies (Crocs, Leprino, Shutterfly, Zillow, Gusto, Machinify, EverCommerce, Kroenke) in the past 48 hours.
+No new application responses or recruiter outreach from any tracked company in the past 24 hours.
 
-LinkedIn automated job alert emails received (not personal outreach):
-- LinkedIn job digest: "6 new jobs" — general BI/data alerts (Jul 6, 00:24 UTC)
-- LinkedIn: "Product Data Analyst at Connect for Health Colorado" — repeated alert (Jul 4–6, multiple)
-- LinkedIn: "Power BI Developer at Franklin Fitch" (Jul 5, 04:24 UTC)
-- LinkedIn: "Data Scientist at Solace" (Jul 4)
-- LinkedIn: "Donor Data Manager at AdventHealth" (Jul 4)
+| Sender | Subject | Summary |
+|--------|---------|---------|
+| noreply@dailypay.com | "Want a sneak peek? 👀" | DailyPay employee benefit activation email — "your company has partnered with DailyPay." Confirms Crocs has enrolled JP in DailyPay for early wage access. No action needed unless JP wants to use the benefit. |
+| jobalerts-noreply@linkedin.com | "JP: 3 new jobs" | Auto-digest includes Gusto Sr. Product Manager (wrong title) and other irrelevant roles. Same LinkedIn alert noise as prior days. |
+| support@email.credible.com | "James, your low-interest personal loan…" | Promotional loan offer. Irrelevant. |
 
-No personal recruiter outreach. No responses from any previously applied companies.
+No personal recruiter contact. No responses from Zillow, Shutterfly, Trimble, Hone Health, Advanced Energy, or any other tracked company.
 
 ---
 
@@ -23,71 +22,50 @@ No personal recruiter outreach. No responses from any previously applied compani
 
 **Job search is concluded — JP is employed at Crocs (hired May 18, 2026, started June 2026).**
 
-The following entries remain in "Ready to Apply" status in job-tracker.csv. All are stale — due dates have passed:
+The 7 "Ready to Apply" entries in job-tracker.csv remain stale (all 50–60 days past due):
 
-| Company | Role | Original Due | Notes |
-|---|---|---|---|
-| EverCommerce (PaySimple) | Data Analyst Payments | May 9 | Warm Jodi Cohen referral — moot |
-| Tilt Finance | Sr. BI Analyst | May 16 | Fintech, good comp — moot |
-| Boulevard | Staff Data Analyst | May 16 | Sigma gap — moot |
-| Engine (Hotel Engine) | Sr. Revenue Insights Analyst | May 16 | Looker primary — moot |
-| Mercer Advisors | Sr. BI Analyst | May 16 | Power BI, strong match — moot |
-| NMI | Product Data Analyst | May 15 | Fintech — moot |
-| Stellantis (Jeep) | Business & Data Analyst | May 9 | White whale / MI onsite — moot |
+| Company | Role | Original Due |
+|---------|------|-------------|
+| EverCommerce (PaySimple) | Data Analyst Payments | May 9 |
+| Tilt Finance | Sr. BI Analyst | May 16 |
+| Boulevard | Staff Data Analyst | May 16 |
+| Engine (Hotel Engine) | Sr. Revenue Insights Analyst | May 16 |
+| Mercer Advisors | Sr. BI Analyst | May 16 |
+| NMI | Product Data Analyst | May 15 |
+| Stellantis (Jeep) | Business & Data Analyst | May 9 |
 
-Consider updating these to "Withdrawn — Hired at Crocs" to close out the tracker.
+These can be marked "Withdrawn — Hired at Crocs" whenever convenient.
 
 ---
 
 ## Interview Prep Reminder
 
-No active interview prep needed. Crocs onboarding is complete. Hybrid Tue+Thu at Interlocken, Broomfield.
+No active interview prep needed. Crocs onboarding is complete. Hybrid Tue+Thu at Interlocken, Broomfield — today (Tuesday) is an in-office day.
 
 ---
 
 ## New Leads Found
 
-No new leads searched — search concluded. Power BI / Senior BI Analyst market remains active (LinkedIn, Glassdoor, Greenhouse) should circumstances change.
+Market awareness only. Two new postings surfaced worth noting if JP ever re-enters the market.
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| Enverus | Sr. Business Intelligence Analyst, Revenue Operations | $115K–$125K + bonus | Remote / Colorado | [Built In Colorado](https://www.builtincolorado.com/job/senior-business-intelligence-analyst-revenue-operations-24478dd/189684) | ✅ Power BI expert required, B2B energy tech SaaS, comp at JP's target range, Colorado-based company |
+| Ivanti | Sr. Business Intelligence Analyst | Not listed | Remote | [Greenhouse](https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7660106003) | ⚠️ Power BI + 4 yrs req, comp unknown, enterprise software |
+| Connections Health Solutions | Sr. Business Intelligence Developer | Not listed | Remote | [Greenhouse](https://job-boards.greenhouse.io/connectionshealthsolutions/jobs/4232437009) | ⚠️ Healthcare industry, posted Apr 24 |
+
+The Enverus role is the most notable for benchmarking: Power BI required, $115–125K + bonus, Colorado-based B2B SaaS in energy/oil & gas tech. This is the kind of posting to revisit if Crocs doesn't work out.
 
 ---
 
 ## Recommended Actions Today
 
-1. **Consider disabling this morning routine** — the search concluded May 18, 2026. If you want to keep it for market awareness, that's valid; if not, it can be turned off.
-2. **Update job-tracker.csv** — mark all "Ready to Apply" rows as "Withdrawn — Hired at Crocs" to clean up the tracker.
-3. **Unsubscribe from LinkedIn job alerts** — daily automated digests (Connect for Health, Franklin Fitch, etc.) are cluttering your inbox.
-4. **Verify Crocs onboarding is fully complete** — I-9 Section 1, DocuSign x2, and compliance paperwork were pending as of May 19 per tracker. Confirm with Mike Gura if any items remain open.
+1. **No job search action needed** — Day 37 at Crocs. Tuesday = in-office day at Interlocken (Broomfield).
+2. **DailyPay**: JP's company (Crocs) has enrolled you in DailyPay for early earned-wage access. If interested, sign up via the link in yesterday's email or at dailypay.com — it's a free employee perk.
+3. **Tracker cleanup (low urgency)**: Mark 7 "Ready to Apply" rows as "Withdrawn — Hired at Crocs" to close out the record. Takes ~10 minutes in job-tracker.csv.
+4. **Unsubscribe from LinkedIn Connect for Health Colorado job alert** — it has fired 5+ times since July 4 and is cluttering the inbox alongside other automated digests.
+5. **Consider disabling this morning routine** — search concluded May 18. If JP wants to keep it running for passive market awareness, that's reasonable; if not, it can be turned off now.
 
 ---
 
-*Morning agent — 2026-07-06T00:00:00 UTC*
-
----
-
-## Midday Update — 12:00 PM MDT
-
-### New Emails Since Morning
-
-No new personal outreach or application responses since ~8 AM MDT. One additional LinkedIn auto-alert arrived since the morning run:
-
-- **LinkedIn (10:24 AM MDT):** "Product Data Analyst at Connect for Health Colorado" — same repeated alert already noted in morning brief; 5th+ firing since Jul 4.
-
-No recruiter contact. No messages from Crocs, Shutterfly, Zillow, or any other tracked company.
-
-### New Leads Found Midday
-
-No active search conducted — JP is employed at Crocs (Day 36). Market awareness pulse only: the Senior BI Analyst / Power BI remote market remains active (4,000+ remote BI roles, 162 Power BI roles in Denver Metro area on LinkedIn as of today). No action required.
-
-| Company | Role | Comp | Location | Link | Fit |
-|---|---|---|---|---|---|
-| — | No new leads | — | — | — | — |
-
-### Afternoon Priority
-
-1. **No job search action needed** — you're employed and 36 days in at Crocs. Enjoy it.
-2. **Unsubscribe from the Connect for Health Colorado LinkedIn alert** — it fired 5+ times since Jul 4 and is cluttering your inbox. Takes 30 seconds via LinkedIn Settings > Job alerts.
-3. **Clean up job-tracker.csv when convenient** — 7 rows stuck in "Ready to Apply" with past-due dates. Marking them "Withdrawn — Hired at Crocs" closes the record cleanly and takes ~10 minutes.
-
----
-
-*Midday agent — 2026-07-06T18:00:00 UTC*
+*Morning agent — 2026-07-07T07:00:00 UTC*
