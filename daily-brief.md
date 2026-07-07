@@ -69,3 +69,33 @@ The Enverus role is the most notable for benchmarking: Power BI required, $115�
 ---
 
 *Morning agent — 2026-07-07T07:00:00 UTC*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+| Sender | Subject | Summary |
+|--------|---------|---------|
+| sachin@prideveterans.com (Apetan) | "Job - Data Engineer // Remote – EST Only" | Recruiter outreach from Sachin Kumar, staffing specialist at Apetan. Contract Data Engineer role, Remote EST only. Wrong title for JP's profile and JP is employed — no action. |
+| jobalerts-noreply@linkedin.com | "Product Data Analyst at Connect for Health Colorado" | Same recurring LinkedIn alert that has fired multiple times this week. Irrelevant to JP's profile and employment status. Consider unsubscribing. |
+| google-maps-noreply@google.com | "Thanks for your recent contributions" | Google Maps contribution notification. Personal — no action. |
+
+No responses from Zillow, Shutterfly, Advanced Energy, Trimble, Hone Health, or any other tracked company. No quality recruiter outreach for BI/analytics roles.
+
+### New Leads Found Midday
+
+No new senior BI analyst or senior Power BI developer postings surfaced this midday that weren't already captured in the morning brief. Web search confirms high general job volume (9,000+ Sr. BI Analyst roles nationally, 1,100+ Power BI remote roles on Glassdoor) but no specific new Colorado or remote postings entered the market since the morning run. The Enverus Sr. BI Analyst noted in the morning section remains the most noteworthy market benchmark.
+
+*Market awareness only — JP is employed at Crocs (Day 37).*
+
+### Afternoon Priority
+
+1. **No job search action needed** — Tuesday is an in-office day at Crocs (Interlocken, Broomfield). Focus on Day 37 work.
+2. **LinkedIn alert cleanup**: The "Connect for Health Colorado" job alert has now fired 6+ times across multiple days. Worth unsubscribing today — Settings → Job Alerts → delete the alert.
+3. **Tracker cleanup (optional, low urgency)**: 7 "Ready to Apply" rows remain open. Mark them "Withdrawn — Hired at Crocs" to close the record cleanly.
+
+---
+
+*Midday agent — 2026-07-07T18:00:00 UTC*
