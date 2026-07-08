@@ -79,3 +79,32 @@ The Enverus role remains the most notable market benchmark: Power BI expert requ
 ---
 
 *Morning agent — 2026-07-08T07:00:00 UTC*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+| Sender | Subject | Summary |
+|--------|---------|---------|
+| Advanced Energy talent community | New jobs posted from jobs.advanced-energy.com | Weekly digest — 5 new openings (Senior Pricing Analyst, Sr Manager IT Audit, Internal Auditor, Graphic Designer, Director Corporate Development & Integration). **No BI/analytics roles.** Reminder to send withdrawal and unsubscribe from this weekly alert. |
+| jobalerts-noreply@linkedin.com | BI Regional Analyst at AlphaGraphics: up to $110K/year | AlphaGraphics franchise printing/marketing brand. Comp ceiling $110K — below $115K floor. Not relevant even for market awareness. |
+| jobalerts-noreply@linkedin.com | Senior Vice President, Data Analyst & BI at BNY | VP-level role at Bank of New York. Overleveled for JP's target profile. Market awareness only. |
+
+No responses from Zillow (either req), Shutterfly, Machinify, Hone Health, Advanced Energy, or Trimble since morning.
+
+### New Leads Found Midday
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| USAA | Business Intelligence Analyst Lead | $127,310–$243,340 | 4-day in-office from: San Antonio TX / Plano TX / Phoenix AZ / **Colorado Springs CO** / Charlotte NC / Chesapeake VA / Tampa FL | [Built In Colorado](https://www.builtincolorado.com/job/business-intelligence-analyst-lead/4601395) | ❌ 4-day/week in-office is a deal-breaker (same as 5-day RTO for practical purposes). Colorado Springs is the nearest location at ~65 miles from Littleton. Strong comp range but eliminated on RTO. |
+
+### Afternoon Priority
+
+1. **No job search action needed.** Crocs Day 38 — Wednesday is a remote work day.
+2. **Unsubscribe from Advanced Energy talent community digest** (weekly alert, no BI roles). Send brief courtesy withdrawal while there: "accepted another offer, appreciate your consideration."
+3. **Withdrawal emails remain the week's one-time task** — Zillow (x2), Shutterfly, Machinify, Hone Health, and personal note to Eric Robinson at Trimble.
+
+---
+*Midday agent — 2026-07-08T18:00:00 UTC*
