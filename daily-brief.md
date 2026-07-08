@@ -1,6 +1,6 @@
-# Job Search Brief — 2026-07-07 | Morning
+# Job Search Brief — 2026-07-08 | Morning
 
-> **STATUS: HIRED AT CROCS — Day 37 (Tuesday).** Start date June 2026. Up to $127K. Contact: Mike Gura (mgura@crocs.com). Job search is closed. This routine continues for pipeline record-keeping and market awareness.
+> **STATUS: HIRED AT CROCS — Day 38 (Wednesday).** Start date June 2026. Up to $127K. Contact: Mike Gura (mgura@crocs.com). Job search is closed. This routine continues for pipeline record-keeping and market awareness only.
 
 ---
 
@@ -10,17 +10,18 @@ No new application responses or recruiter outreach from any tracked company in t
 
 | Sender | Subject | Summary |
 |--------|---------|---------|
-| noreply@dailypay.com | "Want a sneak peek? 👀" | DailyPay employee benefit activation email — "your company has partnered with DailyPay." Confirms Crocs has enrolled JP in DailyPay for early wage access. No action needed unless JP wants to use the benefit. |
-| jobalerts-noreply@linkedin.com | "JP: 3 new jobs" | Auto-digest includes Gusto Sr. Product Manager (wrong title) and other irrelevant roles. Same LinkedIn alert noise as prior days. |
-| support@email.credible.com | "James, your low-interest personal loan…" | Promotional loan offer. Irrelevant. |
+| jobalerts-noreply@linkedin.com | Business Intelligence Analyst at Anaconda, Inc. | Automated alert — BI Analyst II, $84.5K–$124.5K. Application deadline was July 1, 2026 (passed). Market awareness only. |
+| jobalerts-noreply@linkedin.com | JP: 7 new jobs | Auto-digest — Gusto Senior Manager, Agentic Strategy & Operations and other non-BI roles. Irrelevant. |
+| jobalerts-noreply@linkedin.com | Product Data Analyst at Connect for Health Colorado | Recurring alert, 7th firing this week. See Action 4 re: unsubscribing. |
+| sachin@prideveterans.com (Apetan) | Job - Data Engineer // Remote – EST Only | Cold recruiter pitch from Sachin Kumar / Apetan staffing. 6+ month Data Engineer contract, Remote EST only. Wrong title, JP is employed. Discard. |
 
-No personal recruiter contact. No responses from Zillow, Shutterfly, Trimble, Hone Health, Advanced Energy, or any other tracked company.
+No responses from Zillow, Shutterfly, Trimble, Hone Health, Advanced Energy, or any other tracked company.
 
 ---
 
 ## Pipeline — Action Required Today
 
-**Job search is concluded — JP is employed at Crocs (hired May 18, 2026, started June 2026).**
+**Job search concluded — JP is employed at Crocs (hired May 18, 2026, started June 2026).**
 
 The 7 "Ready to Apply" entries in job-tracker.csv remain stale (all 50–60 days past due):
 
@@ -36,66 +37,45 @@ The 7 "Ready to Apply" entries in job-tracker.csv remain stale (all 50–60 days
 
 These can be marked "Withdrawn — Hired at Crocs" whenever convenient.
 
+**Still-open applications that have not received responses (courteous withdrawal recommended):**
+- Zillow Home Loans (P749151) — Applied Apr 28
+- Zillow Preferred Strategy (P750075) — Applied, confirmed May 6
+- Shutterfly — Applied Apr 23, portal access received May 7
+- Machinify — Applied via Greenhouse
+- Hone Health — Applied May 12
+- Advanced Energy — Applied May 13 (referral context in CL)
+- Trimble — Applied May 12, referral via Eric Robinson (eric_robinson@trimble.com) — personal withdrawal note recommended
+
 ---
 
 ## Interview Prep Reminder
 
-No active interview prep needed. Crocs onboarding is complete. Hybrid Tue+Thu at Interlocken, Broomfield — today (Tuesday) is an in-office day.
+No active interview prep needed. Crocs onboarding complete. Hybrid Tue+Thu at Interlocken, Broomfield — today (Wednesday) is a remote work day.
 
 ---
 
 ## New Leads Found
 
-Market awareness only. Two new postings surfaced worth noting if JP ever re-enters the market.
+Market awareness only — not for active pursuit.
 
 | Company | Role | Comp | Location | Link | Fit |
 |---------|------|------|----------|------|-----|
-| Enverus | Sr. Business Intelligence Analyst, Revenue Operations | $115K–$125K + bonus | Remote / Colorado | [Built In Colorado](https://www.builtincolorado.com/job/senior-business-intelligence-analyst-revenue-operations-24478dd/189684) | ✅ Power BI expert required, B2B energy tech SaaS, comp at JP's target range, Colorado-based company |
-| Ivanti | Sr. Business Intelligence Analyst | Not listed | Remote | [Greenhouse](https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7660106003) | ⚠️ Power BI + 4 yrs req, comp unknown, enterprise software |
-| Connections Health Solutions | Sr. Business Intelligence Developer | Not listed | Remote | [Greenhouse](https://job-boards.greenhouse.io/connectionshealthsolutions/jobs/4232437009) | ⚠️ Healthcare industry, posted Apr 24 |
+| Enverus | Sr. Business Intelligence Analyst, Revenue Operations | $115K–$125K + bonus | Remote / Colorado | [Built In Colorado](https://www.builtincolorado.com/job/senior-business-intelligence-analyst-revenue-operations-24478dd/189684) | ✅ Power BI + Snowflake + SQL + Python, 5+ yrs, B2B energy-tech SaaS, Colorado-based, remote. Top market benchmark if JP ever re-enters. |
+| Anaconda, Inc. | Business Intelligence Analyst II | $84.5K–$124.5K | Remote | [Rippling ATS](https://ats.rippling.com/anaconda/jobs/683414ce-09be-4303-85a8-7da0d9f07e6c) | ⚠️ Deadline passed July 1. SQL + Snowflake, AI/data platform company. No explicit Power BI mention. Comp tops at $124.5K. Awareness only. |
+| Connections Health Solutions | Sr. Business Intelligence Developer | Not listed | Remote US | [Greenhouse](https://job-boards.greenhouse.io/connectionshealthsolutions/jobs/4232437009) | ⚠️ Power BI + Tableau dual-stack, healthcare sector. Comp and remote status unconfirmed (fetch blocked). Awareness only. |
 
-The Enverus role is the most notable for benchmarking: Power BI required, $115–125K + bonus, Colorado-based B2B SaaS in energy/oil & gas tech. This is the kind of posting to revisit if Crocs doesn't work out.
+The Enverus role remains the most notable market benchmark: Power BI expert required, $115K–$125K + bonus, Colorado-based B2B SaaS, fully remote.
 
 ---
 
 ## Recommended Actions Today
 
-1. **No job search action needed** — Day 37 at Crocs. Tuesday = in-office day at Interlocken (Broomfield).
-2. **DailyPay**: JP's company (Crocs) has enrolled you in DailyPay for early earned-wage access. If interested, sign up via the link in yesterday's email or at dailypay.com — it's a free employee perk.
-3. **Tracker cleanup (low urgency)**: Mark 7 "Ready to Apply" rows as "Withdrawn — Hired at Crocs" to close out the record. Takes ~10 minutes in job-tracker.csv.
-4. **Unsubscribe from LinkedIn Connect for Health Colorado job alert** — it has fired 5+ times since July 4 and is cluttering the inbox alongside other automated digests.
-5. **Consider disabling this morning routine** — search concluded May 18. If JP wants to keep it running for passive market awareness, that's reasonable; if not, it can be turned off now.
+1. **No job search action needed.** Day 38 at Crocs. Wednesday = remote work day.
+2. **Withdrawal emails (one-time task, low urgency):** Send brief courtesy withdrawal notes to Zillow (both reqs), Shutterfly, Machinify, Hone Health, and Advanced Energy — "I accepted another offer, appreciate your time." For Trimble, email Eric Robinson personally to close the loop on his referral.
+3. **Tracker cleanup (optional, ~10 min):** Mark 7 "Ready to Apply" rows as "Withdrawn — Hired at Crocs" in job-tracker.csv.
+4. **Unsubscribe from LinkedIn "Connect for Health Colorado" job alert.** It has fired 7+ times this week — Settings → Job Alerts → delete. Also consider trimming other LinkedIn auto-digests to reduce inbox noise.
+5. **Consider disabling or scaling back this morning routine.** The job search concluded May 18. If keeping it for passive market awareness, switching to a weekly or monthly cadence would reduce noise significantly.
 
 ---
 
-*Morning agent — 2026-07-07T07:00:00 UTC*
-
----
-
-## Midday Update — 12:00 PM MDT
-
-### New Emails Since Morning
-
-| Sender | Subject | Summary |
-|--------|---------|---------|
-| sachin@prideveterans.com (Apetan) | "Job - Data Engineer // Remote – EST Only" | Recruiter outreach from Sachin Kumar, staffing specialist at Apetan. Contract Data Engineer role, Remote EST only. Wrong title for JP's profile and JP is employed — no action. |
-| jobalerts-noreply@linkedin.com | "Product Data Analyst at Connect for Health Colorado" | Same recurring LinkedIn alert that has fired multiple times this week. Irrelevant to JP's profile and employment status. Consider unsubscribing. |
-| google-maps-noreply@google.com | "Thanks for your recent contributions" | Google Maps contribution notification. Personal — no action. |
-
-No responses from Zillow, Shutterfly, Advanced Energy, Trimble, Hone Health, or any other tracked company. No quality recruiter outreach for BI/analytics roles.
-
-### New Leads Found Midday
-
-No new senior BI analyst or senior Power BI developer postings surfaced this midday that weren't already captured in the morning brief. Web search confirms high general job volume (9,000+ Sr. BI Analyst roles nationally, 1,100+ Power BI remote roles on Glassdoor) but no specific new Colorado or remote postings entered the market since the morning run. The Enverus Sr. BI Analyst noted in the morning section remains the most noteworthy market benchmark.
-
-*Market awareness only — JP is employed at Crocs (Day 37).*
-
-### Afternoon Priority
-
-1. **No job search action needed** — Tuesday is an in-office day at Crocs (Interlocken, Broomfield). Focus on Day 37 work.
-2. **LinkedIn alert cleanup**: The "Connect for Health Colorado" job alert has now fired 6+ times across multiple days. Worth unsubscribing today — Settings → Job Alerts → delete the alert.
-3. **Tracker cleanup (optional, low urgency)**: 7 "Ready to Apply" rows remain open. Mark them "Withdrawn — Hired at Crocs" to close the record cleanly.
-
----
-
-*Midday agent — 2026-07-07T18:00:00 UTC*
+*Morning agent — 2026-07-08T07:00:00 UTC*
