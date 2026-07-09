@@ -1,110 +1,82 @@
-# Job Search Brief — 2026-07-08 | Morning
+# Job Search Brief — 2026-07-09 | Morning
 
-> **STATUS: HIRED AT CROCS — Day 38 (Wednesday).** Start date June 2026. Up to $127K. Contact: Mike Gura (mgura@crocs.com). Job search is closed. This routine continues for pipeline record-keeping and market awareness only.
+> **STATUS: HIRED AT CROCS — Day 39 (Thursday).** Sr. Business Intelligence Analyst, Broomfield CO (Hybrid Tue+Thu). Start June 2026. Up to $127K. Contact: Mike Gura (mgura@crocs.com). Job search is closed. This routine continues for pipeline record-keeping and market awareness only.
 
 ---
 
 ## Gmail — New Activity
 
-No new application responses or recruiter outreach from any tracked company in the past 24 hours.
+No direct responses from any tracked company in the last 48 hours. All email is automated job alerts.
 
-| Sender | Subject | Summary |
-|--------|---------|---------|
-| jobalerts-noreply@linkedin.com | Business Intelligence Analyst at Anaconda, Inc. | Automated alert — BI Analyst II, $84.5K–$124.5K. Application deadline was July 1, 2026 (passed). Market awareness only. |
-| jobalerts-noreply@linkedin.com | JP: 7 new jobs | Auto-digest — Gusto Senior Manager, Agentic Strategy & Operations and other non-BI roles. Irrelevant. |
-| jobalerts-noreply@linkedin.com | Product Data Analyst at Connect for Health Colorado | Recurring alert, 7th firing this week. See Action 4 re: unsubscribing. |
-| sachin@prideveterans.com (Apetan) | Job - Data Engineer // Remote – EST Only | Cold recruiter pitch from Sachin Kumar / Apetan staffing. 6+ month Data Engineer contract, Remote EST only. Wrong title, JP is employed. Discard. |
+**Notable LinkedIn alerts (7/7–7/9):**
 
-No responses from Zillow, Shutterfly, Trimble, Hone Health, Advanced Energy, or any other tracked company.
+| Source | Subject | Note |
+|--------|---------|------|
+| LinkedIn (jobs-listings) | Senior BI/Data Analyst at **Cloudflare** — Actively Recruiting | Posted 7/7/2026. Remote US. Top-tier SaaS company. |
+| LinkedIn (job alert) | Senior BI Analyst at **The Nature Conservancy** | Nonprofit — comp likely below floor. |
+| LinkedIn (job alert) | Senior Data Analyst at **Thor** — up to $120K/year | RV manufacturer. Barely clears floor. |
+| LinkedIn (job alert) | BI Regional Analyst at **AlphaGraphics** — up to $110K | ❌ Below $115K floor. |
+| LinkedIn (job alert) | Business Intelligence Analyst at **Anaconda, Inc.** | Data/ML platform — role level unclear. |
+| LinkedIn (job alert) | Sr. BI & Analytics Analyst via **Jobgether** | Aggregator listing — underlying company unknown. |
+| Advanced Energy | Talent community job alert (joined 5/13/26) | No new specific matches relevant to JP's profile. |
+| Recruiter — orevatech.com | "Sr. Software Engineer – Generative AI Innovation" — Overland Park KS | ❌ Wrong title, wrong location, contract role. Disregard. |
+| Connecting Colorado | "James, We Found New Jobs for You" | State job board automated match. No specific role flagged. |
 
 ---
 
 ## Pipeline — Action Required Today
 
-**Job search concluded — JP is employed at Crocs (hired May 18, 2026, started June 2026).**
+> JP is employed at Crocs. Items below are "Ready to Apply" rows in job-tracker.csv that are now moot — included here as a cleanup reminder.
 
-The 7 "Ready to Apply" entries in job-tracker.csv remain stale (all 50–60 days past due):
+| Company | Role | Comp | Notes |
+|---------|------|------|-------|
+| EverCommerce (PaySimple) | Data Analyst Payments | $95K–$115K | Warm referral via Jodi Cohen — now moot. Update to Withdrawn. |
+| Tilt Finance | Senior BI Analyst | Est $100K–$129K | Fintech. Update to Withdrawn. |
+| Boulevard | Staff Data Analyst | $122.5K–$158.4K | Sigma stack. Update to Withdrawn. |
+| Engine (Hotel Engine) | Sr. Revenue Insights Analyst | Est $139K–$189K | Looker stack. Update to Withdrawn. |
+| Mercer Advisors | Senior BI Analyst | Est $133K–$154K | Power BI + Azure Synapse — strong match on paper. Update to Withdrawn. |
+| Stellantis (Jeep) | Business & Data Analyst | ~$85K est | White whale, Auburn Hills MI. Update to Withdrawn. |
+| NMI | Product Data Analyst | $90K–$120K | Borderline comp. Update to Withdrawn. |
 
-| Company | Role | Original Due |
-|---------|------|-------------|
-| EverCommerce (PaySimple) | Data Analyst Payments | May 9 |
-| Tilt Finance | Sr. BI Analyst | May 16 |
-| Boulevard | Staff Data Analyst | May 16 |
-| Engine (Hotel Engine) | Sr. Revenue Insights Analyst | May 16 |
-| Mercer Advisors | Sr. BI Analyst | May 16 |
-| NMI | Product Data Analyst | May 15 |
-| Stellantis (Jeep) | Business & Data Analyst | May 9 |
-
-These can be marked "Withdrawn — Hired at Crocs" whenever convenient.
-
-**Still-open applications that have not received responses (courteous withdrawal recommended):**
-- Zillow Home Loans (P749151) — Applied Apr 28
-- Zillow Preferred Strategy (P750075) — Applied, confirmed May 6
-- Shutterfly — Applied Apr 23, portal access received May 7
-- Machinify — Applied via Greenhouse
-- Hone Health — Applied May 12
-- Advanced Energy — Applied May 13 (referral context in CL)
-- Trimble — Applied May 12, referral via Eric Robinson (eric_robinson@trimble.com) — personal withdrawal note recommended
+**Recommended action:** Update all 7 rows in job-tracker.csv to `Withdrawn — Hired at Crocs`.
 
 ---
 
 ## Interview Prep Reminder
 
-No active interview prep needed. Crocs onboarding complete. Hybrid Tue+Thu at Interlocken, Broomfield — today (Wednesday) is a remote work day.
+No action needed. Crocs interview completed — hired May 18, 2026. Prep files in `prep/` can be archived at your convenience.
 
 ---
 
-## New Leads Found
+## New Leads Found (Market Awareness Only)
 
-Market awareness only — not for active pursuit.
+*JP is employed at Crocs. These are flagged for professional awareness and future reference only — not for immediate application.*
 
 | Company | Role | Comp | Location | Link | Fit |
 |---------|------|------|----------|------|-----|
-| Enverus | Sr. Business Intelligence Analyst, Revenue Operations | $115K–$125K + bonus | Remote / Colorado | [Built In Colorado](https://www.builtincolorado.com/job/senior-business-intelligence-analyst-revenue-operations-24478dd/189684) | ✅ Power BI + Snowflake + SQL + Python, 5+ yrs, B2B energy-tech SaaS, Colorado-based, remote. Top market benchmark if JP ever re-enters. |
-| Anaconda, Inc. | Business Intelligence Analyst II | $84.5K–$124.5K | Remote | [Rippling ATS](https://ats.rippling.com/anaconda/jobs/683414ce-09be-4303-85a8-7da0d9f07e6c) | ⚠️ Deadline passed July 1. SQL + Snowflake, AI/data platform company. No explicit Power BI mention. Comp tops at $124.5K. Awareness only. |
-| Connections Health Solutions | Sr. Business Intelligence Developer | Not listed | Remote US | [Greenhouse](https://job-boards.greenhouse.io/connectionshealthsolutions/jobs/4232437009) | ⚠️ Power BI + Tableau dual-stack, healthcare sector. Comp and remote status unconfirmed (fetch blocked). Awareness only. |
-
-The Enverus role remains the most notable market benchmark: Power BI expert required, $115K–$125K + bonus, Colorado-based B2B SaaS, fully remote.
+| **Cloudflare** | Senior BI/Data Analyst | Not listed (est $130K–$175K+ for Sr level) | Remote US | [LinkedIn #4434577214](https://www.linkedin.com/jobs/view/4434577214/) | ✅ Top-tier B2B SaaS. Posted 7/7/2026. File for future reference. |
+| **Openly** (insurtech) | Senior Business Intelligence Analyst | Not listed | Remote US | [Greenhouse](https://boards.greenhouse.io/openly/jobs/4340737005) | ✅ KPI dashboards, Product & Strategy team. Fintech-adjacent. |
+| **Coalition, Inc.** | Senior Data Analyst | Not listed | Remote US | [LinkedIn #4405259867](https://www.linkedin.com/jobs/view/4405259867/) | ✅ Cyber insurance / fintech. Actively hiring badge. |
+| **StarRez** | Senior Business Intelligence Analyst | Not listed | Remote US | [Greenhouse](https://job-boards.greenhouse.io/starrez/jobs/5118067008) | ⚠️ Higher ed SaaS — niche. BI + data warehouse. |
+| **Harbor Freight Tools** | Sr. BI Analyst, Supply Chain | Not listed | Remote (Calabasas HQ) | [LinkedIn #4408110632](https://www.linkedin.com/jobs/view/4408110632/) | ⚠️ Retail. Supply chain focus — different from JP's background. |
+| **Connections Health Solutions** | Senior BI Developer | Not listed | Remote | [Greenhouse](https://job-boards.greenhouse.io/connectionshealthsolutions/jobs/4232437009) | ⚠️ Healthcare. Tableau + Power BI. |
+| **Encora** | Senior BI Analyst (Power BI) | Not listed | Remote | [Greenhouse](https://job-boards.greenhouse.io/encora10/jobs/5136634007) | ⚠️ Consulting firm. Power BI + DAX explicit — client-facing. |
+| **Remote.com** | Sr. Treasury BI Analyst | Not listed | Remote | [Greenhouse](https://job-boards.greenhouse.io/remotecom/jobs/7674093003) | ⚠️ Finance/treasury focus — narrower scope. |
 
 ---
 
 ## Recommended Actions Today
 
-1. **No job search action needed.** Day 38 at Crocs. Wednesday = remote work day.
-2. **Withdrawal emails (one-time task, low urgency):** Send brief courtesy withdrawal notes to Zillow (both reqs), Shutterfly, Machinify, Hone Health, and Advanced Energy — "I accepted another offer, appreciate your time." For Trimble, email Eric Robinson personally to close the loop on his referral.
-3. **Tracker cleanup (optional, ~10 min):** Mark 7 "Ready to Apply" rows as "Withdrawn — Hired at Crocs" in job-tracker.csv.
-4. **Unsubscribe from LinkedIn "Connect for Health Colorado" job alert.** It has fired 7+ times this week — Settings → Job Alerts → delete. Also consider trimming other LinkedIn auto-digests to reduce inbox noise.
-5. **Consider disabling or scaling back this morning routine.** The job search concluded May 18. If keeping it for passive market awareness, switching to a weekly or monthly cadence would reduce noise significantly.
+1. **Clean up tracker** — Update the 7 "Ready to Apply" rows (EverCommerce, Tilt Finance, Boulevard, Engine, Mercer Advisors, Stellantis, NMI) to `Withdrawn — Hired at Crocs` in job-tracker.csv.
+
+2. **Update LinkedIn "Open to Work" status** — JP's LinkedIn profile footer still shows "Open to Work." Update headline/status to current role at Crocs to reduce recruiter inbox volume.
+
+3. **Archive prep files** — Move contents of `prep/` folder to an archive subfolder now that Crocs interview is complete.
+
+4. **Mark Advanced Energy as ghosted** — Applied 5/13/26 (~8 weeks ago), no response. Update status to `Ghosted / Closed` in tracker.
+
+5. **Consider disabling this routine** — The job search is complete. The morning agent can be turned off or repurposed (e.g., weekly market pulse instead of daily brief). Let me know if you'd like to adjust the schedule or stop the cron.
 
 ---
 
-*Morning agent — 2026-07-08T07:00:00 UTC*
-
----
-
-## Midday Update — 12:00 PM MDT
-
-### New Emails Since Morning
-
-| Sender | Subject | Summary |
-|--------|---------|---------|
-| Advanced Energy talent community | New jobs posted from jobs.advanced-energy.com | Weekly digest — 5 new openings (Senior Pricing Analyst, Sr Manager IT Audit, Internal Auditor, Graphic Designer, Director Corporate Development & Integration). **No BI/analytics roles.** Reminder to send withdrawal and unsubscribe from this weekly alert. |
-| jobalerts-noreply@linkedin.com | BI Regional Analyst at AlphaGraphics: up to $110K/year | AlphaGraphics franchise printing/marketing brand. Comp ceiling $110K — below $115K floor. Not relevant even for market awareness. |
-| jobalerts-noreply@linkedin.com | Senior Vice President, Data Analyst & BI at BNY | VP-level role at Bank of New York. Overleveled for JP's target profile. Market awareness only. |
-
-No responses from Zillow (either req), Shutterfly, Machinify, Hone Health, Advanced Energy, or Trimble since morning.
-
-### New Leads Found Midday
-
-| Company | Role | Comp | Location | Link | Fit |
-|---------|------|------|----------|------|-----|
-| USAA | Business Intelligence Analyst Lead | $127,310–$243,340 | 4-day in-office from: San Antonio TX / Plano TX / Phoenix AZ / **Colorado Springs CO** / Charlotte NC / Chesapeake VA / Tampa FL | [Built In Colorado](https://www.builtincolorado.com/job/business-intelligence-analyst-lead/4601395) | ❌ 4-day/week in-office is a deal-breaker (same as 5-day RTO for practical purposes). Colorado Springs is the nearest location at ~65 miles from Littleton. Strong comp range but eliminated on RTO. |
-
-### Afternoon Priority
-
-1. **No job search action needed.** Crocs Day 38 — Wednesday is a remote work day.
-2. **Unsubscribe from Advanced Energy talent community digest** (weekly alert, no BI roles). Send brief courtesy withdrawal while there: "accepted another offer, appreciate your consideration."
-3. **Withdrawal emails remain the week's one-time task** — Zillow (x2), Shutterfly, Machinify, Hone Health, and personal note to Eric Robinson at Trimble.
-
----
-*Midday agent — 2026-07-08T18:00:00 UTC*
+*Morning agent — 2026-07-09T12:00:00 UTC*
