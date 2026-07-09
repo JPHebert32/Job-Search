@@ -80,3 +80,36 @@ No action needed. Crocs interview completed — hired May 18, 2026. Prep files i
 ---
 
 *Morning agent — 2026-07-09T12:00:00 UTC*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+No new emails from any tracked company, employer, or recruiter for BI/Power BI roles since the morning run.
+
+| Sender | Subject | Note |
+|--------|---------|------|
+| VDart (yeshwanth.k@vdartinc.com) | "Senior Data Analyst — Voice AI Platform — Contract — Immediate Need" | ❌ Contract-only position. Requires Python + SQL, no Power BI mentioned. Voice AI/LLM analytics scope — not a BI/viz role. JP is employed. Disregard. |
+| LinkedIn (jobalerts-noreply) | "Data Analyst II at DISH TV" | ❌ Wrong title (Analyst II vs. Senior), wrong industry fit. Disregard. |
+
+### New Leads Found Midday
+
+*Market awareness only — JP is employed at Crocs.*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| **Enverus** | Sr. Business Intelligence Analyst, Revenue Operations | $115K–$125K + bonus | Remote/Denver CO | [Built In Colorado](https://www.builtincolorado.com/job/senior-business-intelligence-analyst-revenue-operations-24478dd/189684) | ✅ Power BI + Snowflake + Python + SQL explicit. 5+ yrs req. Revenue Ops focus. Energy data/B2B SaaS. Clears comp floor with bonus. Strong stack match — file for future reference. |
+| **DigitalOcean** | Sr. Business Intelligence Engineer | Not listed | Remote | [Built In Colorado](https://www.builtincolorado.com/job/senior-business-intelligence-engineer/6832358) | ⚠️ dbt-heavy BI engineering scope — more data modeling than analyst/viz. Cloud infra company. Less JP's lane but worth awareness. |
+
+*Not flagged: Basis Technologies Sr. BI Developer (ad-tech — excluded industry). StackAdapt Sr. Data Analyst BI (ad-tech — excluded). ASSYST Inc. Sr. BI Analyst (healthcare IT consulting — lower priority).*
+
+### Afternoon Priority
+
+1. **No action required on job search** — JP is employed at Crocs (Day 39). Pipeline is closed.
+2. **Enverus lead noted for future reference** — $115K–$125K + bonus, Power BI + Snowflake, strong stack match. Bookmark if ever re-entering the market.
+3. **Routine maintenance reminder** — Consider disabling or repurposing this daily routine to a weekly market pulse; see morning brief item #5.
+
+---
+*Midday agent — 2026-07-09T18:05:00 UTC*
