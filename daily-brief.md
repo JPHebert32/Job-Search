@@ -71,3 +71,39 @@ No action needed. Crocs technical round completed — offer accepted May 18, 202
 ---
 
 *Morning agent — 2026-07-11T07:30:00Z UTC*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+No responses from tracked companies or direct recruiter outreach since 8 AM.
+
+| Sender | Subject | Summary |
+|--------|---------|---------|
+| jobalerts-noreply@linkedin.com | Business Intelligence (BI) Analyst at Curana Health | Automated LinkedIn job alert — Curana Health is a healthcare senior-living provider. Not relevant; JP is employed. |
+| crocsus@pr.crocsus.emailpowerreviews.com | Love your purchase? Share the love and write a review | Power Reviews prompt from Crocs brand — triggered by a recent purchase. Not job-related. |
+
+All other new mail (Carl's Jr, Gunfighters, Invader Concepts, Starbucks/PayPal, Chase statement, Nextdoor, Nintendo) is retail/personal — disregard.
+
+### New Leads Found Midday
+
+*Market awareness only — JP is employed at Crocs Day 41.*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| **Encora** | Senior BI Analyst (Power BI) | Not listed | Remote US | [Greenhouse](https://job-boards.greenhouse.io/encora10/jobs/5136634007) | ⚠️ Power BI + DAX + M Query + Tabular Modeling — strong tool match. Encora is a global IT/digital engineering services firm (consulting/staff aug probable). Not SaaS product. Comp unknown. |
+| **SimplePractice** | Business Intelligence Data Analyst | Not listed | Remote (CO listing) | [Built In CO](https://www.builtincolorado.com/job/business-intelligence-data-analyst/6767190) | ⚠️ Health/wellness SaaS (practitioner mgmt platform). Title not Senior. Tableau/Looker primary (Power BI secondary). 6+ yrs req — JP over-qualifies. Below target scope. |
+
+*Not flagged: Torc Robotics Sr BI Analyst (autonomous vehicles/defense-adjacent — industry gap). ISC Sr BI Analyst Workers Comp (insurance — below target scope).*
+
+### Afternoon Priority
+
+1. **No job search action needed** — JP is employed at Crocs (Day 41, Saturday).
+2. **LinkedIn housekeeping** — Remove "Open to Work" banner if still active to cut recruiter volume (same recommendation as morning).
+3. **Tracker cleanup** — 7 stale "Ready to Apply" rows still need status → `Withdrawn — Hired at Crocs`; low urgency on a weekend.
+
+---
+
+*Midday agent — 2026-07-11T18:00:00Z UTC*
