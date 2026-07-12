@@ -1,6 +1,6 @@
-# Job Search Brief — 2026-07-11 | Morning
+# Job Search Brief — 2026-07-12 | Morning
 
-> **STATUS: HIRED AT CROCS — Day 41 (Saturday).** Sr. Business Intelligence Analyst, Broomfield CO (Hybrid Tue+Thu). Start June 2026. Up to $127K. Contact: Mike Gura (mgura@crocs.com). Job search is closed. This routine continues for pipeline record-keeping and market awareness only.
+> **STATUS: HIRED AT CROCS — Day 42 (Sunday).** Sr. Business Intelligence Analyst, Broomfield CO (Hybrid Tue+Thu). Start June 2026. Up to $127K. Contact: Mike Gura (mgura@crocs.com). Job search is closed. This routine continues for pipeline record-keeping and market awareness only.
 
 ---
 
@@ -8,24 +8,28 @@
 
 No direct responses from any tracked company in the last 24 hours.
 
-**Recruiter cold outreach (3 new — all from apetan.com staffing agency):**
+**LinkedIn job alerts (6 received — automated digests, JP is employed):**
 
-| Sender | Subject | Summary |
-|--------|---------|---------|
-| aashish@apetan.com | Urgent Job Opening :: Business (Data) Analyst \|\| Denver, CO \|\| Contract | Generic staffing outreach for a contract role in Denver. No company or comp disclosed. **JP is employed — disregard.** |
-| aashish@apetan.com | Job Opening :: Business (Data) Analyst \|\| Denver, CO \|\| Fulltime | Same sender, FTE version of same pitch. No specifics without resume. **Disregard.** |
-| samnan@apetan.com | JD \| Partner Analyst \| Remote | 12-month W2 contract, remote EST/CST. Role: monthly/quarterly insights management. No comp. Contract-only. **Disregard.** |
+| Subject | Comp Note |
+|---------|-----------|
+| Business Analytics Developer at Charles Schwab | Up to $136K/year — above floor, notable |
+| Business Intelligence (BI) Analyst at Curana Health | No comp listed; healthcare; not Senior |
+| Revenue Operations Analyst at KPA | No comp listed; RevOps scope mismatch |
+| Sr Data Analyst at Beacon Hill | Up to $80/hr (contract only) |
+| Commercial Data Analyst at Leiters | Up to $90K — below floor |
+| JP: 30+ new jobs (Gusto Staff BSA digest) | System analyst scope — disregard |
 
-**Other (no action):**
-- LinkedIn job alert: "4 new jobs" — automated digest, not reviewed (JP is employed)
-- Arapahoe/Douglas Works career fair notice — not relevant
-- Retail promotional emails (Total Wine, Carl's Jr.) — not relevant
+**Crocs-branded emails (2) — NOT employment-related:**
+- `crocs-email.com` — Free shipping promo (retail marketing)
+- `crocsus@pr.crocsus.emailpowerreviews.com` — Product review request
+
+**Other non-relevant mail:** Dunkin' Rewards report, Carl's Jr. promo, Vantage West loan payment reminder (Jul 18 auto-debit).
 
 ---
 
 ## Pipeline — Action Required Today
 
-> JP is employed at Crocs. All "Ready to Apply" rows below are stale from May 2026 and require no action.
+> JP is employed at Crocs. All "Ready to Apply" rows are stale from May 2026 and require no action.
 
 | Company | Role | Comp | Recommended Status Update |
 |---------|------|------|---------------------------|
@@ -41,7 +45,7 @@ No direct responses from any tracked company in the last 24 hours.
 
 ## Interview Prep Reminder
 
-No action needed. Crocs technical round completed — offer accepted May 18, 2026. Prep files in `prep/` available for archival.
+No action needed. Crocs offer accepted May 18, 2026. Prep files in `prep/` are complete and available for archival.
 
 ---
 
@@ -49,61 +53,25 @@ No action needed. Crocs technical round completed — offer accepted May 18, 202
 
 *JP is employed at Crocs. Flagged for professional awareness and contingency reference only.*
 
-| Company | Role | Comp | Location | Link | Fit |
-|---------|------|------|----------|------|-----|
-| **MaintainX** | Senior Business Intelligence (BI) Analyst | Not confirmed | Remote US | [Greenhouse](https://job-boards.greenhouse.io/maintainx/jobs/4860372007) | ⚠️ B2B SaaS (industrial ops). Posting accessible but details not scraped (403). Worth checking if needed. |
-| **NeueHealth** | Senior Business Intelligence Analyst | Not listed | Not listed | [Greenhouse](https://job-boards.greenhouse.io/neuehealth/jobs/5765660004) | ⚠️ Healthcare — industry gap. Carry-over from yesterday. |
-| **Graham Healthcare Group** | Senior Power BI Developer | Not listed | Remote (Built In CO) | [Built In Colorado](https://www.builtincolorado.com/job/senior-power-bi-developer/4623208) | ⚠️ Power BI explicit — strong tool fit. Healthcare domain. Comp unknown. |
-| **Colorado Access** | BI Analyst II — Finance | Not listed | Colorado | [Built In Colorado](https://www.builtincolorado.com/job/business-intelligence-analyst-ii-finance/8509198) | ❌ Analyst II level (not Senior). Insurance/Medicaid. Below target scope. |
-
-*Not flagged: Ivanti Sr. BI Analyst (India-based — not eligible).*
+| Company | Role | Comp | Location | Fit |
+|---------|------|------|----------|-----|
+| **Charles Schwab** | Business Analytics Developer | Up to $136K | Unknown | ✅ Comp clears floor; fintech-adjacent; Power BI stack TBD |
+| **Openly** | Sr. Business Intelligence Analyst | Not listed | Remote, US | ⚠️ Multi-tool (Power BI + Tableau + Looker) |
+| **Connections Health Solutions** | Sr. BI Developer | Not listed | Fully Remote | ⚠️ Power BI + Tableau; healthcare vertical |
+| **Point C Health** | Senior Power BI Developer | Not listed | Remote, US | ✅ Power BI explicit; health-tech |
+| **SitusAMC** | Sr. BI Analyst | Not listed | Remote, US | ⚠️ Tableau primary — tool gap |
+| **Curana Health** | BI Analyst | Not listed | Unknown | ❌ Not Senior title; healthcare |
 
 ---
 
 ## Recommended Actions Today
 
-1. **No urgent job search action needed** — JP is employed at Crocs (Day 41, Saturday weekend).
-2. **Recruiter inbox** — Three apetan.com emails can be archived/deleted; generic agency spam with no relevant detail.
-3. **Clean up tracker** — Update the 7 "Ready to Apply" rows to `Withdrawn — Hired at Crocs` in job-tracker.csv when convenient (same recommendation as yesterday).
-4. **LinkedIn housekeeping** — If "Open to Work" is still showing on profile, remove it to reduce recruiter volume.
-5. **Consider scaling back this routine** — Daily runs are low-value post-hire. A Monday-only market pulse would reduce noise while keeping passive market awareness. Update the cron schedule if desired.
+1. **No urgent job search action needed** — JP is employed at Crocs (Day 42, Sunday).
+2. **Clean up tracker (when convenient)** — Update the 7 "Ready to Apply" rows to `Withdrawn — Hired at Crocs` in job-tracker.csv. Same recommendation as prior days; low urgency on weekend.
+3. **LinkedIn housekeeping** — Remove "Open to Work" banner if still active; you're receiving 6+ job alert emails per day. Reducing alert frequency would cut inbox noise significantly.
+4. **Consider scaling back this routine** — Daily runs are low-value post-hire. A Monday-only market pulse check would reduce noise while maintaining passive market awareness.
+5. **Fanatics Betting & Gaming** — Industry-flagged application (sports gambling) is still tracked as "Applied." Formally close this row as `Withdrawn — Hired at Crocs`.
 
 ---
 
-*Morning agent — 2026-07-11T07:30:00Z UTC*
-
----
-
-## Midday Update — 12:00 PM MDT
-
-### New Emails Since Morning
-
-No responses from tracked companies or direct recruiter outreach since 8 AM.
-
-| Sender | Subject | Summary |
-|--------|---------|---------|
-| jobalerts-noreply@linkedin.com | Business Intelligence (BI) Analyst at Curana Health | Automated LinkedIn job alert — Curana Health is a healthcare senior-living provider. Not relevant; JP is employed. |
-| crocsus@pr.crocsus.emailpowerreviews.com | Love your purchase? Share the love and write a review | Power Reviews prompt from Crocs brand — triggered by a recent purchase. Not job-related. |
-
-All other new mail (Carl's Jr, Gunfighters, Invader Concepts, Starbucks/PayPal, Chase statement, Nextdoor, Nintendo) is retail/personal — disregard.
-
-### New Leads Found Midday
-
-*Market awareness only — JP is employed at Crocs Day 41.*
-
-| Company | Role | Comp | Location | Link | Fit |
-|---------|------|------|----------|------|-----|
-| **Encora** | Senior BI Analyst (Power BI) | Not listed | Remote US | [Greenhouse](https://job-boards.greenhouse.io/encora10/jobs/5136634007) | ⚠️ Power BI + DAX + M Query + Tabular Modeling — strong tool match. Encora is a global IT/digital engineering services firm (consulting/staff aug probable). Not SaaS product. Comp unknown. |
-| **SimplePractice** | Business Intelligence Data Analyst | Not listed | Remote (CO listing) | [Built In CO](https://www.builtincolorado.com/job/business-intelligence-data-analyst/6767190) | ⚠️ Health/wellness SaaS (practitioner mgmt platform). Title not Senior. Tableau/Looker primary (Power BI secondary). 6+ yrs req — JP over-qualifies. Below target scope. |
-
-*Not flagged: Torc Robotics Sr BI Analyst (autonomous vehicles/defense-adjacent — industry gap). ISC Sr BI Analyst Workers Comp (insurance — below target scope).*
-
-### Afternoon Priority
-
-1. **No job search action needed** — JP is employed at Crocs (Day 41, Saturday).
-2. **LinkedIn housekeeping** — Remove "Open to Work" banner if still active to cut recruiter volume (same recommendation as morning).
-3. **Tracker cleanup** — 7 stale "Ready to Apply" rows still need status → `Withdrawn — Hired at Crocs`; low urgency on a weekend.
-
----
-
-*Midday agent — 2026-07-11T18:00:00Z UTC*
+*Morning agent — 2026-07-12T00:00:00 UTC*
