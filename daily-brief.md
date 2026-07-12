@@ -75,3 +75,37 @@ No action needed. Crocs offer accepted May 18, 2026. Prep files in `prep/` are c
 ---
 
 *Morning agent — 2026-07-12T00:00:00 UTC*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+One new LinkedIn job alert since 8 AM MDT; no recruiter outreach, no application responses, no Crocs-related employment communications.
+
+| Subject | Assessment |
+|---------|------------|
+| Business Data Analyst at Evlo AI (LinkedIn alert, 10:24 AM MDT) | ❌ Not Senior title; Evlo AI is an early-stage AI startup (Chicago area); role scope and location are mismatched — disregard |
+
+All other inbox activity was retail/lifestyle marketing (Total Wine, Boteboard, Overland Collective, MyFitnessPal, Nextdoor).
+
+### New Leads Found Midday
+*JP is employed at Crocs (Day 42). All leads are market awareness / contingency reference only.*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| **Jobgether** (via Lever) | Senior Power BI Developer | Not listed | Remote US | https://jobs.lever.co/jobgether/e05910b5-1c1b-456e-845c-f314d4d778f7 | ⚠️ Strong stack match (Power BI, Azure, Databricks, SQL); Jobgether is a recruiting marketplace — actual employer not disclosed in listing; worth monitoring for comp disclosure |
+| **Jobgether** (via Lever) | Lead BI Analyst (Adobe Analytics + Power BI) | Not listed | Remote US | https://jobs.lever.co/jobgether/7df4c1bd-dc18-46b5-a308-ffc9fd0758b2 | ⚠️ Lead title is senior enough; Adobe Analytics is a gap for JP; comp unknown |
+| **CareDx** | Senior Business Intelligence Analyst | Not listed (Brisbane CA base) | Brisbane CA (not confirmed remote) | https://job-boards.greenhouse.io/caredxinc/jobs/4242824009 | ❌ Healthcare vertical; multi-tool (Tableau+Power BI+Looker); likely not remote |
+| **StarRez** | Senior Business Intelligence Analyst | Not listed | Remote US | https://job-boards.greenhouse.io/starrez/jobs/5118067008 | ⚠️ Student housing SaaS — industry is acceptable; role details unconfirmed |
+
+No new leads clear all deal-breaker filters at senior level with confirmed Power BI focus and $115K+ comp this midday cycle.
+
+### Afternoon Priority
+1. **No job search action needed** — JP is employed at Crocs (Day 42, Sunday). Zero urgent tasks.
+2. **LinkedIn housekeeping** (carry-forward from morning) — Remove "Open to Work" banner if still active; LinkedIn job alert volume suggests the banner may still be on. Takes 2 minutes.
+3. **Jobgether Sr. Power BI Developer** — If JP is building a passive watchlist, this role has the strongest stack alignment seen today. Worth a bookmark to revisit if comp is ever disclosed or employer is revealed.
+
+---
+
+*Midday agent — 2026-07-12T18:00:00 UTC*
