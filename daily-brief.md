@@ -82,3 +82,35 @@ No action needed. Crocs offer accepted May 18, 2026. Prep files in `prep/` are a
 ---
 
 *Morning agent — 2026-07-13T06:30:00 UTC*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+No direct responses from any tracked company. No recruiter outreach. One new LinkedIn alert arrived at 10:24 AM MDT:
+
+- **Sr BI Analyst at Mizkan America** (Schaumburg, IL) — CPG/food company, on-site Illinois only. ❌ Not remote, not Colorado, not target industry. Disregard.
+
+LinkedIn digest also surfaced: BI Data Analyst at Motion (Birmingham, AL), BI Analyst at Electrolux (Charlotte, NC), eCommerce Business Analyst at Purple (Lehi, UT) — all off-target by location or title.
+
+**No actionable hiring activity in inbox.**
+
+### New Leads Found Midday
+*Market awareness only — JP is employed at Crocs (Day 43).*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| **Openly** | Sr Business Intelligence Analyst | Not listed | Remote US | https://boards.greenhouse.io/openly/jobs/4340737005 | ✅ Insurance/insuretech (acceptable industry); KPI dashboards + BI products; Power BI likely — worth bookmarking as contingency |
+| **StarRez** | Sr Business Intelligence Analyst | Not listed | Remote US | https://job-boards.greenhouse.io/starrez/jobs/5118067008 | ⚠️ Campus housing SaaS (B2B SaaS ✅); may be expired (March 2026 deadline noted); verify if still open |
+| **Point C** | Sr Power BI Developer | Not listed | Remote US | https://job-boards.greenhouse.io/pointc/jobs/5277259008 | ⚠️ Healthcare-focused BI; Power BI heavy (strong stack match); industry not preferred |
+
+*Trace3, Ivanti, StackAdapt (ad-tech ❌), SimplePractice (not senior), Datalere (junior/mid) also surfaced — all filtered out.*
+
+### Afternoon Priority
+1. **No action needed on job search** — JP is employed at Crocs, Day 43.
+2. **LinkedIn housekeeping (low urgency)** — Turn off job alerts to reduce inbox noise. Open to Work banner should be removed if still active.
+3. **Tracker cleanup (5 min)** — Mark the 15 stale "Ready to Apply" and open-application rows as `Withdrawn — Hired at Crocs`. Carry-forward from prior days.
+
+---
+*Midday agent — 2026-07-13T18:00:00 UTC*
