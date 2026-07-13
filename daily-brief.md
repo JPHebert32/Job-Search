@@ -97,15 +97,17 @@ LinkedIn digest also surfaced: BI Data Analyst at Motion (Birmingham, AL), BI An
 **No actionable hiring activity in inbox.**
 
 ### New Leads Found Midday
-*Market awareness only — JP is employed at Crocs (Day 43).*
+*Market awareness only — JP is employed at Crocs (Day 43). Bookmarks for contingency use only.*
 
 | Company | Role | Comp | Location | Link | Fit |
 |---------|------|------|----------|------|-----|
-| **Openly** | Sr Business Intelligence Analyst | Not listed | Remote US | https://boards.greenhouse.io/openly/jobs/4340737005 | ✅ Insurance/insuretech (acceptable industry); KPI dashboards + BI products; Power BI likely — worth bookmarking as contingency |
-| **StarRez** | Sr Business Intelligence Analyst | Not listed | Remote US | https://job-boards.greenhouse.io/starrez/jobs/5118067008 | ⚠️ Campus housing SaaS (B2B SaaS ✅); may be expired (March 2026 deadline noted); verify if still open |
-| **Point C** | Sr Power BI Developer | Not listed | Remote US | https://job-boards.greenhouse.io/pointc/jobs/5277259008 | ⚠️ Healthcare-focused BI; Power BI heavy (strong stack match); industry not preferred |
+| **J.D. Power** | Senior Analytics Engineer | Not listed (est $130K–$165K market) | Remote US | https://jdpa.wd501.myworkdayjobs.com/jdpower/job/remote-usa/senior-analytics-engineer_r-100400 | ✅ **Best find — posted this week.** Power BI + Snowflake + dbt explicitly in JD. Consumer data/market research (not excluded). Strong stack match. Title runs "Engineer" but scope is BI/dashboards. |
+| **Impact.com** | Senior Business Intelligence Analyst | Not listed (est $115K–$130K) | Remote US | https://job-boards.greenhouse.io/impact/jobs/8610782002 | ✅ Power BI explicit + dimensional modeling (Kimball). B2B SaaS / partnership marketing. Strong fit — verify comp on first contact. |
+| **ZoomInfo** | Senior BI Analyst, Product Analytics | $130K base / $133K–$178K total | Remote US | https://job-boards.greenhouse.io/zoominfo/jobs/8561605002 | ⚠️ Outstanding comp and B2B SaaS pedigree, but stack is Tableau/Looker/Sisense (no Power BI). Worth applying on comp alone — flag stack gap in cover note. |
+| **The Motley Fool** | Senior Business Intelligence Engineer | Not listed (est $120K–$145K) | Remote US | https://job-boards.greenhouse.io/themotleyfool/jobs/5108196007 | ⚠️ Power BI is one of the acceptable tools; stack also includes Snowflake + Databricks + dbt + Python (strong match). Posting ~3 weeks old. Engineer title skews toward pipelines. |
+| **Openly** | Senior Business Intelligence Analyst | Not listed | Remote US | https://boards.greenhouse.io/openly/jobs/4340737005 | ⚠️ Insurance/insuretech (acceptable industry); KPI dashboards + BI products. |
 
-*Trace3, Ivanti, StackAdapt (ad-tech ❌), SimplePractice (not senior), Datalere (junior/mid) also surfaced — all filtered out.*
+*Filtered out: ISC ($92K–$115K comp ceiling + workers comp insurance), StarRez (expired March 2026, uses Domo), OppFi ($71K–$107K — well below floor), StackAdapt (ad-tech ❌), SimplePractice (not senior), Datalere (junior/mid), Ivanti (India-based ❌).*
 
 ### Afternoon Priority
 1. **No action needed on job search** — JP is employed at Crocs, Day 43.
