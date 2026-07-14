@@ -80,3 +80,43 @@ No action needed. Crocs offer accepted May 18, 2026. Prep files in `prep/` are a
 ---
 
 *Morning agent — 2026-07-14T07:00:00 UTC*
+
+---
+
+## Midday Update — 12:00 MDT
+
+### New Emails Since Morning
+
+No application responses, recruiter outreach, or hiring-related emails received since the morning run.
+
+| Sender | Subject | Notes |
+|--------|---------|-------|
+| jobalerts-noreply@linkedin.com | "Senior Data Analyst at Care.com: up to $125K/year" | Automated LinkedIn alert only — no direct outreach. Care.com is a marketplace (acceptable industry); role is Data Analyst (not Sr. BI) at up to $125K. JP is employed — logging for awareness only. |
+| team@directlyapply.com | "Are you still looking for a job?" | Generic job-board marketing. No action. |
+
+**No actionable hiring activity since morning.**
+
+### New Leads Found Midday
+
+*Market awareness only — JP is employed at Crocs.*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| **The Predictive Index** | Sr. Business Intelligence Analyst — Product Analytics | Not listed | Remote US | https://boards.greenhouse.io/predictiveindex/jobs/5755049002 | ✅ B2B SaaS (HR/talent analytics), product analytics focus, remote — verify stack (Power BI vs Tableau) and comp before bookmarking |
+| **ChargePoint** | Senior Business Intelligence Analyst | Not listed | Remote (⚠️ verify — one source flags India remote) | https://job-boards.greenhouse.io/chargepoint/jobs/8415247002 | ⚠️ EV infrastructure B2B SaaS; stack includes Power BI/Tableau/Salesforce; verify US remote eligibility and comp before flagging as contingency |
+| **OppFi** | Senior Analyst, Business Intelligence | Not listed | Remote US (est.) | https://job-boards.greenhouse.io/opploans/jobs/7643812003 | ⚠️ Fintech lending — industry is acceptable; verify comp (surrounding market data suggests $94K–$100K range, potentially below $115K floor) |
+| **Nomad Health** | Sr. BI Analyst — Product Analytics | Not listed | Remote US | https://job-boards.greenhouse.io/nomadhealth/jobs/5357320004 | ⚠️ Healthcare staffing marketplace — healthcare industry flag; product analytics focus is strong match if industry acceptable |
+
+*Not repeated: MaintainX, Ivanti, CareDx, NeueHealth, Mutual of Omaha Mortgage (all in morning brief). J.D. Power, Impact.com, ZoomInfo (yesterday carry-forwards).*
+
+### Afternoon Priority
+
+*JP is employed at Crocs — Day 44 (Tuesday, in-office at Interlocken Broomfield).*
+
+1. **No job search action needed.** Search is closed.
+2. **LinkedIn cleanup (low urgency, 5 min)** — Remove "Open to Work" banner and pause stale company alerts (Gusto, Leprino, etc.) to reduce inbox noise. Carry-forward from morning brief.
+3. **Tracker cleanup (5 min)** — Mark all "Ready to Apply" and open-application rows as `Withdrawn — Hired at Crocs`. Still pending from multiple prior days.
+
+---
+
+*Midday agent — 2026-07-14T18:00:00 UTC*
