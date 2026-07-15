@@ -65,3 +65,39 @@ No active interviews. Crocs process is complete — **HIRED**. Prep files in `pr
 ---
 
 *Morning agent — 2026-07-15T06:00 UTC*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+| Sender | Subject | Summary |
+|--------|---------|---------|
+| Advanced Energy (automated) | New jobs posted from jobs.advanced-energy.com | Weekly talent-community digest — new postings include Sr Data Analyst Denver CO (same title JP applied to May 13), Sr Pricing Analyst, Sr Manager IT Audit, Sr Network Engineer. **Not an application status update.** No action needed. |
+| Saxon Global / Anmol Pratap Singh | ML Search Engineer \| W2 \| Remote | Cold recruiter outreach. Role: ML Search Engineer, Remote, $135K, W2. Requires Python/React/cloud-native/Elasticsearch/ML engineering — **not a BI/analyst role.** No match for JP. No response needed. |
+| LinkedIn (automated) | Business Intelligence Developer I, Google Cloud at Google | Automated job alert. Junior BI Developer at Google Cloud — not senior level. No action needed. |
+| LinkedIn (automated) | Senior Data Analyst – CRM at Signature Aviation | Automated job alert. CRM analytics scope, not core BI title. No action needed. |
+
+**No responses from any tracked company (Zillow, Shutterfly, Leprino, Machinify, Trimble, Advanced Energy, Hone Health).** No interview invitations or recruiter outreach for BI roles since morning run.
+
+### New Leads Found Midday
+
+*Passive awareness only — JP is employed at Crocs (Day 45).*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| Ivanti | Senior Business Intelligence Analyst | Unconfirmed (Ivanti avg pay below floor — verify) | Remote US | [Greenhouse](https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7660106003) | ⚠️ Power BI + DAX + semantic modeling explicit; posted March 2026 — verify still open |
+| ASSYST Inc | Senior Business Intelligence Analyst (AI, DW & Healthcare Analytics) | Unconfirmed | Unconfirmed | [Greenhouse](https://job-boards.greenhouse.io/assystinc/jobs/4307236009) | ⚠️ Healthcare industry + possible consulting/staffing; posted ~1 week ago — verify |
+| KeyBank | Data & BI Senior Associate | Unconfirmed | Unconfirmed | LinkedIn alert | ⚠️ Banking/fintech; "Senior Associate" title ambiguous — verify level and stack |
+
+> All leads above are unverified (403 blocks on direct pages). Details from search metadata only. Conga Sr BI Analyst posting confirmed India-based — excluded.
+
+### Afternoon Priority
+
+1. **No urgent job-search actions required** — JP is employed and in good standing at Crocs (Day 45, remote Wednesday). Passive monitoring only.
+2. **Optional cleanup** — Withdraw from Zillow (Req P749151 + P750075) and check Shutterfly portal if not already done (carryover from morning recommendations). Courteous while still fresh in their systems.
+3. **Disregard Saxon Global outreach** — ML Search Engineer role is a stack mismatch; no response needed.
+
+---
+*Midday agent — 2026-07-15T18:00 UTC*
