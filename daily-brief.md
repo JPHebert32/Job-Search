@@ -1,122 +1,67 @@
-# Job Search Brief — 2026-07-14 | Morning
+# Job Search Brief — 2026-07-15 | Morning
 
-> **STATUS: HIRED AT CROCS — Day 44 (Tuesday — in-office day, Interlocken Broomfield).** Sr. Business Intelligence Analyst, Broomfield CO (Hybrid Tue+Thu). Start June 2026. Up to $127K. Contact: Mike Gura (mgura@crocs.com). Job search is closed. This routine continues for pipeline record-keeping and passive market awareness.
+> **STATUS: HIRED AT CROCS — Day 45 (Wednesday — remote day).** Sr. Business Intelligence Analyst, Broomfield CO (Hybrid Tue+Thu). Start June 2026. Up to $127K. Contact: Mike Gura (mgura@crocs.com). Job search is closed. This routine continues for pipeline record-keeping and passive market awareness.
 
 ---
 
 ## Gmail — New Activity
 
-No application responses, interview invitations, or recruiter outreach received in the last 24 hours.
-
 | Company | Sender | Subject | Summary |
 |---------|--------|---------|---------|
-| Crocs | email@crocs-email.com | "Check out what people love about Crocs!" | **Marketing/retail email** — consumer product email, not HR or onboarding. No action needed. |
-| LinkedIn | jobalerts-noreply@linkedin.com | "JP: 7 new jobs" | Alert from saved Gusto company search. All 7 jobs are Sales Comp Analyst (Atlanta/Las Vegas/SF Bay Area), Expansion Account Manager (Chicago), Senior PM (NY), Enterprise AI Architect (Toronto). **None are BI/analytics roles** — irrelevant to JP's profile. Consider pausing Gusto company alert. |
+| LinkedIn (automated) | jobalerts-noreply@linkedin.com | JP: 9 new jobs | Automated job alert digest — top listing is "Gusto Benefits Onboarding Advocate." Not an application response. No action needed. |
 
-**No actionable hiring activity in inbox.**
+**No new application responses, recruiter outreach, or interview invitations received since yesterday.**
+No emails from Crocs, Leprino, Shutterfly, Zillow, Gusto, Machinify, EverPro, EverCommerce, or Kroenke in the last 24 hours.
 
 ---
 
 ## Pipeline — Action Required Today
 
-> JP is employed at Crocs. All "Ready to Apply" rows are stale from May 2026. Listed for archiving reference — no action needed on search activity.
+> All "Ready to Apply" entries below have **stale due dates from May 2026** — predating the Crocs hire. Listed for record-keeping completeness only.
 
-| Company | Role | Comp | Recommended Status Update |
-|---------|------|------|---------------------------|
-| EverCommerce (PaySimple) | Data Analyst Payments | $95K–$115K | → Withdrawn — Hired at Crocs |
-| Tilt Finance | Senior BI Analyst | Est $100K–$129K | → Withdrawn — Hired at Crocs |
-| Boulevard | Staff Data Analyst | $122.5K–$158.4K | → Withdrawn — Hired at Crocs |
-| Engine (Hotel Engine) | Sr. Revenue Insights Analyst | Est $139K–$189K | → Withdrawn — Hired at Crocs |
-| Mercer Advisors | Senior BI Analyst | Est $133K–$154K | → Withdrawn — Hired at Crocs |
-| Stellantis (Jeep) | Business & Data Analyst | ~$85K (white whale) | → Withdrawn — Hired at Crocs |
-| NMI | Product Data Analyst | $90K–$120K | → Withdrawn — Hired at Crocs |
-
-**Also still open in tracker (submitted applications, no final closure):**
-- Shutterfly — Applied; portal access confirmed May 7; no further response
-- Zillow Home Loans (P749151) — Applied; In Process as of Apr 28; no update
-- Zillow Preferred Strategy (P750075) — Applied; confirmed May 6; no update
-- Machinify — Applied via Greenhouse May 2026; no update
-- Trimble — Applied with Eric Robinson referral; no update
-- Advanced Energy — Applied via SuccessFactors May 13; no update
-- Hone Health — Applied via Greenhouse May 12; no update
-- Fanatics Betting & Gaming — Applied ~Apr 23 (⚠️ industry flag — sports gambling)
-
-*Recommend closing all of these as `Withdrawn — Hired at Crocs` in job-tracker.csv.*
+| Company | Role | Doc | Apply Via | Due (Stale) | Note |
+|---------|------|-----|-----------|-------------|------|
+| EverCommerce (PaySimple) | Data Analyst Payments | `EverCommerce_DataAnalystPayments_2026-05-07.docx` | Workday R-104002 | 2026-05-09 | Warm referral via Jodi Cohen. $95K–$115K. Stale — hired at Crocs. |
+| Tilt Finance | Sr. Business Intelligence Analyst | *(docs not built)* | Ashby | 2026-05-16 | Fintech. Comp unconfirmed. Stale. |
+| Boulevard | Staff Data Analyst | *(docs not built)* | Greenhouse | 2026-05-16 | $122.5K–$158.4K. Sigma (not Power BI). Stale. |
+| Engine (Hotel Engine) | Sr. Revenue Insights Analyst | *(docs not built)* | Greenhouse | 2026-05-16 | Looker primary. Stale. |
+| Mercer Advisors | Sr. BI Analyst | *(docs not built)* | Greenhouse | 2026-05-16 | Power BI + Azure Synapse. Est $133K–$154K. Stale. |
+| Stellantis (Jeep) | Business & Data Analyst | `Stellantis_BIAnalyst_2026-05-07.docx` | ADP (Job ID 2017348) | 2026-05-09 | White whale. Auburn Hills MI onsite. Stale. |
+| NMI | Product Data Analyst | *(docs not built)* | Greenhouse | 2026-05-15 | $90K–$120K fintech. Stale. |
 
 ---
 
 ## Interview Prep Reminder
 
-No action needed. Crocs offer accepted May 18, 2026. Prep files in `prep/` are archived and complete.
+No active interviews. Crocs process is complete — **HIRED**. Prep files in `prep/` are now historical reference.
 
 ---
 
-## New Leads Found (Market Awareness Only — JP Is Employed)
+## New Leads Found (Passive Market Awareness)
 
-*Note: Greenhouse job-board pages blocked direct fetch (403). Titles and stack confirmed from Google search index; comp and remote status require manual verification.*
+*Identified via web search. JP is employed — provided for passive awareness only.*
 
 | Company | Role | Comp | Location | Link | Fit |
 |---------|------|------|----------|------|-----|
-| **Ivanti** | Sr. Business Intelligence Analyst | Not listed | Remote (verify — yesterday's brief flagged India; recheck US eligibility) | https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7660106003 | ⚠️ Power BI explicit, 4+ yrs — strong if US-remote and comp ≥ $115K; was flagged as India-based yesterday |
-| **MaintainX** | Sr. Business Intelligence Analyst | Not listed | Remote US (est.) | https://job-boards.greenhouse.io/maintainx/jobs/4860372007 | ✅ B2B SaaS, carry-forward from yesterday — still strongest contingency lead |
-| **CareDx** | Sr. Business Intelligence Analyst | Not listed | Remote (verify) | https://job-boards.greenhouse.io/caredxinc/jobs/4242824009 | ⚠️ Power BI confirmed; healthcare industry (on JP's exclusion list — evaluate) |
-| **NeueHealth** | Sr. Business Intelligence Analyst | Not listed | Remote (verify) | https://job-boards.greenhouse.io/neuehealth/jobs/5765660004 | ⚠️ Healthcare industry (exclusion list); stack unverified |
-| **Mutual of Omaha Mortgage** | Sr. BI Reporting Analyst | Not listed | Remote US (est.) | *(Verify via company careers page)* | ⚠️ Power BI explicit per search snippet; fintech-adjacent; comp unknown |
+| Openly | Senior Business Intelligence Analyst | Unverified | Remote (US) | [Greenhouse](https://boards.greenhouse.io/openly/jobs/4340737005) | ⚠️ Site blocked — stack/comp unverified |
+| Encora | Senior BI Analyst (Power BI) | Unverified | Unconfirmed | [Greenhouse](https://job-boards.greenhouse.io/encora10/jobs/5136634007) | ⚠️ Power BI explicit — may be staffing/consulting |
+| Trace3 | Sr. BI Developer \| Power BI | Unverified | Remote | [Greenhouse](https://job-boards.greenhouse.io/trace3/jobs/7595018) | ⚠️ Prior Trace3 req was CLOSED — confirm if new |
+| StarRez | Senior Business Intelligence Analyst | Unverified | Unconfirmed | [Greenhouse](https://job-boards.greenhouse.io/starrez/jobs/5118067008) | ⚠️ Student housing SaaS — stack/comp unverified |
+| EverDriven Technologies | Business Intelligence Analyst | Unverified | Denver CO | [Built In CO](https://www.builtincolorado.com/job/business-intelligence-analyst/9311898) | ⚠️ Not Senior title — verify level |
+| SitusAMC | Senior Business Intelligence Analyst | Unverified | Remote (US) | [Built In CO](https://www.builtincolorado.com/job/senior-business-intelligence-analyst-tableau-remote-us/10116592) | ❌ Tableau primary |
 
-*Carry-forward high-priority contingency bookmarks from yesterday (verified): J.D. Power (Power BI + Snowflake), Impact.com (Power BI + Kimball), ZoomInfo ($130K base — Tableau/Looker stack gap).*
+> Note: Greenhouse.io and BuiltInColorado pages returned 403 errors — details above are from search metadata only.
 
 ---
 
 ## Recommended Actions Today
 
-*JP is employed at Crocs (Day 44 — Tuesday, in-office at Interlocken Broomfield today).*
-
-1. **No urgent job search action needed.**
-2. **LinkedIn housekeeping (low urgency)** — Remove "Open to Work" banner if still active; automated alerts generating daily inbox noise (Gusto alert today was 7 non-BI jobs). Pause or delete company-specific alerts for Gusto, Leprino, etc.
-3. **Clean up tracker (5 minutes)** — Mark the 7 "Ready to Apply" rows + 8 open applications as `Withdrawn — Hired at Crocs`. Carry-forward from multiple prior days.
-4. **Consider scaling back or stopping this morning routine** — Post-hire daily runs produce low-value output. A weekly market-awareness check would be more appropriate. If you want a weekly pulse, update the cron schedule accordingly.
-5. **Contingency bookmark** — MaintainX (Sr. BI Analyst, remote, B2B SaaS) remains the strongest new lead found this week. J.D. Power (Power BI + Snowflake) and Impact.com (Power BI, B2B SaaS) are yesterday's top two from the midday update. No action needed — saved for reference.
+1. **Clean up stale tracker rows** — mark Ready-to-Apply entries (EverCommerce, Tilt, Boulevard, Engine, Mercer, Stellantis, NMI) as "Withdrawn — Hired at Crocs" for a clean record.
+2. **Formally withdraw from Zillow** (Req P749151 and P750075, both "Applied — In Process") — a quick Workday withdrawal is courteous while JP is still fresh at Crocs.
+3. **Check Shutterfly portal** (shutterfly20.careerportal.me) and withdraw if still open.
+4. **Review Fanatics Betting & Gaming** — still shows "Applied" and is a flagged industry (sports gambling). Withdraw if not already done.
+5. **Passive watch**: Trace3 has posted a new Sr. BI Developer / Power BI role (prior req was CLOSED) — worth bookmarking for future reference.
 
 ---
 
-*Morning agent — 2026-07-14T07:00:00 UTC*
-
----
-
-## Midday Update — 12:00 MDT
-
-### New Emails Since Morning
-
-No application responses, recruiter outreach, or hiring-related emails received since the morning run.
-
-| Sender | Subject | Notes |
-|--------|---------|-------|
-| jobalerts-noreply@linkedin.com | "Senior Data Analyst at Care.com: up to $125K/year" | Automated LinkedIn alert only — no direct outreach. Care.com is a marketplace (acceptable industry); role is Data Analyst (not Sr. BI) at up to $125K. JP is employed — logging for awareness only. |
-| team@directlyapply.com | "Are you still looking for a job?" | Generic job-board marketing. No action. |
-
-**No actionable hiring activity since morning.**
-
-### New Leads Found Midday
-
-*Market awareness only — JP is employed at Crocs.*
-
-| Company | Role | Comp | Location | Link | Fit |
-|---------|------|------|----------|------|-----|
-| **The Predictive Index** | Sr. Business Intelligence Analyst — Product Analytics | Not listed | Remote US | https://boards.greenhouse.io/predictiveindex/jobs/5755049002 | ✅ B2B SaaS (HR/talent analytics), product analytics focus, remote — verify stack (Power BI vs Tableau) and comp before bookmarking |
-| **ChargePoint** | Senior Business Intelligence Analyst | Not listed | Remote (⚠️ verify — one source flags India remote) | https://job-boards.greenhouse.io/chargepoint/jobs/8415247002 | ⚠️ EV infrastructure B2B SaaS; stack includes Power BI/Tableau/Salesforce; verify US remote eligibility and comp before flagging as contingency |
-| **OppFi** | Senior Analyst, Business Intelligence | Not listed | Remote US (est.) | https://job-boards.greenhouse.io/opploans/jobs/7643812003 | ⚠️ Fintech lending — industry is acceptable; verify comp (surrounding market data suggests $94K–$100K range, potentially below $115K floor) |
-| **Nomad Health** | Sr. BI Analyst — Product Analytics | Not listed | Remote US | https://job-boards.greenhouse.io/nomadhealth/jobs/5357320004 | ⚠️ Healthcare staffing marketplace — healthcare industry flag; product analytics focus is strong match if industry acceptable |
-
-*Not repeated: MaintainX, Ivanti, CareDx, NeueHealth, Mutual of Omaha Mortgage (all in morning brief). J.D. Power, Impact.com, ZoomInfo (yesterday carry-forwards).*
-
-### Afternoon Priority
-
-*JP is employed at Crocs — Day 44 (Tuesday, in-office at Interlocken Broomfield).*
-
-1. **No job search action needed.** Search is closed.
-2. **LinkedIn cleanup (low urgency, 5 min)** — Remove "Open to Work" banner and pause stale company alerts (Gusto, Leprino, etc.) to reduce inbox noise. Carry-forward from morning brief.
-3. **Tracker cleanup (5 min)** — Mark all "Ready to Apply" and open-application rows as `Withdrawn — Hired at Crocs`. Still pending from multiple prior days.
-
----
-
-*Midday agent — 2026-07-14T18:00:00 UTC*
+*Morning agent — 2026-07-15T06:00 UTC*
