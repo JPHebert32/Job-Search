@@ -68,3 +68,35 @@ No active interviews. Crocs process is complete — **HIRED**. Prep files in `pr
 ---
 
 *Morning agent — 2026-07-16T06:00 UTC*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+| Company/Sender | From | Subject | Summary |
+|---|---|---|---|
+| People Integra (recruiter) | harshit.gupta@peopleintegra.com | "Job RWE Analyst is shared with you" | Cold recruiter outreach for Real World Evidence Analyst, Nashville TN (onsite). Not a BI role; not remote; not Colorado. Ignore. |
+| LinkedIn (notification) | notifications-noreply@linkedin.com | "You appeared in 18 searches" | Profile visibility alert — 18 searches this week. Passive signal; JP is employed. No action needed. |
+| LinkedIn (job alert) | jobalerts-noreply@linkedin.com | "Analyst, Customer Insights BI at KeHE Distributors" | LinkedIn job alert for a BI analyst role at KeHE (specialty/natural food distributor, B2B). Title is "Analyst" not Senior — comp likely below floor. Passive awareness only. |
+
+**No new responses from Zillow, Shutterfly, Machinify, Trimble, Advanced Energy, Hone Health, or any other tracked company.**
+
+### New Leads Found Midday
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| Jobgether (aggregator) | Sr. BI & Analytics Analyst | $135K–$145K | Remote US | [Lever](https://jobs.lever.co/jobgether/57f59af7-9024-4d85-b3a0-11bfde4dd064) | ✅ Strong comp. Databricks + AWS. Posted ~July 10. Underlying employer unknown (aggregator) — verify before bookmarking. |
+| Danaher | Senior BI Developer (Power BI) | Not listed | Remote US (est.) | [Workday R1313385](https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/Senior-BI-Developer--PowerBI-_R1313385) | ✅ Power BI explicit. Life sciences/diagnostics conglomerate. Comp TBD — verify range before flagging. |
+| DigitalOcean | Senior Business Intelligence Engineer | Not listed | Remote US | [Built In CO](https://www.builtincolorado.com/job/senior-business-intelligence-engineer/6832358) | ⚠️ B2B cloud/developer platform. Comp and stack (Power BI vs Looker/Mode) unconfirmed — verify before pursuing. |
+| KeHE Distributors | Analyst, Customer Insights BI | Not listed | Not listed | LinkedIn Alert (today) | ⚠️ B2B food distributor (not SaaS). Title is "Analyst" not Senior — likely below $115K floor. Confirm comp and seniority before adding to pipeline. |
+
+### Afternoon Priority
+
+1. **No urgent actions** — JP is at Crocs (Day 46, in-office Thursday at Interlocken, Broomfield). Job search is closed.
+2. **Passive bookmark** — Jobgether Sr. BI ($135K–$145K) is the strongest new lead surfaced today; click through to confirm underlying employer if market re-entry is ever needed.
+3. **Carryover** — Zillow Workday withdrawal (P749151 + P750075) remains open housekeeping.
+
+---
+*Midday agent — 2026-07-16T18:00 UTC*
