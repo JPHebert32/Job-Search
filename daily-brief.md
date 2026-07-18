@@ -1,20 +1,20 @@
-# Job Search Brief — 2026-07-17 | Morning
+# Job Search Brief — 2026-07-18 | Morning
 
-> **STATUS: HIRED AT CROCS — Day 47 (Friday — remote day).** Sr. Business Intelligence Analyst, Broomfield CO (Hybrid Tue+Thu at Interlocken). Start June 2026. Up to $127K. Contact: Mike Gura (mgura@crocs.com). Job search is closed. This routine continues for pipeline record-keeping and passive market awareness.
+> **STATUS: HIRED AT CROCS — Day 48 (Saturday).** Sr. Business Intelligence Analyst, Broomfield CO (Hybrid Tue+Thu at Interlocken). Start June 2026. Up to $127K. Contact: Mike Gura (mgura@crocs.com). Job search is closed. This routine continues for pipeline record-keeping and passive market awareness.
 
 ---
 
 ## Gmail — New Activity
 
+No new application responses or recruiter outreach in the last 24 hours.
+
 | Company/Sender | From | Subject | Summary |
 |---|---|---|---|
-| People Integra (Recruiter) | harshit.gupta@peopleintegra.com | "Job RWE Analyst is shared with you" | Cold recruiter outreach (carried from yesterday). Contract role: RWE Analyst, Nashville TN (remote). Requires 6+ yrs healthcare analytics with SAS/R. ❌ Not a fit — wrong domain, wrong tools, contract only. No action needed. |
-| LinkedIn Job Alert | jobalerts-noreply@linkedin.com | "Power BI/Python Developer at Deloitte" | Automated job alert. Consulting role at Deloitte combining Power BI + Python. Details behind LinkedIn login. Passive awareness only — JP is employed. |
-| LinkedIn Job Alert | jobalerts-noreply@linkedin.com | "Analyst, Customer Insights BI at KeHE Distributors" | Automated job alert. BI analyst at KeHE (specialty food distributor). Non-SaaS industry; title suggests below senior level. Passive awareness only. |
-| LinkedIn Notification | notifications-noreply@linkedin.com | "You appeared in 18 searches" | Profile viewed 18 times recently. Strong visibility signal — relevant even post-hire. |
-| Crocs (retail) | email@crocs-email.com | "We think you'll love these..." | Promotional/marketing email from Crocs consumer team. Not HR. No action. |
+| LinkedIn Job Alert | jobalerts-noreply@linkedin.com | "Walker & Dunlop is hiring for a Remote role" | Automated job alert. Generic — not targeted outreach. Passive awareness only. |
+| Vail Resorts | recruiting@vailresorts.com | "Now hiring for next winter ⛷❄️" | Mass seasonal hiring email for winter 2026/27. Not relevant. |
+| Sled Hockey Camp (personal) | Sled@hendricksonfoundation.com | BWSC Camp logistics | Organizer Tony followed up on Knox's camp registration. JP confirmed on Jul 15: *"I recently started a new position and am unable to get the week off"* — will drop off Knox only. |
 
-**No new responses received from any tracked pipeline company** (Zillow, Shutterfly, Machinify, Trimble, Advanced Energy, Hone Health).
+**No new responses from any tracked pipeline company** (Zillow, Shutterfly, Machinify, Trimble, Advanced Energy, Hone Health).
 
 ---
 
@@ -46,24 +46,23 @@ No active interviews. Crocs process is complete — **HIRED**. Prep files in `pr
 
 | Company | Role | Comp | Location | Source | Fit |
 |---------|------|------|----------|--------|-----|
-| StarRez | Sr. Business Intelligence Analyst | Not confirmed | Remote US | Greenhouse | ⚠️ BI/data warehouse focus; tools unconfirmed — verify Power BI use before bookmarking |
-| Remote.com | Sr. Treasury Business Intelligence Analyst | Not confirmed | Remote (global) | Greenhouse | ⚠️ Finance/treasury analytics; tools unconfirmed |
-| OppFi | Sr. Business Intelligence Analyst | Not confirmed | Remote (est.) | Greenhouse | ⚠️ Fintech (lending); stack unconfirmed |
-| Deloitte | Power BI/Python Developer | Not confirmed | Not confirmed | LinkedIn Alert | ⚠️ Consulting role; Power BI explicit — review if JP ever re-enters market |
-| KeHE Distributors | Analyst, Customer Insights BI | Not confirmed | Not confirmed | LinkedIn Alert | ❌ Food/beverage distributor (non-SaaS); likely below senior level and comp floor |
+| Enverus | Sr. BI Analyst, Revenue Operations | $115K–$125K + bonus | Denver CO | Built In Colorado | ✅ Power BI explicit, clears comp floor, Denver metro, B2B energy SaaS — top bookmark |
+| Ivanti | Sr. Business Intelligence Analyst | Not listed | Remote US | Greenhouse | ✅ Remote, Power BI 4+ yrs required, flexible schedule |
+| CommerceHub | Sr. Business Intelligence Data Analyst | Not listed | Remote | Greenhouse | ⚠️ Verify comp, Power BI stack, and remote eligibility before bookmarking |
+| MaintainX | Sr. Business Intelligence Analyst | Not listed | Montreal / Raleigh / Toronto | Greenhouse | ❌ No US-remote option listed |
 
-*Bookmarks from prior days still active: Jobgether Sr. BI ($135K–$145K remote), Danaher Sr. BI Developer (Power BI), DigitalOcean Sr. BI Engineer — verify these if re-entry needed.*
+*Carryover bookmarks still active from prior days: Jobgether Sr. BI ($135K–$145K remote), Danaher Sr. BI Developer (Power BI), DigitalOcean Sr. BI Engineer.*
 
 ---
 
 ## Recommended Actions Today
 
-1. **No urgent job-search actions required** — JP is employed at Crocs (Day 47, remote Friday). Passive monitoring only.
-2. **Optional housekeeping**: Send brief courtesy emails to withdraw from Zillow Workday (P749151 + P750075) and any other portals still showing "In Process."
+1. **No urgent job-search actions required** — JP is employed at Crocs (weekend). Passive monitoring only.
+2. **Consider pausing this automation** — The search has been complete since May 18. All pipeline entries are resolved. Reducing noise is reasonable unless passive market-watching is intentional.
 3. **Optional**: Drop a short closing note to Jodi Cohen (jcohen@evercommerce.com, 303-981-5543) to thank her and close the EverCommerce referral loop professionally.
-4. **Ignore People Integra recruiter** — RWE Analyst contract role is a clear mismatch. No reply needed.
-5. **Carryover bookmark**: ISC (Power BI + Snowflake, insurance), MaintainX (B2B SaaS remote), and the Jobgether aggregator listing remain the top passive leads if Crocs doesn't work out long-term.
+4. **Optional housekeeping**: Withdraw from Zillow Workday portals (P749151 + P750075) still showing "In Process" — closes the loop cleanly.
+5. **Bookmark Enverus** — $115–125K + bonus, Denver metro, Power BI, B2B SaaS — best passive lead surfaced this week if ever re-entering the market.
 
 ---
 
-*Morning agent — 2026-07-17T00:00:00 UTC*
+*Morning agent — 2026-07-18T06:00:00 UTC*
