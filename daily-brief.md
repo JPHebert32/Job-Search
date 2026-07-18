@@ -66,3 +66,28 @@ No active interviews. Crocs process is complete — **HIRED**. Prep files in `pr
 ---
 
 *Morning agent — 2026-07-18T06:00:00 UTC*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+No actionable emails since the morning run. One LinkedIn job alert arrived at 10:24 AM MDT ("Senior Data Analyst at Boost Mobile") — automated alert only, not targeted recruiter outreach. No application responses from any pipeline company.
+
+### New Leads Found Midday
+
+No new leads beyond this morning's brief. Midday search confirmed the **Enverus Sr. BI Analyst, Revenue Operations** ($115K–$125K + bonus, Denver CO, Power BI + Snowflake) is still active on Built In Colorado — remains the top passive bookmark from the morning run. No other new senior BI / Power BI postings surfaced that weren't already in today's brief.
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| *(no new leads)* | — | — | — | — | — |
+
+### Afternoon Priority
+
+1. **No urgent actions** — JP is employed at Crocs (Day 48, Saturday). Passive monitoring only; no job-search action required.
+2. **Optional**: Withdraw from Zillow Workday portals (P749151 + P750075) still showing "In Process" — closes the loop cleanly if JP hasn't done so yet.
+3. **Optional**: Drop a brief closing note to Jodi Cohen (jcohen@evercommerce.com) to thank her for the EverCommerce referral — keeps the network warm.
+
+---
+*Midday agent — 2026-07-18T18:00:00 UTC*
