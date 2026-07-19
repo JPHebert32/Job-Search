@@ -65,3 +65,39 @@ No active interviews. Crocs process is complete — **HIRED**. Prep files in `pr
 ---
 
 *Morning agent — 2026-07-19T06:00:00 UTC*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+No recruiter outreach or employer responses from any tracked company since the morning run.
+
+| Sender | Subject | Time (UTC) | Notes |
+|--------|---------|-----------|-------|
+| jobalerts@linkedin.com | "Sr. Product Analyst, Omni at Engine" | 16:24 | LinkedIn job alert — Engine Denver CO. New role at already-tracked company (Revenue Insights Analyst was Ready to Apply). Looker primary — passive awareness only. |
+| jobalerts@linkedin.com | "Data Scientist at Mazda North American Operations" | 18:24 | Job alert — Data Scientist title, not BI. Not actionable. |
+| info@eml.upstart.com | "Two years, one big accomplishment." | 14:11 | Personal — Upstart loan payment milestone. Not job-related. |
+
+**Unread LinkedIn alert from Jul 18 (not caught by morning agent):** "Senior BI Analyst at Walker & Dunlop" — LinkedIn flagged JP as a "Top applicant." Also included in that digest: Sr. Analyst Business Intelligence at Viral Nation (ad-tech — excluded), Senior Business Intelligence Analyst at Fractal (analytics consulting — see Leads below).
+
+### New Leads Found Midday
+
+*All passive awareness — JP is employed at Crocs (Day 49).*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| SitusAMC | Senior BI Analyst (Tableau) | $100K–$150K | Remote US | [Built In Colorado](https://www.builtincolorado.com/job/senior-business-intelligence-analyst-tableau-remote-us/10116592) | ⚠️ Comp clears floor, remote, financial services (mortgage data). Tableau-first stack vs. JP's Power BI depth — gap to flag if ever pursuing. |
+| Walker & Dunlop | Senior BI Analyst | Not listed | Remote US | [LinkedIn #4423012461](https://www.linkedin.com/jobs/view/4423012461/) | ⚠️ Commercial real estate finance (CRE). LinkedIn flagged JP as "Top applicant." Comp and stack unconfirmed — passive bookmark only. |
+| Fractal | Senior Business Intelligence Analyst | Not listed | Remote US | [LinkedIn #4441114378](https://www.linkedin.com/jobs/view/4441114378/) | ⚠️ Analytics/AI consulting firm. Comp and stack unconfirmed. Consulting model may not suit JP's preference for in-house BI ownership. |
+| Engine | Sr. Product Analyst, Omni | Not listed | Denver CO | [LinkedIn #4433886305](https://www.linkedin.com/jobs/view/4433886305/) | ❌ Engine already in tracker (Ready to Apply, Looker primary). This is a different role but same Looker gap — Denver only (not remote). Low priority. |
+
+### Afternoon Priority
+
+1. **No action required** — JP is employed at Crocs (Day 49, Sunday). Zero pipeline urgency.
+2. **Passive bookmark:** SitusAMC ($100–$150K, remote, financial services) is the cleanest new addition this week — note the Tableau-vs-Power BI gap if ever revisiting.
+3. **Consider pausing automation** — Search has been closed since May 18. Two months in, passive monitoring is generating noise (LinkedIn alerts, zero recruiter outreach). Worthwhile to discuss whether to scale back frequency.
+
+---
+*Midday agent — 2026-07-19T18:00:00 UTC*
