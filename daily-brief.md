@@ -1,18 +1,17 @@
-# Job Search Brief — 2026-07-18 | Morning
+# Job Search Brief — 2026-07-19 | Morning
 
-> **STATUS: HIRED AT CROCS — Day 48 (Saturday).** Sr. Business Intelligence Analyst, Broomfield CO (Hybrid Tue+Thu at Interlocken). Start June 2026. Up to $127K. Contact: Mike Gura (mgura@crocs.com). Job search is closed. This routine continues for pipeline record-keeping and passive market awareness.
+> **STATUS: HIRED AT CROCS — Day 49 (Sunday).** Sr. Business Intelligence Analyst, Broomfield CO (Hybrid Tue+Thu at Interlocken). Start June 2026. Up to $127K. Contact: Mike Gura (mgura@crocs.com). Job search is closed. This routine continues for pipeline record-keeping and passive market awareness.
 
 ---
 
 ## Gmail — New Activity
 
-No new application responses or recruiter outreach in the last 24 hours.
+No recruiter emails, application responses, or hiring manager outreach in the last 24 hours.
 
 | Company/Sender | From | Subject | Summary |
 |---|---|---|---|
-| LinkedIn Job Alert | jobalerts-noreply@linkedin.com | "Walker & Dunlop is hiring for a Remote role" | Automated job alert. Generic — not targeted outreach. Passive awareness only. |
-| Vail Resorts | recruiting@vailresorts.com | "Now hiring for next winter ⛷❄️" | Mass seasonal hiring email for winter 2026/27. Not relevant. |
-| Sled Hockey Camp (personal) | Sled@hendricksonfoundation.com | BWSC Camp logistics | Organizer Tony followed up on Knox's camp registration. JP confirmed on Jul 15: *"I recently started a new position and am unable to get the week off"* — will drop off Knox only. |
+| LinkedIn Job Alert | jobalerts-noreply@linkedin.com | "JP: 9 new jobs" (Jul 19, 2:24 AM) | Digest triggered by saved company alert. All 6 visible listings are Gusto roles: Staff Software Engineer (PEO Benefits), Retirement Advocate, Head of Client Experience, Staff Software Engineer (Pricing), Senior Staff Software Engineer (Money Group). None are BI/analytics titles. Not actionable. |
+| LinkedIn Job Alert | jobalerts-noreply@linkedin.com | "JP: 9 new jobs" (Jul 18, 4:25 AM) | Same alert cadence, Gusto-heavy — Senior Product Manager Tax Payments, similar software/product roles. Not actionable. |
 
 **No new responses from any tracked pipeline company** (Zillow, Shutterfly, Machinify, Trimble, Advanced Energy, Hone Health).
 
@@ -42,52 +41,27 @@ No active interviews. Crocs process is complete — **HIRED**. Prep files in `pr
 
 ## New Leads Found (Passive Market Awareness)
 
-*JP is employed at Crocs — all leads below are passive awareness only. Greenhouse pages returned 403 on direct fetch; details from search metadata.*
+*JP is employed at Crocs — all leads below are passive awareness only.*
 
 | Company | Role | Comp | Location | Source | Fit |
 |---------|------|------|----------|--------|-----|
-| Enverus | Sr. BI Analyst, Revenue Operations | $115K–$125K + bonus | Denver CO | Built In Colorado | ✅ Power BI explicit, clears comp floor, Denver metro, B2B energy SaaS — top bookmark |
-| Ivanti | Sr. Business Intelligence Analyst | Not listed | Remote US | Greenhouse | ✅ Remote, Power BI 4+ yrs required, flexible schedule |
-| CommerceHub | Sr. Business Intelligence Data Analyst | Not listed | Remote | Greenhouse | ⚠️ Verify comp, Power BI stack, and remote eligibility before bookmarking |
-| MaintainX | Sr. Business Intelligence Analyst | Not listed | Montreal / Raleigh / Toronto | Greenhouse | ❌ No US-remote option listed |
+| Enverus | Sr. BI Analyst, Revenue Operations | $115K–$125K + bonus | Denver CO (Built In CO) | [Built In Colorado](https://www.builtincolorado.com/job/senior-business-intelligence-analyst-revenue-operations-24478dd/189684) | ✅ Power BI, clears comp floor, Denver metro, B2B energy SaaS — **carryover top bookmark** |
+| Integrated Specialty Coverages | Sr. BI Analyst (Workers Comp) | Not listed | Remote US | [Greenhouse](https://job-boards.greenhouse.io/isccareers/jobs/4673045005) | ⚠️ Power BI + Snowflake match but insurance/workers comp — not preferred industry |
+| OppFi | Sr. Analyst, Business Intelligence | Not listed | Remote | [Greenhouse](https://job-boards.greenhouse.io/opploans/jobs/7643812003) | ⚠️ Fintech (acceptable), lending/consumer credit — verify comp before bookmarking |
+| Trace3 | Sr. Data Analyst \| BI | Not listed | Remote | Greenhouse | ❌ Already confirmed CLOSED in tracker (Feb 26, 2026) — ignore |
 
-*Carryover bookmarks still active from prior days: Jobgether Sr. BI ($135K–$145K remote), Danaher Sr. BI Developer (Power BI), DigitalOcean Sr. BI Engineer.*
+*Carryover bookmarks from prior days: Enverus (top), Ivanti Sr. BI (Remote/Power BI), DigitalOcean Sr. BI Engineer.*
 
 ---
 
 ## Recommended Actions Today
 
-1. **No urgent job-search actions required** — JP is employed at Crocs (weekend). Passive monitoring only.
-2. **Consider pausing this automation** — The search has been complete since May 18. All pipeline entries are resolved. Reducing noise is reasonable unless passive market-watching is intentional.
-3. **Optional**: Drop a short closing note to Jodi Cohen (jcohen@evercommerce.com, 303-981-5543) to thank her and close the EverCommerce referral loop professionally.
-4. **Optional housekeeping**: Withdraw from Zillow Workday portals (P749151 + P750075) still showing "In Process" — closes the loop cleanly.
-5. **Bookmark Enverus** — $115–125K + bonus, Denver metro, Power BI, B2B SaaS — best passive lead surfaced this week if ever re-entering the market.
+1. **No urgent job-search actions required** — JP is employed at Crocs (Day 49, Sunday). Passive monitoring only.
+2. **Optional**: Withdraw from Zillow Workday portals (P749151 + P750075) still showing "In Process" — closes the loop cleanly if not already done.
+3. **Optional**: Send a closing note to Jodi Cohen (jcohen@evercommerce.com, 303-981-5543) to thank her for the EverCommerce referral and let her know JP landed at Crocs — keeps the network warm.
+4. **Bookmark Enverus** (carryover) — $115–$125K + bonus, Denver metro, Power BI + Snowflake — best passive lead if ever re-entering the market.
+5. **Consider pausing this automation** — Search has been closed since May 18. Unless passive market-watching is intentional, reducing noise is reasonable.
 
 ---
 
-*Morning agent — 2026-07-18T06:00:00 UTC*
-
----
-
-## Midday Update — 12:00 PM MDT
-
-### New Emails Since Morning
-
-No actionable emails since the morning run. One LinkedIn job alert arrived at 10:24 AM MDT ("Senior Data Analyst at Boost Mobile") — automated alert only, not targeted recruiter outreach. No application responses from any pipeline company.
-
-### New Leads Found Midday
-
-No new leads beyond this morning's brief. Midday search confirmed the **Enverus Sr. BI Analyst, Revenue Operations** ($115K–$125K + bonus, Denver CO, Power BI + Snowflake) is still active on Built In Colorado — remains the top passive bookmark from the morning run. No other new senior BI / Power BI postings surfaced that weren't already in today's brief.
-
-| Company | Role | Comp | Location | Link | Fit |
-|---------|------|------|----------|------|-----|
-| *(no new leads)* | — | — | — | — | — |
-
-### Afternoon Priority
-
-1. **No urgent actions** — JP is employed at Crocs (Day 48, Saturday). Passive monitoring only; no job-search action required.
-2. **Optional**: Withdraw from Zillow Workday portals (P749151 + P750075) still showing "In Process" — closes the loop cleanly if JP hasn't done so yet.
-3. **Optional**: Drop a brief closing note to Jodi Cohen (jcohen@evercommerce.com) to thank her for the EverCommerce referral — keeps the network warm.
-
----
-*Midday agent — 2026-07-18T18:00:00 UTC*
+*Morning agent — 2026-07-19T06:00:00 UTC*
