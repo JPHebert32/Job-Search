@@ -101,3 +101,44 @@ No recruiter outreach or employer responses from any tracked company since the m
 
 ---
 *Midday agent — 2026-07-19T18:00:00 UTC*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+> **STATUS: HIRED AT CROCS — Day 63 (Monday).** Passive monitoring only. No morning brief was written for Jul 20 — this midday covers overnight + today.
+
+### New Emails Since Yesterday Midday
+
+No recruiter outreach, application responses, or hiring-manager contact from any tracked company.
+
+| Sender | Subject | Time (UTC) | Notes |
+|--------|---------|-----------|-------|
+| LinkedIn Job Alert | "Business Intelligence Data & Reporting Analyst at Connect for Health Colorado" | Jul 20, 02:37 | Colorado state health insurance marketplace. BI title, Colorado-based. See Leads. |
+| LinkedIn Job Alert | "Senior Analyst - Performance Hub (Data) at KPMG US" | Jul 20, 02:01 | Consulting firm. Not a fit for JP's in-house BI preference. |
+| LinkedIn Job Alert | "Business Intelligence Analyst at Alpine Bank" | Jul 19, 22:24 | Colorado community bank. Title is not Senior; comp likely below floor. Low priority. |
+| LinkedIn Job Alert | "Business Intelligence Analyst at T-Mobile" | Jul 19, 20:24 | Telecom. Title is not Senior. Low priority. |
+| LinkedIn Job Alert | "Data Analyst at Evlo AI" | Jul 20, 16:24 | Data Analyst title, not BI/Senior. AI startup. Not actionable. |
+| LinkedIn Job Alert | "JP: 22 new jobs" | Jul 20, 00:24 | Digest — leading entry is Gusto Product Designer. No visible BI/analytics titles. |
+| Notifications (personal) | Nest cooling system alert, Southwest sale, Nextdoor, BWSC sports update | Jul 19–20 | Personal. Not job-related. |
+
+### New Leads Found Midday
+
+*All passive awareness — JP is employed at Crocs (Day 63).*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| Graham Healthcare Group | Senior Power BI Developer | Not listed | Remote US | [Built In Colorado](https://www.builtincolorado.com/job/senior-power-bi-developer/4623208) | ⚠️ Power BI explicit + remote = strong stack match. Healthcare industry (not preferred). Comp unconfirmed. Best new lead today for passive bookmarking. |
+| Connect for Health Colorado | BI Data & Reporting Analyst | Not listed | Colorado (likely hybrid) | LinkedIn alert | ⚠️ State health insurance marketplace — quasi-government/nonprofit, not preferred industry. Colorado-based. Title not "Senior." Low priority. |
+| StackAdapt | Senior Data Analyst, Business Intelligence | Not listed | Remote US | [Greenhouse](https://job-boards.greenhouse.io/stackadapt/jobs/4297633009) | ❌ Ad-tech — excluded industry. Do not pursue. |
+
+*Carryover bookmarks: Enverus Sr. BI Analyst ($115–$125K + bonus, Denver, Power BI + Snowflake) remains top passive lead.*
+
+### Afternoon Priority
+
+1. **No action required** — JP is employed at Crocs (Day 63, Monday). Zero pipeline urgency.
+2. **Graham Healthcare Group** is the cleanest new passive bookmark today — Senior Power BI Developer, fully remote, Power BI explicit. Worth a comp check if ever re-entering the market (healthcare industry is a gap, but role scope is strong).
+3. **Consider pausing this automation** — Nine weeks post-hire with no recruiter outreach and only LinkedIn digest noise. Passive monitoring is generating diminishing signal. JP may want to reduce to weekly or disable.
+
+---
+*Midday agent — 2026-07-20T18:00:00 UTC*
