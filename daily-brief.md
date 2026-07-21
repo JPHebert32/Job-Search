@@ -142,3 +142,78 @@ No recruiter outreach, application responses, or hiring-manager contact from any
 
 ---
 *Midday agent — 2026-07-20T18:00:00 UTC*
+
+---
+
+# Job Search Brief — 2026-07-21 | Morning
+
+> **STATUS: HIRED AT CROCS — Day 65 (Tuesday).** Sr. Business Intelligence Analyst, Broomfield CO (Hybrid Tue+Thu at Interlocken). Start June 2026. Up to $127K. Contact: Mike Gura (mgura@crocs.com). Job search is closed. This routine continues for pipeline record-keeping and passive market awareness.
+
+---
+
+## Gmail — New Activity
+
+No recruiter outreach, application responses, or hiring-manager contact from any tracked company in the last 24 hours.
+
+| Sender | Subject | Time (UTC) | Notes |
+|--------|---------|-----------|-------|
+| email@crocs-email.com | "5-Star Comfort. Built for the Rush." | Jul 20, 16:51 | **Marketing email** — Crocs at Work™ product promo. Not HR. |
+| email@crocs-email.com | "You + 15% off these styles..." | Jul 20, 11:01 | **Marketing email** — retail discount promo. Not HR. |
+| noreply@dailypay.com | (DailyPay notification) | Jul 20, 16:01 | DailyPay earned wage access — consistent with Crocs employment (Crocs uses DailyPay). |
+| messages-noreply@linkedin.com | "JP, add Azan Sarosh" | Jul 21, 10:24 | LinkedIn connection request — Azan Sarosh, **Product Insights Lead at T-Mobile**. JP's former employer. Likely T-Life team or adjacent. Worth accepting to maintain network. |
+| jobalerts-noreply@linkedin.com | "JP: 11 new jobs" | Jul 21, 02:24 | LinkedIn job digest — leading entry is Gusto Application Systems Engineering Manager. No BI/analytics titles visible in snippet. |
+| jobalerts-noreply@linkedin.com | "Field Sales Operations Analyst, WWPS Partners at AWS" | Jul 21, 02:01 | LinkedIn alert — Sales Ops scope, not BI. Not actionable. |
+| jobs-noreply@linkedin.com | "MoneyGram is hiring for a Fintech role" | Jul 20, 20:13 | LinkedIn job feature — role title unspecified. Fintech (acceptable industry). Title/comp unconfirmed. Low priority passive note. |
+
+**No new responses from Zillow, Shutterfly, Machinify, Trimble, Advanced Energy, or Hone Health.**
+
+---
+
+## Pipeline — Action Required Today
+
+> All `Ready to Apply` rows carry stale May 2026 due dates — predating the Crocs hire. No application action required. Included for cleanup reference only.
+
+| Company | Role | Doc | Apply Via | Note |
+|---|---|---|---|---|
+| EverCommerce (PaySimple) | Data Analyst – Payments | `EverCommerce_DataAnalystPayments_2026-05-07.docx` | Workday R-104002 | Stale — warm Jodi Cohen referral; consider a brief thank-you/closing note |
+| Tilt Finance | Sr. Business Intelligence Analyst | *(docs not built)* | Ashby | Stale — fintech, comp unconfirmed |
+| Boulevard | Staff Data Analyst | *(docs not built)* | Greenhouse | Stale — $122.5K–$158.4K, Sigma primary |
+| Engine (Hotel Engine) | Sr. Revenue Insights Analyst | *(docs not built)* | Greenhouse | Stale — Looker primary; Engine also in Jul 19 LinkedIn alerts |
+| Mercer Advisors | Sr. BI Analyst | *(docs not built)* | Greenhouse | Stale — Power BI + Azure Synapse, est $133K–$154K |
+| NMI | Product Data Analyst | *(docs not built)* | Greenhouse | Stale — fintech, $90–$120K borderline |
+| Stellantis (Jeep) | Business & Data Analyst | `Stellantis_BIAnalyst_2026-05-07.docx` | ADP Job ID 2017348 | Stale — white whale, onsite Auburn Hills MI |
+
+---
+
+## Interview Prep Reminder
+
+No active interviews. Crocs process is complete — **HIRED**. Prep files in `prep/` are historical reference.
+
+---
+
+## New Leads Found (Passive Market Awareness)
+
+*JP is employed at Crocs — all leads below are passive awareness only. Greenhouse and Built In Colorado return 403 for direct fetch; leads sourced from web search results and LinkedIn alert snippets.*
+
+| Company | Role | Comp | Location | Link | Fit | Notes |
+|---|---|---|---|---|---|---|
+| MaintainX | Sr. Business Intelligence (BI) Analyst | Est. $115K–$145K | Remote US | [Greenhouse](https://job-boards.greenhouse.io/maintainx/jobs/4860372007) | ✅ | B2B SaaS (ops mgmt platform). Power BI likely. Full details blocked — worth a manual check. |
+| CommerceHub | Sr. Business Intelligence Data Analyst | Not listed | Boston / Remote | [Greenhouse](https://boards.greenhouse.io/commercehub/jobs/4577734) | ⚠️ | E-commerce marketplace — fits industry profile. Remote possible. Comp unconfirmed. |
+| NeueHealth | Sr. Business Intelligence Analyst | Not listed | Remote (unconfirmed) | [Greenhouse](https://job-boards.greenhouse.io/neuehealth/jobs/5765660004) | ⚠️ | Power BI confirmed per search snippet. Healthcare payer — borderline industry. Verify comp + remote. |
+| T-Mobile | Business Intelligence Analyst | Est. $85K–$130K | Remote | LinkedIn alert (Jul 19) | ⚠️ | JP's former employer — T-Life deep context advantage. Title may not be "Senior." Monitor if re-entering market. |
+
+*Carryover bookmarks from prior days: Enverus Sr. BI Analyst ($115–$125K + bonus, Denver, Power BI + Snowflake), Graham Healthcare Group Sr. Power BI Developer (remote, Power BI explicit).*
+
+---
+
+## Recommended Actions Today
+
+1. **Accept Azan Sarosh's LinkedIn connection** (Product Insights Lead at T-Mobile, Jul 21) — T-Mobile network contact worth keeping warm, especially given JP's T-Life flagship story.
+2. **No pipeline action required** — JP is employed at Crocs (Day 65, Tuesday = in-office day at Interlocken). Passive monitoring only.
+3. **Optional**: Archive/close the 7 stale "Ready to Apply" rows in job-tracker.csv. Update Status to "Withdrawn — Hired at Crocs" for a clean record.
+4. **Optional**: Send a closing note to Jodi Cohen (jcohen@evercommerce.com) thanking her for the EverCommerce referral and sharing that JP landed at Crocs — keeps the network warm.
+5. **Consider pausing this automation** — 9+ weeks post-hire with zero recruiter responses or new leads requiring action. If passive market-watching is still intentional, consider reducing to weekly frequency.
+
+---
+
+*Morning agent — 2026-07-21T14:15:00 UTC*
