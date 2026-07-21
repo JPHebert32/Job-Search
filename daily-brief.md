@@ -217,3 +217,54 @@ No active interviews. Crocs process is complete — **HIRED**. Prep files in `pr
 ---
 
 *Morning agent — 2026-07-21T14:15:00 UTC*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+No recruiter outreach or employer responses from any tracked company since the morning run.
+
+| Sender | Subject | Time (UTC) | Notes |
+|--------|---------|-----------|-------|
+| jobalerts-noreply@linkedin.com | "AVP, Analytics – Health & Wellness Sales at Synchrony" | Jul 21, 16:24 | LinkedIn alert — AVP-level analytics role, Synchrony Financial. Financial services (acceptable industry). See Leads below. |
+| jobalerts-noreply@linkedin.com | "Business Intelligence Analyst at Perry Homes" | Jul 21, 18:24 | LinkedIn alert — homebuilder, Houston TX. Title not Senior, onsite. Not a fit — see Leads. |
+| andy.paul@infojiniconsulting.com | "Job 2-Architects/SME/Consultant (AI/ML/Gen AI)" | Jul 20, 22:45 | Recruiter cold email — contract AI/ML architect role, Colorado Springs CO, onsite. Mismatched scope and employment type. Not actionable. |
+| Personal/promotional | Jersey Mike's, Total Wine, Citi, Google Family Link, BWSC sports, Southwest, Dunkin, Nextdoor | Jul 21, various | Personal — not job-related. |
+
+**No new responses from Zillow, Shutterfly, Machinify, Trimble, Advanced Energy, or Hone Health.**
+
+### New Leads Found Midday
+
+*All passive awareness — JP is employed at Crocs (Day 65).*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| Synchrony Financial | AVP, Analytics – Health & Wellness Sales | Est. $130K–$175K (AVP tier) | Remote US | [Synchrony Careers](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/AVP--Analytics---Health---Wellness-Pet-Market-Expansion_2600220-1) | ⚠️ Financial services (acceptable). Senior IC analytics role supporting 280K+ healthcare provider sales teams. Broader leadership analytics scope — not a hands-on Power BI/BI tooling role. Comp likely clears floor at AVP tier. Passive bookmark. |
+| Perry Homes | Business Intelligence Analyst | Not listed | Houston TX (onsite) | [Perry Homes Careers](https://apply.workable.com/perryhomes/) | ❌ Homebuilder industry, title not Senior, Houston TX onsite — three strikes. Power BI is in stack but role doesn't clear title/location/industry bars. |
+| EverDriven Technologies | Business Intelligence Analyst | Not listed | Colorado (likely hybrid) | [Built In Colorado](https://www.builtincolorado.com/job/business-intelligence-analyst/9311898) | ❌ Title not Senior. Education tech transport services — niche industry. Not pursuing. |
+
+*No new Senior BI / Power BI-explicit postings found on Built In Colorado today. Enverus and SitusAMC (prior bookmarks) unchanged.*
+
+**Additional leads from extended search (Greenhouse, Lever, Himalayas — not previously tracked):**
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| Humana | Business Intelligence Lead | $118K–$162K | Fully Remote US | [Humana Careers](https://careers.humana.com/us/en/job/R-413610/Business-Intelligence-Lead) | ⚠️ Healthcare insurance (not excluded). Strong comp band clears floor. Power BI + SQL + AWS. Lead/senior IC level. Best new comp signal today. |
+| Jobgether (undisclosed) | Sr. Power BI Developer | $100K–$120K | Fully Remote US | [Lever](https://jobs.lever.co/jobgether/e05910b5-1c1b-456e-845c-f314d4d778f7) | ⚠️ Power BI explicit, remote, comp clears floor. Employer identity not disclosed upfront — healthcare context. 5+ yrs Power BI enterprise required. Worth investigating. |
+| Monster Energy | Sr. Business Intelligence Analyst | Not listed | Corona CA (likely onsite) | [Greenhouse](https://job-boards.greenhouse.io/monsterenergy/jobs/4306929009) | ⚠️ Bleeding-edge stack: Power BI expert + Microsoft Fabric + OneLake + AI/MCP + agentic analytics. Consumer brand (CPG — fits lifestyle). Location likely onsite Corona CA — major flag. Verify before pursuing. |
+| 3Pillar Global | Sr. Business Intelligence Analyst | Not listed | Remote-first (US) | [Lever](https://jobs.lever.co/3pillarglobal/ccfa2637-9fd5-4baa-8391-3a93fd774965) | ⚠️ Power BI + SQL + AWS/Azure/Databricks. 8+ yrs required (JP qualifies). IT services/outsourcing — internal analytics role, not client-placed. Remote-first culture. |
+| Premier Inc. | Sr. Business Intelligence Analyst | $72K–$120K | Fully Remote US | [Himalayas](https://himalayas.app/companies/premier-inc/jobs/senior-business-intelligence-analyst) | ⚠️ Healthcare IT/GPO. Power BI + MicroStrategy multi-tool. Wide comp band — likely reflects level variance. Remote. Lower priority given MicroStrategy secondary stack. |
+| Encora | Sr. BI Analyst (Power BI) | Not listed | Remote (verify) | [Greenhouse](https://job-boards.greenhouse.io/encora10/jobs/5136634007) | ⚠️ Power BI Desktop & Service + DAX + M Query. IT outsourcing. Posted ~May 13 2026 — verify still open. Location confirm needed. |
+
+*Ivanti Sr. BI Analyst (carryover bookmark, already noted) also appeared in extended search — see prior days. Monster Energy and Humana are the two most interesting new discoveries today.*
+
+### Afternoon Priority
+
+1. **No action required** — JP is employed at Crocs (Day 65, Tuesday = in-office day at Interlocken). Zero pipeline urgency.
+2. **Top passive bookmarks today:** Humana BI Lead ($118–$162K, fully remote, Power BI + AWS) is the strongest new comp signal this week. Jobgether Sr. Power BI Developer ($100–120K, fully remote, Power BI explicit) is second. Both are healthcare-adjacent — not the preferred industry, but neither is excluded per criteria.
+3. **Monster Energy Sr. BI Analyst** is worth a manual check if ever re-entering market — the Microsoft Fabric + AI/MCP stack is a rare find that would sharpen JP's portfolio story. Location is the question mark.
+
+---
+*Midday agent — 2026-07-21T18:30:00 UTC*
