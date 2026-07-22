@@ -268,3 +268,78 @@ No recruiter outreach or employer responses from any tracked company since the m
 
 ---
 *Midday agent — 2026-07-21T18:30:00 UTC*
+
+---
+
+# Job Search Brief — 2026-07-22 | Morning
+
+> **STATUS: HIRED AT CROCS — Day 66 (Wednesday = in-office day at Interlocken).** Sr. Business Intelligence Analyst, Broomfield CO (Hybrid Tue+Thu). Start June 2026. Up to $127K. Contact: Mike Gura (mgura@crocs.com). Job search is closed. Routine continues for passive market awareness.
+
+---
+
+## Gmail — New Activity
+
+No recruiter outreach, application responses, or hiring-manager contact from any tracked company.
+
+| Sender | Subject | Time (UTC) | Notes |
+|--------|---------|------------|-------|
+| email@crocs-email.com | "5-Star Comfort. Built for the Rush." | Jul 20, 16:51 | **Marketing** — Crocs at Work™ shoe promo. Not HR. |
+| noreply@dailypay.com | DailyPay notification | Jul 20, 16:01 | Earned wage access notice — consistent with Crocs employment. |
+| noreplycomms@jeffco.k12.co.us | "Information on Mobile Enrollment and the Student Benefit Application" | Jul 20, 23:01 | Personal — Jeffco Public Schools family update. Not job-related. |
+| citicards@info15.citi.com | "Don't miss your special hotel offer, James" | Jul 21, 15:41 | Personal — Citi credit card offer. Not job-related. |
+| updates-noreply@linkedin.com | "Brian Carter reacted to this post: Last month I came back from…" | Jul 22, 04:24 | LinkedIn notification — someone reacted to JP's post. Network engagement. |
+| jobalerts-noreply@linkedin.com | Multiple BI/Data job alerts | Jul 20–21, various | Automated LinkedIn job alerts. See New Leads below. |
+
+**No new responses from Zillow, Shutterfly, Machinify, Trimble, Advanced Energy, or Hone Health.**
+
+---
+
+## Pipeline — Action Required Today
+
+> All `Ready to Apply` rows carry stale May 2026 due dates — predating the Crocs hire. No application action required. Included for cleanup reference only.
+
+| Company | Role | Doc | Apply Via | Note |
+|---------|------|-----|-----------|------|
+| EverCommerce (PaySimple) | Data Analyst – Payments | `EverCommerce_DataAnalystPayments_2026-05-07.docx` | Workday R-104002 | Stale — warm Jodi Cohen referral; closing note still pending |
+| Tilt Finance | Sr. Business Intelligence Analyst | *(docs not built)* | Ashby | Stale |
+| Boulevard | Staff Data Analyst | *(docs not built)* | Greenhouse | Stale — $122.5K–$158.4K, Sigma primary |
+| Engine (Hotel Engine) | Sr. Revenue Insights Analyst | *(docs not built)* | Greenhouse | Stale — Looker primary |
+| Mercer Advisors | Sr. BI Analyst | *(docs not built)* | Greenhouse | Stale — Power BI + Azure Synapse, est $133K–$154K |
+| NMI | Product Data Analyst | *(docs not built)* | Greenhouse | Stale — $90–$120K borderline |
+| Stellantis (Jeep) | Business & Data Analyst | `Stellantis_BIAnalyst_2026-05-07.docx` | ADP Job ID 2017348 | Stale — white whale, onsite Auburn Hills MI |
+
+---
+
+## Interview Prep Reminder
+
+No active interviews. Crocs process complete — **HIRED**. Prep files in `prep/` are historical reference.
+
+---
+
+## New Leads Found (Passive Market Awareness)
+
+*JP is employed at Crocs — all leads below are passive awareness only.*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| Ivanti | Senior Business Intelligence Analyst | Not listed | Remote US | [Greenhouse](https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7660106003) | ✅ Power BI explicit, 4+ yrs, remote — top new lead this session |
+| CareDx Inc. | Senior Business Intelligence Analyst | Not listed | Remote | [Greenhouse](https://job-boards.greenhouse.io/caredxinc/jobs/4242824009) | ⚠️ Power BI required; healthcare industry (not preferred) |
+| NeueHealth | Senior Business Intelligence Analyst | Not listed | Remote (unconfirmed) | [Greenhouse](https://job-boards.greenhouse.io/neuehealth/jobs/5765660004) | ⚠️ Power BI confirmed; healthcare payer — borderline industry |
+| Connections Health Solutions | Senior BI Developer | Not listed | Remote | [Greenhouse](https://job-boards.greenhouse.io/connectionshealthsolutions/jobs/4232437009) | ⚠️ Healthcare; Tableau + Power BI; Developer title scope |
+| Built In Colorado | Multiple remote/hybrid Senior BI roles | Varies | Denver/Remote CO | [Built In Colorado](https://www.builtincolorado.com/jobs/remote/data-analytics/business-intelligence) | ℹ️ Aggregator — browse manually if ever re-entering market |
+
+*Carryover bookmarks: Enverus Sr. BI ($115–$125K+bonus, Denver, Power BI+Snowflake), Humana BI Lead ($118–$162K, remote, Power BI+AWS), Monster Energy Sr. BI Analyst (Microsoft Fabric + AI stack, location TBD).*
+
+---
+
+## Recommended Actions Today
+
+1. **No urgent job-search actions required** — JP is employed at Crocs (Day 66, Wednesday = in-office day).
+2. **Accept Azan Sarosh's LinkedIn connection** (Product Insights Lead, T-Mobile) if not already done — T-Life network worth keeping warm.
+3. **Optional**: Update LinkedIn profile to reflect Crocs role if not already updated — 10+ weeks in.
+4. **Optional**: Send closing note to Jodi Cohen (jcohen@evercommerce.com, 303-981-5543) — thank her for EverCommerce referral, share that you landed at Crocs. Strong network maintenance.
+5. **Consider pausing or reducing this automation** — 10 weeks post-hire, zero recruiter responses, only LinkedIn digest noise. Weekly cadence or disabling is reasonable.
+
+---
+
+*Morning agent — 2026-07-22T06:00:00 UTC*
