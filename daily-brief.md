@@ -343,3 +343,42 @@ No active interviews. Crocs process complete — **HIRED**. Prep files in `prep/
 ---
 
 *Morning agent — 2026-07-22T06:00:00 UTC*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+No recruiter outreach or employer responses from any tracked company since the morning run.
+
+| Sender | Subject | Time (UTC) | Notes |
+|--------|---------|-----------|-------|
+| jobalerts-noreply@linkedin.com | "Business Analyst, Intelligence at Sundayy" | Jul 22, 18:24 | LinkedIn job alert — "Business Analyst" title (not Senior), company Sundayy. Not actionable. |
+| advancedenergy-jobnotification@noreply.jobs2web.com | "New jobs posted from jobs.advanced-energy.com" | Jul 22, 16:38 | Weekly talent community digest — new postings are Treasury Analyst I, Corporate Development Director, Demand Planner II, Sr. Field Applications Engineer, Sr. Manager Talent Acquisition. No BI/analytics roles. Not actionable. |
+| Personal/promotional | Nextdoor (bear alert), YouTube Music, Venmo, Total Wine, Microsoft Family Safety, Capital One, Southwest sale, LIM359 camp | Jul 22, various | Personal — not job-related. |
+
+**No new responses from Zillow, Shutterfly, Machinify, Trimble, Advanced Energy, or Hone Health.**
+
+### New Leads Found Midday
+
+*All passive awareness — JP is employed at Crocs (Day 66, Wednesday = in-office at Interlocken).*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| Point C | Senior Power BI Developer | Not listed (est. $115K–$145K) | Remote US | [Greenhouse](https://job-boards.greenhouse.io/pointc/jobs/5277259008) | ✅ Power BI is the named platform (70% development, 30% administration). Point C is a national healthcare TPA (self-funded benefits). Fully remote. Posted early-to-mid July — not previously tracked. Best new passive bookmark today. |
+| PeopleFinders | Senior BI & Marketing Analyst | Not listed | Remote | [Greenhouse](https://job-boards.greenhouse.io/peoplefinders/jobs/5192133007) | ⚠️ Posted July 21 (freshest lead this scan). Primary BI tool is Domo, Power BI listed as acceptable alternative. Marketing-analytics-centric scope. Not a clean Power BI match. |
+| Tripledot Studios | Senior Business Intelligence Analyst (AI Team) | Est. ~$149K | Remote (location unconfirmed) | [Greenhouse](https://job-boards.greenhouse.io/tripledotstudios/jobs/4928237101) | ⚠️ Mobile gaming vertical (not excluded). Primary platform is Looker/LookML; Power BI secondary. Interesting AI team embedding but stack gap is notable. |
+| Bounteous | Lead Business Intelligence Analyst (Adobe Analytics + Power BI) | Not listed | Remote | [Lever](https://jobs.lever.co/bounteous/34332fca-ccb2-4f7f-95e2-e41c6792a056) | ❌ Part-time contract engagement (~20 hrs/wk through Dec 2026). Posted March 2026. Adobe Analytics-primary. Structurally incompatible — skip. |
+| Basis Technologies | Senior Business Intelligence Developer | Not listed | Remote CO | [Built In Colorado](https://www.builtincolorado.com/job/senior-business-intelligence-developer/3994059) | ❌ Ad-tech industry — excluded per criteria. |
+
+*Built In Colorado senior BI page unchanged from morning: Enverus and SitusAMC are the only visible listings (both previously tracked).*
+
+### Afternoon Priority
+
+1. **No action required** — JP is employed at Crocs (Day 66, Wednesday = in-office). Zero pipeline urgency.
+2. **Top passive bookmark today:** Point C Sr. Power BI Developer (remote, Power BI 70% dev/30% admin, healthcare TPA) is the cleanest new addition — not previously tracked. Bookmark for future reference if ever re-entering the market.
+3. **Consider pausing this automation** — 10 weeks post-hire, zero recruiter responses, only LinkedIn digest noise and alerts for non-BI roles at Advanced Energy. Weekly cadence or disabling is increasingly reasonable.
+
+---
+*Midday agent — 2026-07-22T19:00:00 UTC*
