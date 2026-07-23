@@ -1,20 +1,23 @@
-# Job Search Brief — 2026-07-22 | Morning
+# Job Search Brief — 2026-07-23 | Morning
 
-> **STATUS: HIRED AT CROCS — Day 52 (Wednesday).** Sr. Business Intelligence Analyst, Broomfield CO (Hybrid Tue+Thu at Interlocken). Start June 2026. Up to $127K. Contact: Mike Gura (mgura@crocs.com). Job search is closed. This routine continues for pipeline record-keeping and passive market awareness.
+> **STATUS: HIRED AT CROCS — Day 53 (Thursday).** Sr. Business Intelligence Analyst, Broomfield CO (Hybrid Tue+Thu at Interlocken). Start June 2026. Up to $127K. Contact: Mike Gura (mgura@crocs.com). Job search is closed. This routine continues for pipeline record-keeping and passive market awareness.
 
 ---
 
 ## Gmail — New Activity
 
-No new application responses from pipeline companies in the last 48 hours.
+No new application responses from pipeline companies in the past 24 hours. Inbox contains LinkedIn job alert digests and automated notifications only.
 
 | Company | Sender | Subject | Summary |
-|---------|--------|---------|---------|
-| LinkedIn (alert) | jobs-noreply@linkedin.com | "GitHub is hiring for a Remote role" | Automated job alert — GitHub Data Analyst II and similar. Not a recruiter outreach. |
-| LinkedIn (alert) | jobalerts-noreply@linkedin.com | "JP: 1 new job" | Gusto Senior Product Design Manager alert — design role, not BI. Irrelevant. |
-| LinkedIn (alert) | jobalerts-noreply@linkedin.com | "JP: 11 new jobs" | Gusto Application Systems Engineering Manager alert — engineering, not BI. Irrelevant. |
+|---------|--------|---------|--------|
+| LinkedIn (alert) | jobalerts-noreply@linkedin.com | Business Intelligence Analyst at Pursuit | Auto-alert — BI Analyst role in Denver Metro area. Not recruiter outreach. |
+| LinkedIn (alert) | jobalerts-noreply@linkedin.com | Business Performance Reporting Analyst at Worldpay | Auto-alert — fintech reporting analyst. Not recruiter outreach. |
+| LinkedIn (alert) | jobalerts-noreply@linkedin.com | Staff Data Scientist - Time Products at Gusto | Auto-alert — data science role, not BI scope. Irrelevant. |
+| LinkedIn (alert) | jobs-noreply@linkedin.com | GitHub is hiring for a Remote role | Auto-alert — Data Analyst II at GitHub. Not recruiter outreach. |
+| Advanced Energy | advancedenergy-jobnotification@... | New jobs posted from jobs.advanced-energy.com | Weekly talent community auto-alert. JP applied May 13 — no response to date; application likely stale. |
+| Connecting Colorado | workforce@connectingcolorado.gov | Virtual Hiring Fair — August 2026 | Aug 6 virtual hiring fair. Not relevant given Crocs hire. |
 
-No recruiter outreach. No responses from Zillow, Machinify, Hone Health, Advanced Energy, or Shutterfly.
+**No recruiter outreach. No responses from Zillow, Machinify, Hone Health, Advanced Energy, or Shutterfly.**
 
 ---
 
@@ -22,16 +25,18 @@ No recruiter outreach. No responses from Zillow, Machinify, Hone Health, Advance
 
 No active applications requiring follow-up. Job search closed May 18, 2026.
 
-Open items still on record (retained for passive awareness):
+Open items still on record (retained for passive awareness — all follow-up windows have passed):
 
 | Company | Status | Last Note |
-|---------|--------|-----------|
+|---------|--------|----------|
 | Zillow (Home Loans, P749151) | Applied — In Process | No update since Apr 28 — likely stale |
 | Zillow (Preferred Strategy, P750075) | Applied | Confirmation May 6 — likely stale |
 | Machinify | Applied | Follow-up window passed |
 | Hone Health | Applied | Follow-up window passed |
-| Advanced Energy | Applied | Follow-up window passed |
+| Advanced Energy | Applied | Follow-up window passed (weekly talent alerts continuing) |
 | Shutterfly | Applied | Portal access email May 7 — likely stale |
+
+Ready-to-Apply rows (never submitted — moot given Crocs hire): EverCommerce, Tilt Finance, Boulevard, Engine (Hotel Engine), Mercer Advisors, Stellantis, NMI.
 
 ---
 
@@ -43,26 +48,28 @@ No action required. Crocs interview process is complete. JP is onboarded and wor
 
 ## New Leads Found (Passive Awareness)
 
-*JP is employed — logged for reference only. These represent the current market.*
+*JP is employed — logged for reference only in case of market monitoring or future need.*
 
-| Company | Role | Comp | Location | Link | Fit |
-|---------|------|------|----------|------|-----|
-| Ivanti | Senior BI Analyst | Not confirmed | Remote US | [Greenhouse](https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7660106003) | ✅ Power BI 4+ yrs required, remote — strong profile match if ever needed |
-| CareDx | Senior BI Analyst | Not listed | Remote US | [Greenhouse](https://job-boards.greenhouse.io/caredxinc/jobs/4242824009) | ⚠️ Healthcare/biotech — Power BI required, verify comp |
-| Enverus | Sr BI Analyst, Revenue Operations | Not confirmed | Denver CO | [Built In Colorado](https://www.builtincolorado.com/job/senior-business-intelligence-analyst-revenue-operations-24478dd/189684) | ⚠️ Energy sector — check remote eligibility and comp |
-| Connections Health Solutions | Senior BI Developer | Not listed | Remote US | [Greenhouse](https://job-boards.greenhouse.io/connectionshealthsolutions/jobs/4232437009) | ⚠️ Healthcare — Power BI required, fully remote |
-| Basis Technologies | Senior BI Developer | Not listed | Denver CO | [Built In Colorado](https://www.builtincolorado.com/job/senior-business-intelligence-developer/3994059) | ❌ Adtech — excluded industry |
+| Company | Role | Comp | Location | Fit |
+|---------|------|------|----------|----|
+| Ivanti | Senior BI Analyst | Not confirmed | Remote US | ✅ Power BI 4+ yrs + DAX + semantic modeling required — strong profile match |
+| Pursuit | Business Intelligence Analyst | Not listed | Denver Metro | ⚠️ Title not "Senior" — level gap. Denver-local. |
+| Worldpay | Business Performance Reporting Analyst | Not listed | Not confirmed remote | ⚠️ Fintech. Scope unclear. |
+| ASSYST Inc. | Senior BI Analyst | Not listed | Not confirmed | ⚠️ Healthcare / contractor firm. |
+| Connections Health Solutions | Senior BI Developer | Not listed | Remote US | ⚠️ Healthcare. Power BI + Tableau. |
+
+> **If JP were still searching:** Ivanti Sr. BI Analyst is the strongest new lead — Power BI native, B2B SaaS, fully remote, senior level.
 
 ---
 
 ## Recommended Actions Today
 
 1. **No urgent job search actions** — search concluded May 18, 2026 with Crocs hire.
-2. **Consider unsubscribing LinkedIn job alerts** — automated alerts for Gusto, GitHub Data Analyst, etc. are generating inbox noise. Manage at linkedin.com/jobs/preferences.
-3. **Verify Crocs onboarding paperwork** is fully complete (I-9, DocuSign x2, SuccessFactors compliance modules) — these were listed as pending at start.
-4. **Optional: Update tracker** — mark remaining "Ready to Apply" rows as Withdrawn/Archived now that search is closed.
-5. **Optional: Cancel or repurpose this morning routine** — market awareness scan is low-value while employed; consider switching to a monthly cadence.
+2. **Consider unsubscribing LinkedIn job alerts** — multiple daily digests generating inbox noise (Gusto, GitHub Data Analyst, Worldpay, Pursuit, etc.). Manage at linkedin.com/jobs/preferences.
+3. **Update tracker** — mark remaining "Ready to Apply" rows as Withdrawn/Archived now that search is closed.
+4. **Optional: Cancel or repurpose this morning routine** — consider switching to monthly cadence while employed, or disabling if inbox cleanup is preferred.
+5. **Unsubscribe from Connecting Colorado alerts** — receiving Police Officer hiring emails and Virtual Fair invites that are not relevant.
 
 ---
 
-*Morning agent — 2026-07-22T20:30:00 UTC*
+*Morning agent — 2026-07-23T14:00:00 UTC*
