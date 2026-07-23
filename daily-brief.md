@@ -73,3 +73,44 @@ No action required. Crocs interview process is complete. JP is onboarded and wor
 ---
 
 *Morning agent — 2026-07-23T14:00:00 UTC*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+No job-related emails since the morning run. Inbox activity was entirely commercial:
+
+| Sender | Subject | Notes |
+|--------|---------|-------|
+| LinkedIn (alert) | Data Analyst at Brightspeed | Auto-alert — telecom, not senior BI scope. Not recruiter outreach. |
+| LinkedIn (alert) | Data Analyst at Candid Health | Auto-alert — health data, scope mismatch. Not recruiter outreach. |
+| LinkedIn (notification) | You appeared in 8 searches | Passive signal — someone viewed JP's profile today. Likely recruiter or hiring manager activity. |
+| Synchrony | Auto-payment reminder (Google Store Financing) | Personal finance — account ending 5406. |
+| Southwest Airlines | $49 sale fares | Commercial promo. |
+| BoteBoard | Order S410567 out for delivery | Personal shipping notification. |
+| Various | McAfee, Total Wine, Carl's Jr., Nextdoor, Upstart | Commercial/community — irrelevant. |
+
+**No responses from Crocs (Mike Gura), pipeline companies, or any recruiter outreach.**
+
+### New Leads Found Midday
+
+*For passive market awareness only — JP is employed at Crocs.*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| SitusAMC | Senior Business Intelligence Analyst (Tableau) | $100K–$150K | Remote US | [JR02957](https://careers.situsamc.com/job-detail/senior-business-intelligence-analyst-tableau-remote-us-jr02957-1) | ⚠️ Comp strong. Senior level. Remote. Real estate finance. **Tableau primary** — JP's Power BI stack is a gap. |
+| PeopleFinders | Senior BI & Marketing Analyst | Not listed | Remote | [Greenhouse](https://job-boards.greenhouse.io/peoplefinders/jobs/5192133007) | ⚠️ Domo strongly preferred (not Power BI). Marketing analytics focus. Data broker industry. |
+
+> Morning leads already logged: Ivanti Sr. BI Analyst ✅, Pursuit BI Analyst ⚠️, Worldpay ⚠️, ASSYST Inc. ⚠️, Connections Health Solutions ⚠️. No new additions above those.
+
+### Afternoon Priority
+
+1. **No urgent job search actions** — search concluded May 18, 2026. Crocs role active.
+2. **LinkedIn profile activity** — appeared in 8 searches today. No action needed, but worth noting if inbound recruiter outreach follows.
+3. **Routine housekeeping (optional)** — consider switching this brief to weekly cadence now that it's been 2+ months at Crocs. Daily runs are generating mostly inbox noise. Update at linkedin.com/jobs/preferences to reduce alert volume.
+
+---
+
+*Midday agent — 2026-07-23T18:00:00 UTC*
