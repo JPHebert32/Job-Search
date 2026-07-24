@@ -114,3 +114,46 @@ No job-related emails since the morning run. Inbox activity was entirely commerc
 ---
 
 *Midday agent — 2026-07-23T18:00:00 UTC*
+
+---
+
+## Midday Update — 12:00 PM MDT (July 24)
+
+> **Note:** The daily-brief.md file reflects the July 23 morning/midday runs. The July 24 morning section was not written to this file — this midday update appends directly.
+
+### New Emails Since Morning
+
+Two recruiter outreach messages received today; all other inbox activity is personal/commercial.
+
+| Sender | Subject | Summary |
+|--------|---------|---------|
+| rohit@apetan.com (Apetan Consulting) | Senior Data Analyst \|\| REMOTE (EST Only) \|\| Allegis Group \|\| W2 only | Staffing firm outreach. Client: Allegis Group via Teksystems. Remote but East Coast timezone only. W2 required. Scope is analyst/data — near-match. **JP is employed; EST-only is a deal-breaker regardless.** |
+| akshat@apetan.com (Apetan Consulting) | 100% REMOTE - Snowflake/Platform administration | Staffing outreach for a Snowflake platform admin/DBA-adjacent role. Scope mismatch — not BI/analytics. Not relevant. |
+| vailresortsdonotreply@... | New jobs at Vail Resorts for you! | Auto-alert for "Data & Reporting Analyst - HR, Broomfield CO" — auto-alert from Vail talent community, not recruiter outreach. HR-adjacent reporting role. Not relevant. |
+| jobalerts-noreply@linkedin.com | Senior Analyst, Media Analytics at Net Conversion | Auto-alert — media/ad analytics agency. Scope mismatch. |
+| jobalerts-noreply@linkedin.com | Product Business Analyst at DaVita Kidney Care: up to $85K/year | Auto-alert — below $115K floor and wrong industry. |
+| Various | Tuxedo Corn Co orders, Misfits Market, Total Wine, ZYN, Citi statement, Ally auto refi, Nextdoor, Microsoft Family, Google Family Link | Personal/commercial — irrelevant. |
+
+**No responses from Crocs (Mike Gura), Zillow, Machinify, Shutterfly, or any tracked companies.**
+
+### New Leads Found Midday
+
+*For passive market awareness only — JP is employed at Crocs.*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| AB InBev / Growth Group | Senior Data Analyst | Not listed (est $120K–$150K) | Remote US | [Greenhouse](https://job-boards.greenhouse.io/abinbev/jobs/8638804002) | ✅ **WHITE WHALE — Anheuser-Busch/Budweiser.** Power BI (DAX, semantic models, data modeling) + Azure Databricks + SparkSQL + Python. B2B Growth Group (B2B/DTC/Marketing/Sales). JP's stack is a near-perfect match. Posted ~3 days ago. |
+| CareDx | Senior Business Intelligence Analyst — Finance & Accounting | Not listed | Remote US | [Greenhouse](https://job-boards.greenhouse.io/caredxinc/jobs/4296488009) | ⚠️ Healthcare (transplant diagnostics). Power BI + SQL + Databricks. Finance/Accounting reporting focus (month-end, audit readiness, revenue performance). Comp unconfirmed. |
+| CareDx | Senior Business Intelligence Analyst (Sales/Revenue) | Not listed | Remote US | [Greenhouse](https://job-boards.greenhouse.io/caredxinc/jobs/4242824009) | ⚠️ Healthcare. Power BI + SQL. Sales pipeline, territory performance, conversion analytics. Companion posting to the Finance role above. |
+
+> **Standout for passive awareness:** AB InBev Growth Group Sr. Data Analyst is the best market signal this week — Power BI + DAX + Databricks + B2B analytics maps cleanly to JP's Crocs stack. If JP ever re-enters the market, this is the kind of role to benchmark against.
+
+### Afternoon Priority
+
+1. **No urgent job search actions** — employed at Crocs. Apetan recruiter outreach (EST-only, W2 staffing) is not worth responding to.
+2. **AB InBev white whale** — star this posting for awareness. If the Crocs role ever changes, this employer + stack alignment is worth a direct application.
+3. **Inbox noise** — Apetan Consulting (staffing firm) has now reached out twice in one day from two different reps. Consider adding to Gmail filter or unsubscribing if possible.
+
+---
+
+*Midday agent — 2026-07-24T18:00:00 UTC*
