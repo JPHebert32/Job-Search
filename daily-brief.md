@@ -77,3 +77,43 @@ No action required. Crocs interview and onboarding are complete. Prep files in `
 ---
 
 *Morning agent — 2026-07-25T13:45:00 UTC (updated run)*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+No job-relevant emails since the morning run. Post-8 AM inbox (14:00 UTC onward) contained only automated notifications and marketing:
+
+| Sender | Subject | Notes |
+|--------|---------|-------|
+| jobalerts-noreply@linkedin.com | Data Scientist at Judi Health | Auto-alert. Data Scientist title, not BI/Analyst — not relevant. |
+| customer.service@servicing.synchrony.com | Payment Confirmation | Personal finance — Synchrony/PayPal Credit payment. No action. |
+| info@gunfightersinc.com | Been a while… | Retail promo. No action. |
+| no-reply@email.carlsjr.com | $5 OFF $25 Is Still Available! | Restaurant promo. No action. |
+
+No responses from Zillow, Machinify, Hone Health, Advanced Energy, Shutterfly, or Trimble.
+
+### New Leads Found Midday
+
+*JP is employed at Crocs — logged for passive market awareness only.*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| Sky Zone | Sr. Business Intelligence Engineer | $110K–$120K + bonus | Remote US | [Built In](https://builtin.com/job/sr-business-intelligence-engineer/3802692) | ✅ Power BI + Snowflake + Azure Analysis Services + DAX + Python — exact JP stack. Entertainment/recreation industry (not excluded). Salary confirmed at target range. Remote. Posted mid-July — active listing. |
+| CareDx | Senior Business Intelligence Analyst (Finance & Accounting) | Not listed | Remote | [Greenhouse](https://job-boards.greenhouse.io/caredxinc/jobs/4296488009) | ⚠️ Healthcare diagnostics (transplant testing). Power BI + SQL + Databricks stack is strong match. Two open BI analyst reqs (also [4242824009](https://job-boards.greenhouse.io/caredxinc/jobs/4242824009)). Posted ~July 22 — very fresh. Verify comp clears $115K floor. |
+| AB InBev Growth Group | Senior Data Analyst | Not listed | Remote (verify) | [Greenhouse](https://job-boards.greenhouse.io/abinbev/jobs/8638804002) | ⚠️ Beverage/alcohol (not excluded). Power BI + DAX + data modeling explicit. "Growth Group" = digital/DTC analytics arm. Comp unconfirmed — verify before pursuing. |
+| PeopleFinders | Senior BI & Marketing Analyst | Not listed | Remote | [Greenhouse](https://job-boards.greenhouse.io/peoplefinders/jobs/5192133007) | ⚠️ People data/background check industry. Domo preferred (Power BI/Tableau/Looker also accepted). Marketing analytics focus — different from JP's core product/ops BI scope. |
+
+> **Sky Zone** is the strongest new lead of the day — salary at target, exact stack match, remote, and posted this week. Worth bookmarking alongside Ivanti for passive awareness.
+
+### Afternoon Priority
+
+1. **No urgent job search actions** — search is closed, JP is employed at Crocs (Day 55).
+2. **Optional: Silence LinkedIn job alert volume** — inbox continues to receive 4–6 automated digests daily (same recommendation as morning). Manage at linkedin.com/jobs/preferences to reduce noise without missing direct recruiter messages.
+3. **Passive awareness check** — Sky Zone Sr. BI Engineer ($110K–$120K + bonus, remote, exact stack) and CareDx Senior BI Analyst (remote, Power BI + Databricks, very fresh posting) are the two strongest new leads for the archives. No action required now.
+
+---
+
+*Midday agent — 2026-07-25T18:00:00 UTC*
