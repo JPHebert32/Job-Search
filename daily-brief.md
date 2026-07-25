@@ -18,6 +18,8 @@ No new responses from tracked application companies. Inbox contains recruiter ou
 | LinkedIn (alert) | jobalerts-noreply@linkedin.com | Senior Analyst, Media Analytics at Net Conversion | Auto-alert — ad/media analytics agency. Excluded industry. |
 | LinkedIn (alert) | jobalerts-noreply@linkedin.com | Product Business Analyst at DaVita Kidney Care: up to $85K/year | Auto-alert — below floor, wrong industry. |
 | Vail Resorts | recruiting@vailresorts.com | Epic Experience - the next chapter for Vail Resorts | Generic talent community email about company growth/future. Not a specific role offer. |
+| DailyPay | noreply@dailypay.com | "Need your earned pay today? Learn how with DailyPay." | Earned wage access benefit email (7/20). Crocs offers DailyPay as an employee perk — confirms active employment status. No action needed. |
+| Crocs (retail) | email@crocs-email.com | "5-Star Comfort. Built for the Rush." / "You + 15% off these styles" | Two retail marketing emails (7/20). Shoe brand marketing, not HR. Employee discount perk may apply. |
 
 **No responses from Zillow, Machinify, Hone Health, Advanced Energy, Shutterfly, or Trimble.**
 
@@ -74,4 +76,4 @@ No action required. Crocs interview and onboarding are complete. Prep files in `
 
 ---
 
-*Morning agent — 2026-07-25T07:30:00 UTC*
+*Morning agent — 2026-07-25T13:45:00 UTC (updated run)*
