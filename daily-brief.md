@@ -95,3 +95,38 @@ Market signal: Power BI + SQL senior roles remain active and remote-friendly. Be
 ---
 
 *Morning agent — 2026-07-26T13:30:00 UTC*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+One new LinkedIn job alert arrived at 16:24 UTC (10:24 AM MDT) — digest titled "Business Intelligence Analyst at Sundayy." No recruiter outreach. No responses from Crocs, Zillow, Machinify, or any tracked company. All other inbox items are pre-morning-run or non-job (Nextdoor neighborhood alerts, eBay auction, Gratsi wine promo).
+
+| Sender | Subject | Assessment |
+|--------|---------|------------|
+| LinkedIn (alert) | Business Intelligence Analyst at Sundayy | Auto-digest — 5 roles listed (see New Leads). Not recruiter outreach. |
+
+### New Leads Found Midday
+
+*All for passive market awareness — JP employed at Crocs.*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| eMoney Advisor | Senior Business Intelligence Analyst | Not listed | Remote, US | [LinkedIn alert](https://www.linkedin.com/jobs/) | ✅ Fintech-adjacent (financial planning SaaS); exact title match |
+| Sundayy | Business Intelligence Analyst | Not listed | Remote, US | [LinkedIn alert](https://www.linkedin.com/jobs/) | ⚠️ Not Senior title; job-aggregation platform — internal analytics role |
+| Digital Media Solutions | Sr. BI & Analytics Analyst | Not listed | Remote, US | [LinkedIn alert](https://www.linkedin.com/jobs/) | ❌ Ad-tech (excluded industry) |
+
+*Filtered out: Data Analyst at Sundayy (not senior), Data Analyst at Solace (not BI title).*
+
+**Best new passive lead:** eMoney Advisor Sr. BIA — financial planning software (fintech-adjacent, acceptable industry), exact title, remote US. Worth bookmarking for future reference.
+
+### Afternoon Priority
+
+1. **No urgent actions** — JP is employed at Crocs. Day 56 (Sunday). Rest.
+2. **Bookmark eMoney Advisor** — only new passive lead worth tracking; search their careers page if re-entry ever needed.
+3. **Strongly consider pausing to weekly cadence** — today's midday run produced 1 passive bookmark and no recruiter outreach for the third consecutive run. Weekly monitoring would be sufficient.
+
+---
+*Midday agent — 2026-07-26T18:00:00 UTC*
