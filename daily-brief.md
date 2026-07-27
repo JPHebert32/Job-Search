@@ -73,3 +73,35 @@ No new leads worth flagging beyond what was logged in yesterday's brief. The Lin
 ---
 
 *Morning agent — 2026-07-27T13:00:00 UTC*
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+| Sender | Subject | Assessment |
+|--------|---------|------------|
+| atul@apetan.com | "Job Opportunity \|\| machine learning engineer\|\| 100% Remote" | Recruiter outreach — ML Engineer (Azure), 6-month contract for GAP. Wrong role, wrong employment type (contract). JP is employed at Crocs. No action needed. |
+| jobalerts-noreply@linkedin.com | "Principal Product Operations Manager, Benefits at Gusto" | LinkedIn auto-alert. Operations management role — not BI/data analyst scope. |
+| jobalerts-noreply@linkedin.com | "Data Scientist at Microsoft" | LinkedIn auto-alert. Data Science title, not BI analyst scope. |
+| workforcebusinessservices@connectingcolorado.gov | "Kelly Education Hiring Event" | Colorado workforce services substitute teacher alert. Not relevant. |
+
+**No new responses from tracked companies. No BI-specific recruiter outreach.**
+
+### New Leads Found Midday
+
+*Passive market awareness only — JP is employed at Crocs.*
+
+Web search returned only aggregate listing pages (LinkedIn, Built In) with no new specific postings to evaluate today. BI market appears steady; 162 Power BI jobs listed in Denver Metro, 4,000+ remote BI analyst positions nationally on LinkedIn.
+
+No new leads to log.
+
+### Afternoon Priority
+
+1. **No job search actions required** — Crocs employment is active (Day 57, Tue/Thu hybrid). No open applications need follow-up.
+2. **Passive signal: one ML recruiter cold-outreach** received — confirms JP's profile is visible but targeting is off (ML Engineer vs. BI Analyst). No action needed; profile visibility is healthy.
+3. **Consider adjusting LinkedIn job alert preferences** — inbox continues receiving 4–6 automated digests daily with off-target roles. Silence or narrow alert filters at linkedin.com/jobs/preferences to reduce noise.
+
+---
+*Midday agent — 2026-07-27T18:00:00 UTC*
