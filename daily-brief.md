@@ -105,3 +105,51 @@ No new leads to log.
 
 ---
 *Midday agent — 2026-07-27T18:00:00 UTC*
+
+---
+
+## Evening Update — ~8:30 PM MDT
+
+### New Emails Since Midday
+
+| Company | Sender | Subject | Summary |
+|---------|--------|---------|---------|
+| Facilitron (via LinkedIn) | inmail-hit-reply@linkedin.com | Facilitron - Technical Data Analyst (Product Focused) - Remote Contract Opportunity | **Genuine recruiter InMail.** Josiah Mayo, Recruiter at Insight Global (Bellevue WA), sourced JP's profile. Role: Technical Data Analyst at Facilitron, 6–12 month contract-to-hire, 100% Remote. Pay: $50–$55/hr ($90K–$115K FTE equivalent). Stack: SQL, BI dashboards, Snowflake preferred, dbt preferred. Product-focused analytics ownership. ⚠️ Contract employment type + comp at/below floor + JP is employed at Crocs → no action required. Archived for passive reference. |
+| ML Recruiter | atul@apetan.com | Job Opportunity \|\| machine learning engineer \|\| 100% Remote | Previously noted at midday. ML Engineer / GAP contract. Wrong role/type. |
+| Colorado Workforce | workforcebusinessservices@connectingcolorado.gov | Kelly Education Hiring Event | Substitute teacher alert. Not relevant. |
+| Dollar Flight Club | smartpoints@dollarflightclub.com | Last chance: 100K Chase offer ends soon | Promotional email. Not job-related. |
+| United MileagePlus | MileagePlus_Partner@enews.united.com | New benefits have landed | Promotional email. Not job-related. |
+
+**One genuine BI recruiter outreach today** (Facilitron/Insight Global). No responses from tracked application companies.
+
+### LinkedIn Profile Flag
+
+JP's LinkedIn profile still shows "Open to Work" per recruiter InMail footer ("intended for JP Hebert (Senior Data Analyst & BI Specialist | 4 Years Power BI | Open to Work)"). Now employed at Crocs ~Day 57 — consider removing the frame if no longer seeking.
+
+### New Leads Found (Evening — Passive Market Only)
+
+*JP is employed at Crocs. Logged for future reference only.*
+
+**Greenhouse — Active Postings Found:**
+
+| Company | Role | Location | Notes | Fit |
+|---------|------|----------|-------|-----|
+| Trace3 | Sr BI Developer \| Power BI | Remote US | NEW posting (old Feb 2026 req was CLOSED — this is a new req). Power BI explicit. Bookmark. | ✅ |
+| Openly | Sr Business Intelligence Analyst | Remote US | Insurance tech (acceptable). 3+ yrs. Prior weeks' lead — still open. | ✅ |
+| OppFi | Sr Analyst, Business Intelligence | Remote | Fintech/lending. BI tools incl. Power BI. Check comp. | ⚠️ |
+| StarRez | Sr Business Intelligence Analyst | Remote US | Education tech SaaS. Power BI likely. | ⚠️ |
+| The Motley Fool | Sr BI Engineer | Remote US | Financial media/fintech. Engineer title — may skew ETL. Check comp. | ⚠️ |
+
+**Facilitron (from recruiter outreach):**
+- Contract-to-hire, $90–115K FTE equivalent. Comp below floor. Contract employment type. Product analytics + SQL + Snowflake — strong technical match for JP's skills but wrong employment type and insufficient comp while employed. If JP leaves Crocs, this recruiter (Josiah Mayo, Insight Global) is worth a callback.
+
+### Evening Recommended Actions
+
+1. **No active job search actions** — Crocs Day 57 (Monday). Employed. Search closed.
+2. **LinkedIn "Open to Work" frame** — still visible to recruiters per inmail. Update profile to reflect Crocs role and remove frame if not seeking. (linkedin.com → Profile → Open to Work → Edit → Stop sharing)
+3. **Facilitron/Insight Global contact saved** — Josiah Mayo (Insight Global, Bellevue WA) is a BI-focused recruiter who sourced JP proactively. Save contact for future use if circumstances change.
+4. **Trace3 new Sr BI Developer req** — Greenhouse posting is new (different from the CLOSED Feb 2026 req). Power BI explicit. Worth bookmarking if future search resumes.
+5. **Consider pausing routine to weekly** — Today's run logged 1 BI recruiter outreach (contract, below floor). Daily cadence yielding diminishing returns. A Monday-only brief would suffice for passive awareness while employed.
+
+---
+*Evening agent — 2026-07-27T20:45:00 UTC*
