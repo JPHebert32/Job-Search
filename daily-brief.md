@@ -1,25 +1,22 @@
-# Job Search Brief — 2026-07-26 | Morning
+# Job Search Brief — 2026-07-27 | Morning
 
-> **STATUS: EMPLOYED — Day 56 (Sunday).** Sr. Business Intelligence Analyst at Crocs, Broomfield CO (Hybrid Tue+Thu, Interlocken). Started June 2026. Up to $127K. Contact: Mike Gura (mgura@crocs.com). Job search is closed. This routine continues for pipeline record-keeping and passive market awareness.
+> **STATUS: EMPLOYED — Day 57 (Monday).** Sr. Business Intelligence Analyst at Crocs, Broomfield CO (Hybrid Tue+Thu, Interlocken). Started June 2026. Up to $127K. Contact: Mike Gura (mgura@crocs.com). Job search is closed. This routine continues for pipeline record-keeping and passive market awareness.
 
 ---
 
 ## Gmail — New Activity
 
-No new responses from tracked application companies. Inbox since yesterday (Jul 25):
+No new responses from tracked application companies. Inbox since yesterday (Jul 26):
 
 | Company | Sender | Subject | Summary |
 |---------|--------|---------|---------|
-| LinkedIn (alert) | jobalerts-noreply@linkedin.com | Business Intelligence Analyst at Honest Health | Automated job alert digest — 6 BI roles listed (see New Leads). Posted Jul 23–24. Not recruiter outreach. |
-| LinkedIn (alert) | jobalerts-noreply@linkedin.com | Reporting Analyst II at Rocket | Auto-alert. Not Senior BI. Not recruiter outreach. |
-| LinkedIn (alert) | jobalerts-noreply@linkedin.com | Enterprise Data Analyst at Husch Blackwell | Auto-alert. Law firm. Not recruiter outreach. |
-| LinkedIn (alert) | jobalerts-noreply@linkedin.com | Sr. Data Analyst at Versant Media | Auto-alert. Not recruiter outreach. |
-| LinkedIn (alert) | jobalerts-noreply@linkedin.com | Operations Data Analyst at Pax8 | Auto-alert. Pax8 comp was below floor in tracker. |
-| LinkedIn (alert) | jobalerts-noreply@linkedin.com | Data Scientist at Judi Health | Auto-alert. Data Scientist title, not BI. |
-| PayPal | service@paypal.com | You've paid off your Pay in 4 plan! | Personal finance — final $12.42 Pay in 4 payment completed. |
-| Capital One | merchant-offers@message.capitalone.com | Congrats! Claim $10 at Pimsleur | Promotional. |
-| Carl's Jr | no-reply@email.carlsjr.com | $5 OFF $25 Is Still Available! | Promotional. |
-| Dunkin | noreply@emailinfo.dunkinrewards.com | Sip, wrap, save | Promotional. |
+| LinkedIn (alert) | jobalerts-noreply@linkedin.com | Business Intelligence Analyst at Sundayy | Auto-digest — same alert seen in yesterday's midday run. Not new recruiter outreach. |
+| LinkedIn (alert) | jobalerts-noreply@linkedin.com | Reporting Analyst II at Rocket | Auto-alert. Below target title. Not recruiter outreach. |
+| LinkedIn (alert) | jobalerts-noreply@linkedin.com | Data Analyst II - Marketing at Boost Mobile | Auto-alert. Below target title/level. Not recruiter outreach. |
+| LinkedIn (alert) | jobalerts-noreply@linkedin.com | Head of AI and Machine Learning Engineering at Gusto | Auto-alert. Engineering leadership — not BI/data analyst scope. |
+| LinkedIn (alert) | jobalerts-noreply@linkedin.com | Data Scientist I at Fanatics | Auto-alert. Gambling industry (excluded). Wrong title. |
+| Upstart | info@eml.upstart.com | Congrats, James! You're on a roll with on-time payments | Personal finance — loan eligibility notice. Not job-related. |
+| Maverik | rewards@maverik.com | They say it's your birthday! | Birthday promo. Not job-related. |
 
 **No new application responses since yesterday.** No emails from Crocs HR, Zillow, Machinify, Hone Health, Advanced Energy, Shutterfly, or Trimble.
 
@@ -55,78 +52,24 @@ No action required. Crocs offer accepted May 18, onboarding complete. Prep files
 
 *JP is employed at Crocs — logged for market awareness only in case of future need.*
 
-### From LinkedIn Job Alert (Jul 23-25, 2026)
+**Web search unavailable today** — the search service returned an error during this run. No new postings were scanned beyond LinkedIn alert digests.
 
-| Company | Role | Comp | Location | Fit | Notes |
-|---------|------|------|----------|-----|-------|
-| Honest Health | Sr. Business Intelligence Analyst | Not listed | Remote, US | Strong | Separate company from Hone Health (applied May 12). Worth watching if re-entry needed. |
-| Enlyte | Senior Business Intelligence Analyst | Not listed | Remote, US | Unknown stack | Insurance/healthcare SaaS. Stack and comp unconfirmed. |
-| Imagine Pediatrics | Senior Business Intelligence Analyst | Not listed | Remote, US | Healthcare | Pediatric healthcare. Stack TBD. |
-| Verisma | Sr. Business Intelligence Developer | Not listed | Remote, US | Healthcare | Healthcare data/coding. Stack TBD. |
-| Aroha Technologies | Business Intelligence Analyst | Not listed | Remote, US | Not Senior | Staffing/consulting firm. |
+### From LinkedIn Job Alert Digests (Jul 26–27, 2026)
 
-### From Greenhouse.io Search
+No new leads worth flagging beyond what was logged in yesterday's brief. The LinkedIn alert "Business Intelligence Analyst at Sundayy" was already noted in yesterday's midday update. Other alerts today (Reporting Analyst II at Rocket, Data Analyst II at Boost Mobile) are below target title/level.
 
-| Company | Role | Comp | Location | Fit | Notes |
-|---------|------|------|----------|-----|-------|
-| Trace3 | Sr. Data Analyst / BI | Not listed | Remote | Strong | NEW req — different from the closed Sr. BI Developer req in tracker. Power BI + semantic models. |
-| Openly | Sr. Business Intelligence Analyst | Not listed | Remote, US | Strong | Insurance SaaS. Remote. Stack TBD. Fresh posting. |
-| Point C | Senior Power BI Developer | Not listed | TBD | Power BI explicit | Developer title = more engineering scope than analyst. |
-| RxSense | Senior BI Developer | Not listed | TBD | Healthcare | Pharmacy/healthcare data. Stack TBD. |
-
-### From Built In Colorado
-
-| Company | Role | Comp | Location | Fit | Notes |
-|---------|------|------|----------|-----|-------|
-| EverDriven Technologies | Business Intelligence Analyst | Not listed | CO | Not Senior | Ed-tech/student transport SaaS. Below target title. |
-
-Market signal: Power BI + SQL senior roles remain active and remote-friendly. Best new names this cycle: Honest Health (Sr. BI, remote), Trace3 (new req, remote), and Openly (Sr. BIA, remote).
+*Carry forward from previous best passive leads: eMoney Advisor (Sr. BIA, remote fintech), Honest Health (Sr. BI, remote), Trace3 (new Sr. BI req, remote), Openly (Sr. BIA, remote).*
 
 ---
 
 ## Recommended Actions Today
 
-1. **No urgent job search actions** — search concluded May 18, 2026 with Crocs hire. Day 56 (Sunday). Rest.
-2. **Silence LinkedIn job alerts** — inbox continues receiving 4-6 automated digests daily. Not recruiter messages. Manage at linkedin.com/jobs/preferences.
-3. **Update LinkedIn profile** — if "Open to Work" frame is still showing, remove it and update current title to "Sr. Business Intelligence Analyst at Crocs."
-4. **Bookmark for future reference** — Trace3 (new Sr. BI req), Openly (Sr. BIA, remote), and Honest Health (Sr. BIA, remote) are the strongest passive leads this week. No action needed now.
-5. **Consider pausing or reducing this routine to weekly** — daily runs are producing inbox noise summaries with no actionable job search signals. A weekly cadence (e.g., every Monday) would be sufficient.
+1. **No urgent job search actions** — search concluded May 18, 2026 with Crocs hire. Day 57 (Monday, first day of work week back in office Tue/Thu).
+2. **Consider pausing or reducing this routine to weekly** — daily runs continue producing only LinkedIn auto-alert summaries with no recruiter outreach or actionable signals. A weekly Monday cadence would be sufficient passive monitoring.
+3. **Silence LinkedIn job alerts** — inbox continues receiving 4–6 automated digests daily. Not recruiter messages. Manage at linkedin.com/jobs/preferences.
+4. **LinkedIn profile hygiene** — confirm "Open to Work" frame is removed and current title reflects "Sr. Business Intelligence Analyst at Crocs."
+5. **Carry forward passive bookmarks** — eMoney Advisor, Honest Health, Trace3, and Openly remain the strongest passive market signals from this week. No action needed while employed.
 
 ---
 
-*Morning agent — 2026-07-26T13:30:00 UTC*
-
----
-
-## Midday Update — 12:00 PM MDT
-
-### New Emails Since Morning
-
-One new LinkedIn job alert arrived at 16:24 UTC (10:24 AM MDT) — digest titled "Business Intelligence Analyst at Sundayy." No recruiter outreach. No responses from Crocs, Zillow, Machinify, or any tracked company. All other inbox items are pre-morning-run or non-job (Nextdoor neighborhood alerts, eBay auction, Gratsi wine promo).
-
-| Sender | Subject | Assessment |
-|--------|---------|------------|
-| LinkedIn (alert) | Business Intelligence Analyst at Sundayy | Auto-digest — 5 roles listed (see New Leads). Not recruiter outreach. |
-
-### New Leads Found Midday
-
-*All for passive market awareness — JP employed at Crocs.*
-
-| Company | Role | Comp | Location | Link | Fit |
-|---------|------|------|----------|------|-----|
-| eMoney Advisor | Senior Business Intelligence Analyst | Not listed | Remote, US | [LinkedIn alert](https://www.linkedin.com/jobs/) | ✅ Fintech-adjacent (financial planning SaaS); exact title match |
-| Sundayy | Business Intelligence Analyst | Not listed | Remote, US | [LinkedIn alert](https://www.linkedin.com/jobs/) | ⚠️ Not Senior title; job-aggregation platform — internal analytics role |
-| Digital Media Solutions | Sr. BI & Analytics Analyst | Not listed | Remote, US | [LinkedIn alert](https://www.linkedin.com/jobs/) | ❌ Ad-tech (excluded industry) |
-
-*Filtered out: Data Analyst at Sundayy (not senior), Data Analyst at Solace (not BI title).*
-
-**Best new passive lead:** eMoney Advisor Sr. BIA — financial planning software (fintech-adjacent, acceptable industry), exact title, remote US. Worth bookmarking for future reference.
-
-### Afternoon Priority
-
-1. **No urgent actions** — JP is employed at Crocs. Day 56 (Sunday). Rest.
-2. **Bookmark eMoney Advisor** — only new passive lead worth tracking; search their careers page if re-entry ever needed.
-3. **Strongly consider pausing to weekly cadence** — today's midday run produced 1 passive bookmark and no recruiter outreach for the third consecutive run. Weekly monitoring would be sufficient.
-
----
-*Midday agent — 2026-07-26T18:00:00 UTC*
+*Morning agent — 2026-07-27T13:00:00 UTC*
