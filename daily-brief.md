@@ -1,3 +1,70 @@
+# Job Search Brief — 2026-07-28 | Morning
+
+> **STATUS: EMPLOYED — Day 58 (Tuesday — in-office day, Interlocken Broomfield).** Sr. Business Intelligence Analyst at Crocs. Started June 2026. Search closed. This routine continues for pipeline record-keeping and passive market awareness.
+
+---
+
+## Gmail — New Activity
+
+No new responses from tracked application companies overnight or this morning.
+
+| Company | Sender | Subject | Summary |
+|---------|--------|---------|---------|
+| LinkedIn (alert) | jobalerts-noreply@linkedin.com | Principal Product Operations Manager, Benefits at Gusto | Auto-alert. Operations role — not BI/analyst scope. Not recruiter outreach. |
+| LinkedIn (alert) | jobs-noreply@linkedin.com | Senior Data Analyst at Boost Mobile | Auto-digest — below target title. Not recruiter outreach. |
+| LinkedIn (alert) | jobalerts-noreply@linkedin.com | Data Scientist at Microsoft | Auto-alert. Data Science title — not BI analyst scope. |
+| Italo Treno | italo@mailing.italotreno.it | Raggiungi le Dolomiti con Italo da 8,90€! | Italian rail marketing. Not job-related. |
+| YETI | noreply@yeti.com | Please review your recent YETI product(s) | Product review request. Not job-related. |
+| Credible | support@email.credible.com | James, check your options for a personal loan today | Financial marketing. Not job-related. |
+
+**Note:** Facilitron/Insight Global InMail from Josiah Mayo (Jul 27) was fully documented in yesterday evening's update. No new BI-specific recruiter outreach overnight.
+
+**No new application responses. No emails from Crocs HR, Zillow, Machinify, Hone, Advanced Energy, Shutterfly, or Trimble.**
+
+---
+
+## Pipeline — Action Required Today
+
+No active applications requiring follow-up. Job search closed May 18, 2026.
+
+All previously open applications (Zillow ×2, Machinify, Hone Health, Advanced Energy, Shutterfly, Trimble) are 2+ months past follow-up windows and presumed expired. Ready-to-Apply rows (EverCommerce, Tilt Finance, Boulevard, Engine, Mercer Advisors, Stellantis, NMI) were never submitted — moot since Crocs hire.
+
+---
+
+## Interview Prep Reminder
+
+No action required. Crocs offer accepted May 18, onboarding complete.
+
+---
+
+## New Leads Found (Passive Awareness)
+
+*JP is employed at Crocs — logged for market awareness only.*
+
+Three web searches run this morning: (1) general Power BI/BI Analyst remote 2026, (2) Built In Colorado senior BI/Power BI hybrid Denver, (3) LinkedIn/Greenhouse/Lever senior BI July 2026. All searches returned aggregate job board listing pages only — no specific new postings with full detail surfaced. Built In Colorado returned HTTP 403 on direct page fetch. Market snapshot: 1,300+ active Power BI remote roles on Glassdoor (July 2026), senior BI analyst comp ranging $98K–$177K for senior profiles.
+
+| Company | Role | Comp | Location | Fit | Notes |
+|---------|------|------|----------|-----|-------|
+| Facilitron (contract) | Technical Data Analyst | $50–55/hr ($90–115K FTE) | Remote | ⚠️ Contract, below floor, JP employed | Already logged yesterday evening. Insight Global (Josiah Mayo). |
+
+*Carry forward bookmarks from yesterday's evening run: Trace3 (new Sr BI Dev req, Power BI, remote), Openly (Sr BIA, remote insurance tech), OppFi (Sr BIA, fintech), StarRez (Sr BIA, ed-tech SaaS).*
+
+---
+
+## Recommended Actions Today
+
+1. **No active job search actions** — Day 58 (Tuesday in-office at Interlocken Broomfield). Employed at Crocs. Search closed.
+2. **LinkedIn "Open to Work" still visible** — recruiter InMail yesterday confirmed profile still shows "Open to Work" frame. Update profile at linkedin.com → Profile → Open to Work → Stop sharing, and update headline to reflect Sr. BIA at Crocs.
+3. **Consider reducing brief to weekly cadence** — three consecutive daily runs have yielded only automated LinkedIn alerts and one contract recruiter outreach. A Monday-only cadence would provide sufficient passive market coverage while employed.
+4. **Josiah Mayo / Insight Global** — BI-focused recruiter who proactively sourced JP. Contact archived for future reference if circumstances change.
+5. **Passive bookmarks** — Trace3 new Power BI req is the strongest passive signal this week. No action needed while employed at Crocs.
+
+---
+
+*Morning agent — 2026-07-28T13:00:00 UTC*
+
+---
+
 # Job Search Brief — 2026-07-27 | Morning
 
 > **STATUS: EMPLOYED — Day 57 (Monday).** Sr. Business Intelligence Analyst at Crocs, Broomfield CO (Hybrid Tue+Thu, Interlocken). Started June 2026. Up to $127K. Contact: Mike Gura (mgura@crocs.com). Job search is closed. This routine continues for pipeline record-keeping and passive market awareness.
