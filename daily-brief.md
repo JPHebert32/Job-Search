@@ -65,6 +65,40 @@ Three web searches run this morning: (1) general Power BI/BI Analyst remote 2026
 
 ---
 
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+| Sender | Subject | Assessment |
+|--------|---------|------------|
+| no.reply.alerts@chase.com | Your Rapid Rewards Priority Visa automatic payment is scheduled | Chase auto-notification. Credit card payment reminder. Not job-related. |
+| jobalerts-noreply@linkedin.com | Data Scientist, Finance at Figma | LinkedIn auto-alert. Data Scientist title — not BI/analyst scope. Not recruiter outreach. |
+
+**No new application responses. No recruiter outreach. No emails from Crocs HR or any tracked company since morning run.**
+
+### New Leads Found Midday
+
+*Passive market awareness only — JP is employed at Crocs (Day 58).*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| Clio | Senior Business Intelligence Analyst | Not listed | Fully Remote (legal tech SaaS — verify US-eligible) | welcometothejungle.com/en/companies/clio | ⚠️ Legal tech (acceptable industry). Remote. Comp unknown. JP employed — passive bookmark only. |
+| Cherry Bekaert | Senior BI Developer | Not listed | Denver CO / Remote | jobleads.com (Power BI + dashboards + data strategy) | ⚠️ Consulting/advisory firm (not in preferred industries). Power BI explicit. Denver local. Passive bookmark only. |
+| Mizkan America | Sr BI Analyst | Not listed | Not listed | LinkedIn job alert (overnight Jul 27) | ⚠️ Consumer food brand. BI Analyst title matches. Comp unknown. JP employed — passive note only. |
+
+Mercer Advisors and OppFi carry-forward from prior runs remain the strongest passive BI-specific leads on Greenhouse.
+
+### Afternoon Priority
+
+1. **No job search actions required** — Day 58 at Crocs (Tuesday, in-office at Interlocken Broomfield). Search is closed.
+2. **LinkedIn "Open to Work" frame** — flagged again this morning. Still visible to recruiters. Remove at linkedin.com → Profile → Open to Work → Stop sharing, and update headline to reflect Sr. BIA at Crocs.
+3. **Consider switching to weekly cadence** — fourth consecutive daily run with no recruiter outreach or application responses. A Monday-only brief provides sufficient passive market awareness while employed.
+
+---
+*Midday agent — 2026-07-28T18:00:00 UTC*
+
+---
+
 # Job Search Brief — 2026-07-27 | Morning
 
 > **STATUS: EMPLOYED — Day 57 (Monday).** Sr. Business Intelligence Analyst at Crocs, Broomfield CO (Hybrid Tue+Thu, Interlocken). Started June 2026. Up to $127K. Contact: Mike Gura (mgura@crocs.com). Job search is closed. This routine continues for pipeline record-keeping and passive market awareness.
