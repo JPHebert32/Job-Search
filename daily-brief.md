@@ -1,3 +1,49 @@
+# Job Search Brief — 2026-07-29 | Midday
+
+> **STATUS: EMPLOYED — Day 59 (Wednesday — WFH day).** Sr. Business Intelligence Analyst at Crocs, Broomfield CO. Started June 2026. Search closed. This routine continues for pipeline record-keeping and passive market awareness.
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+*(No morning agent entry found for July 29 — midday agent is first run of the day.)*
+
+| Sender | Subject | Assessment |
+|--------|---------|------------|
+| noreply@github.com | **Your personal access token (classic) is about to expire** | ⚠️ **ACTION REQUIRED** — GitHub PAT named "JP Job Search" (with admin:enterprise, admin:org, admin:repo_hook, admin:public_key scopes) is expiring soon. Renew at github.com/settings/tokens or this routine will fail to push commits to the job-search repo. |
+| jobalerts-noreply@linkedin.com | Analyst, Digital Analytics at American Airlines | LinkedIn auto-alert. Digital Analytics title, airline industry — not BI/Power BI analyst scope. Not recruiter outreach. |
+| jobalerts-noreply@linkedin.com | Business Intelligence Analyst at Anaconda | LinkedIn auto-alert. Anaconda is a data science platform company. Title below Senior target. Not recruiter outreach. Passive note only. |
+| jobalerts-noreply@linkedin.com | Senior Analyst, Analytics - Client Reporting at Judi Health (×2) | LinkedIn auto-alert (duplicate). Healthcare analytics, Client Reporting focus — not BI/Power BI scope. Not recruiter outreach. |
+| messages-noreply@linkedin.com | New skill available: Puzzle solving | LinkedIn gamification notification. Not job-related. |
+| noreplycomms@jeffco.k12.co.us | An Important Update Regarding Federal Funding and District Legal Action | Jefferson County Schools district notice. Not job-related. |
+| Various | Domino's, Carl's Jr., Citi, Chase, Frontier, Total Wine, Nextdoor, etc. | Personal/promotional. Not job-related. |
+
+**No new responses from tracked companies. No BI-specific recruiter outreach. One actionable non-job item: GitHub PAT expiration (see Afternoon Priority).**
+
+### New Leads Found Midday
+
+*Passive market awareness only — JP is employed at Crocs (Day 59).*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| Anaconda | Business Intelligence Analyst | Not listed | Remote (data science/Python tools company) | greenhouse.io/anaconda | ⚠️ Below Senior title. Tech-adjacent industry. No comp listed. JP employed — passive note only. |
+
+All Greenhouse searches returned the same carry-forward leads (StarRez, Mercer Advisors, Hone Health, OppFi, Motley Fool) already documented in prior runs. No new senior BI postings surfaced on Built In Colorado (EverDriven BIA was confirmed closed June 5, 2026). Web searches returned aggregate listing pages only — no new specific postings with comp/link detail.
+
+*Carry forward passive bookmarks: Trace3 (new Sr BI Dev, Power BI, remote), Openly (Sr BIA, remote), Mercer Advisors (Sr BI, Power BI + Azure Synapse, remote).* 
+
+### Afternoon Priority
+
+1. **⚠️ Renew GitHub Personal Access Token** — Email from GitHub: PAT named "JP Job Search" is about to expire. Renew at [github.com/settings/tokens](https://github.com/settings/tokens) to keep this routine functioning. Takes ~2 minutes.
+2. **LinkedIn "Open to Work" frame** — Flagged again across multiple daily runs. Remove at linkedin.com → Profile → Open to Work → Stop sharing. Update headline to reflect Sr. BIA at Crocs.
+3. **No active job search actions required** — Day 59 (Wednesday WFH at Crocs). Search is closed.
+
+---
+*Midday agent — 2026-07-29T18:00:00 UTC*
+
+---
+
 # Job Search Brief — 2026-07-28 | Morning
 
 > **STATUS: EMPLOYED — Day 58 (Tuesday — in-office day, Interlocken Broomfield).** Sr. Business Intelligence Analyst at Crocs. Started June 2026. Search closed. This routine continues for pipeline record-keeping and passive market awareness.
