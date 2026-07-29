@@ -66,7 +66,6 @@ No action required. Crocs offer accepted May 18, onboarding complete. Prep files
 ## Midday Update — 12:00 PM MDT
 
 ### New Emails Since Morning
-*(No morning agent entry found for July 29 — midday agent is first run of the day.)*
 
 | Sender | Subject | Assessment |
 |--------|---------|------------|
@@ -74,9 +73,11 @@ No action required. Crocs offer accepted May 18, onboarding complete. Prep files
 | jobalerts-noreply@linkedin.com | Analyst, Digital Analytics at American Airlines | LinkedIn auto-alert. Digital Analytics title, airline industry — not BI/Power BI analyst scope. Not recruiter outreach. |
 | jobalerts-noreply@linkedin.com | Business Intelligence Analyst at Anaconda | LinkedIn auto-alert. Anaconda is a data science platform company. Title below Senior target. Not recruiter outreach. Passive note only. |
 | jobalerts-noreply@linkedin.com | Senior Analyst, Analytics - Client Reporting at Judi Health (×2) | LinkedIn auto-alert (duplicate). Healthcare analytics, Client Reporting focus — not BI/Power BI scope. Not recruiter outreach. |
+| jobalerts-noreply@linkedin.com | Reporting Analyst II at Rocket | LinkedIn auto-alert. Below Senior target title. Not recruiter outreach. No action. |
+| advancedenergy-jobnotification@noreply.jobs2web.com | New jobs posted from jobs.advanced-energy.com | Advanced Energy talent community notification (JP joined community May 13 when applying). Automated digest — new AE postings, not a personal recruiter contact. AE application (May 13) remains in presumed-expired status. |
 | messages-noreply@linkedin.com | New skill available: Puzzle solving | LinkedIn gamification notification. Not job-related. |
 | noreplycomms@jeffco.k12.co.us | An Important Update Regarding Federal Funding and District Legal Action | Jefferson County Schools district notice. Not job-related. |
-| Various | Domino's, Carl's Jr., Citi, Chase, Frontier, Total Wine, Nextdoor, etc. | Personal/promotional. Not job-related. |
+| Various | Domino's, Carl's Jr., Citi, Chase, Capital One, Starbucks, Nextdoor, etc. | Personal/promotional. Not job-related. |
 
 **No new responses from tracked companies. No BI-specific recruiter outreach. One actionable non-job item: GitHub PAT expiration (see Afternoon Priority).**
 
