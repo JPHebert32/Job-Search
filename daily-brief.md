@@ -1,3 +1,62 @@
+# Job Search Brief — 2026-07-29 | Morning
+
+> **STATUS: EMPLOYED — Day 59 (Wednesday — WFH day).** Sr. Business Intelligence Analyst at Crocs, Broomfield CO. Started June 2026. Search closed. This routine continues for pipeline record-keeping and passive market awareness.
+
+---
+
+## Gmail — New Activity
+
+| Company | Sender | Subject | Summary |
+|---------|--------|---------|---------|
+| LinkedIn | jobalerts-noreply@linkedin.com | Data Scientist, Finance at Figma | Automated job alert digest (Jul 28, 16:24 UTC). 6 roles listed — all Data Scientist titles (Figma, Why Hiring, Voleon Group, Crossing Hurdles, Elder Research, Haystack). None match BI/Power BI target profile. Alert is tuned for "data scientist in Littleton" — consider retargeting or silencing. |
+
+No emails from Crocs HR, Zillow, Machinify, Hone Health, Advanced Energy, Shutterfly, Trimble, or any other tracked company in the past 24 hours. No BI-specific recruiter outreach.
+
+---
+
+## Pipeline — Action Required Today
+
+No active applications requiring follow-up. Job search closed May 18, 2026.
+
+*Ready-to-Apply rows on record (never submitted — moot since Crocs hire): EverCommerce (R-104002), Tilt Finance, Boulevard, Engine, Mercer Advisors, Stellantis (white whale), NMI.*
+
+---
+
+## Interview Prep Reminder
+
+No action required. Crocs offer accepted May 18, onboarding complete. Prep files archived in `prep/`.
+
+---
+
+## New Leads Found (Passive Awareness)
+
+*JP is employed at Crocs — logged for market awareness only.*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| Ivanti | Senior Business Intelligence Analyst | Not listed | Remote | [greenhouse.io](https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7660106003) | ✅ Power BI explicit, 4+ yrs DAX/M/semantic modeling. Strong technical match. Remote. Bookmark if circumstances change. |
+| Level Access | Senior GTM Operations BI Analyst | Not listed | Not listed | [greenhouse.io](https://job-boards.greenhouse.io/levelaccess/jobs/8645260002) | ✅ Power BI + Databricks (matches JP stack). GTM/revenue analytics focus. |
+| OppFi | Senior Analyst, Business Intelligence | Not listed | Flexible Remote | [greenhouse.io](https://job-boards.greenhouse.io/opploans/jobs/7643812003) | ⚠️ Multi-tool (Tableau/Power BI/Looker). Fintech (acceptable). Carry-forward. |
+| EverDriven Technologies | Business Intelligence Analyst | Not listed | Denver CO | [builtincolorado.com](https://www.builtincolorado.com/job/business-intelligence-analyst/9311898) | ⚠️ Below Senior title. Local Denver — worth a passive note. |
+
+*LinkedIn alert (Jul 28): Data Scientist roles at Figma, Why Hiring, Voleon Group, Crossing Hurdles, Elder Research, Haystack — all wrong title/scope for JP.*
+
+---
+
+## Recommended Actions Today
+
+1. **No active job search actions** — Day 59 (Wednesday WFH at Crocs). Search is closed.
+2. **⚠️ GitHub PAT expiring soon** — Midday run flagged a GitHub email: PAT named "JP Job Search" is about to expire. Renew at [github.com/settings/tokens](https://github.com/settings/tokens) to keep this routine functioning.
+3. **LinkedIn "Open to Work" frame** — Still visible per recent runs. Remove at linkedin.com → Profile → Open to Work → Stop sharing. Update headline to reflect Sr. BIA at Crocs.
+4. **LinkedIn job alert retargeting** — Current alert fires on "data scientist in Littleton." Retarget to BI/Power BI or silence — managing at linkedin.com/jobs/preferences.
+5. **Consider switching to weekly cadence** — Daily runs consistently yield only LinkedIn auto-alerts and occasional contract recruiter outreach. A Monday-only brief is sufficient for passive market awareness while employed.
+
+---
+
+*Morning agent — 2026-07-29T00:00:00 UTC*
+
+---
+
 # Job Search Brief — 2026-07-29 | Midday
 
 > **STATUS: EMPLOYED — Day 59 (Wednesday — WFH day).** Sr. Business Intelligence Analyst at Crocs, Broomfield CO. Started June 2026. Search closed. This routine continues for pipeline record-keeping and passive market awareness.
