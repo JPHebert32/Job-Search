@@ -61,6 +61,49 @@ Web search service was **unavailable** this run. LinkedIn recommendation digest 
 
 ---
 
+## Midday Update — 12:00 PM MDT
+
+> **STATUS: EMPLOYED — Day 60 (Thursday — in-office at Interlocken Broomfield).** No active job search actions required.
+
+### New Emails Since Morning
+
+| Sender | Subject | Assessment |
+|--------|---------|------------|
+| dse_NA3@docusign.net (Isabella Branca, Hanger) | **Complete with Docusign: hebert_AOR.pdf** | ⚠️ **Personal/Medical — Action May Be Required.** DocuSign request for an "Appointment of Representative" document from Anthem Blue Cross, sent via Hanger (hanger.com — orthotics/prosthetics provider). This is an insurance appeal authorization form, not job-related. Review and sign if appropriate. |
+| jobalerts-noreply@linkedin.com | Business Intelligence Analyst I at BAE Systems, Inc. | LinkedIn auto-alert (Jul 29 digest). Level I analyst — below target seniority. Defense contractor — excluded industry. No action. |
+| jobalerts-noreply@linkedin.com | Power BI Developer at McBride | LinkedIn auto-alert (Jul 27 digest). McBride is a consulting firm. Power BI developer title. No comp/remote details in alert — passive note only. |
+| jobalerts-noreply@linkedin.com | Head of Sales Data Science & Analytics at Gusto | LinkedIn auto-alert (Jul 28 digest). Leadership/DS scope — not BI analyst. No action. |
+| SouthwestAirlines@iluv.southwest.com | $59 sale! FINAL DAY | Promotional. Not job-related. |
+| Various | Nextdoor, LinkedIn updates, Linux Foundation, Capital One, Colorado CPW | Personal/community/promotional. Not job-related. |
+
+**No new responses from tracked companies. No BI-specific recruiter outreach.**
+
+⚠️ **Notable personal item: DocuSign from Hanger/Anthem Blue Cross** — Review hebert_AOR.pdf in your inbox if this is relevant to an active insurance appeal.
+
+### New Leads Found Midday
+
+*Passive market awareness only — JP is employed at Crocs (Day 60).*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| CareDx | Senior Business Intelligence Analyst — Finance & Accounting | Not listed | Remote | [greenhouse.io](https://job-boards.greenhouse.io/caredxinc/jobs/4296488009) | ⚠️ Medical diagnostics (adjacent to healthcare — acceptable industry). Power BI + SQL + Databricks. Finance/Accounting analytics focus. Passive bookmark. |
+| Nomad Health | Senior Business Intelligence Analyst — Product Analytics | Not listed | Remote US | [greenhouse.io](https://job-boards.greenhouse.io/nomadhealth/jobs/5357320004) | ⚠️ Healthcare staffing marketplace. Product analytics + BI tools incl. Power BI. Remote US. Passive bookmark. |
+
+Previously documented carry-forwards confirmed still active: Openly (Sr BIA, remote), Ivanti (Sr BIA, Power BI explicit), Level Access (Sr GTM BI Analyst), Mercer Advisors (Sr BI, Power BI + Azure Synapse). No new senior BI postings on Built In Colorado beyond EverDriven (confirmed closed) and Pax8 (eliminated — below floor).
+
+LinkedIn alerts surfaced BAE Systems BIA I (defense, below target) and McBride Power BI Developer (consulting, no detail). Neither is worth pursuing — defense is excluded, McBride has no comp/remote confirmation.
+
+### Afternoon Priority
+
+1. **⚠️ Review DocuSign in inbox** — Appointment of Representative (Anthem Blue Cross/Hanger) may need your signature if related to an active insurance appeal. Non-job, but time-sensitive depending on appeal deadline.
+2. **⚠️ Renew GitHub PAT** — Flagged across multiple days. Token named "JP Job Search" is past or near expiration. Renew at github.com/settings/tokens to keep this routine functioning.
+3. **Remove LinkedIn "Open to Work"** — Still flagged across 5+ consecutive runs. Update at linkedin.com → Profile → Open to Work → Stop sharing. Update headline to "Sr. Business Intelligence Analyst at Crocs."
+
+---
+*Midday agent — 2026-07-30T19:00:00Z UTC*
+
+---
+
 # Job Search Brief — 2026-07-29 | Morning
 
 > **STATUS: EMPLOYED — Day 59 (Wednesday — WFH day).** Sr. Business Intelligence Analyst at Crocs, Broomfield CO. Started June 2026. Search closed. This routine continues for pipeline record-keeping and passive market awareness.
