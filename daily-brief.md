@@ -1,3 +1,66 @@
+# Job Search Brief — 2026-07-30 | Morning
+
+> **STATUS: EMPLOYED — Day 60 (Thursday — in-office day, Interlocken Broomfield).** Sr. Business Intelligence Analyst at Crocs. Started June 2026. Search closed. Routine continues for passive market awareness.
+
+---
+
+## Gmail — New Activity
+
+No emails from Crocs HR or any tracked application company in the past 48 hours.
+
+| Company | Sender | Subject | Summary |
+|---------|--------|---------|---------|
+| LinkedIn | jobs-noreply@linkedin.com | "Walker & Dunlop is hiring for a Remote role" | Algorithmic job recommendation digest (Jul 29, 8:13 PM UTC). Highlights: (1) **Walker & Dunlop — Senior BI Analyst, Remote US** (marked "Top applicant"); (2) Hello Heart — Senior Data Analyst, Go-To-Market, Remote US; (3) Rapid Finance — BI Data Analyst, Bethesda (non-remote, filtered); (4) Bank of Utah — BIA, Salt Lake City (non-remote, filtered). Not recruiter outreach — automated LinkedIn Jobs recommendations. |
+
+⚠️ **LinkedIn profile still shows "Open to Work"** — multiple prior runs have flagged this. Profile header still reads "Senior Data Analyst & BI Specialist | 4 Years Power BI | Open to Work." JP is now on Day 60 at Crocs. Update when able.
+
+⚠️ **GitHub PAT expiration** — flagged in yesterday's midday brief (Jul 29). If not yet renewed, this routine may stop working. Renew at [github.com/settings/tokens](https://github.com/settings/tokens).
+
+---
+
+## Pipeline — Action Required Today
+
+No active applications requiring follow-up. Job search closed May 18, 2026.
+
+Ready-to-Apply rows still on record (never submitted — moot since Crocs hire): EverCommerce (R-104002), Tilt Finance, Boulevard, Engine, Mercer Advisors, Stellantis (white whale), NMI.
+
+---
+
+## Interview Prep Reminder
+
+No action required. Crocs offer accepted May 18, onboarding complete. Prep files archived in `prep/`.
+
+---
+
+## New Leads Found (Passive Awareness)
+
+*JP is employed at Crocs — logged for market awareness only.*
+
+Web search service was **unavailable** this run. LinkedIn recommendation digest from yesterday evening surfaced:
+
+| Company | Role | Comp | Location | Fit | Notes |
+|---------|------|------|----------|-----|-------|
+| Walker & Dunlop | Senior BI Analyst | Not listed | Remote US | ✅ | CRE/commercial real estate lending. LinkedIn ID 4423012461. Marked "Top applicant" by LinkedIn. Power BI likely in financial services BI. Strong title match. Passive bookmark. |
+| Hello Heart | Senior Data Analyst, Go-To-Market | Not listed | Remote US | ⚠️ | Digital health tech. GTM analytics focus (RevOps-adjacent, not pure BI). LinkedIn ID 4443553547. Below target — passive note only. |
+
+*Carry-forward passive bookmarks: Trace3 (new Sr BI Dev, Power BI, remote), Openly (Sr BIA, remote), Mercer Advisors (Sr BI, Power BI + Azure Synapse, remote), OppFi (Sr BIA, fintech), Clio (Sr BIA, legal tech, remote).*
+
+---
+
+## Recommended Actions Today
+
+1. **No job search actions required** — Day 60, Thursday in-office at Crocs Interlocken. Search is closed.
+2. **⚠️ Renew GitHub PAT** — flagged yesterday, still pending. Routine will break when token expires. Renew at github.com/settings/tokens (takes ~2 min).
+3. **Remove LinkedIn "Open to Work" frame** — flagged across 4+ consecutive daily runs. Update at linkedin.com → Profile → Open to Work → Stop sharing, and update headline to "Sr. Business Intelligence Analyst at Crocs."
+4. **Consider switching to weekly cadence** — five consecutive daily runs have produced only LinkedIn auto-digests and one contract recruiter outreach. Web search is intermittently unavailable. A Monday-only brief provides sufficient passive coverage while employed.
+5. **Walker & Dunlop passive bookmark** — Senior BI Analyst, Remote US, LinkedIn marked JP as "Top applicant." Worth keeping in mind if circumstances change. No action needed now.
+
+---
+
+*Morning agent — 2026-07-30T00:00:00Z UTC*
+
+---
+
 # Job Search Brief — 2026-07-29 | Morning
 
 > **STATUS: EMPLOYED — Day 59 (Wednesday — WFH day).** Sr. Business Intelligence Analyst at Crocs, Broomfield CO. Started June 2026. Search closed. This routine continues for pipeline record-keeping and passive market awareness.
