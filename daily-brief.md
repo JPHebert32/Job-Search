@@ -1,3 +1,66 @@
+# Job Search Brief — 2026-07-31 | Morning
+
+> **STATUS: EMPLOYED — Day 61 (Friday — WFH day).** Sr. Business Intelligence Analyst at Crocs, Broomfield CO (Hybrid Tue+Thu, Interlocken). Started June 2026. Up to $127K. Search closed. Routine continues for passive market awareness.
+
+---
+
+## Gmail — New Activity
+
+No new application responses or relevant recruiter outreach in the last 24 hours.
+
+| Sender | Subject | Assessment |
+|--------|---------|------------|
+| vikas.y@apetan.com | Data Engineer/Architect (Snowflake, Tableau, ETL, DBT, SQL, AWS) | Cold recruiter outreach. Data Engineer/Architect title — wrong scope for JP (BI Analyst). No action. |
+| connectingcolorado.gov | James, We Found New Jobs for You | Automated CO state job board AI match digest. No action. |
+| recruiting@vailresorts.com | Earn $20/hr Starting Wage: Join Our Restaurant Operations Team | Restaurant operations role. Completely irrelevant. |
+
+**No new responses from Crocs HR, Zillow, Machinify, Hone Health, Advanced Energy, Shutterfly, Trimble, or any other tracked company.**
+
+---
+
+## Pipeline — Action Required Today
+
+No active applications requiring follow-up. Job search closed May 18, 2026.
+
+Ready-to-Apply rows on record (never submitted — moot since Crocs hire): EverCommerce (R-104002), Tilt Finance, Boulevard, Engine, Mercer Advisors, Stellantis (white whale), NMI.
+
+---
+
+## Interview Prep Reminder
+
+No action required. Crocs offer accepted May 18, onboarding complete. Prep files in `prep/` are archived for reference.
+
+---
+
+## New Leads Found (Passive Awareness)
+
+*JP is employed at Crocs — logged for market awareness only.*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| Level Access | Sr. GTM Operations BI Analyst | Not listed | Remote | [greenhouse.io](https://job-boards.greenhouse.io/levelaccess/jobs/8645260002) | ✅ Power BI 5+ yrs, Databricks — strong stack match; GTM/revenue analytics focus |
+| Enverus | Sr. Business Intelligence Analyst, Revenue Operations | Not listed | Denver CO / Remote | [builtincolorado.com](https://www.builtincolorado.com/job/senior-business-intelligence-analyst-revenue-operations-24478dd/189684) | ✅ Power BI explicit; energy SaaS; local Denver — bookmark if search resumes |
+| The Motley Fool | Sr. Business Intelligence Engineer | Not listed | Remote US | [greenhouse.io](https://job-boards.greenhouse.io/themotleyfool/jobs/5108196007) | ⚠️ Engineer title (may skew ETL/infra); fintech/media; posted Jun 22 2026 |
+| DigitalOcean | Sr. Business Intelligence Engineer | Not listed | Remote | [builtincolorado.com](https://www.builtincolorado.com/job/senior-business-intelligence-engineer/6832358) | ⚠️ Engineer scope; cloud infra company; comp unknown |
+
+*Carry-forward bookmarks: Trace3 (Sr BI Dev, Power BI, remote), Openly (Sr BIA, remote), Mercer Advisors (Sr BI, Power BI + Azure Synapse), OppFi (Sr BIA, fintech).*
+
+---
+
+## Recommended Actions Today
+
+1. **No active job search actions** — Day 61 (Friday WFH at Crocs). Search is closed.
+2. **⚠️ Renew GitHub PAT** — Flagged across 3+ consecutive daily runs. Token named "JP Job Search" is at or past expiration. Renew at [github.com/settings/tokens](https://github.com/settings/tokens) (~2 min) to keep this routine functioning.
+3. **Remove LinkedIn "Open to Work" frame** — Flagged across 5+ daily runs. Update at linkedin.com → Profile → Open to Work → Stop sharing. Update headline to "Sr. Business Intelligence Analyst at Crocs."
+4. **Consider switching to weekly cadence** — Daily runs consistently yield only automated LinkedIn alerts and occasional off-target recruiter outreach. A Monday-only brief is sufficient for passive market awareness while employed.
+5. **Level Access & Enverus passive bookmarks** — Both are Power BI-explicit senior BI roles (remote and local Denver respectively). Worth keeping for reference if circumstances change at Crocs.
+
+---
+
+*Morning agent — 2026-07-31T00:00:00Z UTC*
+
+---
+
 # Job Search Brief — 2026-07-30 | Morning
 
 > **STATUS: EMPLOYED — Day 60 (Thursday — in-office day, Interlocken Broomfield).** Sr. Business Intelligence Analyst at Crocs. Started June 2026. Search closed. Routine continues for passive market awareness.
