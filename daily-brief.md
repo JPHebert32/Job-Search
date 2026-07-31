@@ -61,6 +61,49 @@ No action required. Crocs offer accepted May 18, onboarding complete. Prep files
 
 ---
 
+## Midday Update — 12:00 PM MDT
+
+> **STATUS: EMPLOYED — Day 61 (Friday — WFH day at Crocs).** No active job search. Passive market awareness only.
+
+### New Emails Since Morning
+
+| Sender | Subject | Assessment |
+|--------|---------|------------|
+| noreplyM365@crocs.com (Crocs/Glint) | **Crocs, Inc. Onboarding Pulse** | ⚠️ **Action Recommended** — Your employer Crocs is requesting feedback on your onboarding experience via a Glint survey. Worth completing as a new employee (~Day 61). Check your inbox and respond when convenient. |
+| nitin.chandola@infojiniconsulting.com / sasha.s@infojiniconsulting.com | "Urgent hiring for Manufacturing Engineer in Henderson CO 80640" | Cold recruiter outreach (Infojini Inc.) — Manufacturing Engineer role. Completely wrong title and scope. No action. |
+| jobalerts-noreply@linkedin.com | "Business Intelligence Analyst at EquipmentShare" | LinkedIn auto-alert (Jul 28 digest). EquipmentShare is a construction equipment B2B marketplace. Title is "Business Intelligence Analyst" (below Senior target). Not recruiter outreach. Passive note only. |
+| jobalerts-noreply@linkedin.com | "Retirement Sales Account Executive at Gusto" / "Data Scientist at Sundayy" | LinkedIn auto-alerts. Wrong roles/scope entirely. No action. |
+| notifications-noreply@linkedin.com | "You appeared in 10 searches" | LinkedIn profile still getting recruiter views — likely from "Open to Work" frame still active. No action on searches, but confirms profile is visible. |
+| vailresortsdonotreply@noreply.jobs2web.com | "New jobs at Vail Resorts for you!" | Automated Vail Resorts talent community alert (Data & Reporting Analyst — HR, Broomfield CO). Automated digest from talent community membership. Not BI analyst scope. No action. |
+| Multiple (Target Circle, Jersey Mike's, Nintendo, Citi ThankYou, Total Wine) | Birthday greetings and offers | 🎂 **Happy Birthday, JP!** — Today is July 31, your birthday. Personal. |
+| Various | Domino's, Nextdoor, Carl's Jr., Capital One, Wells Fargo, Upstart, Misfits Market, BoteBoard | Personal/promotional. Not job-related. |
+
+**No new responses from tracked companies (Crocs HR, Zillow, Machinify, Shutterfly, or any other). No BI-specific recruiter outreach.**
+
+⚠️ **Notable work item: Crocs Onboarding Pulse** — Glint survey from your employer in your inbox. Complete when you have a few minutes.
+
+### New Leads Found Midday
+
+*Passive market awareness only — JP is employed at Crocs (Day 61).*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| AB InBev / BEES (Growth Group) | Senior Data Analyst | Not listed | Remote (verify) | [greenhouse.io](https://job-boards.greenhouse.io/abinbev/jobs/8638804002) | ⚠️ Power BI + DAX + data modeling explicit; also Azure Databricks/SparkSQL. Consumer brand (beer — not in preferred industries, not excluded). "Data Analyst" title not "BI Analyst." Posted ~1 week ago. Passive bookmark. |
+| SitusAMC | Senior Business Intelligence Analyst | Not listed | Remote US | [builtincolorado.com](https://www.builtincolorado.com/job/senior-business-intelligence-analyst-tableau-remote-us/10116592) | ⚠️ Tableau-primary (not Power BI) — JP's Tableau is prior/light. Financial/mortgage analytics SaaS. Remote US. Title matches. Passive note only — Tableau gap is significant. |
+
+Carry-forward bookmarks from prior runs remain active (Level Access, Enverus, Ivanti, Mercer Advisors, Openly, OppFi). All other Greenhouse results returned carry-forward leads already documented in the morning brief. EquipmentShare BIA alert is below Senior target.
+
+### Afternoon Priority
+
+1. **🎂 Happy Birthday** — It's your birthday today (July 31). Enjoy the day.
+2. **Complete Crocs Onboarding Pulse** — Glint survey from noreplyM365@crocs.com is in your inbox. Completing it is a low-effort positive signal to your employer during onboarding (~Day 61).
+3. **⚠️ Renew GitHub PAT** — Flagged across 4+ consecutive runs. Token named "JP Job Search" is at or past expiration. Renew at [github.com/settings/tokens](https://github.com/settings/tokens) to keep this routine functioning.
+
+---
+*Midday agent — 2026-07-31T18:00:00Z UTC*
+
+---
+
 # Job Search Brief — 2026-07-30 | Morning
 
 > **STATUS: EMPLOYED — Day 60 (Thursday — in-office day, Interlocken Broomfield).** Sr. Business Intelligence Analyst at Crocs. Started June 2026. Search closed. Routine continues for passive market awareness.
