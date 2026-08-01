@@ -1,3 +1,70 @@
+# Job Search Brief — 2026-08-01 | Morning
+
+> **STATUS: EMPLOYED — Day 62 (Saturday — weekend).** Sr. Business Intelligence Analyst at Crocs, Broomfield CO (Hybrid Tue+Thu, Interlocken). Started June 2026. Up to $127K. Search closed. Routine continues for passive market awareness.
+
+---
+
+## Gmail — New Activity
+
+| Company | Sender | Subject | Summary |
+|---------|--------|---------|---------|
+| **Crocs (ACTION)** | noreplyM365@crocs.com | **Crocs, Inc. Onboarding Pulse** | ⚠️ Already flagged in Jul 31 midday run — still worth completing if not done. Crocs partnering with **Microsoft Glint** to collect onboarding feedback from new employees. Personalized to you. Click "Get Started" in the email. |
+| LinkedIn | jobs-noreply@linkedin.com | Rapid Finance is hiring for a Fintech role — BI Data Analyst | LinkedIn job recommendation (Jul 31, 8:13 PM UTC). Rapid Finance is a fintech lender. BI Data Analyst title — below Senior target. Not recruiter outreach. Passive note. |
+| LinkedIn | jobalerts-noreply@linkedin.com | Business Intelligence Analyst at Teleion: up to $150K/year | LinkedIn auto-alert (Jul 31). Teleion — up to $150K comp noted. Below Senior target title (plain BI Analyst). No more detail available from alert. |
+| LinkedIn | jobalerts-noreply@linkedin.com | Business Intelligence Analyst at EquipmentShare | LinkedIn auto-alert (Jul 28 digest). B2B construction equipment marketplace. Below Senior target title. |
+| LinkedIn | jobalerts-noreply@linkedin.com | Business Intelligence Analyst at STV | LinkedIn auto-alert (Jul 29). Engineering/infrastructure firm. Below Senior target title. Defense-adjacent. |
+| LinkedIn | jobalerts-noreply@linkedin.com | Studio+ Adobe CJA Developer - Senior at EY | LinkedIn auto-alert (Jul 29). Adobe Customer Journey Analytics scope — not Power BI/BI Analyst. EY is consulting (not preferred industry). |
+| DEN Hiring Fair | workforce@connectingcolorado.gov | DEN Hiring Fair - 2026 | Denver airport hiring event follow-up from CO workforce services. Not job-related. |
+| DailyPay | noreply@dailypay.com | A quick favor - help us shape DailyPay! | Survey request from payroll service. Not job-related. |
+| Various | Synchrony, Capital One, Topgolf | Promotional / birthday follow-up | Personal/promotional. Not job-related. |
+
+**No new application responses from Zillow, Machinify, Hone Health, Advanced Energy, Shutterfly, Trimble, or any other tracked company.**
+
+---
+
+## Pipeline — Action Required Today
+
+No active applications requiring follow-up. Job search closed May 18, 2026.
+
+Ready-to-Apply rows still on record (never submitted — moot given Crocs hire): EverCommerce (R-104002), Tilt Finance, Boulevard, Engine, Mercer Advisors, Stellantis (white whale), NMI.
+
+---
+
+## Interview Prep Reminder
+
+No action required. Crocs offer accepted May 18, onboarding complete. Prep files in `prep/` are archived for reference.
+
+---
+
+## New Leads Found (Passive Awareness)
+
+*JP is employed at Crocs — logged for market awareness only.*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| MaintainX | Senior Business Intelligence Analyst | Not listed | Remote US (Raleigh NC / Canada) | [greenhouse.io](https://job-boards.greenhouse.io/maintainx/jobs/4860372007) | ✅ B2B SaaS (maintenance management). Senior BI title. Remote-eligible US. New this week. |
+| CommerceHub | Senior Business Intelligence Data Analyst | Not listed | Remote (Boston) | [greenhouse.io](https://boards.greenhouse.io/commercehub/jobs/4577734) | ✅ Marketplace/commerce tech. Remote. Senior title. New this run. |
+| Ivanti | Senior Business Intelligence Analyst | Not listed | Remote | [greenhouse.io](https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7660106003) | ✅ Power BI explicit. Already in carry-forward. Still active. |
+| Teleion | Business Intelligence Analyst | Up to $150K | Unknown | LinkedIn alert only | ⚠️ Comp strong; title below Senior target; unknown company — limited detail from alert alone. |
+
+*Carry-forward passive bookmarks: Trace3 (Sr BI Dev, Power BI, remote), Openly (Sr BIA, remote), Mercer Advisors (Sr BI, Power BI + Azure Synapse), Level Access (Sr GTM BI Analyst), Enverus (Sr BIA RevOps — Denver).*
+
+---
+
+## Recommended Actions Today
+
+1. **⚠️ Complete Crocs Glint Onboarding Survey** — Flagged yesterday midday, still in inbox. Open email from noreplyM365@crocs.com (Jul 31) and click "Get Started." Positive signal as a Day-62 new employee.
+2. **⚠️ Renew GitHub PAT** — Flagged across 5+ consecutive runs. PAT named "JP Job Search" is at or past expiration. Renew at github.com/settings/tokens (~2 min) or this routine will stop committing.
+3. **Remove LinkedIn "Open to Work" frame** — Flagged across 6+ consecutive daily runs. Update at linkedin.com → Profile → Open to Work → Stop sharing. Update headline to "Sr. Business Intelligence Analyst at Crocs."
+4. **No active job search actions required** — Day 62 (Saturday). Employed at Crocs. Search closed.
+5. **Consider switching to weekly cadence** — Daily runs consistently yield only automated LinkedIn alerts and no recruiter outreach. A Monday-only brief provides sufficient passive market awareness while employed.
+
+---
+
+*Morning agent — 2026-08-01T00:00:00 UTC*
+
+---
+
 # Job Search Brief — 2026-07-31 | Morning
 
 > **STATUS: EMPLOYED — Day 61 (Friday — WFH day).** Sr. Business Intelligence Analyst at Crocs, Broomfield CO (Hybrid Tue+Thu, Interlocken). Started June 2026. Up to $127K. Search closed. Routine continues for passive market awareness.
