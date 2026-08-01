@@ -65,6 +65,47 @@ No action required. Crocs offer accepted May 18, onboarding complete. Prep files
 
 ---
 
+## Midday Update — 12:00 PM MDT
+
+> **STATUS: EMPLOYED — Day 62 (Saturday).** Sr. Business Intelligence Analyst at Crocs, Broomfield CO. Search closed. Passive market awareness only.
+
+### New Emails Since Morning
+
+| Sender | Subject | Assessment |
+|--------|---------|------------|
+| dse_NA3@docusign.net (Isabella Branca, Hanger) | **Reminder: Complete with Docusign: hebert_AOR.pdf** | ⚠️ **ACTION REQUIRED — SECOND NOTICE.** DocuSign reminder for Anthem Blue Cross Appointment of Representative form. First flagged Jul 30 midday — now generating a reminder (Aug 1, 6:53 AM). Sign if related to an active insurance appeal. |
+| jobalerts-noreply@linkedin.com | Strategy and Operations Analyst at Zero Homes: up to $160K/year | LinkedIn auto-alert (Jul 30 digest, delivered Aug 1). Strategy & Operations title — not BI/analyst scope. Real estate company. High comp ($160K) but wrong role. No action. |
+| jobalerts-noreply@linkedin.com | Business System Analyst at Miller International Inc.: up to $100K/year | LinkedIn auto-alert. Below Senior BI target. Apparel brand. Below floor comp. No action. |
+| jobalerts-noreply@linkedin.com | SENIOR BUSINESS ANALYST – STRATEGIC INTEGRATION at Orange County Public Schools | LinkedIn auto-alert. Education/government — excluded industry preference. Florida location. Strategic integration scope, not BI/data viz. No action. |
+| jobalerts-noreply@linkedin.com | Gusto - Sales Associate and more | LinkedIn auto-alert. Sales role — wrong scope entirely. No action. |
+| capitalone@notification.capitalone.com | Your AutoPay payment is scheduled for August 5, 2026 | Personal/financial (×2). No action. |
+| noreply@glassdoor.com | Glassdoor is now part of Indeed | Industry announcement. Glassdoor + Indeed merger. No action. |
+| workspace-noreply@google.com | You now have exclusive access to AI features | Google Workspace Gemini AI rollout. No action. |
+| Various | Domino's, Rossignol, Dometic, Total Wine, Victorinox, Nextdoor, Synchrony, Wordsmarts, Danish collectibles | Personal/promotional/community. Not job-related. |
+
+**No new application responses or BI-specific recruiter outreach. One personal action item: DocuSign reminder (now second notice).**
+
+### New Leads Found Midday
+
+*Passive market awareness only — JP is employed at Crocs (Day 62, Saturday).*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| Jobgether | Senior Power BI Developer | Not listed | Remote (via Lever) | [lever.co](https://jobs.lever.co/jobgether/e05910b5-1c1b-456e-845c-f314d4d778f7) | ⚠️ Jobgether is a job matching platform — client company not disclosed in listing. Requires 5+ yrs Power BI enterprise development, advanced DAX/M, Power BI Desktop & Service. Strong stack match. Posted ~3 weeks ago (early July 2026). New to this brief — not logged in prior runs. Passive bookmark only. |
+
+All other Greenhouse search results returned carry-forward leads already documented: StarRez, Ivanti, CareDx, Level Access, AB InBev, Nomad Health. No new Built In Colorado senior BI postings surfaced today.
+
+### Afternoon Priority
+
+1. **⚠️ Sign the DocuSign from Hanger/Anthem Blue Cross** — hebert_AOR.pdf has now generated a second reminder notice (Aug 1 at 6:53 AM). If related to an active insurance appeal, open the email from dse_NA3@docusign.net and sign. This item is now overdue.
+2. **⚠️ Renew GitHub PAT** — Flagged across 6+ consecutive daily runs. Token named "JP Job Search" is at or past expiration. Renew at github.com/settings/tokens (~2 min) or this routine will stop committing.
+3. **No job search actions required** — Day 62 (Saturday). Employed at Crocs. Search closed.
+
+---
+*Midday agent — 2026-08-01T18:00:00Z UTC*
+
+---
+
 # Job Search Brief — 2026-07-31 | Morning
 
 > **STATUS: EMPLOYED — Day 61 (Friday — WFH day).** Sr. Business Intelligence Analyst at Crocs, Broomfield CO (Hybrid Tue+Thu, Interlocken). Started June 2026. Up to $127K. Search closed. Routine continues for passive market awareness.
