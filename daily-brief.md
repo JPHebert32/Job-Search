@@ -92,6 +92,40 @@ No new Built In Colorado senior BI postings beyond carry-forward leads. EverDriv
 
 ---
 
+## Afternoon Check — ~12:30 PM MDT
+
+> *Second firing of midday agent. No new emails since the 18:00 UTC midday run. Two new passive leads logged.*
+
+### New Emails Since Midday Run
+
+No new job-related emails since 18:00 UTC. One LinkedIn alert and two personal items received between morning and midday that weren't captured in the first midday pass:
+
+| Sender | Subject | Assessment |
+|--------|---------|------------|
+| jobalerts-noreply@linkedin.com | Data Scientist at Ascension | LinkedIn auto-alert (Aug 2, 16:24 UTC). Data Scientist title — wrong scope for BI Analyst target. Healthcare system. No action. |
+| googlefi-noreply@google.com | You switched to Google Fi's Unlimited Standard plan | ℹ️ Personal — JP's Google Fi plan changed to Unlimited Standard as of Aug 2. Not job-related. |
+| families-noreply@google.com | Offroad Outlaws installed on Knox's device | Personal — family link notification. Not job-related. |
+
+### New Leads Found (Afternoon — Passive)
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| Point C | Senior Power BI Developer | Not listed | Remote US | [greenhouse.io/pointc](https://job-boards.greenhouse.io/pointc/jobs/5277259008) | ✅ Power BI-primary, enterprise reports and dashboards. Remote US. Posted ~4 weeks ago. New this run — not in prior carry-forward. Passive bookmark. |
+| ASSYST, Inc. | Senior Business Intelligence Analyst (AI, Data Warehouse & Healthcare Analytics) | Not listed | Not listed | [greenhouse.io/assystinc](https://job-boards.greenhouse.io/assystinc/jobs/4307236009) | ❌ Government IT contractor — likely defense/federal (ASSYST is a government services firm). Excluded industry. Note only. |
+
+### Afternoon Priority
+
+*(No change from midday — see above section.)*
+
+1. **⚠️ Sign DocuSign from Hanger/Anthem Blue Cross** — hebert_AOR.pdf 3rd+ reminder notice now showing (06:28 UTC Aug 2). Sign if related to an active insurance appeal.
+2. **⚠️ Renew GitHub PAT** — Flagged 8+ consecutive runs. Token has expired; this routine cannot push to git until renewed. Go to github.com/settings/tokens → find "JP Job Search" → Renew (~2 min).
+3. **No job search actions required** — Day 63 (Sunday). Employed at Crocs. Search closed.
+
+---
+*Afternoon check — 2026-08-02T18:30:00Z UTC*
+
+---
+
 # Job Search Brief — 2026-08-01 | Morning
 
 > **STATUS: EMPLOYED — Day 62 (Saturday — weekend).** Sr. Business Intelligence Analyst at Crocs, Broomfield CO (Hybrid Tue+Thu, Interlocken). Started June 2026. Up to $127K. Search closed. Routine continues for passive market awareness.
