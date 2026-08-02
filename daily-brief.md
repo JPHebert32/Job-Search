@@ -1,3 +1,46 @@
+# Job Search Brief — 2026-08-02 | Sunday
+
+> **STATUS: EMPLOYED — Day 63 (Sunday).** Sr. Business Intelligence Analyst at Crocs, Broomfield CO (Hybrid Tue+Thu, Interlocken). Started June 2026. Search closed. Passive market awareness only.
+
+> ⚠️ **Morning brief absent from file** — morning agent likely ran but could not push due to GitHub PAT expiration (flagged 7+ consecutive runs). This is the midday run only.
+
+---
+
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+| Sender | Subject | Assessment |
+|--------|---------|------------|
+| jobalerts-noreply@linkedin.com | Data Analyst at Averna | LinkedIn auto-alert (Aug 2, 12:24 AM UTC). Data Analyst title — below Senior target, not BI scope. No action. |
+
+**No new application responses or recruiter outreach. Inbox otherwise personal/promotional only (Nextdoor, Carl's Jr., HiLo, Domino's, Rossignol, Dometic, Victorinox, Synchrony, Total Wine).**
+
+⚠️ **Carry-forward: DocuSign from Hanger/Anthem Blue Cross** — hebert_AOR.pdf still unsigned (2+ reminder notices as of Aug 1). Sign if related to an active insurance appeal.
+
+### New Leads Found Midday
+
+*Passive market awareness only — JP is employed at Crocs (Day 63, Sunday).*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| Fractal Analytics | Senior Power BI Developer | Est. $150K–$170K (Salary.com; no posted band) | Remote US | [builtinsf.com/job/senior-power-bi-developer/10247479](https://www.builtinsf.com/job/senior-power-bi-developer/10247479) | ✅ Strong stack match: Power BI-focused role, 5–7+ yrs exp required aligns with JP's profile. Fractal is a global analytics consultancy (CPG/insurance/financial verticals). Comp estimate well above floor. Verify US citizenship/eligibility note. New lead — not in prior runs. |
+
+No new Built In Colorado senior BI postings beyond carry-forward leads. EverDriven BIA ($75–85K, Greenwood Village) confirmed below floor and below Senior target. SimplePractice BIA Data Analyst (Built In CO) below Senior target title — passive note only.
+
+*Carry-forward passive bookmarks: Ivanti (Sr BIA, Power BI, remote), Level Access (Sr GTM BI Analyst, remote), MaintainX (Sr BIA, remote), CommerceHub (Sr BI Data Analyst, remote), Openly (Sr BIA, remote), Mercer Advisors (Sr BI, Power BI + Azure Synapse), Nomad Health (Sr BIA, remote), CareDx (Sr BIA, remote).*
+
+### Afternoon Priority
+
+1. **⚠️ Sign DocuSign from Hanger/Anthem Blue Cross** — hebert_AOR.pdf has generated multiple reminder notices (first Aug 1, second still pending). If related to an active insurance appeal, open email from dse_NA3@docusign.net and sign today.
+2. **⚠️ Renew GitHub PAT — Critical** — No Aug 2 morning brief in this file, consistent with PAT-expired commit failure. Routine cannot push until this is fixed. Go to github.com/settings/tokens → find "JP Job Search" token → renew (~2 min). This has been flagged 7+ consecutive runs.
+3. **No job search actions required** — Day 63 (Sunday). Employed at Crocs. Search closed.
+
+---
+*Midday agent — 2026-08-02T18:00:00Z UTC*
+
+---
+
 # Job Search Brief — 2026-08-01 | Morning
 
 > **STATUS: EMPLOYED — Day 62 (Saturday — weekend).** Sr. Business Intelligence Analyst at Crocs, Broomfield CO (Hybrid Tue+Thu, Interlocken). Started June 2026. Up to $127K. Search closed. Routine continues for passive market awareness.
