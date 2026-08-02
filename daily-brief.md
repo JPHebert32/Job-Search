@@ -2,7 +2,58 @@
 
 > **STATUS: EMPLOYED — Day 63 (Sunday).** Sr. Business Intelligence Analyst at Crocs, Broomfield CO (Hybrid Tue+Thu, Interlocken). Started June 2026. Search closed. Passive market awareness only.
 
-> ⚠️ **Morning brief absent from file** — morning agent likely ran but could not push due to GitHub PAT expiration (flagged 7+ consecutive runs). This is the midday run only.
+---
+
+## Morning Brief — 2026-08-02
+
+### Gmail — New Activity
+
+No new application responses, recruiter outreach, or job-related emails since yesterday.
+
+| Sender | Subject | Assessment |
+|--------|---------|------------|
+| noreply@dailypay.com | A quick favor - help us shape DailyPay! | DailyPay survey. Not job-related. |
+| offers@e-offers.dominos.com | Don't miss this offer on in-app orders | Promotional. Not job-related. |
+
+---
+
+### Pipeline — Action Required Today
+
+No active applications. Job search closed May 18, 2026 (Crocs offer accepted).
+
+Ready-to-Apply rows still in tracker (moot — never submitted, Crocs hire complete): EverCommerce (R-104002), Tilt Finance, Boulevard, Engine, Mercer Advisors, Stellantis (white whale), NMI.
+
+---
+
+### Interview Prep Reminder
+
+No action required. Crocs offer accepted May 18 — onboarding complete. Prep files in `prep/` archived for reference.
+
+---
+
+### New Leads Found (Passive Awareness)
+
+*JP is employed at Crocs — logged for passive market awareness only.*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| Ivanti | Senior Business Intelligence Analyst | Not listed | Remote US | [greenhouse.io/ivanti](https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7660106003) | ✅ Power BI primary (DAX, semantic modeling, M), 4+ yrs. Remote-friendly. Already in carry-forward list. |
+| Level Access | Senior GTM Operations BI Analyst | Not listed | Remote US | [greenhouse.io/levelaccess](https://job-boards.greenhouse.io/levelaccess/jobs/8645260002) | ✅ Power BI + Databricks (strong stack match). GTM/revenue analytics. Already in carry-forward list. |
+| StarRez | Senior Business Intelligence Analyst | Not listed | Remote (verify) | [greenhouse.io/starrez](https://job-boards.greenhouse.io/starrez/jobs/5118067008) | ⚠️ Higher ed SaaS — acceptable industry. Verify Power BI vs. Tableau. New this run. |
+| SitusAMC | Senior Business Intelligence Analyst — Tableau | $100K–$150K | Remote US | [builtincolorado.com](https://www.builtincolorado.com/job/senior-business-intelligence-analyst-tableau-remote-us/10116592) | ⚠️ Tableau primary — JP Tableau is prior not current. Comp clears floor. Financial services. Note only. |
+| EverDriven Technologies | Business Intelligence Analyst | Not listed | Greenwood Village CO | [builtincolorado.com](https://www.builtincolorado.com/job/business-intelligence-analyst/9311898) | ❌ Below Senior target title. Local Colorado. Power BI match but seniority gap. |
+
+---
+
+### Recommended Actions Today
+
+1. **⚠️ CRITICAL: Renew GitHub PAT** — 8+ consecutive morning push failures. Go to github.com/settings/tokens → renew "JP Job Search" token (~2 min). Morning briefs have not pushed since late July.
+2. **Complete Crocs onboarding pulse survey** — Microsoft Glint survey email from noreplyM365@crocs.com still pending (flagged Aug 1). Complete today.
+3. **Sign DocuSign — Hanger/Anthem Blue Cross** — hebert_AOR.pdf has generated multiple reminder notices (dse_NA3@docusign.net). Sign if related to active insurance appeal.
+4. No active job search actions required — Day 63, Sunday, search closed.
+
+---
+*Morning agent — 2026-08-02T08:00:00Z UTC*
 
 ---
 
