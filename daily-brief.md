@@ -1,3 +1,70 @@
+# Job Search Brief — 2026-08-03 | Morning
+
+> **STATUS: EMPLOYED — Day 64 (Monday — WFH day).** Sr. Business Intelligence Analyst at Crocs, Broomfield CO (Hybrid Tue+Thu, Interlocken). Started June 2026. Up to $127K. Contact: Mike Gura (mgura@crocs.com). Search closed. Routine continues for passive market awareness.
+
+---
+
+## Gmail — New Activity
+
+No direct application responses from any tracked company. LinkedIn job alert digests only.
+
+| Sender | Subject | Assessment |
+|--------|---------|------------|
+| LinkedIn | Business Intelligence Analyst at **Enlyte** (7/31 alert) | BI title — new lead this run; insurtech/legal payments company. See New Leads below. |
+| LinkedIn | Senior Analyst at **Angi** (8/1 alert) | Denver home services marketplace — vague title. Likely RevOps/business analyst scope, not Power BI BI. No action. |
+| LinkedIn | Commercial Data Analyst at **Leiters** — up to $90K (8/1 alert) | Pharma compounding. Below $115K floor ❌ |
+| LinkedIn | Strategy and Operations Analyst at **Zero Homes** — up to $160K (8/1 alert) | S&O scope — not BI/data viz. No action. |
+| LinkedIn | AVP, Analytics at **Synchrony** (8/2 alert) | VP-level, financial services — wrong scope/level. No action. |
+| DailyPay | Reminder: A quick favor - help us shape DailyPay! (8/1) | Survey. Not job-related. |
+
+**No recruiter outreach. No BI-specific cold contacts. No responses from Zillow, Machinify, Hone Health, Advanced Energy, Shutterfly, or Trimble.**
+
+---
+
+## Pipeline — Action Required Today
+
+No active applications requiring follow-up. Search closed May 18, 2026.
+
+Ready-to-Apply rows still on record (never submitted — moot since Crocs hire): EverCommerce (R-104002), Tilt Finance, Boulevard, Engine, Mercer Advisors, Stellantis (white whale), NMI.
+
+---
+
+## Interview Prep Reminder
+
+No action required. Crocs offer accepted May 18, onboarding complete. Prep files in `prep/` are archived.
+
+---
+
+## New Leads Found (Passive Awareness)
+
+*JP is employed at Crocs — logged for market awareness only.*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| **Enlyte** | Business Intelligence Analyst | Not listed | Unknown | LinkedIn alert 7/31/2026 | ⚠️ New this run. Enlyte is a workers' comp/auto insurance tech company (Mitchell International parent). BI title matches but not Senior. Stack unknown. Comp unknown. Passive bookmark only. |
+| **StarRez** | Senior Business Intelligence Analyst | Not listed | Remote (verify) | greenhouse.io/starrez/jobs/5118067008 | ⚠️ Carry-forward from Aug 2 run. Higher-ed SaaS — acceptable industry. Verify Power BI vs. Tableau. |
+| **Openly** | Senior Business Intelligence Analyst | Not listed | Remote US | boards.greenhouse.io/openly/jobs/4340737005 | ✅ Carry-forward. Insurtech (acceptable). Remote. Check stack. |
+| **Point C** | Senior Power BI Developer | Not listed | Remote US | job-boards.greenhouse.io/pointc/jobs/5277259008 | ✅ Carry-forward from Aug 2 afternoon run. Power BI explicit. Enterprise reports + dashboard ownership. Posted ~4–5 weeks ago — may be aging. |
+| **Trace3** *(new req)* | Senior Data Analyst \| BI | Not listed | Remote US | greenhouse.io/trace3/jobs/6832978 | ⚠️ Carry-forward. Different from the CLOSED Feb 2026 req (6338462). Power BI likely given Trace3 partnership history. Comp unknown. |
+
+No new Built In Colorado senior BI postings surfaced today beyond carry-forward list.
+
+---
+
+## Recommended Actions Today
+
+1. **⚠️ CRITICAL: Renew GitHub PAT — Now Overdue** — Flagged across 9+ consecutive daily runs. Token named "JP Job Search" is expired; this is why morning briefs have not pushed to GitHub since late July. Renew at github.com/settings/tokens (~2 min). It's Monday — good time to knock this out.
+2. **⚠️ Sign DocuSign hebert_AOR.pdf (Hanger/Anthem Blue Cross)** — 3rd+ reminder notice as of Aug 2. Appointment of Representative form for Anthem Blue Cross. Sign via dse_NA3@docusign.net email if related to an active insurance appeal — this item is overdue.
+3. **Remove LinkedIn "Open to Work" frame** — Flagged across 8+ consecutive runs. Recruiters' InMails confirm it is still visible. Update at linkedin.com → Profile → Open to Work → Stop sharing. Update headline to "Sr. Business Intelligence Analyst at Crocs."
+4. **Consider switching to weekly cadence** — Daily runs continue producing only LinkedIn auto-digests and no recruiter outreach. A Monday-only brief provides full passive coverage while employed and would reduce inbox noise.
+5. **Passive review: Point C Senior Power BI Developer** — Strongest new-ish passive lead (Power BI explicit, remote). Visit job-boards.greenhouse.io/pointc/jobs/5277259008 for comp/seniority details; bookmark if circumstances change.
+
+---
+
+*Morning agent — 2026-08-03T00:00:00 UTC*
+
+---
+
 # Job Search Brief — 2026-08-02 | Sunday
 
 > **STATUS: EMPLOYED — Day 63 (Sunday).** Sr. Business Intelligence Analyst at Crocs, Broomfield CO (Hybrid Tue+Thu, Interlocken). Started June 2026. Search closed. Passive market awareness only.
