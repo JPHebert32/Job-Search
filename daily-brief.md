@@ -65,6 +65,40 @@ No new Built In Colorado senior BI postings surfaced today beyond carry-forward 
 
 ---
 
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+| Sender | Subject | Assessment |
+|--------|---------|------------|
+| mukund@apetan.com | Remote Cloud Engineer (Databricks) – 12-Month Contract Opportunity | Cold recruiter outreach (Apetan Inc. — same firm as prior ML Engineer outreach). Databricks L1 Support Engineer, 12-month contract. Wrong title, wrong employment type. JP employed at Crocs. No action. |
+| jobalerts-noreply@linkedin.com | Gusto - Sales Compensation Analyst and more (8/2/2026 digest) | LinkedIn auto-alert. Sales Compensation Analyst at Gusto — analytics-adjacent but not BI/Power BI scope. No action. |
+| dse_NA3@docusign.net | Reminder: Complete with Docusign: hebert_AOR.pdf | ⚠️ **4th+ notice.** DocuSign reminder for Anthem Blue Cross Appointment of Representative (Hanger/Isabella Branca). Arrived 6:34 AM MDT today. Sign if related to active insurance appeal — this is now well overdue. |
+| Various | Citi, Credible, Total Wine, Shop, Upstart, Misfits Market, BOTE Board, ParentSquare (Jeffco → ParentSquare migration), ARS A/C service, Southwest, Google Fi monthly statement, Colorado Avalanche Alumni | Personal/promotional/household. Not job-related. |
+
+**No new application responses or BI-specific recruiter outreach since morning. One cold contract outreach (wrong role). DocuSign now generating 4th+ reminder.**
+
+### New Leads Found Midday
+
+*Passive market awareness only — JP is employed at Crocs (Day 64, Monday).*
+
+Built In Colorado search returned only carry-forward leads (Enverus Sr BIA RevOps, SitusAMC Sr BIA Tableau) already documented in prior runs. Web search returned only aggregate job board pages — no specific new postings with comp/link detail surfaced this midday. No new leads to add beyond carry-forward list.
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| — | — | — | — | — | No new leads this midday. Carry-forward list unchanged from morning brief. |
+
+### Afternoon Priority
+
+1. **⚠️ Sign DocuSign from Hanger/Anthem Blue Cross — Now 4th+ Notice** — hebert_AOR.pdf arrived again this morning (6:34 AM MDT). This is an Appointment of Representative form for Anthem Blue Cross. If related to an active insurance appeal, open email from dse_NA3@docusign.net and sign today. Repeated automated reminders indicate a deadline may be approaching.
+2. **⚠️ Renew GitHub PAT — Still Overdue** — Flagged across 10+ consecutive runs. "JP Job Search" token expired; this routine cannot push to GitHub until renewed. Takes ~2 min at github.com/settings/tokens.
+3. **Remove LinkedIn "Open to Work" frame** — Flagged 9+ consecutive runs. Still visible to recruiters (confirmed by cold outreach targeting). Update at linkedin.com → Profile → Open to Work → Stop sharing. Update headline to "Sr. Business Intelligence Analyst at Crocs."
+
+---
+*Midday agent — 2026-08-03T18:00:00Z UTC*
+
+---
+
 # Job Search Brief — 2026-08-02 | Sunday
 
 > **STATUS: EMPLOYED — Day 63 (Sunday).** Sr. Business Intelligence Analyst at Crocs, Broomfield CO (Hybrid Tue+Thu, Interlocken). Started June 2026. Search closed. Passive market awareness only.
