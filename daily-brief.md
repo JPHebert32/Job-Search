@@ -62,6 +62,48 @@ No action required. Crocs offer accepted May 18, onboarding complete. Prep files
 
 ---
 
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+| Sender | Subject | Assessment |
+|--------|---------|------------|
+| dse_NA3@docusign.net | **Completed: Complete with Docusign: hebert_AOR.pdf** | ✅ **RESOLVED — DocuSign completed.** Confirmation received Aug 3 at 7:51 PM MDT. All parties (including Isabella Branca, Hanger) have signed. Appointment of Representative for Anthem Blue Cross is now complete. Flagged 4+ consecutive runs as overdue — **flag cleared**. No further action required. |
+| noreply@github.com | [GitHub] Your personal access token (classic) is about to expire | ⚠️ Carry-forward. "JP Job Search" PAT with admin:enterprise and org scopes is expiring. Renew at github.com/settings/tokens. Flagged 12+ consecutive runs. |
+| jobalerts-noreply@linkedin.com | Senior BI Analyst at HealthEdge (posted 8/1/2026) | New lead — HealthEdge is a healthcare IT/payer tech company. Senior BI Analyst title matches target. Remote per iCIMS careers page (job #8170). Comp not listed. See New Leads below. |
+| jobalerts-noreply@linkedin.com | Data Analyst at Sand Cherry: up to $110K/year (posted 8/3) | Sand Cherry is a Denver data/analytics consulting firm. Data Analyst title is below Senior target; up to $110K is below $115K floor. No action. |
+| jobalerts-noreply@linkedin.com | Analyst, Business Intelligence - Stores at Petco (posted 8/2) | Retail industry (not in preferred list). No "Senior" qualifier — below target title. No action. |
+| jobalerts-noreply@linkedin.com | Senior Media Analyst at FactSet / AVP Analytics at Synchrony / Data Scientist at Evlo AI | LinkedIn auto-alerts. Wrong title or scope for BI Analyst target. No action. |
+| no.reply.alerts@chase.com | Your credit card statement is available (Chase ...9697) | Personal/financial — statement ready, $9,490.29 balance due 8/28/2026. Not job-related. |
+| fantasy@espnmail.com | You're Invited to Join an ESPN Fantasy Hockey League | Personal. Not job-related. |
+| donotreply@parentsquare.com | Welcome to the 26/27 School Year! (Summit Ridge Middle) | Personal — back-to-school notice for Knox. Not job-related. |
+| Various | Rossignol, Total Wine, Carl's Jr., Southwest, Italo Treno, Nextdoor, Domino's, Dometic, Synchrony, Google Play, Skylight, Gratsi, LIM359 | Personal/promotional. Not job-related. |
+
+**No new application responses or BI-specific recruiter outreach. DocuSign (hebert_AOR.pdf) now completed — 4+ run flag cleared.**
+
+### New Leads Found Midday
+
+*Passive market awareness only — JP is employed at Crocs (Day 65, Tuesday in-office at Interlocken Broomfield).*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| **HealthEdge** | Senior BI Analyst | Not listed | Remote US | [careers-healthedge.icims.com/jobs/8170](https://careers-healthedge.icims.com/jobs/8170/senior-bi-analyst/job) | ⚠️ New this run (LinkedIn alert 8/1/2026). HealthEdge is a healthcare IT company (payer administration software — ClaimLogik, HealthRules Payor). Healthcare industry — acceptable with caution per JP's profile. Senior title matches. Stack unconfirmed (iCIMS page requires auth). Comp not listed. Passive bookmark. |
+
+Built In Colorado returned HTTP 403 this run. Greenhouse search returned the same carry-forward leads (StarRez, Openly, Ivanti, CareDx, Level Access, Jobgether Sr Power BI Dev) — all already documented in prior runs. No new leads beyond HealthEdge.
+
+*Carry-forward passive bookmarks: NeueHealth (Sr BIA, greenhouse, healthcare), Ivanti (Sr BIA, Power BI, remote), CareDx (Sr BIA, Finance/Accounting, remote), Point C (Sr Power BI Developer, remote), Fractal Analytics (Sr Power BI Dev, est. $150K–$170K, remote), Level Access (Sr GTM BI Analyst, Power BI + Databricks, remote), StarRez (Sr BIA, remote), Openly (Sr BIA, remote), Trace3 (Sr BI Dev, Power BI, remote).*
+
+### Afternoon Priority
+
+1. **✅ DocuSign RESOLVED — No Further Action** — hebert_AOR.pdf completed Aug 3 at 7:51 PM MDT. All parties signed. Four-plus-run flag is cleared.
+2. **⚠️ Renew GitHub PAT — 12+ Notice, Critical** — Token named "JP Job Search" is still expired; morning briefs cannot push to GitHub. Renew at github.com/settings/tokens (~2 min). It's a Tuesday in-office day — handle during a break.
+3. **Remove LinkedIn "Open to Work" frame** — Flagged 11+ consecutive runs. Profile actively generating off-target job alerts. Update at linkedin.com → Profile → Open to Work → Stop sharing. Update headline to "Sr. Business Intelligence Analyst at Crocs."
+
+---
+*Midday agent — 2026-08-04T18:00:00Z UTC*
+
+---
+
 # Job Search Brief — 2026-08-03 | Morning
 
 > **STATUS: EMPLOYED — Day 64 (Monday — WFH day).** Sr. Business Intelligence Analyst at Crocs, Broomfield CO (Hybrid Tue+Thu, Interlocken). Started June 2026. Up to $127K. Contact: Mike Gura (mgura@crocs.com). Search closed. Routine continues for passive market awareness.
@@ -300,7 +342,7 @@ No new job-related emails since 18:00 UTC. One LinkedIn alert and two personal i
 ## Gmail — New Activity
 
 | Company | Sender | Subject | Summary |
-|---------|--------|---------|---------|
+|---------|--------|---------|----------|
 | **Crocs (ACTION)** | noreplyM365@crocs.com | **Crocs, Inc. Onboarding Pulse** | ⚠️ Already flagged in Jul 31 midday run — still worth completing if not done. Crocs partnering with **Microsoft Glint** to collect onboarding feedback from new employees. Personalized to you. Click "Get Started" in the email. |
 | LinkedIn | jobs-noreply@linkedin.com | Rapid Finance is hiring for a Fintech role — BI Data Analyst | LinkedIn job recommendation (Jul 31, 8:13 PM UTC). Rapid Finance is a fintech lender. BI Data Analyst title — below Senior target. Not recruiter outreach. Passive note. |
 | LinkedIn | jobalerts-noreply@linkedin.com | Business Intelligence Analyst at Teleion: up to $150K/year | LinkedIn auto-alert (Jul 31). Teleion — up to $150K comp noted. Below Senior target title (plain BI Analyst). No more detail available from alert. |
@@ -350,7 +392,7 @@ No action required. Crocs offer accepted May 18, onboarding complete. Prep files
 2. **⚠️ Renew GitHub PAT** — Flagged across 5+ consecutive runs. PAT named "JP Job Search" is at or past expiration. Renew at github.com/settings/tokens (~2 min) or this routine will stop committing.
 3. **Remove LinkedIn "Open to Work" frame** — Flagged across 6+ consecutive daily runs. Update at linkedin.com → Profile → Open to Work → Stop sharing. Update headline to "Sr. Business Intelligence Analyst at Crocs."
 4. **No active job search actions required** — Day 62 (Saturday). Employed at Crocs. Search closed.
-5. **Consider switching to weekly cadence** — Daily runs consistently yield only automated LinkedIn alerts and no recruiter outreach. A Monday-only brief provides sufficient passive market awareness while employed.
+5. **Consider switching to weekly cadence** — Daily runs consistently yield only automated LinkedIn alerts and no recruiter outreach. A Monday-only cadence would provide sufficient passive market awareness while employed.
 
 ---
 
@@ -516,7 +558,7 @@ Carry-forward bookmarks from prior runs remain active (Level Access, Enverus, Iv
 No emails from Crocs HR or any tracked application company in the past 48 hours.
 
 | Company | Sender | Subject | Summary |
-|---------|--------|---------|---------|
+|---------|--------|---------|----------|
 | LinkedIn | jobs-noreply@linkedin.com | "Walker & Dunlop is hiring for a Remote role" | Algorithmic job recommendation digest (Jul 29, 8:13 PM UTC). Highlights: (1) **Walker & Dunlop — Senior BI Analyst, Remote US** (marked "Top applicant"); (2) Hello Heart — Senior Data Analyst, Go-To-Market, Remote US; (3) Rapid Finance — BI Data Analyst, Bethesda (non-remote, filtered); (4) Bank of Utah — BIA, Salt Lake City (non-remote, filtered). Not recruiter outreach — automated LinkedIn Jobs recommendations. |
 
 ⚠️ **LinkedIn profile still shows "Open to Work"** — multiple prior runs have flagged this. Profile header still reads "Senior Data Analyst & BI Specialist | 4 Years Power BI | Open to Work." JP is now on Day 60 at Crocs. Update when able.
@@ -620,7 +662,7 @@ LinkedIn alerts surfaced BAE Systems BIA I (defense, below target) and McBride P
 ## Gmail — New Activity
 
 | Company | Sender | Subject | Summary |
-|---------|--------|---------|---------|
+|---------|--------|---------|----------|
 | LinkedIn | jobalerts-noreply@linkedin.com | Data Scientist, Finance at Figma | Automated job alert digest (Jul 28, 16:24 UTC). 6 roles listed — all Data Scientist titles (Figma, Why Hiring, Voleon Group, Crossing Hurdles, Elder Research, Haystack). None match BI/Power BI target profile. Alert is tuned for "data scientist in Littleton" — consider retargeting or silencing. |
 
 No emails from Crocs HR, Zillow, Machinify, Hone Health, Advanced Energy, Shutterfly, Trimble, or any other tracked company in the past 24 hours. No BI-specific recruiter outreach.
@@ -728,7 +770,7 @@ All Greenhouse searches returned the same carry-forward leads (StarRez, Mercer A
 No new responses from tracked application companies overnight or this morning.
 
 | Company | Sender | Subject | Summary |
-|---------|--------|---------|---------|
+|---------|--------|---------|----------|
 | LinkedIn (alert) | jobalerts-noreply@linkedin.com | Principal Product Operations Manager, Benefits at Gusto | Auto-alert. Operations role — not BI/analyst scope. Not recruiter outreach. |
 | LinkedIn (alert) | jobs-noreply@linkedin.com | Senior Data Analyst at Boost Mobile | Auto-digest — below target title. Not recruiter outreach. |
 | LinkedIn (alert) | jobalerts-noreply@linkedin.com | Data Scientist at Microsoft | Auto-alert. Data Science title — not BI analyst scope. |
@@ -829,7 +871,7 @@ Mercer Advisors and OppFi carry-forward from prior runs remain the strongest pas
 No new responses from tracked application companies. Inbox since yesterday (Jul 26):
 
 | Company | Sender | Subject | Summary |
-|---------|--------|---------|---------|
+|---------|--------|---------|----------|
 | LinkedIn (alert) | jobalerts-noreply@linkedin.com | Business Intelligence Analyst at Sundayy | Auto-digest — same alert seen in yesterday's midday run. Not new recruiter outreach. |
 | LinkedIn (alert) | jobalerts-noreply@linkedin.com | Reporting Analyst II at Rocket | Auto-alert. Below target title. Not recruiter outreach. |
 | LinkedIn (alert) | jobalerts-noreply@linkedin.com | Data Analyst II - Marketing at Boost Mobile | Auto-alert. Below target title/level. Not recruiter outreach. |
@@ -849,7 +891,7 @@ No active applications requiring follow-up. Job search closed May 18, 2026.
 Open items still on record (all follow-up windows expired — retained for passive reference only):
 
 | Company | Status | Last Note |
-|---------|--------|----------|
+|---------|--------|-----------|
 | Zillow Home Loans (P749151) | Applied — In Process | No update since Apr 28 — likely expired |
 | Zillow Preferred Strategy (P750075) | Applied | Confirmation May 6 — likely expired |
 | Machinify | Applied | Follow-up window passed May 13 |
@@ -933,7 +975,7 @@ No new leads to log.
 ### New Emails Since Midday
 
 | Company | Sender | Subject | Summary |
-|---------|--------|---------|---------|
+|---------|--------|---------|----------|
 | Facilitron (via LinkedIn) | inmail-hit-reply@linkedin.com | Facilitron - Technical Data Analyst (Product Focused) - Remote Contract Opportunity | **Genuine recruiter InMail.** Josiah Mayo, Recruiter at Insight Global (Bellevue WA), sourced JP's profile. Role: Technical Data Analyst at Facilitron, 6–12 month contract-to-hire, 100% Remote. Pay: $50–$55/hr ($90K–$115K FTE equivalent). Stack: SQL, BI dashboards, Snowflake preferred, dbt preferred. Product-focused analytics ownership. ⚠️ Contract employment type + comp at/below floor + JP is employed at Crocs → no action required. Archived for passive reference. |
 | ML Recruiter | atul@apetan.com | Job Opportunity \|\| machine learning engineer \|\| 100% Remote | Previously noted at midday. ML Engineer / GAP contract. Wrong role/type. |
 | Colorado Workforce | workforcebusinessservices@connectingcolorado.gov | Kelly Education Hiring Event | Substitute teacher alert. Not relevant. |
