@@ -1,3 +1,69 @@
+# Job Search Brief — 2026-08-05 | Morning
+
+> **STATUS: EMPLOYED — Day 66 (Wednesday — WFH day).** Sr. Business Intelligence Analyst at Crocs, Broomfield CO (Hybrid Tue+Thu, Interlocken). Started June 2026. Up to $127K. Contact: Mike Gura (mgura@crocs.com). Search closed. Routine continues for passive market awareness.
+
+---
+
+## Gmail — New Activity
+
+No new application responses or BI-specific recruiter outreach in the last 24 hours.
+
+| Sender | Subject | Assessment |
+|--------|---------|------------|
+| fanindra@siriinfo.com (Siri Info Solutions) | Re: Hiring Machine Learning Engineer :: Austin, TX (Onsite) :: Long term | Cold recruiter outreach — same Siri Info Solutions / Apetan pattern seen in prior runs. Machine Learning Engineer, Austin TX onsite, long-term contract. Wrong title, wrong location, wrong employment type. No action. |
+| jobalerts-noreply@linkedin.com | Data Analyst at Sundayy (posted 8/2/2026) | LinkedIn auto-alert. Below Senior target title, unknown company. No action. |
+| jobalerts-noreply@linkedin.com | Jr. Data Scientist at Why Hiring (posted 8/3/2026) | LinkedIn auto-alert. Junior level, Data Science scope — wrong role entirely. No action. |
+| jobalerts-noreply@linkedin.com | Senior Data Analyst at Pathfinders Executive Search: up to $70K/year (posted 8/3) | LinkedIn auto-alert. Comp well below $115K floor ❌. No action. |
+| jobalerts-noreply@linkedin.com | Data Analyst at Sand Cherry: up to $110K/year (posted 8/3) | LinkedIn auto-alert. Sand Cherry is a Denver data/analytics consulting firm. Below Senior title and $5K below floor. Already noted in Aug 4 midday run. No action. |
+
+**No new responses from Zillow, Machinify, Hone Health, Advanced Energy, Shutterfly, Trimble, or any other tracked company.**
+
+---
+
+## Pipeline — Action Required Today
+
+No active applications requiring follow-up. Job search closed May 18, 2026.
+
+Ready-to-Apply rows still on record (never submitted — moot given Crocs hire): EverCommerce (R-104002), Tilt Finance, Boulevard, Engine, Mercer Advisors, Stellantis (white whale), NMI.
+
+---
+
+## Interview Prep Reminder
+
+No action required. Crocs offer accepted May 18, onboarding complete. Prep files in `prep/` archived for reference.
+
+---
+
+## New Leads Found (Passive Awareness)
+
+*JP is employed at Crocs — logged for market awareness only.*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| Ivanti | Senior Business Intelligence Analyst | Not listed | Remote-friendly | [greenhouse.io/ivanti](https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7660106003) | ✅ Carry-forward. Power BI explicit, 4+ yrs DAX/M/semantic modeling. Still active in searches. |
+| Level Access | Senior GTM Operations BI Analyst | Not listed | Remote US | [greenhouse.io/levelaccess](https://job-boards.greenhouse.io/levelaccess/jobs/8645260002) | ✅ Carry-forward. Power BI + Databricks (strong stack match). Still active. |
+| MaintainX | Senior Business Intelligence Analyst | Not listed | Remote US | [greenhouse.io/maintainx](https://job-boards.greenhouse.io/maintainx/jobs/4860372007) | ✅ Carry-forward. B2B SaaS (maintenance management). Power BI or Tableau listed. Still active. |
+| HealthEdge | Senior BI Analyst | Not listed | Remote US | [careers-healthedge.icims.com/jobs/8170](https://careers-healthedge.icims.com/jobs/8170/senior-bi-analyst/job) | ⚠️ Carry-forward from Aug 4 midday. Healthcare IT (payer administration software). Stack unconfirmed. Borderline industry preference. |
+| NeueHealth | Senior Business Intelligence Analyst | Not listed | Unknown | [greenhouse.io/neuehealth](https://job-boards.greenhouse.io/neuehealth/jobs/5765660004) | ⚠️ Carry-forward. Healthcare. Power BI (2+ yrs req). Verify remote eligibility. |
+
+*All Greenhouse searches this run returned carry-forward leads only — no new postings beyond what was documented Aug 4. Built In Colorado returned HTTP 403. Web search returned aggregate job board pages only.*
+
+*Carry-forward passive bookmarks: Fractal Analytics (Sr Power BI Dev, est. $150K–$170K, remote), Point C (Sr Power BI Dev, remote), Trace3 new req (Sr BI Dev, Power BI, remote), StarRez (Sr BIA, remote), Openly (Sr BIA, remote).*
+
+---
+
+## Recommended Actions Today
+
+1. **⚠️ CRITICAL: Renew GitHub PAT — 13th+ Notice** — Token named "JP Job Search" is expired; morning briefs have failed to push for 13+ consecutive runs. Renew at github.com/settings/tokens (~2 min). Today is Wednesday WFH — handle during a morning break.
+2. **Remove LinkedIn "Open to Work" frame — 12th+ Notice** — Still visible to recruiters; confirms profile is still attracting off-target alerts and outreach. Update at linkedin.com → Profile → Open to Work → Stop sharing. Update headline to "Sr. Business Intelligence Analyst at Crocs."
+3. **Consider switching to weekly cadence** — Flagged across 5+ consecutive runs. Daily runs consistently yield only LinkedIn auto-digests and off-target contract recruiter outreach. A Monday-only brief provides full passive market coverage while employed.
+
+---
+
+*Morning agent — 2026-08-05T00:00:00 UTC*
+
+---
+
 # Job Search Brief — 2026-08-04 | Morning
 
 > **STATUS: EMPLOYED — Day 65 (Tuesday — in-office day, Interlocken Broomfield).** Sr. Business Intelligence Analyst at Crocs, Broomfield CO (Hybrid Tue+Thu). Started June 2026. Up to $127K. Contact: Mike Gura (mgura@crocs.com). Search closed. Routine continues for passive market awareness.
