@@ -54,8 +54,8 @@ No action required. Crocs offer accepted May 18, onboarding complete. Prep files
 
 ## Recommended Actions Today
 
-1. **⚠️ CRITICAL: Renew GitHub PAT — 13th+ Notice** — Token named "JP Job Search" is expired; morning briefs have failed to push for 13+ consecutive runs. Renew at github.com/settings/tokens (~2 min). Today is Wednesday WFH — handle during a morning break.
-2. **Remove LinkedIn "Open to Work" frame — 12th+ Notice** — Still visible to recruiters; confirms profile is still attracting off-target alerts and outreach. Update at linkedin.com → Profile → Open to Work → Stop sharing. Update headline to "Sr. Business Intelligence Analyst at Crocs."
+1. **✅ GitHub PAT RENEWED — Push Succeeded** — This morning's push to `jphebert32/job-search` completed successfully (5ddf5f9..9d426b7). PAT has been renewed since the last run. 13-run push failure streak is cleared.
+2. **Remove LinkedIn "Open to Work" frame — 12th+ Notice** — Still visible to recruiters; still attracting off-target alerts and outreach. Update at linkedin.com → Profile → Open to Work → Stop sharing. Update headline to "Sr. Business Intelligence Analyst at Crocs."
 3. **Consider switching to weekly cadence** — Flagged across 5+ consecutive runs. Daily runs consistently yield only LinkedIn auto-digests and off-target contract recruiter outreach. A Monday-only brief provides full passive market coverage while employed.
 
 ---
