@@ -64,6 +64,44 @@ No action required. Crocs offer accepted May 18, onboarding complete. Prep files
 
 ---
 
+## Midday Update — 12:00 PM MDT
+
+### New Emails Since Morning
+
+| Sender | Subject | Assessment |
+|--------|---------|------------|
+| jobalerts-noreply@linkedin.com | Business Intelligence Analyst at Louisville City FC (posted 8/3/2026) | LinkedIn auto-alert. BI title matches but not Senior. Louisville City FC is a USL soccer club in Louisville, KY — relocation required. No action. |
+| jobalerts-noreply@linkedin.com | Manager of Data Analytics at Rocky Mountain Prep (posted 8/3/2026) | LinkedIn auto-alert. Charter school network (education/nonprofit). Manager scope, not BI/Power BI analyst. No action. |
+| jobalerts-noreply@linkedin.com | Data Analyst at Zero Carbon Systems: up to $130K/year (posted 8/4/2026) | LinkedIn auto-alert. Comp up to $130K clears $115K floor ✅. "Data Analyst" title below Senior target ⚠️. Clean energy company — not an excluded industry. See New Leads below. |
+| advancedenergy-jobnotification@noreply.jobs2web.com | New jobs posted from jobs.advanced-energy.com | Advanced Energy talent community automated digest (joined talent community May 13 when applying). Carry-forward/routine. AE application expired May 2026. No action. |
+
+**No new application responses or BI-specific recruiter outreach. No emails from Crocs HR or any tracked company since morning run.**
+
+### New Leads Found Midday
+
+*Passive market awareness only — JP is employed at Crocs (Day 66, Wednesday WFH).*
+
+| Company | Role | Comp | Location | Link | Fit |
+|---------|------|------|----------|------|-----|
+| **Zero Carbon Systems** | Data Analyst | Up to $130K/year | Unknown | LinkedIn alert 8/4/2026 | ⚠️ New this run (LinkedIn alert). Comp clears $115K floor. "Data Analyst" title below Senior target — verify seniority and stack before bookmarking. Clean energy (not excluded). |
+| **Nomad Health** | Senior Business Intelligence Analyst — Product Analytics | $108.5K–$130.5K (CO range) | Remote-first | [greenhouse.io/nomadhealth/jobs/5357320004](https://job-boards.greenhouse.io/nomadhealth/jobs/5357320004) | ⚠️ Carry-forward from Jul 30, but **comp now confirmed this run** — CO range midpoint ($119.5K) clears $115K floor ✅. Floor end ($108.5K) is below target. Healthcare staffing marketplace (acceptable). Product analytics scope — KPI ownership for a marketplace business. Strong technical fit. Passive bookmark elevated by comp confirmation. |
+| **CareDx** | Senior Business Intelligence Analyst — Sales & Commercial | Not listed (est. $105K–$130K market rate) | Remote US | [greenhouse.io/caredxinc/jobs/4242824009](https://job-boards.greenhouse.io/caredxinc/jobs/4242824009) | ⚠️ New req this run — different from the Finance/Accounting Sr BIA (4296488009) already in carry-forward. CareDx (Nasdaq: CDNA) is a precision medicine/transplant diagnostics company. Sales pipeline, territory performance, commercial KPI analytics. Remote eligible. Two simultaneous Sr BIA openings signals active team growth. Verify comp directly on posting. |
+
+*Built In Colorado returned HTTP 403 this run. OppFi Sr BI Analyst surfaced but comp confirmed $71.2K–$106.8K — ruled out below $115K floor. Luminis Health Sr BIA (in-office Annapolis MD, $83.6K–$122.3K) excluded by location and comp.*
+
+*Carry-forward passive bookmarks (confirmed still active this run): Ivanti (Sr BIA, Power BI, remote), Level Access (Sr GTM BI Analyst, remote), MaintainX (Sr BIA, remote), HealthEdge (Sr BI Analyst, remote), NeueHealth (Sr BIA, healthcare), Fractal Analytics (Sr Power BI Dev, est. $150K–$170K, remote), Point C (Sr Power BI Dev, remote), Trace3 (Sr BI Dev, Power BI, remote), StarRez (Sr BIA, remote), Openly (Sr BIA, remote).*
+
+### Afternoon Priority
+
+1. **No job search actions required** — Day 66 (Wednesday WFH at Crocs). Search closed.
+2. **New passive bookmark: CareDx Sales/Commercial Sr BIA** — New req not previously tracked. If circumstances change, this and the Finance/Accounting req at CareDx are both worth a look (Remote US, BI analytics scope, established Nasdaq company).
+3. **Remove LinkedIn "Open to Work" frame — 13th+ Notice** — Profile still generating off-target auto-alerts and cold outreach. Update at linkedin.com → Profile → Open to Work → Stop sharing. Update headline to "Sr. Business Intelligence Analyst at Crocs."
+
+---
+*Midday agent — 2026-08-05T18:00:00Z UTC*
+
+---
+
 # Job Search Brief — 2026-08-04 | Morning
 
 > **STATUS: EMPLOYED — Day 65 (Tuesday — in-office day, Interlocken Broomfield).** Sr. Business Intelligence Analyst at Crocs, Broomfield CO (Hybrid Tue+Thu). Started June 2026. Up to $127K. Contact: Mike Gura (mgura@crocs.com). Search closed. Routine continues for passive market awareness.
